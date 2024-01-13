@@ -1,0 +1,23 @@
+{
+  "Scm": {
+    "Type": "PlasticScm",
+    "ChangeId": "91498",
+    "Branch": "Aux2",
+    "Repo": "rust_reboot",
+    "Comment": "Codegen, manifest",
+    "Author": "adam",
+    "Date": "10/01/2024 15:44:12",
+    "Items": "C Assets\\manifest.asset \r\n C Assets\\Generated\\ConsoleSystem.cs"
+  },
+  "Build": {
+    "Id": "596",
+    "Number": "596",
+    "Tag": "jenkins-RustServerAux02-596",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/596/",
+    "Name": "RustServerAux02",
+    "Node": "Win4"
+  },
+  "Date": 1704907749,
+  "DateString": "10 01 2024",
+  "TimeString": "17:29"
+}
