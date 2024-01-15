@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91598",
+    "ChangeId": "91610",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed sampler limit reached on some standard cloth variants; reduced sampler count on other shaders",
-    "Author": "diogo",
-    "Date": "12/01/2024 20:52:12",
-    "Items": "C Assets\\Prefabs\\VoiceAudio\\DiscoFloor\\DiscoFloorShader.shader \r\n C Assets\\Content\\Developer\\devWorldCoord.shader \r\n C Assets\\Content\\Developer\\devLocalCoord.shader \r\n C Assets\\Content\\Shaders\\Nature\\Grass.shader \r\n C Assets\\Content\\Shaders\\Nature\\Include\\SpeedTreeCommon.cginc \r\n C Assets\\Content\\Shaders\\Nature\\FloatingIceSheets.shader \r\n C Assets\\Content\\Shaders\\Nature\\Foliage.shader \r\n C Assets\\Content\\Shaders\\Custom\\StandardWithDecal.shader \r\n C Assets\\Content\\Shaders\\Custom\\XMasLight.shader \r\n C Assets\\Content\\Shaders\\Custom\\StandardWithTwoDecal.shader \r\n C Assets\\Content\\Shaders\\Custom\\CoreOpaqueLiquid.shader \r\n C Assets\\Content\\Shaders\\Custom\\EnvironmentFish.shader \r\n C Assets\\Content\\Shaders\\Custom\\Standard Refraction Underwater Labs.shader \r\n C Assets\\Content\\Shaders\\Custom\\Simple Water.shader \r\n C Assets\\Content\\Shaders\\Custom\\Standard Refraction With Fog.shader \r\n C Assets\\Content\\Shaders\\Custom\\Standard Refraction.shader \r\n C Assets\\Content\\Shaders\\Custom\\Wire.shader \r\n C Assets\\Content\\Shaders\\Custom\\Mirror Simple Water.shader \r\n C Assets\\Content\\Shaders\\Custom\\TransparentWithDetail.shader \r\n C Assets\\Content\\Shaders\\Water\\Resources\\CombineInteractions.shader \r\n C Assets\\Content\\Shaders\\Standard\\Standard-Particle.shader \r\n C Assets\\Content\\Shaders\\Standard\\Include\\UnityStandardInput.cginc \r\n C Assets\\Content\\Shaders\\Standard\\Include\\UnityStandardShadow.cginc \r\n C Assets\\Content\\Shaders\\Standard\\Include\\StandardLayers.cginc"
+    "Comment": "",
+    "Author": "BillBorman",
+    "Date": "15/01/2024 01:52:00",
+    "Items": "C Assets\\Content\\Vehicles\\Snowmobiles\\Snowmobile.prefab \r\n C Assets\\Content\\Vehicles\\Trains\\Locomotive\\locomotive.entity.prefab"
   },
   "Build": {
-    "Id": "5447",
-    "Number": "5447",
-    "Tag": "jenkins-RustServer-5447",
-    "Url": "https://build.facepunch.com/job/RustServer/5447/",
+    "Id": "5448",
+    "Number": "5448",
+    "Tag": "jenkins-RustServer-5448",
+    "Url": "https://build.facepunch.com/job/RustServer/5448/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705095360,
-  "DateString": "12 01 2024",
-  "TimeString": "21:36"
+  "Date": 1705285492,
+  "DateString": "15 01 2024",
+  "TimeString": "02:24"
 }
