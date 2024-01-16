@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91625",
+    "ChangeId": "91649",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from backpacks",
-    "Author": "alistair",
-    "Date": "15/01/2024 13:30:02",
-    "Items": "C Assets\\Prefabs\\Misc\\SmallBackpack\\Smallbackpack.item.prefab \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.item.prefab \r\n C Assets\\Prefabs\\Clothes\\diving.tank\\diving.tank.item.prefab \r\n C Assets\\Prefabs\\Deployable\\Locker\\Locker.cs \r\n C Assets\\Prefabs\\Deployable\\Mailbox\\Mailbox.cs \r\n C Assets\\Scripts\\Item\\Item.cs \r\n C Assets\\Scripts\\Item\\ItemDef2\\ItemModContainer.cs \r\n C Assets\\Scripts\\Item\\ItemDef2\\ItemDefinition.cs \r\n C Assets\\Scripts\\EntityIO\\Electric\\ContainerIOEntity.cs \r\n C Assets\\Scripts\\EntityIO\\Industrial\\IndustrialCrafter.cs \r\n C Assets\\Scripts\\Entity\\IItemContainerEntity.cs \r\n C Assets\\Scripts\\Entity\\Construction\\BaseOven.cs \r\n C Assets\\Scripts\\Entity\\Construction\\ResearchTable.cs \r\n C Assets\\Scripts\\Entity\\Construction\\StorageContainer.cs \r\n C Assets\\Scripts\\Entity\\Construction\\RepairBench.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs \r\n C Assets\\Scripts\\Entity\\Misc\\AutoTurret\\AutoTurret.Server.cs \r\n C Assets\\Scripts\\Entity\\BuildingBlock\\BuildingPrivlidge.cs \r\n C Assets\\Scripts\\Entity\\WorldItem\\DroppedItem.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\ModularVehicles\\EngineStorage.cs"
+    "Comment": "Updating more materials",
+    "Author": "BillBorman",
+    "Date": "15/01/2024 22:43:29",
+    "Items": "C Assets\\Content\\Effects\\Weather\\Lightning\\LightningCloud.mat \r\n C Assets\\Content\\Nature\\Ores\\Models\\Materials\\ore_node_rock_snow.mat \r\n C Assets\\Content\\Nature\\Ores\\Models\\Materials\\ore_node_sulfur_snow.mat \r\n C Assets\\Content\\Nature\\Ores\\Models\\Materials\\rock_ores_wm.mat \r\n C Assets\\Content\\Nature\\Caves\\Models\\Materials\\cave_lod.mat \r\n C Assets\\Content\\Structures\\ferry_drawbridge\\models\\Materials\\ferry_drawbridge_LOD4.mat \r\n C Assets\\Content\\Structures\\ferry_sky_bridge\\models\\Materials\\rubber_gaskets.mat \r\n C Assets\\Content\\Structures\\ferry_sky_bridge\\models\\Materials\\sky_bridge_trims_black.mat \r\n C Assets\\Content\\Structures\\ferry_terminal_grounds\\models\\Materials\\ferry_terminal_roads_LOD2.mat \r\n C Assets\\Content\\Structures\\ferry_terminal\\models\\Materials\\terminal_bld_LOD3.mat \r\n C Assets\\Content\\Structures\\Harbor\\Tugboat\\Models\\Materials\\tugboat_a_LOD_snow.mat \r\n C Assets\\Content\\Structures\\lighthouse_small\\models\\Materials\\lighthouse_small_LOD4.mat \r\n C Assets\\Content\\Structures\\logistics_warehouse\\models\\Materials\\logistics_warehouse_LOD4.mat \r\n C Assets\\Content\\Structures\\power_substation\\models\\Materials\\substations_LOD.mat \r\n C Assets\\Content\\Structures\\Sewers\\models\\Materials\\sewer_drainwalls_LOD.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\lobster.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\wooden_buildings_corrugated_a.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\wooden_buildings_LOD3_cyan.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\wooden_buildings_LOD3_red.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\wooden_buildings_LOD3_white.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\wooden_buildings_LOD3_yellow.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\wooden_buildings_LOD3.mat \r\n C Assets\\Content\\Structures\\wooden_buildings\\models\\Materials\\wooden_buildings_roof_plating_a.mat \r\n C Assets\\Content\\Structures\\wooden_walkway\\Meshes\\Materials\\wooden_walkway_fishnet.mat \r\n C Assets\\Content\\Props\\Clothes Line\\Materials\\Clothing 2.mat \r\n C Assets\\Content\\Props\\gas_pump\\models\\Materials\\gas_pump.mat \r\n C Assets\\Content\\Props\\large_industrial_props\\models\\Materials\\large_industrial_prop_d.mat \r\n C Assets\\Content\\Props\\fuel_tank\\Models\\Materials\\fuel_tank_diff_lod.mat \r\n C Assets\\Content\\Props\\Surfboard\\materials\\Surfboard_sign.mat \r\n C Assets\\Content\\Props\\covered_props\\models\\Materials\\m2_bradley3_shield1.mat \r\n C Assets\\Content\\Props\\fishing_shop_sign\\Models\\Materials\\fishing_shop_sign.mat \r\n C Assets\\Content\\Props\\fishing_shop_sign\\Models\\Materials\\sign_woodplanks.mat \r\n C Assets\\Content\\Props\\plywood_boarding\\models\\Materials\\boarded_plywood.mat \r\n C Assets\\Content\\Props\\tires\\Models\\Materials\\tires_LOD.mat \r\n C Assets\\Content\\Props\\wooden_pallets\\Models\\Materials\\wooden_pallet_alt.mat \r\n C Assets\\Content\\Props\\wooden_pallets\\Models\\Materials\\wooden_pallet_LOD3.mat \r\n C Assets\\Content\\Vehicles\\Sedan_a\\models\\Materials\\sedan_a_wrecked_LOD3_white.mat \r\n C Assets\\Content\\Vehicles\\Compact\\models\\Materials\\compact_car_LOD4_white.mat \r\n C Assets\\Content\\Vehicles\\Pickup_truck\\models\\Materials\\pickuptruck_LOD4.mat \r\n C Assets\\Content\\Vehicles\\Van\\Models\\Materials\\van_LOD4_white.mat \r\n C Assets\\Content\\Vehicles\\Truck_cabin\\Models\\Materials\\truck_cabin_lod.mat \r\n C Assets\\Content\\Vehicles\\Truck_cabin\\Models\\Materials\\truck_trailer_lod.mat \r\n C Assets\\Prefabs\\Deployable\\Hitch & Trough\\Models\\Materials\\Trough & Hitch.mat \r\n C Assets\\Prefabs\\Deployable\\Wooden loot crates\\Materials\\Crate_1medical_dif.mat"
   },
   "Build": {
-    "Id": "5450",
-    "Number": "5450",
-    "Tag": "jenkins-RustServer-5450",
-    "Url": "https://build.facepunch.com/job/RustServer/5450/",
+    "Id": "5451",
+    "Number": "5451",
+    "Tag": "jenkins-RustServer-5451",
+    "Url": "https://build.facepunch.com/job/RustServer/5451/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705327952,
+  "Date": 1705360376,
   "DateString": "15 01 2024",
-  "TimeString": "14:12"
+  "TimeString": "23:12"
 }
