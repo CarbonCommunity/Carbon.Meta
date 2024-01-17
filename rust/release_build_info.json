@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91458",
+    "ChangeId": "91742",
     "Branch": "release",
     "Repo": "rust_reboot",
     "Comment": "",
     "Author": "alistair",
-    "Date": "09/01/2024 17:54:55",
-    "Items": "C Assets\\Plugins\\Facepunch.Network\\Connection.cs \r\n C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Prefabs\\Player\\player_corpse_new.prefab \r\n C Assets\\Scripts\\Client\\EAC.cs \r\n C Assets\\Scripts\\Server\\Auth_Steam.cs \r\n C Assets\\Scripts\\Server\\Auth_EAC.cs \r\n C Assets\\Scripts\\Server\\ConnectionAuth.cs \r\n C Assets\\Scripts\\Server\\Auth_Nexus.cs \r\n C Assets\\Scripts\\Server\\ServerMgr.cs \r\n C Assets\\Scripts\\Server\\Auth_CentralizedBans.cs \r\n C Assets\\Scripts\\Server\\EACServer.cs \r\n C Assets\\Scripts\\ConsoleCommands\\server.cs"
+    "Date": "17/01/2024 19:13:00",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\ConsoleCommands\\server.cs \r\n C Assets\\Scripts\\Server\\EACServer.cs \r\n C Assets\\Scripts\\Server\\ServerMgr.cs"
   },
   "Build": {
-    "Id": "596",
-    "Number": "596",
-    "Tag": "jenkins-RustReleaseServer-596",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/596/",
+    "Id": "597",
+    "Number": "597",
+    "Tag": "jenkins-RustReleaseServer-597",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/597/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1704824927,
-  "DateString": "9 01 2024",
-  "TimeString": "18:28"
+  "Date": 1705520868,
+  "DateString": "17 01 2024",
+  "TimeString": "19:47"
 }
