@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91744",
+    "ChangeId": "91761",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Skin bundle update",
-    "Author": "andre",
-    "Date": "17/01/2024 21:04:15",
-    "Items": "C Bundles\\textures\\textures.1.bundle \r\n C Bundles\\textures\\textures.6.bundle \r\n C Bundles\\textures\\textures.0.bundle \r\n C Bundles\\textures\\textures.5.bundle \r\n C Bundles\\textures\\textures.8.bundle \r\n C Bundles\\textures\\textures.9.bundle"
+    "Comment": "Merge CorpseParentingFix -> Main",
+    "Author": "BillBorman",
+    "Date": "18/01/2024 03:17:26",
+    "Items": "C Assets\\Scripts\\Game\\TriggerParent.cs \r\n C Assets\\Scripts\\Entity\\BaseCorpse.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs"
   },
   "Build": {
-    "Id": "5464",
-    "Number": "5464",
-    "Tag": "jenkins-RustServer-5464",
-    "Url": "https://build.facepunch.com/job/RustServer/5464/",
+    "Id": "5465",
+    "Number": "5465",
+    "Tag": "jenkins-RustServer-5465",
+    "Url": "https://build.facepunch.com/job/RustServer/5465/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705527510,
-  "DateString": "17 01 2024",
-  "TimeString": "21:38"
+  "Date": 1705550066,
+  "DateString": "18 01 2024",
+  "TimeString": "03:54"
 }
