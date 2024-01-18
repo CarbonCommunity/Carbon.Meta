@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91761",
+    "ChangeId": "91778",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge CorpseParentingFix -> Main",
-    "Author": "BillBorman",
-    "Date": "18/01/2024 03:17:26",
-    "Items": "C Assets\\Scripts\\Game\\TriggerParent.cs \r\n C Assets\\Scripts\\Entity\\BaseCorpse.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs"
+    "Comment": "merge from demo_clothing_scrub_fix",
+    "Author": "alistair",
+    "Date": "18/01/2024 09:40:28",
+    "Items": "C Assets\\Scripts\\Client\\Client.Demo.cs"
   },
   "Build": {
-    "Id": "5465",
-    "Number": "5465",
-    "Tag": "jenkins-RustServer-5465",
-    "Url": "https://build.facepunch.com/job/RustServer/5465/",
+    "Id": "5466",
+    "Number": "5466",
+    "Tag": "jenkins-RustServer-5466",
+    "Url": "https://build.facepunch.com/job/RustServer/5466/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705550066,
+  "Date": 1705573693,
   "DateString": "18 01 2024",
-  "TimeString": "03:54"
+  "TimeString": "10:28"
 }
