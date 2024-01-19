@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91817",
+    "ChangeId": "91825",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from reduce_held_entity_item_counts",
-    "Author": "alistair",
-    "Date": "19/01/2024 08:47:45",
-    "Items": "C Assets\\Scripts\\Item\\ItemDef2\\ItemModEntity.cs \r\n C Assets\\Prefabs\\Tools\\Medical Syringe\\syringe_medical.item.prefab"
+    "Comment": "Fixed RenderingCommandBuffer error when equipping compound bow",
+    "Author": "diogo",
+    "Date": "19/01/2024 15:14:25",
+    "Items": "C Assets\\Prefabs\\Weapons\\Compound Bow\\compound_bow.viewmodel.prefab"
   },
   "Build": {
-    "Id": "5467",
-    "Number": "5467",
-    "Tag": "jenkins-RustServer-5467",
-    "Url": "https://build.facepunch.com/job/RustServer/5467/",
+    "Id": "5468",
+    "Number": "5468",
+    "Tag": "jenkins-RustServer-5468",
+    "Url": "https://build.facepunch.com/job/RustServer/5468/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705657910,
+  "Date": 1705679803,
   "DateString": "19 01 2024",
-  "TimeString": "09:51"
+  "TimeString": "15:56"
 }
