@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91778",
+    "ChangeId": "91817",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from demo_clothing_scrub_fix",
+    "Comment": "merge from reduce_held_entity_item_counts",
     "Author": "alistair",
-    "Date": "18/01/2024 09:40:28",
-    "Items": "C Assets\\Scripts\\Client\\Client.Demo.cs"
+    "Date": "19/01/2024 08:47:45",
+    "Items": "C Assets\\Scripts\\Item\\ItemDef2\\ItemModEntity.cs \r\n C Assets\\Prefabs\\Tools\\Medical Syringe\\syringe_medical.item.prefab"
   },
   "Build": {
-    "Id": "5466",
-    "Number": "5466",
-    "Tag": "jenkins-RustServer-5466",
-    "Url": "https://build.facepunch.com/job/RustServer/5466/",
+    "Id": "5467",
+    "Number": "5467",
+    "Tag": "jenkins-RustServer-5467",
+    "Url": "https://build.facepunch.com/job/RustServer/5467/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705573693,
-  "DateString": "18 01 2024",
-  "TimeString": "10:28"
+  "Date": 1705657910,
+  "DateString": "19 01 2024",
+  "TimeString": "09:51"
 }
