@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91825",
+    "ChangeId": "91836",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed RenderingCommandBuffer error when equipping compound bow",
-    "Author": "diogo",
-    "Date": "19/01/2024 15:14:25",
-    "Items": "C Assets\\Prefabs\\Weapons\\Compound Bow\\compound_bow.viewmodel.prefab"
+    "Comment": "Removing my very buggy inside parent check in ParentIfValid  for now. Will fix soon.",
+    "Author": "BillBorman",
+    "Date": "20/01/2024 04:29:43",
+    "Items": "C Assets\\Scripts\\Game\\TriggerParent.cs"
   },
   "Build": {
-    "Id": "5468",
-    "Number": "5468",
-    "Tag": "jenkins-RustServer-5468",
-    "Url": "https://build.facepunch.com/job/RustServer/5468/",
+    "Id": "5469",
+    "Number": "5469",
+    "Tag": "jenkins-RustServer-5469",
+    "Url": "https://build.facepunch.com/job/RustServer/5469/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705679803,
-  "DateString": "19 01 2024",
-  "TimeString": "15:56"
+  "Date": 1705725083,
+  "DateString": "20 01 2024",
+  "TimeString": "04:31"
 }
