@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91836",
+    "ChangeId": "91837",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Removing my very buggy inside parent check in ParentIfValid  for now. Will fix soon.",
+    "Comment": "Experimental fix for NRE in NPC death when in an invalid position",
     "Author": "BillBorman",
-    "Date": "20/01/2024 04:29:43",
-    "Items": "C Assets\\Scripts\\Game\\TriggerParent.cs"
+    "Date": "20/01/2024 05:00:42",
+    "Items": "C Assets\\Scripts\\Game\\TriggerParent.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs"
   },
   "Build": {
-    "Id": "5469",
-    "Number": "5469",
-    "Tag": "jenkins-RustServer-5469",
-    "Url": "https://build.facepunch.com/job/RustServer/5469/",
+    "Id": "5470",
+    "Number": "5470",
+    "Tag": "jenkins-RustServer-5470",
+    "Url": "https://build.facepunch.com/job/RustServer/5470/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705725083,
+  "Date": 1705728586,
   "DateString": "20 01 2024",
-  "TimeString": "04:31"
+  "TimeString": "05:29"
 }
