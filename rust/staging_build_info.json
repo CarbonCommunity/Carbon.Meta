@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91848",
+    "ChangeId": "91868",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge ParentIfValidFix -> Main",
-    "Author": "BillBorman",
-    "Date": "22/01/2024 01:12:00",
-    "Items": "C Assets\\Scripts\\Game\\TriggerParent.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs"
+    "Comment": "merge from quarry_updates",
+    "Author": "alistair",
+    "Date": "22/01/2024 08:38:23",
+    "Items": "C Assets\\Scripts\\Entity\\Mining\\ResourceDepositManager.cs \r\n C Assets\\Prefabs\\Deployable\\Quarry\\mining_quarry.prefab"
   },
   "Build": {
-    "Id": "5472",
-    "Number": "5472",
-    "Tag": "jenkins-RustServer-5472",
-    "Url": "https://build.facepunch.com/job/RustServer/5472/",
+    "Id": "5473",
+    "Number": "5473",
+    "Tag": "jenkins-RustServer-5473",
+    "Url": "https://build.facepunch.com/job/RustServer/5473/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705888438,
+  "Date": 1705915236,
   "DateString": "22 01 2024",
-  "TimeString": "01:53"
+  "TimeString": "09:20"
 }
