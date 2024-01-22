@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91894",
+    "ChangeId": "91912",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed artifacts in reticle-full crosshair texture",
-    "Author": "diogo",
-    "Date": "22/01/2024 15:00:42",
-    "Items": "C Assets\\Content\\UI\\GameUI\\Crosshairs\\reticle-full.png"
+    "Comment": "Add temp error log for rowboat clip",
+    "Author": "BillBorman",
+    "Date": "22/01/2024 23:07:22",
+    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\Boat\\MotorRowboat.cs"
   },
   "Build": {
-    "Id": "5476",
-    "Number": "5476",
-    "Tag": "jenkins-RustServer-5476",
-    "Url": "https://build.facepunch.com/job/RustServer/5476/",
+    "Id": "5477",
+    "Number": "5477",
+    "Tag": "jenkins-RustServer-5477",
+    "Url": "https://build.facepunch.com/job/RustServer/5477/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705941076,
+  "Date": 1705966868,
   "DateString": "22 01 2024",
-  "TimeString": "16:31"
+  "TimeString": "23:41"
 }
