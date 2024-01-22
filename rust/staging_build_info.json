@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91868",
+    "ChangeId": "91877",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from quarry_updates",
+    "Comment": "~ merge from icon_size_fixes",
     "Author": "alistair",
-    "Date": "22/01/2024 08:38:23",
-    "Items": "C Assets\\Scripts\\Entity\\Mining\\ResourceDepositManager.cs \r\n C Assets\\Prefabs\\Deployable\\Quarry\\mining_quarry.prefab"
+    "Date": "22/01/2024 11:06:33",
+    "Items": "C Assets\\Prefabs\\Weapon Mods\\BurstModule\\burstmodule.icon.png.meta"
   },
   "Build": {
-    "Id": "5473",
-    "Number": "5473",
-    "Tag": "jenkins-RustServer-5473",
-    "Url": "https://build.facepunch.com/job/RustServer/5473/",
+    "Id": "5474",
+    "Number": "5474",
+    "Tag": "jenkins-RustServer-5474",
+    "Url": "https://build.facepunch.com/job/RustServer/5474/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705915236,
+  "Date": 1705924524,
   "DateString": "22 01 2024",
-  "TimeString": "09:20"
+  "TimeString": "11:55"
 }
