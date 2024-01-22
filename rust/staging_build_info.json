@@ -10,14 +10,14 @@
     "Items": "C Assets\\Content\\UI\\GameUI\\Crosshairs\\reticle-full.png"
   },
   "Build": {
-    "Id": "5475",
-    "Number": "5475",
-    "Tag": "jenkins-RustServer-5475",
-    "Url": "https://build.facepunch.com/job/RustServer/5475/",
+    "Id": "5476",
+    "Number": "5476",
+    "Tag": "jenkins-RustServer-5476",
+    "Url": "https://build.facepunch.com/job/RustServer/5476/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1705937701,
+  "Date": 1705941076,
   "DateString": "22 01 2024",
-  "TimeString": "15:35"
+  "TimeString": "16:31"
 }
