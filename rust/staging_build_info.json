@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91958",
+    "ChangeId": "91981",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Skin bundle update",
-    "Author": "andre",
-    "Date": "23/01/2024 15:38:11",
-    "Items": "C Bundles\\textures\\textures.1.bundle \r\n C Bundles\\textures\\textures.2.bundle \r\n C Bundles\\textures\\textures.6.bundle \r\n C Bundles\\textures\\textures.0.bundle \r\n C Bundles\\textures\\textures.3.bundle \r\n C Bundles\\textures\\textures.8.bundle \r\n C Bundles\\textures\\textures.9.bundle"
+    "Comment": "Correct the poor positioning of thrown objects (e.g. rock) that spawn stuck half in the ground. Fix them sometimes falling through terrain",
+    "Author": "BillBorman",
+    "Date": "23/01/2024 21:50:37",
+    "Items": "C Assets\\Scripts\\Entity\\WorldItem\\DroppedItem.cs"
   },
   "Build": {
-    "Id": "5481",
-    "Number": "5481",
-    "Tag": "jenkins-RustServer-5481",
-    "Url": "https://build.facepunch.com/job/RustServer/5481/",
+    "Id": "5482",
+    "Number": "5482",
+    "Tag": "jenkins-RustServer-5482",
+    "Url": "https://build.facepunch.com/job/RustServer/5482/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706027016,
+  "Date": 1706049151,
   "DateString": "23 01 2024",
-  "TimeString": "16:23"
+  "TimeString": "22:32"
 }
