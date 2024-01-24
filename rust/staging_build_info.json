@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91981",
+    "ChangeId": "91988",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Correct the poor positioning of thrown objects (e.g. rock) that spawn stuck half in the ground. Fix them sometimes falling through terrain",
-    "Author": "BillBorman",
-    "Date": "23/01/2024 21:50:37",
-    "Items": "C Assets\\Scripts\\Entity\\WorldItem\\DroppedItem.cs"
+    "Comment": "wallLight material uses the newish Emission Fresnel in Rust/Standard to emulate a central bulb without transparency.\r\nTiny normal map adjustment to facilitate it better.",
+    "Author": "petur",
+    "Date": "24/01/2024 00:47:37",
+    "Items": "C Assets\\Content\\Props\\light_fixtures\\Textures\\wallLight_normals.tga \r\n C Assets\\Content\\Props\\light_fixtures\\Models\\Materials\\wallLight_on_warm.mat"
   },
   "Build": {
-    "Id": "5482",
-    "Number": "5482",
-    "Tag": "jenkins-RustServer-5482",
-    "Url": "https://build.facepunch.com/job/RustServer/5482/",
+    "Id": "5483",
+    "Number": "5483",
+    "Tag": "jenkins-RustServer-5483",
+    "Url": "https://build.facepunch.com/job/RustServer/5483/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706049151,
-  "DateString": "23 01 2024",
-  "TimeString": "22:32"
+  "Date": 1706059460,
+  "DateString": "24 01 2024",
+  "TimeString": "01:24"
 }
