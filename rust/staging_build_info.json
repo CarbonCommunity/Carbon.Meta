@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91988",
+    "ChangeId": "91998",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "wallLight material uses the newish Emission Fresnel in Rust/Standard to emulate a central bulb without transparency.\r\nTiny normal map adjustment to facilitate it better.",
-    "Author": "petur",
-    "Date": "24/01/2024 00:47:37",
-    "Items": "C Assets\\Content\\Props\\light_fixtures\\Textures\\wallLight_normals.tga \r\n C Assets\\Content\\Props\\light_fixtures\\Models\\Materials\\wallLight_on_warm.mat"
+    "Comment": "merge from menu_new_items_optimisation",
+    "Author": "alistair",
+    "Date": "24/01/2024 08:52:59",
+    "Items": "C Assets\\bundled\\Prefabs\\ui\\MenuUI.prefab \r\n C Assets\\Scripts\\UI\\Main Menu\\MainMenuSystem.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStore.cs"
   },
   "Build": {
-    "Id": "5484",
-    "Number": "5484",
-    "Tag": "jenkins-RustServer-5484",
-    "Url": "https://build.facepunch.com/job/RustServer/5484/",
+    "Id": "5485",
+    "Number": "5485",
+    "Tag": "jenkins-RustServer-5485",
+    "Url": "https://build.facepunch.com/job/RustServer/5485/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706062772,
+  "Date": 1706090609,
   "DateString": "24 01 2024",
-  "TimeString": "02:19"
+  "TimeString": "10:03"
 }
