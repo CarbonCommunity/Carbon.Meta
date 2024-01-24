@@ -10,14 +10,14 @@
     "Items": "C Assets\\Content\\Props\\light_fixtures\\Textures\\wallLight_normals.tga \r\n C Assets\\Content\\Props\\light_fixtures\\Models\\Materials\\wallLight_on_warm.mat"
   },
   "Build": {
-    "Id": "5483",
-    "Number": "5483",
-    "Tag": "jenkins-RustServer-5483",
-    "Url": "https://build.facepunch.com/job/RustServer/5483/",
+    "Id": "5484",
+    "Number": "5484",
+    "Tag": "jenkins-RustServer-5484",
+    "Url": "https://build.facepunch.com/job/RustServer/5484/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706059460,
+  "Date": 1706062772,
   "DateString": "24 01 2024",
-  "TimeString": "01:24"
+  "TimeString": "02:19"
 }
