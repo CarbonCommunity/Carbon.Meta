@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "91998",
+    "ChangeId": "92015",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from menu_new_items_optimisation",
+    "Comment": "merge from backpacks",
     "Author": "alistair",
-    "Date": "24/01/2024 08:52:59",
-    "Items": "C Assets\\bundled\\Prefabs\\ui\\MenuUI.prefab \r\n C Assets\\Scripts\\UI\\Main Menu\\MainMenuSystem.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStore.cs"
+    "Date": "24/01/2024 14:53:40",
+    "Items": "C Assets\\Scripts\\UI\\PlayerPreview\\UIPlayerPreviewControls.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs \r\n C Assets\\Scripts\\Item\\Item.cs \r\n C Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close.asset \r\n C Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open.asset \r\n C Assets\\Prefabs\\Misc\\LargeBackpack \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.item.prefab \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.wearable.prefab \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\largebackpack.worldmodel.prefab \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.skinned.fbx \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.skinned.fbx.meta \r\n C Assets\\Prefabs\\Misc\\SmallBackpack\\smallbackpack.worldmodel.prefab \r\n C Assets\\Prefabs\\Misc\\SmallBackpack\\Smallbackpack.item.prefab \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-03.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-03.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-physics.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-physics.asset.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-ui.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-drop-ui.asset.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-pickup-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-pickup-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-pickup-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-pickup-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-pickup.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-pickup.asset.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-close-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-close-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-close-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-close-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-close.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-close.asset.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-03.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-03.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-physics.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-physics.asset.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-ui.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-drop-ui.asset.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-open-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-open-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-open-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-open-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-open.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-open.asset.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-pickup-01.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-pickup-01.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-pickup-02.wav \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-pickup-02.wav.meta \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-pickup.asset \r\n A Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-small-pickup.asset.meta \r\n A Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack_Female.wearable.prefab \r\n A Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack_Female.wearable.prefab.meta \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-1.wav \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-1.wav.meta \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-2.wav \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-close-2.wav.meta \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-1.wav \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-1.wav.meta \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-2.wav \r\n D Assets\\Prefabs\\Misc\\Item Drop\\Sounds\\backpack-open-2.wav.meta"
   },
   "Build": {
-    "Id": "5485",
-    "Number": "5485",
-    "Tag": "jenkins-RustServer-5485",
-    "Url": "https://build.facepunch.com/job/RustServer/5485/",
+    "Id": "5486",
+    "Number": "5486",
+    "Tag": "jenkins-RustServer-5486",
+    "Url": "https://build.facepunch.com/job/RustServer/5486/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706090609,
+  "Date": 1706111207,
   "DateString": "24 01 2024",
-  "TimeString": "10:03"
+  "TimeString": "15:46"
 }
