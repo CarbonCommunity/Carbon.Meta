@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92035",
+    "ChangeId": "92049",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed lock slot ID not clearing when door lock is removed. Should fix rare bug where door can't be picked up until a lock is placed and removed again",
+    "Comment": "Missed another use of useContinuousCollision on gibs",
     "Author": "BillBorman",
-    "Date": "24/01/2024 21:18:14",
-    "Items": "C Assets\\Scripts\\Entity\\BuildingBlock\\Locks\\BaseLock.cs"
+    "Date": "25/01/2024 02:01:34",
+    "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\ServerGib.cs"
   },
   "Build": {
-    "Id": "5487",
-    "Number": "5487",
-    "Tag": "jenkins-RustServer-5487",
-    "Url": "https://build.facepunch.com/job/RustServer/5487/",
+    "Id": "5488",
+    "Number": "5488",
+    "Tag": "jenkins-RustServer-5488",
+    "Url": "https://build.facepunch.com/job/RustServer/5488/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706133564,
-  "DateString": "24 01 2024",
-  "TimeString": "21:59"
+  "Date": 1706148480,
+  "DateString": "25 01 2024",
+  "TimeString": "02:08"
 }
