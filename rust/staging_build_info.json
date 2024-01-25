@@ -10,14 +10,14 @@
     "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\ServerGib.cs"
   },
   "Build": {
-    "Id": "5488",
-    "Number": "5488",
-    "Tag": "jenkins-RustServer-5488",
-    "Url": "https://build.facepunch.com/job/RustServer/5488/",
+    "Id": "5489",
+    "Number": "5489",
+    "Tag": "jenkins-RustServer-5489",
+    "Url": "https://build.facepunch.com/job/RustServer/5489/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706148480,
+  "Date": 1706151529,
   "DateString": "25 01 2024",
-  "TimeString": "02:08"
+  "TimeString": "02:58"
 }
