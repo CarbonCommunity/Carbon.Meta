@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92049",
+    "ChangeId": "92056",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Missed another use of useContinuousCollision on gibs",
+    "Comment": "Fix ragdoll compile when neither SERVER nor CLIENT are defined (build server needs it)",
     "Author": "BillBorman",
-    "Date": "25/01/2024 02:01:34",
-    "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\ServerGib.cs"
+    "Date": "25/01/2024 04:50:58",
+    "Items": "C Assets\\Scripts\\Shared\\Ragdoll.cs"
   },
   "Build": {
-    "Id": "5489",
-    "Number": "5489",
-    "Tag": "jenkins-RustServer-5489",
-    "Url": "https://build.facepunch.com/job/RustServer/5489/",
+    "Id": "5491",
+    "Number": "5491",
+    "Tag": "jenkins-RustServer-5491",
+    "Url": "https://build.facepunch.com/job/RustServer/5491/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706151529,
+  "Date": 1706159502,
   "DateString": "25 01 2024",
-  "TimeString": "02:58"
+  "TimeString": "05:11"
 }
