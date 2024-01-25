@@ -10,14 +10,14 @@
     "Items": "C Assets\\Scripts\\Client\\Client.Connection.cs"
   },
   "Build": {
-    "Id": "5497",
-    "Number": "5497",
-    "Tag": "jenkins-RustServer-5497",
-    "Url": "https://build.facepunch.com/job/RustServer/5497/",
+    "Id": "5498",
+    "Number": "5498",
+    "Tag": "jenkins-RustServer-5498",
+    "Url": "https://build.facepunch.com/job/RustServer/5498/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706210029,
+  "Date": 1706213153,
   "DateString": "25 01 2024",
-  "TimeString": "19:13"
+  "TimeString": "20:05"
 }
