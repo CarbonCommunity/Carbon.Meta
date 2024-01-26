@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92157",
+    "ChangeId": "92178",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Removed my temp logging from 91909. Added a null check on NavAgent.",
-    "Author": "BillBorman",
-    "Date": "26/01/2024 17:51:59",
-    "Items": "C Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\HumanNPC.cs"
+    "Comment": "merge from metal_detector",
+    "Author": "alistair",
+    "Date": "26/01/2024 21:45:56",
+    "Items": "C Assets\\Scripts\\ViewModel\\MetalDetectorViewmodel.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Materials\\MetalDetectorPart2_Albedo.tga \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Materials\\MetalDetectorPart2_AO.tga.meta \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\v_metal_detector.fbx \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_source.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.worldmodel.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Global.asset \r\n C Assets\\Prefabs\\Tools\\Shovel\\shovel.worldmodel.prefab \r\n A TestSaves\\wr_md.sav"
   },
   "Build": {
-    "Id": "5503",
-    "Number": "5503",
-    "Tag": "jenkins-RustServer-5503",
-    "Url": "https://build.facepunch.com/job/RustServer/5503/",
+    "Id": "5504",
+    "Number": "5504",
+    "Tag": "jenkins-RustServer-5504",
+    "Url": "https://build.facepunch.com/job/RustServer/5504/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706294819,
+  "Date": 1706309158,
   "DateString": "26 01 2024",
-  "TimeString": "18:46"
+  "TimeString": "22:45"
 }
