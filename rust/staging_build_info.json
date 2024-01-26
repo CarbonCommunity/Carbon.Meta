@@ -10,14 +10,14 @@
     "Items": "C Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\HumanNPC.cs"
   },
   "Build": {
-    "Id": "5502",
-    "Number": "5502",
-    "Tag": "jenkins-RustServer-5502",
-    "Url": "https://build.facepunch.com/job/RustServer/5502/",
+    "Id": "5503",
+    "Number": "5503",
+    "Tag": "jenkins-RustServer-5503",
+    "Url": "https://build.facepunch.com/job/RustServer/5503/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706291566,
+  "Date": 1706294819,
   "DateString": "26 01 2024",
-  "TimeString": "17:52"
+  "TimeString": "18:46"
 }
