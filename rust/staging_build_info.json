@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92148",
+    "ChangeId": "92157",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "alistair",
-    "Date": "26/01/2024 15:08:29",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\ConsoleCommands\\debug.cs \r\n C Assets\\Scripts\\Client\\Projectile.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\AttackEntity.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseProjectile.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tick.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-ClientLocal.cs"
+    "Comment": "Removed my temp logging from 91909. Added a null check on NavAgent.",
+    "Author": "BillBorman",
+    "Date": "26/01/2024 17:51:59",
+    "Items": "C Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\HumanNPC.cs"
   },
   "Build": {
-    "Id": "5501",
-    "Number": "5501",
-    "Tag": "jenkins-RustServer-5501",
-    "Url": "https://build.facepunch.com/job/RustServer/5501/",
+    "Id": "5502",
+    "Number": "5502",
+    "Tag": "jenkins-RustServer-5502",
+    "Url": "https://build.facepunch.com/job/RustServer/5502/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706285141,
+  "Date": 1706291566,
   "DateString": "26 01 2024",
-  "TimeString": "16:05"
+  "TimeString": "17:52"
 }
