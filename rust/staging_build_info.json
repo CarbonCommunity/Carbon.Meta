@@ -10,14 +10,14 @@
     "Items": "C Assets\\Scenes\\Release\\CraggyIsland.unity"
   },
   "Build": {
-    "Id": "5506",
-    "Number": "5506",
-    "Tag": "jenkins-RustServer-5506",
-    "Url": "https://build.facepunch.com/job/RustServer/5506/",
+    "Id": "5507",
+    "Number": "5507",
+    "Tag": "jenkins-RustServer-5507",
+    "Url": "https://build.facepunch.com/job/RustServer/5507/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706356949,
+  "Date": 1706363285,
   "DateString": "27 01 2024",
-  "TimeString": "12:02"
+  "TimeString": "13:48"
 }
