@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92189",
+    "ChangeId": "92204",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed ember material disconnect in manpad rocket trail.",
-    "Author": "petur",
-    "Date": "27/01/2024 08:34:00",
-    "Items": "C Assets\\Prefabs\\Weapons\\HomingMissileLauncher\\Effects\\pfx_manpad_rocket.prefab"
+    "Comment": "~ craggyisland cleanup",
+    "Author": "alistair",
+    "Date": "27/01/2024 11:23:00",
+    "Items": "C Assets\\Scenes\\Release\\CraggyIsland.unity"
   },
   "Build": {
-    "Id": "5505",
-    "Number": "5505",
-    "Tag": "jenkins-RustServer-5505",
-    "Url": "https://build.facepunch.com/job/RustServer/5505/",
+    "Id": "5506",
+    "Number": "5506",
+    "Tag": "jenkins-RustServer-5506",
+    "Url": "https://build.facepunch.com/job/RustServer/5506/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706347391,
+  "Date": 1706356949,
   "DateString": "27 01 2024",
-  "TimeString": "09:23"
+  "TimeString": "12:02"
 }
