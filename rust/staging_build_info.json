@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92204",
+    "ChangeId": "92208",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "~ craggyisland cleanup",
+    "Comment": "merge from CNY_DragonLauncher",
     "Author": "alistair",
-    "Date": "27/01/2024 11:23:00",
-    "Items": "C Assets\\Scenes\\Release\\CraggyIsland.unity"
+    "Date": "27/01/2024 14:02:27",
+    "Items": "C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.worldmodel.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\attack.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\attack.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\attack_CNY.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\attack_CNY.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\deploy.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\deploy.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\dryfire.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\dryfire.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\fire.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\fire.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\flame-rocketlauncher-cone.mat \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\flame-rocketlauncher-cone.mat.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\grab_handle.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\grab_handle.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\holster.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\holster.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_close_hatch_smoke.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_close_hatch_smoke.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_fire_rocket_smokeout.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_fire_rocket_smokeout.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_open_hatch_smokeout.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_open_hatch_smokeout.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_rocket_insert_pressure.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_rocket_insert_pressure.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_rocket_insert_smoke_DEPRECATED.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\pfx_rocket_insert_smoke_DEPRECATED.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_begin.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_begin.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_close_hatch.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_close_hatch.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_end.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_end.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_insert_rocket.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_insert_rocket.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_open_hatch.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\reload_open_hatch.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\rocket_explosion.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\rocket_explosion.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\Rocket_Explosion_Incendiary.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\Rocket_Explosion_Incendiary.prefab.meta \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\rocket_launch_fx.prefab \r\n A Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\rocket_launch_fx.prefab.meta"
   },
   "Build": {
-    "Id": "5507",
-    "Number": "5507",
-    "Tag": "jenkins-RustServer-5507",
-    "Url": "https://build.facepunch.com/job/RustServer/5507/",
+    "Id": "5509",
+    "Number": "5509",
+    "Tag": "jenkins-RustServer-5509",
+    "Url": "https://build.facepunch.com/job/RustServer/5509/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706363285,
+  "Date": 1706371050,
   "DateString": "27 01 2024",
-  "TimeString": "13:48"
+  "TimeString": "15:57"
 }
