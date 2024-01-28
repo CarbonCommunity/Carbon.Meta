@@ -10,14 +10,14 @@
     "Items": "C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.item.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.projectile.prefab"
   },
   "Build": {
-    "Id": "5514",
-    "Number": "5514",
-    "Tag": "jenkins-RustServer-5514",
-    "Url": "https://build.facepunch.com/job/RustServer/5514/",
+    "Id": "5515",
+    "Number": "5515",
+    "Tag": "jenkins-RustServer-5515",
+    "Url": "https://build.facepunch.com/job/RustServer/5515/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706467609,
+  "Date": 1706471121,
   "DateString": "28 01 2024",
-  "TimeString": "18:46"
+  "TimeString": "19:45"
 }
