@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92230",
+    "ChangeId": "92238",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "cny spear stats",
-    "Author": "helkus",
-    "Date": "28/01/2024 18:44:31",
-    "Items": "C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.item.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.projectile.prefab"
+    "Comment": "Enabled read/write on various meshes the need it for RuntimeNavMeshBuilder.",
+    "Author": "BillBorman",
+    "Date": "28/01/2024 22:33:32",
+    "Items": "C Assets\\Content\\Structures\\ferry_road_bridge\\models\\ferry_road_bridge_COL_b.fbx.meta \r\n C Assets\\Content\\Structures\\lighthouse_small\\models\\lighthouse_small_COL.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig_small\\Models\\structure_bottom_COL.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig_small\\Models\\source_pipes_COL.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\models\\waterpumps_COL.fbx.meta \r\n C Assets\\Content\\Structures\\train_tunnels\\Models\\train_tunnel_double_entrance_72m_b_part2_heightmap.fbx.meta \r\n C Assets\\Content\\Structures\\train_tunnels\\Models\\train_tunnel_double_entrance_72m_heightmap.fbx.meta \r\n C Assets\\Content\\Vehicles\\Trailer\\Models\\trailer_lorry.fbx.meta \r\n C Assets\\Content\\Vehicles\\MLRS\\Model\\mlrs.fbx.meta"
   },
   "Build": {
-    "Id": "5515",
-    "Number": "5515",
-    "Tag": "jenkins-RustServer-5515",
-    "Url": "https://build.facepunch.com/job/RustServer/5515/",
+    "Id": "5516",
+    "Number": "5516",
+    "Tag": "jenkins-RustServer-5516",
+    "Url": "https://build.facepunch.com/job/RustServer/5516/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706471121,
+  "Date": 1706481745,
   "DateString": "28 01 2024",
-  "TimeString": "19:45"
+  "TimeString": "22:42"
 }
