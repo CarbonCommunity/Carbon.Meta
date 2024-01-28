@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92228",
+    "ChangeId": "92230",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from backpacks",
-    "Author": "alistair",
-    "Date": "28/01/2024 17:04:47",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs \r\n C Assets\\Scripts\\Item\\ItemContainer.cs \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.item.prefab \r\n C Assets\\Prefabs\\Misc\\SmallBackpack\\Smallbackpack.item.prefab"
+    "Comment": "cny spear stats",
+    "Author": "helkus",
+    "Date": "28/01/2024 18:44:31",
+    "Items": "C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.item.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.projectile.prefab"
   },
   "Build": {
-    "Id": "5513",
-    "Number": "5513",
-    "Tag": "jenkins-RustServer-5513",
-    "Url": "https://build.facepunch.com/job/RustServer/5513/",
+    "Id": "5514",
+    "Number": "5514",
+    "Tag": "jenkins-RustServer-5514",
+    "Url": "https://build.facepunch.com/job/RustServer/5514/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706463911,
+  "Date": 1706467609,
   "DateString": "28 01 2024",
-  "TimeString": "17:45"
+  "TimeString": "18:46"
 }
