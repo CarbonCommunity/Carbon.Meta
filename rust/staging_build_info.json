@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92264",
+    "ChangeId": "92322",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "subtracting map_entity_load_fix",
-    "Author": "alistair",
-    "Date": "29/01/2024 10:46:13",
-    "Items": "C Assets\\Editor\\Tests\\Framework\\RustTestEngine.cs \r\n C Assets\\Scripts\\Server\\ServerMgr.cs \r\n C Assets\\Scripts\\Game\\SaveRestore.Load.cs"
+    "Comment": "tightened up SAP + SAR viewmodel reload animations/ads\r\nreduced SAP movement recoil",
+    "Author": "helkus",
+    "Date": "29/01/2024 22:32:46",
+    "Items": "C Assets\\Content\\Properties\\Recoil\\New\\sap.recoil.nopattern.asset \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Pistol\\Model\\pistol_semiauto.anim.controller \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Rifle\\Model\\v_sar@reload.fbx.meta \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Rifle\\Model\\v_sar_anim.controller"
   },
   "Build": {
-    "Id": "5522",
-    "Number": "5522",
-    "Tag": "jenkins-RustServer-5522",
-    "Url": "https://build.facepunch.com/job/RustServer/5522/",
+    "Id": "5523",
+    "Number": "5523",
+    "Tag": "jenkins-RustServer-5523",
+    "Url": "https://build.facepunch.com/job/RustServer/5523/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706530956,
+  "Date": 1706570503,
   "DateString": "29 01 2024",
-  "TimeString": "12:22"
+  "TimeString": "23:21"
 }
