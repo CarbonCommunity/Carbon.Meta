@@ -10,14 +10,14 @@
     "Items": "C Assets\\Editor\\Tests\\Framework\\RustTestEngine.cs \r\n C Assets\\Scripts\\Server\\ServerMgr.cs \r\n C Assets\\Scripts\\Game\\SaveRestore.Load.cs"
   },
   "Build": {
-    "Id": "5521",
-    "Number": "5521",
-    "Tag": "jenkins-RustServer-5521",
-    "Url": "https://build.facepunch.com/job/RustServer/5521/",
+    "Id": "5522",
+    "Number": "5522",
+    "Tag": "jenkins-RustServer-5522",
+    "Url": "https://build.facepunch.com/job/RustServer/5522/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706527646,
+  "Date": 1706530956,
   "DateString": "29 01 2024",
-  "TimeString": "11:27"
+  "TimeString": "12:22"
 }
