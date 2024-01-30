@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92373",
+    "ChangeId": "92375",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed the 3 flare dispension prefabs. Orientation and de-linkage.",
-    "Author": "petur",
-    "Date": "30/01/2024 14:45:15",
-    "Items": "C Assets\\Content\\Vehicles\\AttackHelicopter\\Effects\\PFX_Flares_AttackHelicopter.prefab \r\n C Assets\\Prefabs\\NPC\\Patrol Helicopter\\Effects\\PFX_Flares_PatrolHelicopter.prefab \r\n C Assets\\Scripts\\Entity\\Misc\\F15\\Effects\\PFX_Flares_F15.prefab"
+    "Comment": "",
+    "Author": "alistair",
+    "Date": "30/01/2024 15:45:50",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\ConsoleCommands\\debug.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\AttackEntity.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseProjectile.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tick.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-ClientLocal.cs \r\n C Assets\\Scripts\\Client\\Projectile.cs"
   },
   "Build": {
-    "Id": "5529",
-    "Number": "5529",
-    "Tag": "jenkins-RustServer-5529",
-    "Url": "https://build.facepunch.com/job/RustServer/5529/",
+    "Id": "5530",
+    "Number": "5530",
+    "Tag": "jenkins-RustServer-5530",
+    "Url": "https://build.facepunch.com/job/RustServer/5530/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706628869,
+  "Date": 1706632343,
   "DateString": "30 01 2024",
-  "TimeString": "15:34"
+  "TimeString": "16:32"
 }
