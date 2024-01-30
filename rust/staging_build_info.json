@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92340",
+    "ChangeId": "92351",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Remove ChineseLantern_emissive2.psd meta file",
-    "Author": "BillBorman",
-    "Date": "30/01/2024 01:33:15",
-    "Items": "D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\Material\\ChineseLantern_emmissive2.psd.meta"
+    "Comment": "Fix fishing not working\r\nFixed exception when changing servers (PopulateShelters)",
+    "Author": "jarryd",
+    "Date": "30/01/2024 07:08:55",
+    "Items": "C Assets\\Scripts\\UI\\Ingame\\Map\\MapView.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseFishingRod.cs"
   },
   "Build": {
-    "Id": "5525",
-    "Number": "5525",
-    "Tag": "jenkins-RustServer-5525",
-    "Url": "https://build.facepunch.com/job/RustServer/5525/",
+    "Id": "5526",
+    "Number": "5526",
+    "Tag": "jenkins-RustServer-5526",
+    "Url": "https://build.facepunch.com/job/RustServer/5526/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706582408,
+  "Date": 1706601471,
   "DateString": "30 01 2024",
-  "TimeString": "02:40"
+  "TimeString": "07:57"
 }
