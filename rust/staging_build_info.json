@@ -10,14 +10,14 @@
     "Items": "D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\Material\\ChineseLantern_emmissive2.psd.meta"
   },
   "Build": {
-    "Id": "5524",
-    "Number": "5524",
-    "Tag": "jenkins-RustServer-5524",
-    "Url": "https://build.facepunch.com/job/RustServer/5524/",
+    "Id": "5525",
+    "Number": "5525",
+    "Tag": "jenkins-RustServer-5525",
+    "Url": "https://build.facepunch.com/job/RustServer/5525/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706579070,
+  "Date": 1706582408,
   "DateString": "30 01 2024",
-  "TimeString": "01:44"
+  "TimeString": "02:40"
 }
