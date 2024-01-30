@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92322",
+    "ChangeId": "92340",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "tightened up SAP + SAR viewmodel reload animations/ads\r\nreduced SAP movement recoil",
-    "Author": "helkus",
-    "Date": "29/01/2024 22:32:46",
-    "Items": "C Assets\\Content\\Properties\\Recoil\\New\\sap.recoil.nopattern.asset \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Pistol\\Model\\pistol_semiauto.anim.controller \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Rifle\\Model\\v_sar@reload.fbx.meta \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Rifle\\Model\\v_sar_anim.controller"
+    "Comment": "Remove ChineseLantern_emissive2.psd meta file",
+    "Author": "BillBorman",
+    "Date": "30/01/2024 01:33:15",
+    "Items": "D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\Material\\ChineseLantern_emmissive2.psd.meta"
   },
   "Build": {
-    "Id": "5523",
-    "Number": "5523",
-    "Tag": "jenkins-RustServer-5523",
-    "Url": "https://build.facepunch.com/job/RustServer/5523/",
+    "Id": "5524",
+    "Number": "5524",
+    "Tag": "jenkins-RustServer-5524",
+    "Url": "https://build.facepunch.com/job/RustServer/5524/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706570503,
-  "DateString": "29 01 2024",
-  "TimeString": "23:21"
+  "Date": 1706579070,
+  "DateString": "30 01 2024",
+  "TimeString": "01:44"
 }
