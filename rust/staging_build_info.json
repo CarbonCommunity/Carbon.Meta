@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92388",
+    "ChangeId": "92418",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from CNY_DragonLauncher",
+    "Comment": "~ merge from metal_detector",
     "Author": "alistair",
-    "Date": "30/01/2024 20:06:55",
-    "Items": "C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_Dragon.item.prefab"
+    "Date": "31/01/2024 07:43:12",
+    "Items": "C Assets\\bundled\\Prefabs\\radtown\\crate_normal.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.item.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\BaseDiggableEntity.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.Population.asset \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Global.asset \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.viewmodel.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\v_metal_detector_anims.fbx \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\3p_metal_detector_anims.fbx.meta \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\3p_metal_detector_anims.fbx \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\v_metal_detector_anims.fbx.meta \r\n C Assets\\Prefabs\\Tools\\Shovel\\shovel.item.prefab \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.item.prefab \r\n C Assets\\Scripts\\ViewModel\\MetalDetectorViewmodel.cs \r\n C Assets\\Scripts\\Game\\TechTree\\TechTreeT0.asset \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs \r\n A Assets\\Content\\Properties\\LootSpawn\\LargeBackpack.asset \r\n A Assets\\Content\\Properties\\LootSpawn\\LargeBackpack.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Beach.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Beach.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Field.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Field.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Forest.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Forest.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.LakeRiver.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.LakeRiver.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Roadside.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Roadside.asset.meta"
   },
   "Build": {
-    "Id": "5533",
-    "Number": "5533",
-    "Tag": "jenkins-RustServer-5533",
-    "Url": "https://build.facepunch.com/job/RustServer/5533/",
+    "Id": "5535",
+    "Number": "5535",
+    "Tag": "jenkins-RustServer-5535",
+    "Url": "https://build.facepunch.com/job/RustServer/5535/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706659067,
-  "DateString": "30 01 2024",
-  "TimeString": "23:57"
+  "Date": 1706691988,
+  "DateString": "31 01 2024",
+  "TimeString": "09:06"
 }
