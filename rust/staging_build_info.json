@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92436",
+    "ChangeId": "92440",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "larger detector flags\r\nwhite lantern unlocked by red lantern\r\nshow flag health\r\ndetector spots in tundra",
-    "Author": "helkus",
-    "Date": "31/01/2024 18:17:11",
-    "Items": "C Prerequisites\\SteamInventory\\schema-full.json \r\n C Prerequisites\\SteamInventory\\schema-new.json \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.item.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\BaseDiggableEntity.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.Population.asset \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag_ghost.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Effects\\MetalDetectorPlaceFlag.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag.entity.prefab \r\n C Assets\\Prefabs\\Tools\\Shovel\\Models\\metal_detector_site_marker.fbx.meta \r\n C Assets\\Prefabs\\Tools\\Shovel\\shovel.item.prefab \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\ChineseLantern_white.deployed.prefab \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.item.prefab \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.skin.asset \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.worldmodel.icon.png \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\cny_spear.itemskin.asset \r\n C Assets\\Scripts\\Development\\SteamInventoryGen.cs \r\n D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.sitem.asset \r\n D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.sitem.asset.meta"
+    "Comment": "merge from backpacks",
+    "Author": "alistair",
+    "Date": "31/01/2024 20:16:12",
+    "Items": "C Assets\\Prefabs\\Tools\\JackHammer\\jackhammer.entity.prefab \r\n C Assets\\Prefabs\\Deployable\\VendingMachine\\VendingMachine.cs \r\n C Assets\\Prefabs\\Weapons\\Compound Bow\\compound_bow.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Bow\\bow_hunting.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Salvaged_Axe\\axe_salvaged.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Salvaged_Hammer\\hammer_salvaged.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\HMLMG\\hmlmg.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Salvaged_IcePick\\icepick_salvaged.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Legacy Bow\\legacybow.entity.prefab \r\n C Assets\\Scripts\\UI\\PlayerPreview\\UIPlayerPreviewControls.cs \r\n A Assets\\Scripts\\Entity\\BaseEntity\\Editor\\HeldEntityHolsterEditor.cs \r\n A Assets\\Scripts\\Entity\\BaseEntity\\Editor\\HeldEntityHolsterEditor.cs.meta"
   },
   "Build": {
-    "Id": "5539",
-    "Number": "5539",
-    "Tag": "jenkins-RustServer-5539",
-    "Url": "https://build.facepunch.com/job/RustServer/5539/",
+    "Id": "5540",
+    "Number": "5540",
+    "Tag": "jenkins-RustServer-5540",
+    "Url": "https://build.facepunch.com/job/RustServer/5540/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706731217,
+  "Date": 1706735874,
   "DateString": "31 01 2024",
-  "TimeString": "20:00"
+  "TimeString": "21:17"
 }
