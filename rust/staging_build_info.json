@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92423",
+    "ChangeId": "92432",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from metal_detector",
-    "Author": "alistair",
-    "Date": "31/01/2024 11:06:18",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.item.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_source.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs"
+    "Comment": "backpack wb1",
+    "Author": "helkus",
+    "Date": "31/01/2024 15:15:43",
+    "Items": "C Assets\\Prefabs\\Misc\\SmallBackpack\\Smallbackpack.item.prefab"
   },
   "Build": {
-    "Id": "5536",
-    "Number": "5536",
-    "Tag": "jenkins-RustServer-5536",
-    "Url": "https://build.facepunch.com/job/RustServer/5536/",
+    "Id": "5537",
+    "Number": "5537",
+    "Tag": "jenkins-RustServer-5537",
+    "Url": "https://build.facepunch.com/job/RustServer/5537/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706702477,
+  "Date": 1706718414,
   "DateString": "31 01 2024",
-  "TimeString": "12:01"
+  "TimeString": "16:26"
 }
