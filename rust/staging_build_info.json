@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92432",
+    "ChangeId": "92436",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "backpack wb1",
+    "Comment": "larger detector flags\r\nwhite lantern unlocked by red lantern\r\nshow flag health\r\ndetector spots in tundra",
     "Author": "helkus",
-    "Date": "31/01/2024 15:15:43",
-    "Items": "C Assets\\Prefabs\\Misc\\SmallBackpack\\Smallbackpack.item.prefab"
+    "Date": "31/01/2024 18:17:11",
+    "Items": "C Prerequisites\\SteamInventory\\schema-full.json \r\n C Prerequisites\\SteamInventory\\schema-new.json \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.item.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\BaseDiggableEntity.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.Population.asset \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag_ghost.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Effects\\MetalDetectorPlaceFlag.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag.entity.prefab \r\n C Assets\\Prefabs\\Tools\\Shovel\\Models\\metal_detector_site_marker.fbx.meta \r\n C Assets\\Prefabs\\Tools\\Shovel\\shovel.item.prefab \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\ChineseLantern_white.deployed.prefab \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.item.prefab \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.skin.asset \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.worldmodel.icon.png \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\cny_spear.itemskin.asset \r\n C Assets\\Scripts\\Development\\SteamInventoryGen.cs \r\n D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.sitem.asset \r\n D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.sitem.asset.meta"
   },
   "Build": {
-    "Id": "5537",
-    "Number": "5537",
-    "Tag": "jenkins-RustServer-5537",
-    "Url": "https://build.facepunch.com/job/RustServer/5537/",
+    "Id": "5539",
+    "Number": "5539",
+    "Tag": "jenkins-RustServer-5539",
+    "Url": "https://build.facepunch.com/job/RustServer/5539/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706718414,
+  "Date": 1706731217,
   "DateString": "31 01 2024",
-  "TimeString": "16:26"
+  "TimeString": "20:00"
 }
