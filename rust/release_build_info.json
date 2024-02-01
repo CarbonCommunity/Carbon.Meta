@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92441",
+    "ChangeId": "92467",
     "Branch": "release",
     "Repo": "rust_reboot",
-    "Comment": "merge from main - RC",
+    "Comment": "merge from main",
     "Author": "alistair",
-    "Date": "31/01/2024 21:04:39",
-    "Items": "C Prerequisites\\SteamInventory\\schema-full.json \r\n C Prerequisites\\SteamInventory\\schema-new.json \r\n C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\bundled\\Prefabs\\radtown\\crate_normal.prefab \r\n C Assets\\Scripts\\ViewModel\\MetalDetectorViewmodel.cs \r\n C Assets\\Scripts\\Development\\SteamInventoryGen.cs \r\n C Assets\\Scripts\\Game\\TechTree\\TechTreeT0.asset \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs \r\n C Assets\\Scripts\\UI\\PlayerPreview\\UIPlayerPreviewControls.cs \r\n C Assets\\Prefabs\\Tools\\JackHammer\\jackhammer.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.item.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\BaseDiggableEntity.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.Population.asset \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag_ghost.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Global.asset \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Effects\\MetalDetectorPlaceFlag.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_source.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector.viewmodel.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\v_metal_detector_anims.fbx \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\3p_metal_detector_anims.fbx.meta \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\3p_metal_detector_anims.fbx \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Models\\v_metal_detector_anims.fbx.meta \r\n C Assets\\Prefabs\\Tools\\Shovel\\Models\\metal_detector_site_marker.fbx.meta \r\n C Assets\\Prefabs\\Tools\\Shovel\\shovel.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Bow\\bow_hunting.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Compound Bow\\compound_bow.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Salvaged_Axe\\axe_salvaged.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Salvaged_Hammer\\hammer_salvaged.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Salvaged_IcePick\\icepick_salvaged.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\HMLMG\\hmlmg.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_Dragon.item.prefab \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.skin.asset \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.worldmodel.icon.png \r\n C Assets\\Prefabs\\Weapons\\Legacy Bow\\legacybow.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\cny_spear.itemskin.asset \r\n C Assets\\Prefabs\\Deployable\\VendingMachine\\VendingMachine.cs \r\n C Assets\\Prefabs\\Misc\\SmallBackpack\\Smallbackpack.item.prefab \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\ChineseLantern_white.deployed.prefab \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.item.prefab \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\LargeBackpack.item.prefab \r\n A Assets\\Content\\Properties\\LootSpawn\\LargeBackpack.asset \r\n A Assets\\Content\\Properties\\LootSpawn\\LargeBackpack.asset.meta \r\n A Assets\\Scripts\\Entity\\BaseEntity\\Editor\\HeldEntityHolsterEditor.cs \r\n A Assets\\Scripts\\Entity\\BaseEntity\\Editor\\HeldEntityHolsterEditor.cs.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Beach.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Beach.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Field.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Field.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Forest.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Forest.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.LakeRiver.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.LakeRiver.asset.meta \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Roadside.asset \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\DiggableLootSpawn.Roadside.asset.meta \r\n D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.sitem.asset \r\n D Assets\\Prefabs\\Misc\\ChineseNewYear\\ChineseLantern\\chineselantern_white.sitem.asset.meta"
+    "Date": "01/02/2024 08:53:41",
+    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs"
   },
   "Build": {
-    "Id": "603",
-    "Number": "603",
-    "Tag": "jenkins-RustReleaseServer-603",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/603/",
+    "Id": "605",
+    "Number": "605",
+    "Tag": "jenkins-RustReleaseServer-605",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/605/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1706742325,
-  "DateString": "31 01 2024",
-  "TimeString": "23:05"
+  "Date": 1706799012,
+  "DateString": "1 02 2024",
+  "TimeString": "14:50"
 }
