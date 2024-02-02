@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92490",
+    "ChangeId": "92497",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from TryGetAimingModule_nre",
-    "Author": "alistair",
-    "Date": "02/02/2024 08:20:25",
-    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\MLRS\\MLRS.Server.cs"
+    "Comment": "Reverted bandana albedo texture to normal quality due to a bug in HQ compression",
+    "Author": "diogo",
+    "Date": "02/02/2024 12:51:14",
+    "Items": "C Assets\\Prefabs\\Clothes\\mask.bandana\\mask.bandana.color.tga.meta"
   },
   "Build": {
-    "Id": "5542",
-    "Number": "5542",
-    "Tag": "jenkins-RustServer-5542",
-    "Url": "https://build.facepunch.com/job/RustServer/5542/",
+    "Id": "5543",
+    "Number": "5543",
+    "Tag": "jenkins-RustServer-5543",
+    "Url": "https://build.facepunch.com/job/RustServer/5543/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706865006,
+  "Date": 1706882024,
   "DateString": "2 02 2024",
-  "TimeString": "09:10"
+  "TimeString": "13:53"
 }
