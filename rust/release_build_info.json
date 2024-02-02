@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92467",
+    "ChangeId": "92495",
     "Branch": "release",
     "Repo": "rust_reboot",
     "Comment": "merge from main",
     "Author": "alistair",
-    "Date": "01/02/2024 08:53:41",
-    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs"
+    "Date": "02/02/2024 10:26:24",
+    "Items": "C Assets\\Content\\UI\\GameUI\\GameUI.Hud.Map.View.prefab \r\n C Assets\\Content\\UI\\GameUI\\GameUI.Hud.Map.prefab \r\n C Assets\\Scripts\\Client\\Projectile.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseLiquidVessel.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\MLRS\\MLRS.Server.cs \r\n C Assets\\Scripts\\UI\\HostileNote.cs \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.LegacyShelter.prefab"
   },
   "Build": {
-    "Id": "605",
-    "Number": "605",
-    "Tag": "jenkins-RustReleaseServer-605",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/605/",
+    "Id": "607",
+    "Number": "607",
+    "Tag": "jenkins-RustReleaseServer-607",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/607/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1706799012,
-  "DateString": "1 02 2024",
-  "TimeString": "14:50"
+  "Date": 1706874951,
+  "DateString": "2 02 2024",
+  "TimeString": "11:55"
 }
