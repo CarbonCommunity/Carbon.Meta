@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92462",
+    "ChangeId": "92490",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from metal_detector",
+    "Comment": "merge from TryGetAimingModule_nre",
     "Author": "alistair",
-    "Date": "01/02/2024 07:43:46",
-    "Items": "C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs"
+    "Date": "02/02/2024 08:20:25",
+    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\MLRS\\MLRS.Server.cs"
   },
   "Build": {
-    "Id": "5541",
-    "Number": "5541",
-    "Tag": "jenkins-RustServer-5541",
-    "Url": "https://build.facepunch.com/job/RustServer/5541/",
+    "Id": "5542",
+    "Number": "5542",
+    "Tag": "jenkins-RustServer-5542",
+    "Url": "https://build.facepunch.com/job/RustServer/5542/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706776511,
-  "DateString": "1 02 2024",
-  "TimeString": "08:35"
+  "Date": 1706865006,
+  "DateString": "2 02 2024",
+  "TimeString": "09:10"
 }
