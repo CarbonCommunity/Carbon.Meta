@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92467",
+    "ChangeId": "92515",
     "Branch": "release",
     "Repo": "rust_reboot",
     "Comment": "merge from main",
     "Author": "alistair",
-    "Date": "01/02/2024 08:53:41",
-    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs"
+    "Date": "03/02/2024 10:16:31",
+    "Items": "C Prerequisites\\SteamInventory\\generator.json \r\n C Prerequisites\\SteamInventory\\Icons\\584379.png \r\n C Prerequisites\\SteamInventory\\PaymentRules.csv \r\n C Prerequisites\\SteamInventory\\schema-full.json \r\n C Prerequisites\\SteamInventory\\schema-new.json \r\n C Prerequisites\\SteamInventory\\schema-old.json \r\n C Assets\\Plugins\\Rust.Workshop\\Approved.2024.cs \r\n C Assets\\Scripts\\Client\\Projectile.cs \r\n C Assets\\Prefabs\\Clothes\\mask.bandana\\mask.bandana.color.tga.meta \r\n A Prerequisites\\SteamInventory\\Icons\\57000.png \r\n A Prerequisites\\SteamInventory\\Icons\\57001.png \r\n A Prerequisites\\SteamInventory\\Icons\\57002.png \r\n A Prerequisites\\SteamInventory\\Icons\\57003.png \r\n A Prerequisites\\SteamInventory\\Icons\\57004.png \r\n A Prerequisites\\SteamInventory\\Icons\\57005.png \r\n A Prerequisites\\SteamInventory\\Icons\\57006.png \r\n A Prerequisites\\SteamInventory\\Icons\\57007.png \r\n A Prerequisites\\SteamInventory\\Icons\\57008.png \r\n A Prerequisites\\SteamInventory\\Icons\\57009.png"
   },
   "Build": {
-    "Id": "605",
-    "Number": "605",
-    "Tag": "jenkins-RustReleaseServer-605",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/605/",
+    "Id": "609",
+    "Number": "609",
+    "Tag": "jenkins-RustReleaseServer-609",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/609/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1706799012,
-  "DateString": "1 02 2024",
-  "TimeString": "14:50"
+  "Date": 1706961483,
+  "DateString": "3 02 2024",
+  "TimeString": "11:58"
 }
