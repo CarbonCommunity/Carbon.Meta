@@ -10,14 +10,14 @@
     "Items": "C Packages\\packages-lock.json \r\n C Assets\\Plugins\\Facepunch.BurstCloth\\BurstCloth.cs \r\n C Assets\\Content\\Vehicles\\AttackHelicopter\\UI.AttackHeliMonitor.prefab \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\ClothMat_CNYSpear.asset \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.viewmodel.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\Model\\v_CNY_Spear_rig.fbx \r\n C Assets\\Prefabs\\Clothes\\Halloween.GhostSheet\\BurstClothHitBoxCollision.cs \r\n D Packages\\SoftMaskForUGUI"
   },
   "Build": {
-    "Id": "611",
-    "Number": "611",
-    "Tag": "jenkins-RustReleaseServer-611",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/611/",
+    "Id": "613",
+    "Number": "613",
+    "Tag": "jenkins-RustReleaseServer-613",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/613/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1707221177,
+  "Date": 1707232054,
   "DateString": "6 02 2024",
-  "TimeString": "12:06"
+  "TimeString": "15:07"
 }
