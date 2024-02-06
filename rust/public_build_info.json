@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92515",
-    "Branch": "release",
+    "ChangeId": "92565",
+    "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from main",
+    "Comment": "merge from fix_send_inventory_nre",
     "Author": "alistair",
-    "Date": "03/02/2024 10:16:31",
-    "Items": "C Prerequisites\\SteamInventory\\generator.json \r\n C Prerequisites\\SteamInventory\\Icons\\584379.png \r\n C Prerequisites\\SteamInventory\\PaymentRules.csv \r\n C Prerequisites\\SteamInventory\\schema-full.json \r\n C Prerequisites\\SteamInventory\\schema-new.json \r\n C Prerequisites\\SteamInventory\\schema-old.json \r\n C Assets\\Plugins\\Rust.Workshop\\Approved.2024.cs \r\n C Assets\\Scripts\\Client\\Projectile.cs \r\n C Assets\\Prefabs\\Clothes\\mask.bandana\\mask.bandana.color.tga.meta \r\n A Prerequisites\\SteamInventory\\Icons\\57000.png \r\n A Prerequisites\\SteamInventory\\Icons\\57001.png \r\n A Prerequisites\\SteamInventory\\Icons\\57002.png \r\n A Prerequisites\\SteamInventory\\Icons\\57003.png \r\n A Prerequisites\\SteamInventory\\Icons\\57004.png \r\n A Prerequisites\\SteamInventory\\Icons\\57005.png \r\n A Prerequisites\\SteamInventory\\Icons\\57006.png \r\n A Prerequisites\\SteamInventory\\Icons\\57007.png \r\n A Prerequisites\\SteamInventory\\Icons\\57008.png \r\n A Prerequisites\\SteamInventory\\Icons\\57009.png"
+    "Date": "06/02/2024 09:57:36",
+    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
   },
   "Build": {
-    "Id": "609",
-    "Number": "609",
-    "Tag": "jenkins-RustReleaseServer-609",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/609/",
-    "Name": "RustReleaseServer",
+    "Id": "5546",
+    "Number": "5546",
+    "Tag": "jenkins-RustServer-5546",
+    "Url": "https://build.facepunch.com/job/RustServer/5546/",
+    "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1706961483,
-  "DateString": "3 02 2024",
-  "TimeString": "11:58"
+  "Date": 1707216368,
+  "DateString": "6 02 2024",
+  "TimeString": "10:46"
 }
