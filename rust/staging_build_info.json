@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92565",
+    "ChangeId": "92604",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from fix_send_inventory_nre",
-    "Author": "alistair",
-    "Date": "06/02/2024 09:57:36",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
+    "Comment": "Reverted wizard bandana albedo texture to normal quality due to a bug in HQ compression",
+    "Author": "diogo",
+    "Date": "07/02/2024 09:46:46",
+    "Items": "C Assets\\Content\\Workshop\\skin\\bandana\\wizard bandana\\Wizard.tga.meta"
   },
   "Build": {
-    "Id": "5546",
-    "Number": "5546",
-    "Tag": "jenkins-RustServer-5546",
-    "Url": "https://build.facepunch.com/job/RustServer/5546/",
+    "Id": "5552",
+    "Number": "5552",
+    "Tag": "jenkins-RustServer-5552",
+    "Url": "https://build.facepunch.com/job/RustServer/5552/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707216368,
-  "DateString": "6 02 2024",
-  "TimeString": "10:46"
+  "Date": 1707305617,
+  "DateString": "7 02 2024",
+  "TimeString": "11:33"
 }
