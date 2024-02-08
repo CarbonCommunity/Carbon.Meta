@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92605",
+    "ChangeId": "92630",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge from map_entity_load_fix",
-    "Author": "andre",
-    "Date": "07/02/2024 11:54:30",
-    "Items": "C Assets\\Editor\\Tests\\Framework\\RustTestEngine.cs \r\n C Assets\\Plugins\\Facepunch.BurstCloth\\Editor \r\n C Assets\\Content\\Structures\\ferry_road_bridge\\models \r\n C Assets\\Content\\Structures\\lighthouse_small\\models \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\Materials \r\n C Assets\\Prefabs\\Tools\\Shovel\\Models \r\n C Assets\\Prefabs\\Tools\\Shovel\\materials \r\n C Assets\\Prefabs\\Misc\\Item Drop\\Models\\PlayerRemains \r\n C Assets\\Prefabs\\Misc\\Item Drop\\Models\\PlayerRemains\\Materials \r\n C Assets\\Prefabs\\Misc\\trophy_2023 \r\n C Assets\\Prefabs\\Misc\\LargeBackpack\\Materials \r\n C Assets\\Prefabs\\Clothes\\Suit.Hazmat\\Diver\\Model \r\n C Assets\\Prefabs\\Deployable\\Youtooz_Figurines \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Model\\Materials \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects \r\n C Assets\\Prefabs\\Weapons\\CNYSpear \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\Materials \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\Model \r\n C Assets\\Scripts\\Server\\Nexus\\Handlers\\TransferHandler.cs \r\n C Assets\\Scripts\\Server\\ServerMgr.cs \r\n C Assets\\Scripts\\Game\\SaveRestore.Load.cs \r\n C Assets\\Scripts\\Entity\\BaseNetworkable\\BaseNetworkable.cs"
+    "Comment": "subtract map_entity_load_fix",
+    "Author": "alistair",
+    "Date": "08/02/2024 08:01:26",
+    "Items": "C Assets\\Editor\\Tests\\Framework\\RustTestEngine.cs \r\n C Assets\\Scripts\\Server\\Nexus\\Handlers\\TransferHandler.cs \r\n C Assets\\Scripts\\Server\\ServerMgr.cs \r\n C Assets\\Scripts\\Game\\SaveRestore.Load.cs \r\n C Assets\\Scripts\\Entity\\BaseNetworkable\\BaseNetworkable.cs"
   },
   "Build": {
-    "Id": "5554",
-    "Number": "5554",
-    "Tag": "jenkins-RustServer-5554",
-    "Url": "https://build.facepunch.com/job/RustServer/5554/",
+    "Id": "5556",
+    "Number": "5556",
+    "Tag": "jenkins-RustServer-5556",
+    "Url": "https://build.facepunch.com/job/RustServer/5556/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707312039,
-  "DateString": "7 02 2024",
-  "TimeString": "13:20"
+  "Date": 1707381708,
+  "DateString": "8 02 2024",
+  "TimeString": "08:41"
 }
