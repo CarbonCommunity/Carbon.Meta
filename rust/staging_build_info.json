@@ -10,14 +10,14 @@
     "Items": "C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs"
   },
   "Build": {
-    "Id": "5561",
-    "Number": "5561",
-    "Tag": "jenkins-RustServer-5561",
-    "Url": "https://build.facepunch.com/job/RustServer/5561/",
+    "Id": "5562",
+    "Number": "5562",
+    "Tag": "jenkins-RustServer-5562",
+    "Url": "https://build.facepunch.com/job/RustServer/5562/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707430314,
+  "Date": 1707433544,
   "DateString": "8 02 2024",
-  "TimeString": "22:11"
+  "TimeString": "23:05"
 }
