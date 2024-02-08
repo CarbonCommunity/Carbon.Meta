@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92633",
+    "ChangeId": "92646",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "updated diesel_collectable prefab",
-    "Author": "paroxum",
-    "Date": "08/02/2024 08:48:35",
-    "Items": "C Assets\\Content\\Structures\\Excavator\\Prefabs\\Diesel_Collectable.prefab"
+    "Comment": "merge from fix_send_inventory_nre",
+    "Author": "alistair",
+    "Date": "08/02/2024 19:04:30",
+    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
   },
   "Build": {
-    "Id": "5559",
-    "Number": "5559",
-    "Tag": "jenkins-RustServer-5559",
-    "Url": "https://build.facepunch.com/job/RustServer/5559/",
+    "Id": "5560",
+    "Number": "5560",
+    "Tag": "jenkins-RustServer-5560",
+    "Url": "https://build.facepunch.com/job/RustServer/5560/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707403069,
+  "Date": 1707421951,
   "DateString": "8 02 2024",
-  "TimeString": "14:37"
+  "TimeString": "19:52"
 }
