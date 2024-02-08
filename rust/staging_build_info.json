@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92646",
+    "ChangeId": "92650",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from fix_send_inventory_nre",
-    "Author": "alistair",
-    "Date": "08/02/2024 19:04:30",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
+    "Comment": "Fixed IsSeatClipping direction not being normalised",
+    "Author": "BillBorman",
+    "Date": "08/02/2024 21:29:36",
+    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs"
   },
   "Build": {
-    "Id": "5560",
-    "Number": "5560",
-    "Tag": "jenkins-RustServer-5560",
-    "Url": "https://build.facepunch.com/job/RustServer/5560/",
+    "Id": "5561",
+    "Number": "5561",
+    "Tag": "jenkins-RustServer-5561",
+    "Url": "https://build.facepunch.com/job/RustServer/5561/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707421951,
+  "Date": 1707430314,
   "DateString": "8 02 2024",
-  "TimeString": "19:52"
+  "TimeString": "22:11"
 }
