@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92638",
+    "ChangeId": "92676",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
     "Comment": "Merge from main/map_entity_load_fix",
     "Author": "andre",
-    "Date": "08/02/2024 09:54:03",
-    "Items": "C Assets\\Scenes\\Release\\SkinViewer \r\n C Assets\\Editor\\Tests\\Framework\\RustTestEngine.cs \r\n C Assets\\Plugins\\UIEffect \r\n C Assets\\Plugins\\UIEffect\\Scripts \r\n C Assets\\Plugins\\UIEffect\\Scripts\\Common \r\n C Assets\\Plugins\\UIEffect\\Scripts\\Editor \r\n C Assets\\Plugins\\UIEffect\\Scripts\\Enums \r\n C Assets\\Plugins\\UIEffect\\Resources \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\Brick \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\Brick\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\Brutalist \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\Brutalist\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\LegacyWood \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\LegacyWood\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\ShippingContainer \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\ShippingContainer\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\Adobe \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\Adobe\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Hazmat Skins \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Hazmat Skins\\Nomad \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Hazmat Skins\\Nomad\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Weapon Racks \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Weapon Racks\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Coconut Underwear \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Coconut Underwear\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Factory Door \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Factory Door\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Industrial Lights \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Industrial Lights\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Pattern Boomer \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Pattern Boomer\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Pattern Sofa \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Pattern Sofa\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Lumberjack \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Lumberjack\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Ice King \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Ice King\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Abyss \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Abyss\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Arctic \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Arctic\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Frontier \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Frontier\\_assets \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Graffiti \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Graffiti\\_assets \r\n C Assets\\Prefabs\\Weapons\\Legacy Bow \r\n C Assets\\Scripts\\Server\\Nexus\\Handlers\\TransferHandler.cs \r\n C Assets\\Scripts\\Server\\ServerMgr.cs \r\n C Assets\\Scripts\\Game\\SaveRestore.Load.cs \r\n C Assets\\Scripts\\Entity\\BaseNetworkable\\BaseNetworkable.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\Editor"
+    "Date": "09/02/2024 09:32:17",
+    "Items": "C Assets\\Scripts\\Server\\ServerMgr.cs"
   },
   "Build": {
-    "Id": "605",
-    "Number": "605",
-    "Tag": "jenkins-RustServerAux02-605",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/605/",
+    "Id": "607",
+    "Number": "607",
+    "Tag": "jenkins-RustServerAux02-607",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/607/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1707401480,
-  "DateString": "8 02 2024",
-  "TimeString": "14:11"
+  "Date": 1707483648,
+  "DateString": "9 02 2024",
+  "TimeString": "13:00"
 }
