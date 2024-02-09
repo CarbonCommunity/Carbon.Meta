@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92650",
+    "ChangeId": "92683",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed IsSeatClipping direction not being normalised",
-    "Author": "BillBorman",
-    "Date": "08/02/2024 21:29:36",
-    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs"
+    "Comment": "merge from gnb_shader_updates",
+    "Author": "alistair",
+    "Date": "09/02/2024 16:57:37",
+    "Items": "C Assets\\Content\\Shaders\\Include\\Instancing.cginc \r\n C Assets\\Content\\Shaders\\Custom\\Standard Refraction.shader \r\n C Assets\\Content\\Shaders\\Nature\\Cliff_Basic_Snow.shader \r\n C Assets\\Content\\Shaders\\Nature\\Cliff_Basic.shader \r\n C Assets\\Content\\Shaders\\Nature\\Cliff_LOD.shader \r\n C Assets\\Content\\Shaders\\Nature\\Cliff.shader \r\n C Assets\\Content\\Shaders\\Standard\\Standard-Blend4Way.shader \r\n C Assets\\Content\\Shaders\\Standard\\Standard-Specular.shader \r\n C Assets\\Content\\Shaders\\Standard\\Standard.shader \r\n C Assets\\Content\\Shaders\\Standard\\Standard-BlendLayer.shader \r\n C Assets\\Content\\Shaders\\Standard\\Standard-BlendLayer-Specular.shader \r\n C Assets\\Content\\Shaders\\Standard\\Standard-PackedMaskBlend.shader \r\n C Assets\\Content\\Shaders\\Standard\\Include\\UnityStandardInput.cginc \r\n C Assets\\Scripts\\Rendering\\Instancing\\Schedulers\\MaterialCache.cs \r\n C Assets\\Scripts\\ConsoleCommands\\render.cs \r\n D Assets\\Content\\Shaders\\Standard\\Include\\UnityIndirect.cginc \r\n D Assets\\Content\\Shaders\\Standard\\Include\\UnityIndirect.cginc.meta"
   },
   "Build": {
-    "Id": "5562",
-    "Number": "5562",
-    "Tag": "jenkins-RustServer-5562",
-    "Url": "https://build.facepunch.com/job/RustServer/5562/",
+    "Id": "5563",
+    "Number": "5563",
+    "Tag": "jenkins-RustServer-5563",
+    "Url": "https://build.facepunch.com/job/RustServer/5563/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707433544,
-  "DateString": "8 02 2024",
-  "TimeString": "23:05"
+  "Date": 1707501682,
+  "DateString": "9 02 2024",
+  "TimeString": "18:01"
 }
