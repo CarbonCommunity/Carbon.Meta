@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92733",
+    "ChangeId": "92737",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "network++",
-    "Author": "alistair",
-    "Date": "12/02/2024 13:52:06",
-    "Items": "C Assets\\Plugins\\Rust.Global\\Protocol.cs"
+    "Comment": "~!backup",
+    "Author": "helkus",
+    "Date": "12/02/2024 16:46:00",
+    "Items": "C Prerequisites\\SteamInventory\\schema-new.json \r\n C Assets\\Content\\Properties\\SteamCategories\\limited-chinese-newyear-2024-550.steam.asset \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.skin.asset \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\cny_spear.itemskin.asset"
   },
   "Build": {
-    "Id": "5567",
-    "Number": "5567",
-    "Tag": "jenkins-RustServer-5567",
-    "Url": "https://build.facepunch.com/job/RustServer/5567/",
+    "Id": "5569",
+    "Number": "5569",
+    "Tag": "jenkins-RustServer-5569",
+    "Url": "https://build.facepunch.com/job/RustServer/5569/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707750713,
+  "Date": 1707757435,
   "DateString": "12 02 2024",
-  "TimeString": "15:11"
+  "TimeString": "17:03"
 }
