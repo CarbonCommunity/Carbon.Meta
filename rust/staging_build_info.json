@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92772",
+    "ChangeId": "92775",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Attack heli: Reset flare and rocket timers if new inventory is loaded in",
-    "Author": "BillBorman",
-    "Date": "13/02/2024 04:21:07",
-    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\Helicopter\\AttackHelicopterRockets.cs"
+    "Comment": "Potential UpdateHolsteredOffset nre fix",
+    "Author": "jarryd",
+    "Date": "13/02/2024 06:55:24",
+    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\HeldEntity.client.cs"
   },
   "Build": {
-    "Id": "5571",
-    "Number": "5571",
-    "Tag": "jenkins-RustServer-5571",
-    "Url": "https://build.facepunch.com/job/RustServer/5571/",
+    "Id": "5573",
+    "Number": "5573",
+    "Tag": "jenkins-RustServer-5573",
+    "Url": "https://build.facepunch.com/job/RustServer/5573/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707799336,
+  "Date": 1707809686,
   "DateString": "13 02 2024",
-  "TimeString": "04:42"
+  "TimeString": "07:34"
 }
