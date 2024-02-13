@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92775",
+    "ChangeId": "92780",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Potential UpdateHolsteredOffset nre fix",
-    "Author": "jarryd",
-    "Date": "13/02/2024 06:55:24",
-    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\HeldEntity.client.cs"
+    "Comment": "merge from youtooz_deployables",
+    "Author": "alistair",
+    "Date": "13/02/2024 09:16:19",
+    "Items": "C Assets\\Prefabs\\Deployable\\Youtooz_Figurines\\Hazmat_Youtooz.worldmodel.prefab \r\n C Assets\\Prefabs\\Deployable\\Youtooz_Figurines\\HeavyScientist_Youtooz.worldmodel.prefab \r\n D Assets\\Prefabs\\Deployable\\Youtooz_Figurines\\Models\\Hazmat_Youtooz.worldmodel.fbx \r\n D Assets\\Prefabs\\Deployable\\Youtooz_Figurines\\Models\\Hazmat_Youtooz.worldmodel.fbx.meta \r\n D Assets\\Prefabs\\Deployable\\Youtooz_Figurines\\Models\\HeavyScientist_Youtooz.worldmodel.fbx \r\n D Assets\\Prefabs\\Deployable\\Youtooz_Figurines\\Models\\HeavyScientist_Youtooz.worldmodel.fbx.meta"
   },
   "Build": {
-    "Id": "5573",
-    "Number": "5573",
-    "Tag": "jenkins-RustServer-5573",
-    "Url": "https://build.facepunch.com/job/RustServer/5573/",
+    "Id": "5574",
+    "Number": "5574",
+    "Tag": "jenkins-RustServer-5574",
+    "Url": "https://build.facepunch.com/job/RustServer/5574/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707809686,
+  "Date": 1707818651,
   "DateString": "13 02 2024",
-  "TimeString": "07:34"
+  "TimeString": "10:04"
 }
