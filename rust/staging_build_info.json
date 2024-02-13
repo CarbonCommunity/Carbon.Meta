@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92737",
+    "ChangeId": "92772",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "~!backup",
-    "Author": "helkus",
-    "Date": "12/02/2024 16:46:00",
-    "Items": "C Prerequisites\\SteamInventory\\schema-new.json \r\n C Assets\\Content\\Properties\\SteamCategories\\limited-chinese-newyear-2024-550.steam.asset \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\rocket_launcher_dragon.skin.asset \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\cny_spear.itemskin.asset"
+    "Comment": "Attack heli: Reset flare and rocket timers if new inventory is loaded in",
+    "Author": "BillBorman",
+    "Date": "13/02/2024 04:21:07",
+    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\Helicopter\\AttackHelicopterRockets.cs"
   },
   "Build": {
-    "Id": "5569",
-    "Number": "5569",
-    "Tag": "jenkins-RustServer-5569",
-    "Url": "https://build.facepunch.com/job/RustServer/5569/",
+    "Id": "5571",
+    "Number": "5571",
+    "Tag": "jenkins-RustServer-5571",
+    "Url": "https://build.facepunch.com/job/RustServer/5571/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707757435,
-  "DateString": "12 02 2024",
-  "TimeString": "17:03"
+  "Date": 1707799336,
+  "DateString": "13 02 2024",
+  "TimeString": "04:42"
 }
