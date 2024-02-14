@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92814",
+    "ChangeId": "92827",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge store-ui -> Main",
-    "Author": "BillBorman",
-    "Date": "14/02/2024 03:02:56",
-    "Items": "C Assets\\bundled\\Prefabs\\ui\\SkinViewer.prefab \r\n C Assets\\Scripts\\Shared\\ItemSkinDirectory.cs \r\n C Assets\\Scripts\\Game\\SkinViewer.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStore.cs"
+    "Comment": "Vendor compile fixes",
+    "Author": "adam",
+    "Date": "14/02/2024 08:42:11",
+    "Items": "C Assets\\Scripts\\UI\\Ingame\\Map\\MapInterface.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\VendorList.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\SingleVendor.cs"
   },
   "Build": {
-    "Id": "5578",
-    "Number": "5578",
-    "Tag": "jenkins-RustServer-5578",
-    "Url": "https://build.facepunch.com/job/RustServer/5578/",
+    "Id": "5580",
+    "Number": "5580",
+    "Tag": "jenkins-RustServer-5580",
+    "Url": "https://build.facepunch.com/job/RustServer/5580/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707882663,
+  "Date": 1707903057,
   "DateString": "14 02 2024",
-  "TimeString": "03:51"
+  "TimeString": "09:30"
 }
