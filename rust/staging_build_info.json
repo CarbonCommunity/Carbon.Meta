@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92798",
+    "ChangeId": "92805",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed efitor refl probe blinking occasionally in scene view",
-    "Author": "diogo",
-    "Date": "13/02/2024 20:45:17",
-    "Items": "C Assets\\Scripts\\Client\\RustCamera.cs"
+    "Comment": "Fix bugs with attack heli rocket/flare firing lockouts",
+    "Author": "BillBorman",
+    "Date": "13/02/2024 22:57:21",
+    "Items": "C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\Helicopter\\AttackHelicopterRockets.cs"
   },
   "Build": {
-    "Id": "5576",
-    "Number": "5576",
-    "Tag": "jenkins-RustServer-5576",
-    "Url": "https://build.facepunch.com/job/RustServer/5576/",
+    "Id": "5577",
+    "Number": "5577",
+    "Tag": "jenkins-RustServer-5577",
+    "Url": "https://build.facepunch.com/job/RustServer/5577/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1707859486,
-  "DateString": "13 02 2024",
-  "TimeString": "21:24"
+  "Date": 1707868837,
+  "DateString": "14 02 2024",
+  "TimeString": "00:00"
 }
