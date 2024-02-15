@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92915",
+    "ChangeId": "92931",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed upkeep resources cost texts being too large",
-    "Author": "flavien.c",
-    "Date": "15/02/2024 15:37:05",
-    "Items": "C Assets\\Scripts\\Item\\Item.IconAmount.cs"
+    "Comment": "",
+    "Author": "alistair",
+    "Date": "15/02/2024 20:25:53",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseProjectile.cs \r\n C Assets\\Scripts\\ConsoleCommands\\debug.cs"
   },
   "Build": {
-    "Id": "5582",
-    "Number": "5582",
-    "Tag": "jenkins-RustServer-5582",
-    "Url": "https://build.facepunch.com/job/RustServer/5582/",
+    "Id": "5583",
+    "Number": "5583",
+    "Tag": "jenkins-RustServer-5583",
+    "Url": "https://build.facepunch.com/job/RustServer/5583/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708014259,
+  "Date": 1708031506,
   "DateString": "15 02 2024",
-  "TimeString": "16:24"
+  "TimeString": "21:11"
 }
