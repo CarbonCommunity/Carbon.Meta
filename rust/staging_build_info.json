@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92931",
+    "ChangeId": "92958",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "alistair",
-    "Date": "15/02/2024 20:25:53",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseProjectile.cs \r\n C Assets\\Scripts\\ConsoleCommands\\debug.cs"
+    "Comment": "Fix NRE if SkinViewer is closed while loading a skin",
+    "Author": "BillBorman",
+    "Date": "16/02/2024 08:53:28",
+    "Items": "C Assets\\Scripts\\Game\\SkinViewer.cs"
   },
   "Build": {
-    "Id": "5583",
-    "Number": "5583",
-    "Tag": "jenkins-RustServer-5583",
-    "Url": "https://build.facepunch.com/job/RustServer/5583/",
+    "Id": "5585",
+    "Number": "5585",
+    "Tag": "jenkins-RustServer-5585",
+    "Url": "https://build.facepunch.com/job/RustServer/5585/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708031506,
-  "DateString": "15 02 2024",
-  "TimeString": "21:11"
+  "Date": 1708078168,
+  "DateString": "16 02 2024",
+  "TimeString": "10:09"
 }
