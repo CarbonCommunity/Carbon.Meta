@@ -10,14 +10,14 @@
     "Items": "C Assets\\Scripts\\ConsoleCommands\\debug.cs \r\n C Assets\\Scripts\\Networking\\NetworkVisibilityGrid.cs \r\n C Assets\\Scripts\\Procedural\\TerrainExtension\\TerrainMeta.cs"
   },
   "Build": {
-    "Id": "616",
-    "Number": "616",
-    "Tag": "jenkins-RustServerAux02-616",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/616/",
+    "Id": "617",
+    "Number": "617",
+    "Tag": "jenkins-RustServerAux02-617",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/617/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1708047366,
+  "Date": 1708050991,
   "DateString": "16 02 2024",
-  "TimeString": "01:36"
+  "TimeString": "02:36"
 }
