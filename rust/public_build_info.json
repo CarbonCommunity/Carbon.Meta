@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92565",
-    "Branch": "main",
+    "ChangeId": "92992",
+    "Branch": "release",
     "Repo": "rust_reboot",
-    "Comment": "merge from fix_send_inventory_nre",
+    "Comment": "",
     "Author": "alistair",
-    "Date": "06/02/2024 09:57:36",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
+    "Date": "17/02/2024 10:24:32",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\ConsoleCommands\\server.cs"
   },
   "Build": {
-    "Id": "5546",
-    "Number": "5546",
-    "Tag": "jenkins-RustServer-5546",
-    "Url": "https://build.facepunch.com/job/RustServer/5546/",
-    "Name": "RustServer",
+    "Id": "614",
+    "Number": "614",
+    "Tag": "jenkins-RustReleaseServer-614",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/614/",
+    "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1707216368,
-  "DateString": "6 02 2024",
-  "TimeString": "10:46"
+  "Date": 1708170047,
+  "DateString": "17 02 2024",
+  "TimeString": "11:40"
 }
