@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92566",
+    "ChangeId": "92992",
     "Branch": "release",
     "Repo": "rust_reboot",
-    "Comment": "merge from main",
+    "Comment": "",
     "Author": "alistair",
-    "Date": "06/02/2024 10:03:10",
-    "Items": "C Packages\\packages-lock.json \r\n C Assets\\Plugins\\Facepunch.BurstCloth\\BurstCloth.cs \r\n C Assets\\Content\\Vehicles\\AttackHelicopter\\UI.AttackHeliMonitor.prefab \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\ClothMat_CNYSpear.asset \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\CNY_spear.viewmodel.prefab \r\n C Assets\\Prefabs\\Weapons\\CNYSpear\\Model\\v_CNY_Spear_rig.fbx \r\n C Assets\\Prefabs\\Clothes\\Halloween.GhostSheet\\BurstClothHitBoxCollision.cs \r\n D Packages\\SoftMaskForUGUI"
+    "Date": "17/02/2024 10:24:32",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\ConsoleCommands\\server.cs"
   },
   "Build": {
-    "Id": "613",
-    "Number": "613",
-    "Tag": "jenkins-RustReleaseServer-613",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/613/",
+    "Id": "614",
+    "Number": "614",
+    "Tag": "jenkins-RustReleaseServer-614",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/614/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1707232054,
-  "DateString": "6 02 2024",
-  "TimeString": "15:07"
+  "Date": 1708170047,
+  "DateString": "17 02 2024",
+  "TimeString": "11:40"
 }
