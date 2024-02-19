@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92950",
+    "ChangeId": "93045",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merge from tutorial_island",
-    "Author": "jarryd",
-    "Date": "16/02/2024 04:05:34",
-    "Items": "C Assets\\Content\\UI\\GameUI\\UI.Dialog.InGameCinematicPlayback.prefab \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\CinematicScenePlaybackEntity.cs"
+    "Comment": "merge from tutorial_island",
+    "Author": "alistair",
+    "Date": "19/02/2024 08:43:03",
+    "Items": "C Assets\\bundled\\Prefabs\\autospawn\\collectable\\Hemp\\Hemp-Collectable.prefab \r\n C Assets\\Content\\UI\\GameUI\\GameUI.DeathScreen.prefab \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildKayak.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\CinematicScenePlaybackEntity.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\EndCinematic\\Timelines\\tutorial_endcinematic_01.playable \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\EndTutorialCinematic.prefab \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TriggerTutorialPrompt.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.prefab \r\n C Assets\\Scripts\\Server\\ServerMgr.cs \r\n C Assets\\Scripts\\UI\\TutorialHelpPopup.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tutorial.cs \r\n C Assets\\Scripts\\Procedural\\Water\\WaterSystem.cs \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\CorpseLooting.mp4 \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\CorpseLooting.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\SleepingBag.jpg \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\SleepingBag.jpg.meta \r\n A Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.CorpseLooting.asset \r\n A Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.CorpseLooting.asset.meta \r\n A Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Respawn.asset \r\n A Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Respawn.asset.meta \r\n D Assets\\Prefabs\\Missions\\TutorialIsland\\EndCinematic\\EndTimeline.playable.meta \r\n D Assets\\Prefabs\\Missions\\TutorialIsland\\EndCinematic\\EndTimeline.playable"
   },
   "Build": {
-    "Id": "619",
-    "Number": "619",
-    "Tag": "jenkins-RustServerAux02-619",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/619/",
+    "Id": "621",
+    "Number": "621",
+    "Tag": "jenkins-RustServerAux02-621",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/621/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1708063098,
-  "DateString": "16 02 2024",
-  "TimeString": "05:58"
+  "Date": 1708339077,
+  "DateString": "19 02 2024",
+  "TimeString": "10:37"
 }
