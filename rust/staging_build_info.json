@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "92958",
+    "ChangeId": "93052",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fix NRE if SkinViewer is closed while loading a skin",
-    "Author": "BillBorman",
-    "Date": "16/02/2024 08:53:28",
-    "Items": "C Assets\\Scripts\\Game\\SkinViewer.cs"
+    "Comment": "merge from metal_detector",
+    "Author": "alistair",
+    "Date": "19/02/2024 10:55:25",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_source.entity.prefab \r\n C Assets\\Prefabs\\Tools\\MetalDetector\\MetalDetectorSource.cs \r\n C Assets\\Scripts\\ViewModel\\MetalDetectorViewmodel.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\IMetalDetectable.cs \r\n A Assets\\Prefabs\\Tools\\MetalDetector\\IMetalDetectable.cs.meta \r\n D Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag_ghost.prefab \r\n D Assets\\Prefabs\\Tools\\MetalDetector\\metal_detector_flag_ghost.prefab.meta"
   },
   "Build": {
-    "Id": "5585",
-    "Number": "5585",
-    "Tag": "jenkins-RustServer-5585",
-    "Url": "https://build.facepunch.com/job/RustServer/5585/",
+    "Id": "5587",
+    "Number": "5587",
+    "Tag": "jenkins-RustServer-5587",
+    "Url": "https://build.facepunch.com/job/RustServer/5587/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708078168,
-  "DateString": "16 02 2024",
-  "TimeString": "10:09"
+  "Date": 1708343025,
+  "DateString": "19 02 2024",
+  "TimeString": "11:43"
 }
