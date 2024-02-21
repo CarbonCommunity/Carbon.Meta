@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93148",
+    "ChangeId": "93192",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Try catch all parts of demo thread (incase of error on startup)\r\nTry to create demo directory in multiple places (incase it gets deleted or changed by users)\r\n(this will also kick off a new build)",
-    "Author": "jake",
-    "Date": "20/02/2024 20:29:43",
-    "Items": "C Assets\\Plugins\\Facepunch.Network\\Demos\\BaseNetwork.Demos.cs \r\n C Assets\\Plugins\\Facepunch.Network\\Demos\\Managers\\FullServerDemos.cs"
+    "Comment": "~!Fixed reflection probe blinking when both scene and game viewports are visible",
+    "Author": "diogo",
+    "Date": "21/02/2024 16:11:40",
+    "Items": "C Assets\\Scripts\\Client\\RustCamera.cs"
   },
   "Build": {
-    "Id": "5604",
-    "Number": "5604",
-    "Tag": "jenkins-RustServer-5604",
-    "Url": "https://build.facepunch.com/job/RustServer/5604/",
+    "Id": "5606",
+    "Number": "5606",
+    "Tag": "jenkins-RustServer-5606",
+    "Url": "https://build.facepunch.com/job/RustServer/5606/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708465013,
-  "DateString": "20 02 2024",
-  "TimeString": "21:36"
+  "Date": 1708532509,
+  "DateString": "21 02 2024",
+  "TimeString": "16:21"
 }
