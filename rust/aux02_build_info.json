@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93105",
+    "ChangeId": "93154",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
     "Comment": "Merge from tutorial_island",
     "Author": "jarryd",
-    "Date": "20/02/2024 04:34:42",
-    "Items": "C Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_bowandarrow.mp4 \r\n C Assets\\Content\\UI\\GameUI\\TutorialHelp\\UI.Dialog.TutorialStartPrompt.prefab \r\n C Assets\\Content\\UI\\MenuUI\\MenuUI.Options.prefab \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Inventory.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.MoveControls.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.TreeHitting.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Sprinting.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Bandages.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BowUsage.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\Anims\\TutorialNPC_Anims.fbx \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\Anims\\TutorialNPC_Anims.fbx.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\rust_tutorialwelcome_002.mp4 \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\rust_tutorialwelcome_002.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_bandage.mp4 \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_bandage.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_bowandarrow.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_sprinting.mp4 \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_sprinting.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_stoneharvest.mp4 \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_stoneharvest.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_treeharvest.mp4 \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_treeharvest.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_walking.mp4 \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_walking.mp4.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Images \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Images.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Materials \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Materials.meta \r\n A Assets\\Prefabs\\Missions\\TutorialIsland\\Anims\\TutorialNPCController.controller \r\n A Assets\\Scripts\\Util\\Components\\TutorialOptionsPrompt.cs \r\n A Assets\\Scripts\\Util\\Components\\TutorialOptionsPrompt.cs.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Images\\tutorial_heroimage_01.jpg \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Images\\tutorial_heroimage_01.jpg.meta \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Materials\\TutorialStartVideo.renderTexture \r\n A Assets\\Content\\UI\\GameUI\\TutorialHelp\\Materials\\TutorialStartVideo.renderTexture.meta \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\Harvesting.mp4 \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\Harvesting.mp4.meta \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\HittingTree.mp4 \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\HittingTree.mp4.meta \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\Movement.mp4 \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\Movement.mp4.meta \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\Bandage.mp4.meta \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\BowArrow.mp4 \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\BowArrow.mp4.meta \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\Sprinting.mp4 \r\n D Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\Sprinting.mp4.meta \r\n D Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialNPCController.controller \r\n M Assets\\Content\\UI\\GameUI\\TutorialHelp\\Videos\\tutorial_prompt_bowandarrow.mp4 \r\n M Assets\\Content\\UI\\GameUI\\TutorialHelp\\Images\\TutorialHeroImage.jpg \r\n M Assets\\Content\\UI\\GameUI\\TutorialHelp\\Images\\TutorialHeroImage.jpg.meta \r\n M Assets\\Prefabs\\Missions\\TutorialIsland\\Anims\\TutorialNPCController.controller.meta"
+    "Date": "20/02/2024 22:19:36",
+    "Items": "C Assets\\Prefabs\\NPC\\Tutorial\\TutorialNPC.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.prefab \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerModel.Ik.cs \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerModel.cs \r\n C Assets\\Scripts\\Client\\Client.Connection.cs"
   },
   "Build": {
-    "Id": "623",
-    "Number": "623",
-    "Tag": "jenkins-RustServerAux02-623",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/623/",
+    "Id": "625",
+    "Number": "625",
+    "Tag": "jenkins-RustServerAux02-625",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/625/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1708407110,
-  "DateString": "20 02 2024",
-  "TimeString": "05:31"
+  "Date": 1708517382,
+  "DateString": "21 02 2024",
+  "TimeString": "12:09"
 }
