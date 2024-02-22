@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93213",
+    "ChangeId": "93235",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Disable global networked bases until we get a fully custom rendering pipeline",
-    "Author": "jake",
-    "Date": "22/02/2024 00:52:50",
-    "Items": "C Assets\\Scripts\\ConsoleCommands\\render.cs"
+    "Comment": "Fix UI NRE when disconnecting from a server while the backpack panel is open",
+    "Author": "jarryd",
+    "Date": "22/02/2024 03:50:07",
+    "Items": "C Assets\\Scripts\\UI\\PlayerPreview\\UIPlayerPreviewControls.cs"
   },
   "Build": {
-    "Id": "5608",
-    "Number": "5608",
-    "Tag": "jenkins-RustServer-5608",
-    "Url": "https://build.facepunch.com/job/RustServer/5608/",
+    "Id": "5610",
+    "Number": "5610",
+    "Tag": "jenkins-RustServer-5610",
+    "Url": "https://build.facepunch.com/job/RustServer/5610/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708563204,
+  "Date": 1708585446,
   "DateString": "22 02 2024",
-  "TimeString": "00:53"
+  "TimeString": "07:04"
 }
