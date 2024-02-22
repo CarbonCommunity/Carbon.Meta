@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93235",
+    "ChangeId": "93244",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fix UI NRE when disconnecting from a server while the backpack panel is open",
-    "Author": "jarryd",
-    "Date": "22/02/2024 03:50:07",
-    "Items": "C Assets\\Scripts\\UI\\PlayerPreview\\UIPlayerPreviewControls.cs"
+    "Comment": "Merge store-ui -> Main",
+    "Author": "BillBorman",
+    "Date": "22/02/2024 10:00:43",
+    "Items": "C ProjectSettings\\TagManager.asset \r\n C Assets\\Workshop\\IconRender.unity \r\n C Assets\\Scenes\\Test\\SkinViewerTest.unity \r\n C Assets\\Scenes\\Release\\MenuBackground.unity \r\n C Assets\\Scenes\\Release\\SkinViewer\\skinviewer_border.png \r\n C Assets\\bundled\\Prefabs\\ui\\SkinViewer.prefab \r\n C Assets\\Plugins\\Rust.Global\\PropRenderer.cs \r\n C Assets\\Content\\Vehicles\\Snowmobiles\\Materials\\RetroSnowmobile_screen.mat \r\n C Assets\\Content\\Vehicles\\Snowmobiles\\Materials\\RetroSnowmobile_Tracks.mat \r\n C Assets\\Content\\Vehicles\\Snowmobiles\\Materials\\RetroSnowmobile_Decals.mat \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\MenuUI.ItemStore.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Hazmat Skins\\Nomad\\MenuUI.ItemStore.HazmatSkin.Nomad.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.ItemList.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\MenuUI.ItemStore.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Abyss\\MenuUI.ItemStore.Pack.Abyss.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Arctic\\MenuUI.ItemStore.Pack.Arctic.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Frontier\\MenuUI.ItemStore.Pack.Frontier.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Lumberjack\\MenuUI.ItemStore.Pack.Lumberjack.prefab \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\DragonDoorKnocker\\Models\\Materials\\door_knocker.mat \r\n C Assets\\Prefabs\\Misc\\ChineseNewYear\\DragonDoorKnocker\\DragonDoorKnocker.Deployed.prefab \r\n C Assets\\Prefabs\\Misc\\Decor_DLC\\HuntingTrophy_Large\\huntingtrophylarge.deployed.prefab \r\n C Assets\\Prefabs\\Clothes\\gloves.roadsign\\RoadsignGloves.prefab \r\n C Assets\\Prefabs\\Clothes\\Suit.Hazmat\\Arctic\\material\\fur_trim_base.mat \r\n C Assets\\Prefabs\\Weapons\\ak47u\\IceSkin\\ak47u_ice.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\ak47u\\ak47u.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\ak47u\\Diver\\ak47u_diver.entity.prefab \r\n C Assets\\Scripts\\Rendering\\DeferredMeshDecals\\DeferredMeshDecalRenderer.cs \r\n C Assets\\Scripts\\Rendering\\Impostors\\ImpostorRenderer.cs \r\n C Assets\\Scripts\\Rendering\\DeferredDecals\\DeferredDecalRenderer.cs \r\n C Assets\\Scripts\\ViewModel\\ViewModelCamera\\ViewModelCamera.cs \r\n C Assets\\Scripts\\Game\\SkinViewer.cs \r\n C Assets\\Scripts\\UI\\PlayerPreview\\CameraEx.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreItemInfoModal.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreItem.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStore.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePackItem.cs \r\n C Assets\\Scripts\\Client\\RustCamera.cs \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat.playable \r\n A Assets\\Scenes\\Release\\MenuBackgroundSettings.lighting \r\n A Assets\\Scenes\\Release\\MenuBackgroundSettings.lighting.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat \r\n A Assets\\Scripts\\Rendering\\IndirectLighting.cs \r\n A Assets\\Scripts\\Rendering\\IndirectLighting.cs.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat.prefab.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Arctic.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Arctic.prefab.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Diver.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Diver.prefab.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Lumberjack.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Lumberjack.prefab.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Nomad.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Nomad.prefab.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Spacesuit.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Spacesuit.prefab.meta \r\n D Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat_Arctic \r\n M Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat.meta \r\n M Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat.playable \r\n M Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat.playable.meta"
   },
   "Build": {
-    "Id": "5610",
-    "Number": "5610",
-    "Tag": "jenkins-RustServer-5610",
-    "Url": "https://build.facepunch.com/job/RustServer/5610/",
+    "Id": "5611",
+    "Number": "5611",
+    "Tag": "jenkins-RustServer-5611",
+    "Url": "https://build.facepunch.com/job/RustServer/5611/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708585446,
+  "Date": 1708596072,
   "DateString": "22 02 2024",
-  "TimeString": "07:04"
+  "TimeString": "10:01"
 }
