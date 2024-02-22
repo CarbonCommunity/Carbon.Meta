@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93207",
+    "ChangeId": "93213",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Ran \"Prepare all prefabs\"",
-    "Author": "BillBorman",
-    "Date": "21/02/2024 21:39:26",
-    "Items": "C Assets\\Prefabs\\Misc\\ConfettiCannon\\confetticannon.deployed.prefab.meta \r\n C Assets\\Prefabs\\Vehicle\\Seats\\TwitchBusSeat.prefab.meta"
+    "Comment": "Disable global networked bases until we get a fully custom rendering pipeline",
+    "Author": "jake",
+    "Date": "22/02/2024 00:52:50",
+    "Items": "C Assets\\Scripts\\ConsoleCommands\\render.cs"
   },
   "Build": {
-    "Id": "5607",
-    "Number": "5607",
-    "Tag": "jenkins-RustServer-5607",
-    "Url": "https://build.facepunch.com/job/RustServer/5607/",
+    "Id": "5608",
+    "Number": "5608",
+    "Tag": "jenkins-RustServer-5608",
+    "Url": "https://build.facepunch.com/job/RustServer/5608/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708551608,
-  "DateString": "21 02 2024",
-  "TimeString": "21:40"
+  "Date": 1708563204,
+  "DateString": "22 02 2024",
+  "TimeString": "00:53"
 }
