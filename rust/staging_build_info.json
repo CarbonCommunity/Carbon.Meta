@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93250",
+    "ChangeId": "93254",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Cherry picked 93249",
-    "Author": "diogo",
-    "Date": "22/02/2024 12:26:04",
-    "Items": "C Assets\\Scenes\\Test\\SkinViewerTest.unity \r\n C Assets\\Plugins\\Rust.Global\\Components\\Camera\\LightingOverride.cs \r\n C Assets\\Scripts\\Rendering\\DeferredMeshDecals\\DeferredMeshDecalRenderer.cs \r\n C Assets\\Scripts\\Rendering\\Impostors\\ImpostorRenderer.cs \r\n C Assets\\Scripts\\Rendering\\DeferredDecals\\DeferredDecalRenderer.cs \r\n C Assets\\Scripts\\ViewModel\\ViewModelCamera\\ViewModelCamera.cs \r\n C Assets\\Scripts\\UI\\PlayerPreview\\CameraEx.cs \r\n C Assets\\Scripts\\Client\\RustCamera.cs \r\n A Assets\\Plugins\\Rust.Global\\Lighting \r\n A Assets\\Plugins\\Rust.Global\\Lighting.meta \r\n A Assets\\Plugins\\Rust.Global\\Lighting\\IndirectLighting.cs \r\n D Assets\\Scripts\\Rendering\\IndirectLighting.cs \r\n M Assets\\Plugins\\Rust.Global\\Lighting\\IndirectLighting.cs.meta"
+    "Comment": "Compile fix (removing unused \"using\")",
+    "Author": "andre",
+    "Date": "22/02/2024 13:49:44",
+    "Items": "C Assets\\Scripts\\Client\\CameraEffects\\NightLightOverlay.cs"
   },
   "Build": {
-    "Id": "5612",
-    "Number": "5612",
-    "Tag": "jenkins-RustServer-5612",
-    "Url": "https://build.facepunch.com/job/RustServer/5612/",
+    "Id": "5614",
+    "Number": "5614",
+    "Tag": "jenkins-RustServer-5614",
+    "Url": "https://build.facepunch.com/job/RustServer/5614/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708604817,
+  "Date": 1708609824,
   "DateString": "22 02 2024",
-  "TimeString": "12:26"
+  "TimeString": "13:50"
 }
