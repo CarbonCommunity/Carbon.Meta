@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93275",
+    "ChangeId": "93280",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "always include nightlight shader",
-    "Author": "helkus",
-    "Date": "22/02/2024 23:20:54",
-    "Items": "C ProjectSettings\\GraphicsSettings.asset"
+    "Comment": "Merge store-ui -> Main",
+    "Author": "BillBorman",
+    "Date": "23/02/2024 00:13:20",
+    "Items": "C Assets\\Scenes\\Release\\MenuBackground.unity \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\ItemStore.Item.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Hazmat Skins\\Nomad\\MenuUI.ItemStore.HazmatSkin.Nomad.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.ItemList.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\MenuUI.ItemStore.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Factory Door\\MenuUI.ItemStore.Misc.FactoryDoor.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Pattern Sofa\\MenuUI.ItemStore.Misc.PatternSofa.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Ice King\\MenuUI.ItemStore.Pack.IceKing.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Nomad.prefab \r\n C Assets\\Prefabs\\Clothes\\vest.metal\\vest.metal_ice\\vest.metal_ice.prefab \r\n C Assets\\Prefabs\\Weapons\\DiverHatchet\\diver_hatchet.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\ak47u\\Diver\\ak47u_diver.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\DiverTorch\\diver_torch.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\DiverPickaxe\\diver_pickaxe.entity.prefab \r\n C Assets\\Scripts\\Game\\SkinViewer.cs \r\n A Assets\\Scenes\\Release\\SkinViewer\\UIEdgeFade.mat \r\n A Assets\\Scenes\\Release\\SkinViewer\\UIEdgeFade.mat.meta \r\n A Assets\\Content\\Shaders\\Resources\\UI\\UI-EdgeFade.shader \r\n A Assets\\Content\\Shaders\\Resources\\UI\\UI-EdgeFade.shader.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets\\item-store-header.jpg \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets\\item-store-header.jpg.meta"
   },
   "Build": {
-    "Id": "5615",
-    "Number": "5615",
-    "Tag": "jenkins-RustServer-5615",
-    "Url": "https://build.facepunch.com/job/RustServer/5615/",
+    "Id": "5616",
+    "Number": "5616",
+    "Tag": "jenkins-RustServer-5616",
+    "Url": "https://build.facepunch.com/job/RustServer/5616/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708644096,
-  "DateString": "22 02 2024",
-  "TimeString": "23:21"
+  "Date": 1708647258,
+  "DateString": "23 02 2024",
+  "TimeString": "00:14"
 }
