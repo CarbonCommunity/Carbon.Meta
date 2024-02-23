@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93254",
+    "ChangeId": "93275",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Compile fix (removing unused \"using\")",
-    "Author": "andre",
-    "Date": "22/02/2024 13:49:44",
-    "Items": "C Assets\\Scripts\\Client\\CameraEffects\\NightLightOverlay.cs"
+    "Comment": "always include nightlight shader",
+    "Author": "helkus",
+    "Date": "22/02/2024 23:20:54",
+    "Items": "C ProjectSettings\\GraphicsSettings.asset"
   },
   "Build": {
-    "Id": "5614",
-    "Number": "5614",
-    "Tag": "jenkins-RustServer-5614",
-    "Url": "https://build.facepunch.com/job/RustServer/5614/",
+    "Id": "5615",
+    "Number": "5615",
+    "Tag": "jenkins-RustServer-5615",
+    "Url": "https://build.facepunch.com/job/RustServer/5615/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708609824,
+  "Date": 1708644096,
   "DateString": "22 02 2024",
-  "TimeString": "13:50"
+  "TimeString": "23:21"
 }
