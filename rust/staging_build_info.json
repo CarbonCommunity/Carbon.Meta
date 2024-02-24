@@ -10,14 +10,14 @@
     "Items": "C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreItemInfoModal.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePackItem.cs"
   },
   "Build": {
-    "Id": "5621",
-    "Number": "5621",
-    "Tag": "jenkins-RustServer-5621",
-    "Url": "https://build.facepunch.com/job/RustServer/5621/",
+    "Id": "5622",
+    "Number": "5622",
+    "Tag": "jenkins-RustServer-5622",
+    "Url": "https://build.facepunch.com/job/RustServer/5622/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708738591,
+  "Date": 1708746034,
   "DateString": "24 02 2024",
-  "TimeString": "01:36"
+  "TimeString": "03:40"
 }
