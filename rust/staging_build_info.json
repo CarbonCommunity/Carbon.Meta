@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93322",
+    "ChangeId": "93350",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "andre",
-    "Date": "23/02/2024 12:07:35",
-    "Items": "C Assets\\Plugins\\Facepunch.Network\\Demos \r\n C Assets\\Plugins\\Facepunch.Network\\Demos\\Helper \r\n C Assets\\Plugins\\Facepunch.Network\\Demos\\Managers \r\n C Assets\\Plugins\\EpicOnlineServices\\EOSSDK-Win32-Shipping.dll \r\n C Assets\\Plugins\\EpicOnlineServices\\EOSSDK-Win64-Shipping.dll \r\n C Assets\\Plugins\\EpicOnlineServices\\libEOSSDK-Linux-Shipping.so \r\n C Assets\\Plugins\\EpicOnlineServices\\libEOSSDK-Mac-Shipping.dylib \r\n C Assets\\Plugins\\Rust.Global\\Lighting \r\n C Assets\\Content\\Vehicles\\Bus \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets \r\n C Assets\\Scripts\\PostProcessing\\CustomPostEffects\\NightLight"
+    "Comment": "merge optimize_build_generate_manifest -> main\r\n(test if it makes a difference)",
+    "Author": "jake",
+    "Date": "24/02/2024 00:30:04",
+    "Items": "C Assets\\Scripts\\Shared\\GameManifest-Generate.cs"
   },
   "Build": {
-    "Id": "5619",
-    "Number": "5619",
-    "Tag": "jenkins-RustServer-5619",
-    "Url": "https://build.facepunch.com/job/RustServer/5619/",
+    "Id": "5620",
+    "Number": "5620",
+    "Tag": "jenkins-RustServer-5620",
+    "Url": "https://build.facepunch.com/job/RustServer/5620/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708690113,
-  "DateString": "23 02 2024",
-  "TimeString": "12:08"
+  "Date": 1708734662,
+  "DateString": "24 02 2024",
+  "TimeString": "00:31"
 }
