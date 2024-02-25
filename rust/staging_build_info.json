@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93352",
+    "ChangeId": "93364",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Partial revert of 93310 to re-enable 3D skin views when item store is used while in-game",
+    "Comment": "SkinViewer lighting polish",
     "Author": "diogo",
-    "Date": "24/02/2024 01:20:26",
-    "Items": "C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreItemInfoModal.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePackItem.cs"
+    "Date": "25/02/2024 21:47:24",
+    "Items": "C Assets\\bundled\\Prefabs\\ui\\SkinViewer.prefab \r\n C Assets\\Scripts\\Game\\SkinViewer.cs"
   },
   "Build": {
-    "Id": "5622",
-    "Number": "5622",
-    "Tag": "jenkins-RustServer-5622",
-    "Url": "https://build.facepunch.com/job/RustServer/5622/",
+    "Id": "5623",
+    "Number": "5623",
+    "Tag": "jenkins-RustServer-5623",
+    "Url": "https://build.facepunch.com/job/RustServer/5623/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708746034,
-  "DateString": "24 02 2024",
-  "TimeString": "03:40"
+  "Date": 1708897680,
+  "DateString": "25 02 2024",
+  "TimeString": "21:48"
 }
