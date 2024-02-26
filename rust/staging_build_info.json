@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93381",
+    "ChangeId": "93382",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge store-ui -> main",
+    "Comment": "Remove commented code",
     "Author": "BillBorman",
-    "Date": "26/02/2024 03:25:42",
-    "Items": "C Assets\\Scenes\\Release\\SkinViewer\\UIEdgeFade.mat \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\ItemStore.BackButton.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\ItemStore.Item.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\MenuUI.ItemStore.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.Item.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\MenuUI.ItemStore.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Abyss\\MenuUI.ItemStore.Pack.Abyss.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Arctic\\MenuUI.ItemStore.Pack.Arctic.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Lumberjack\\MenuUI.ItemStore.Pack.Lumberjack.prefab \r\n C Assets\\Scripts\\Game\\LOD\\LODComponent.cs \r\n C Assets\\Scripts\\Game\\SkinViewer.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreItemInfoModal.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePack.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePackItem.cs \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\ItemPreview_TomahaSnowmobile.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\ItemPreview_TomahaSnowmobile.prefab.meta \r\n A Assets\\Scripts\\UI\\RevealTransitionBase.cs \r\n A Assets\\Scripts\\UI\\RevealTransitionBase.cs.meta \r\n A Assets\\Scripts\\UI\\RevealTransitionOnEnable.cs \r\n A Assets\\Scripts\\UI\\RevealTransitionOnEnable.cs.meta \r\n A server_demos"
+    "Date": "26/02/2024 03:32:43",
+    "Items": "C Assets\\Scripts\\Game\\SkinViewer.cs"
   },
   "Build": {
-    "Id": "5624",
-    "Number": "5624",
-    "Tag": "jenkins-RustServer-5624",
-    "Url": "https://build.facepunch.com/job/RustServer/5624/",
+    "Id": "5625",
+    "Number": "5625",
+    "Tag": "jenkins-RustServer-5625",
+    "Url": "https://build.facepunch.com/job/RustServer/5625/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708917978,
+  "Date": 1708920660,
   "DateString": "26 02 2024",
-  "TimeString": "03:26"
+  "TimeString": "04:11"
 }
