@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93364",
+    "ChangeId": "93381",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "SkinViewer lighting polish",
-    "Author": "diogo",
-    "Date": "25/02/2024 21:47:24",
-    "Items": "C Assets\\bundled\\Prefabs\\ui\\SkinViewer.prefab \r\n C Assets\\Scripts\\Game\\SkinViewer.cs"
+    "Comment": "Merge store-ui -> main",
+    "Author": "BillBorman",
+    "Date": "26/02/2024 03:25:42",
+    "Items": "C Assets\\Scenes\\Release\\SkinViewer\\UIEdgeFade.mat \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\ItemStore.BackButton.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\ItemStore.Item.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\MenuUI.ItemStore.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.Item.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\MenuUI.ItemStore.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Abyss\\MenuUI.ItemStore.Pack.Abyss.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Arctic\\MenuUI.ItemStore.Pack.Arctic.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Lumberjack\\MenuUI.ItemStore.Pack.Lumberjack.prefab \r\n C Assets\\Scripts\\Game\\LOD\\LODComponent.cs \r\n C Assets\\Scripts\\Game\\SkinViewer.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreItemInfoModal.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePack.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePackItem.cs \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\ItemPreview_TomahaSnowmobile.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\ItemPreview_TomahaSnowmobile.prefab.meta \r\n A Assets\\Scripts\\UI\\RevealTransitionBase.cs \r\n A Assets\\Scripts\\UI\\RevealTransitionBase.cs.meta \r\n A Assets\\Scripts\\UI\\RevealTransitionOnEnable.cs \r\n A Assets\\Scripts\\UI\\RevealTransitionOnEnable.cs.meta \r\n A server_demos"
   },
   "Build": {
-    "Id": "5623",
-    "Number": "5623",
-    "Tag": "jenkins-RustServer-5623",
-    "Url": "https://build.facepunch.com/job/RustServer/5623/",
+    "Id": "5624",
+    "Number": "5624",
+    "Tag": "jenkins-RustServer-5624",
+    "Url": "https://build.facepunch.com/job/RustServer/5624/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708897680,
-  "DateString": "25 02 2024",
-  "TimeString": "21:48"
+  "Date": 1708917978,
+  "DateString": "26 02 2024",
+  "TimeString": "03:26"
 }
