@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93501",
+    "ChangeId": "93503",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge from metal_detector",
-    "Author": "adam",
-    "Date": "27/02/2024 18:13:49",
-    "Items": "C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs"
+    "Comment": "Fixed SaveRestore.ClearMapEntities not setting IsDestroyed on entities that haven't spawned, causing issues downstream and bypassing my previous static elevator fix",
+    "Author": "andre",
+    "Date": "27/02/2024 18:46:16",
+    "Items": "C Assets\\Scripts\\Game\\SaveRestore.Load.cs \r\n C Assets\\Scripts\\Entity\\BaseNetworkable\\BaseNetworkable.Server.cs"
   },
   "Build": {
-    "Id": "5639",
-    "Number": "5639",
-    "Tag": "jenkins-RustServer-5639",
-    "Url": "https://build.facepunch.com/job/RustServer/5639/",
+    "Id": "5640",
+    "Number": "5640",
+    "Tag": "jenkins-RustServer-5640",
+    "Url": "https://build.facepunch.com/job/RustServer/5640/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709057678,
+  "Date": 1709059816,
   "DateString": "27 02 2024",
-  "TimeString": "18:14"
+  "TimeString": "18:50"
 }
