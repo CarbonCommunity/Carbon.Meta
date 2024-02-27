@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93449",
+    "ChangeId": "93458",
     "Branch": "main",
     "Repo": "rust_reboot",
     "Comment": "Merge from tutorial_island",
     "Author": "jarryd",
-    "Date": "27/02/2024 02:04:00",
-    "Items": "C Assets\\Scripts\\Mission\\Objectives\\MissionObjective.cs"
+    "Date": "27/02/2024 04:35:09",
+    "Items": "C Assets\\bundled\\Prefabs\\ui\\MenuUI.prefab \r\n C Assets\\Prefabs\\Ammo\\Arrow\\arrow_wooden.item.prefab \r\n C Assets\\Prefabs\\Resource\\Low grade fuel\\fuel.lowgrade.item.prefab \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission02_Craft.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission03_BuildBase.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission04_FinishBase.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission05_HuntForFood.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission05B_CookFood.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission06_PrepareForCombat.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission06B_KillTheBear.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07_BuildFurnace.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07B_BuildWorkbench.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07C_BuildKayak.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission08_Escape.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission03B_BuildBase.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TriggerTutorialPrompt.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission04B_UpgradeToWood.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission05C_Respawn.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.prefab \r\n C Assets\\Prefabs\\Locks\\keylock\\lock.key.item.prefab \r\n C Assets\\Prefabs\\Tools\\Planner\\building_planner.item.prefab \r\n C Assets\\Prefabs\\Tools\\LumberJack_Tools\\concrete_hatchet.item.prefab \r\n C Assets\\Prefabs\\Tools\\LumberJack_Tools\\concrete_pickaxe.item.prefab \r\n C Assets\\Prefabs\\Tools\\WalkieTalkie\\walkietalkie.item.prefab \r\n C Assets\\Prefabs\\Clothes\\pants.burlap\\pants.burlap.item.prefab \r\n C Assets\\Prefabs\\Clothes\\shirt.burlap\\burlap_shirt.item.prefab \r\n C Assets\\Prefabs\\Building\\door.hinged\\door.hinged.wood.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Bow\\bow_hunting.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Hammer\\hammer.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Stone Hatchet\\stonehatchet.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Paddle\\paddle.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Bandage\\bandage.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Stone pickaxe\\stone_pickaxe.item.prefab \r\n C Assets\\Prefabs\\Weapons\\Wooden Spear\\spear_wooden.item.prefab \r\n C Assets\\Prefabs\\Deployable\\Campfire\\campfire.item.prefab \r\n C Assets\\Prefabs\\Deployable\\Furnace\\furnace.item.prefab \r\n C Assets\\Prefabs\\Deployable\\Sleeping Bag\\sleepingbag.item.prefab \r\n C Assets\\Prefabs\\Deployable\\Tier 1 Workbench\\workbench1.item.prefab \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\cupboard.tool.item.prefab \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tutorial.cs"
   },
   "Build": {
-    "Id": "5632",
-    "Number": "5632",
-    "Tag": "jenkins-RustServer-5632",
-    "Url": "https://build.facepunch.com/job/RustServer/5632/",
+    "Id": "5633",
+    "Number": "5633",
+    "Tag": "jenkins-RustServer-5633",
+    "Url": "https://build.facepunch.com/job/RustServer/5633/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708999480,
+  "Date": 1709008538,
   "DateString": "27 02 2024",
-  "TimeString": "02:04"
+  "TimeString": "04:35"
 }
