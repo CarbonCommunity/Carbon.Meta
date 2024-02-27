@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93461",
+    "ChangeId": "93465",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "~ merge from swap_overlay_invalidslot_fix",
-    "Author": "alistair",
-    "Date": "27/02/2024 08:23:12",
-    "Items": "C Assets\\Scripts\\UI\\Inventory\\ItemIcon.cs \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
+    "Comment": "Fixed ElevatorStatic trying to update its floor positions too early when loaded from save",
+    "Author": "andre",
+    "Date": "27/02/2024 09:54:36",
+    "Items": "C Assets\\Prefabs\\Deployable\\Elevator\\ElevatorStatic.cs"
   },
   "Build": {
-    "Id": "5635",
-    "Number": "5635",
-    "Tag": "jenkins-RustServer-5635",
-    "Url": "https://build.facepunch.com/job/RustServer/5635/",
+    "Id": "5636",
+    "Number": "5636",
+    "Tag": "jenkins-RustServer-5636",
+    "Url": "https://build.facepunch.com/job/RustServer/5636/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709022440,
+  "Date": 1709027711,
   "DateString": "27 02 2024",
-  "TimeString": "08:27"
+  "TimeString": "09:55"
 }
