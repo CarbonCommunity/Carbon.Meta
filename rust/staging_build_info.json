@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93465",
+    "ChangeId": "93471",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed ElevatorStatic trying to update its floor positions too early when loaded from save",
-    "Author": "andre",
-    "Date": "27/02/2024 09:54:36",
-    "Items": "C Assets\\Prefabs\\Deployable\\Elevator\\ElevatorStatic.cs"
+    "Comment": "merge from vendor_ui_fixes",
+    "Author": "alistair",
+    "Date": "27/02/2024 11:06:44",
+    "Items": "C ProjectSettings\\ProjectSettings.asset \r\n C Assets\\bundled\\Prefabs\\ui\\EngineUI.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.SingleVendor.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.VendorListing.prefab \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\UIMapVendingMachineMarkerCluster.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\UIMapVendingMachineMarker.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\MapInterface.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\VendorListing.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\SingleVendor.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\VendorList.cs \r\n C Assets\\Scripts\\Entity\\Misc\\VendingMachineMapMarker.cs \r\n C Assets\\Scripts\\Client\\Client.Connection.cs"
   },
   "Build": {
-    "Id": "5636",
-    "Number": "5636",
-    "Tag": "jenkins-RustServer-5636",
-    "Url": "https://build.facepunch.com/job/RustServer/5636/",
+    "Id": "5637",
+    "Number": "5637",
+    "Tag": "jenkins-RustServer-5637",
+    "Url": "https://build.facepunch.com/job/RustServer/5637/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709027711,
+  "Date": 1709032054,
   "DateString": "27 02 2024",
-  "TimeString": "09:55"
+  "TimeString": "11:07"
 }
