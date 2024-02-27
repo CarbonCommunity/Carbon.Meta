@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93489",
+    "ChangeId": "93501",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from optimize_baseoven_itemmod",
-    "Author": "alistair",
-    "Date": "27/02/2024 15:54:08",
-    "Items": "C Assets\\Scripts\\UI\\Inventory\\LootPanelOven.cs \r\n C Assets\\Scripts\\Entity\\Construction\\BaseOven.cs \r\n C Assets\\Scripts\\Item\\ItemDef2\\ItemDefinition.cs"
+    "Comment": "Merge from metal_detector",
+    "Author": "adam",
+    "Date": "27/02/2024 18:13:49",
+    "Items": "C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseMetalDetector.cs"
   },
   "Build": {
-    "Id": "5638",
-    "Number": "5638",
-    "Tag": "jenkins-RustServer-5638",
-    "Url": "https://build.facepunch.com/job/RustServer/5638/",
+    "Id": "5639",
+    "Number": "5639",
+    "Tag": "jenkins-RustServer-5639",
+    "Url": "https://build.facepunch.com/job/RustServer/5639/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709049284,
+  "Date": 1709057678,
   "DateString": "27 02 2024",
-  "TimeString": "15:54"
+  "TimeString": "18:14"
 }
