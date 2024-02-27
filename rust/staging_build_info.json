@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93438",
+    "ChangeId": "93446",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge store-ui -> main. SkinViewer work is now complete (don't laugh at the inevitable further skinviewer commits pls).",
-    "Author": "BillBorman",
-    "Date": "26/02/2024 23:35:48",
-    "Items": "C Assets\\Scenes\\Test\\SkinViewerTest.unity \r\n C Assets\\Plugins\\Rust.UI\\CoverImage.cs \r\n C Assets\\Plugins\\UIEffect\\Scripts\\Editor\\UIDissolveEditor.cs \r\n C Assets\\Plugins\\UIEffect\\Scripts\\Editor\\UIShinyEditor.cs \r\n C Assets\\Plugins\\UIEffect\\Scripts\\Editor\\UITransitionEffectEditor.cs \r\n C Assets\\Plugins\\UIEffect\\Scripts\\UIDissolve.cs \r\n C Assets\\Plugins\\UIEffect\\Scripts\\UIShiny.cs \r\n C Assets\\Plugins\\UIEffect\\Scripts\\UITransitionEffect.cs \r\n C Assets\\Plugins\\Facepunch.Flexbox\\FlexTransition.cs \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\ItemStore.Item.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\ItemStore.PageHeader.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_prefabs\\MenuUI.ItemStore.Default.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Hazmat Skins\\Nomad\\MenuUI.ItemStore.HazmatSkin.Nomad.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.ItemList.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\MenuUI.ItemStore.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Abyss\\MenuUI.ItemStore.Pack.Abyss.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Arctic\\MenuUI.ItemStore.Pack.Arctic.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Lumberjack\\MenuUI.ItemStore.Pack.Lumberjack.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Diver.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Lumberjack.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Hazmat\\ItemPreview_Hazmat_Spacesuit.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets\\item-store-header.jpg \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.StoreItem.Default.prefab \r\n C Assets\\Prefabs\\Clothes\\Suit.Hazmat\\Lumberjack\\material\\Lumberjack_hazmat_backpack.mat \r\n C Assets\\Prefabs\\Clothes\\Suit.Hazmat\\Lumberjack\\material\\Lumberjack_hazmat_gloves.mat \r\n C Assets\\Prefabs\\Clothes\\Suit.Hazmat\\Lumberjack\\material\\Lumberjack_hazmat_head.mat \r\n C Assets\\Prefabs\\Clothes\\Suit.Hazmat\\Lumberjack\\material\\Lumberjack_hazmat_torso.mat \r\n C Assets\\Prefabs\\Weapons\\DiverHatchet\\Materials\\DiverHatchet.mat \r\n C Assets\\Prefabs\\Weapons\\DiverTorch\\Materials\\DiverTorch Bulb On.mat \r\n C Assets\\Prefabs\\Weapons\\DiverTorch\\Materials\\DiverTorch Glass Off.mat \r\n C Assets\\Prefabs\\Weapons\\DiverTorch\\Materials\\DiverTorch Glass On.mat \r\n C Assets\\Prefabs\\Weapons\\DiverTorch\\Materials\\DiverTorch Off.mat \r\n C Assets\\Prefabs\\Weapons\\DiverTorch\\Materials\\DiverTorch On.mat \r\n C Assets\\Scripts\\Game\\SkinViewer.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreItemInfoModal.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStoreBuyButton.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStore.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\ItemStore\\ItemStorePackItem.cs \r\n A Assets\\Plugins\\Rust.UI\\CoverVideo.cs \r\n A Assets\\Plugins\\Rust.UI\\CoverVideo.cs.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets\\item-store-header-permanent.jpg \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\_assets\\item-store-header-permanent.jpg.meta \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.StoreItem.Image.prefab \r\n A Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.StoreItem.Image.prefab.meta \r\n A Assets\\Content\\UI\\UI.Gradient.Down.Tight.psd \r\n A Assets\\Content\\UI\\UI.Gradient.Down.Tight.psd.meta \r\n A Assets\\Scripts\\UI\\UnityUI\\RectChangeEvent.cs \r\n A Assets\\Scripts\\UI\\UnityUI\\RectChangeEvent.cs.meta \r\n D Assets\\Plugins\\UIEffect\\Scripts\\Common\\EffectPlayer.cs \r\n D Assets\\Plugins\\UIEffect\\Scripts\\Common\\EffectPlayer.cs.meta \r\n M Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.StoreItem.Default.prefab \r\n M Assets\\Content\\UI\\MenuUI\\ItemStore\\ItemStore.StoreItem.Default.prefab.meta"
+    "Comment": "Merge from tutorial_island",
+    "Author": "jarryd",
+    "Date": "27/02/2024 00:42:08",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.cs \r\n C Assets\\Scripts\\Mission\\Objectives\\MissionObjective.cs"
   },
   "Build": {
-    "Id": "5629",
-    "Number": "5629",
-    "Tag": "jenkins-RustServer-5629",
-    "Url": "https://build.facepunch.com/job/RustServer/5629/",
+    "Id": "5631",
+    "Number": "5631",
+    "Tag": "jenkins-RustServer-5631",
+    "Url": "https://build.facepunch.com/job/RustServer/5631/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1708990595,
-  "DateString": "26 02 2024",
-  "TimeString": "23:36"
+  "Date": 1708994560,
+  "DateString": "27 02 2024",
+  "TimeString": "00:42"
 }
