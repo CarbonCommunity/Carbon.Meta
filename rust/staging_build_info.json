@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93503",
+    "ChangeId": "93549",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed SaveRestore.ClearMapEntities not setting IsDestroyed on entities that haven't spawned, causing issues downstream and bypassing my previous static elevator fix",
-    "Author": "andre",
-    "Date": "27/02/2024 18:46:16",
-    "Items": "C Assets\\Scripts\\Game\\SaveRestore.Load.cs \r\n C Assets\\Scripts\\Entity\\BaseNetworkable\\BaseNetworkable.Server.cs"
+    "Comment": "Merge from tutorial_island",
+    "Author": "jarryd",
+    "Date": "28/02/2024 09:01:35",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Content\\UI\\MenuUI\\MenuUI.ServerList.prefab \r\n C Assets\\Content\\UI\\MenuUI\\UI.ServerBrowser.Button.prefab \r\n C Assets\\Content\\UI\\MenuUI\\UI.ServerBrowser.Filtering.prefab \r\n C Assets\\Content\\UI\\MenuUI\\UI.ServerBrowser.TagList.Filtering.prefab \r\n C Assets\\Content\\UI\\MenuUI\\UI.ServerBrowser.TagList.prefab \r\n C Assets\\Content\\UI\\MenuUI\\UI.ServerBrowser.TagList.Summary.prefab \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission01_Objective_HarvestStone.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission04_Objective_HarvestCloth.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07B_Objective_HarvestMetalOre.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission05_Objective_OpenStorage.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07_Objective_OpenStorage.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.prefab \r\n C Assets\\Scripts\\Mission\\Objectives\\MissionObjective_Harvest.cs \r\n C Assets\\Scripts\\Procedural\\Level\\BiomeVisuals.cs \r\n C Assets\\Scripts\\UI\\Main Menu\\Server Browser\\ServerBrowser.cs \r\n C Assets\\Scripts\\UI\\TutorialHelpPopup.cs \r\n C Assets\\Scripts\\Entity\\BuildingBlock\\BuildingBlock.Grades.cs \r\n C Assets\\Scripts\\ConsoleCommands\\debug.cs"
   },
   "Build": {
-    "Id": "5640",
-    "Number": "5640",
-    "Tag": "jenkins-RustServer-5640",
-    "Url": "https://build.facepunch.com/job/RustServer/5640/",
+    "Id": "5641",
+    "Number": "5641",
+    "Tag": "jenkins-RustServer-5641",
+    "Url": "https://build.facepunch.com/job/RustServer/5641/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709059816,
-  "DateString": "27 02 2024",
-  "TimeString": "18:50"
+  "Date": 1709110933,
+  "DateString": "28 02 2024",
+  "TimeString": "09:02"
 }
