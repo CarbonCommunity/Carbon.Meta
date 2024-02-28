@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93556",
+    "ChangeId": "93566",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from nightlight_shader",
-    "Author": "alistair",
-    "Date": "28/02/2024 09:15:11",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\Client\\CameraEffects\\NightLightOverlay.cs \r\n C Assets\\Scripts\\ConsoleCommands\\env.cs"
+    "Comment": "Fixed nightlight variables all being 0 on server startup",
+    "Author": "andre",
+    "Date": "28/02/2024 13:56:01",
+    "Items": "C Assets\\Scripts\\ConsoleCommands\\env.cs"
   },
   "Build": {
-    "Id": "5642",
-    "Number": "5642",
-    "Tag": "jenkins-RustServer-5642",
-    "Url": "https://build.facepunch.com/job/RustServer/5642/",
+    "Id": "5643",
+    "Number": "5643",
+    "Tag": "jenkins-RustServer-5643",
+    "Url": "https://build.facepunch.com/job/RustServer/5643/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709114812,
+  "Date": 1709128607,
   "DateString": "28 02 2024",
-  "TimeString": "10:06"
+  "TimeString": "13:56"
 }
