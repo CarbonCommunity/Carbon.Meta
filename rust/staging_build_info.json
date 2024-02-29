@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93613",
+    "ChangeId": "93619",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from cinematic_tool_branch_swap",
-    "Author": "alistair",
-    "Date": "29/02/2024 11:16:32",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\Shared\\HairDyeCollection.cs \r\n C Assets\\Scripts\\ConsoleCommands\\debug.cs \r\n A Assets\\Editor\\Utility\\LODStripper.cs \r\n A Assets\\Editor\\Utility\\LODStripper.cs.meta \r\n A Assets\\Editor\\Utility\\MaterialDumper.cs \r\n A Assets\\Editor\\Utility\\MaterialDumper.cs.meta \r\n A Assets\\Editor\\Utility\\SceneCameraLock.cs \r\n A Assets\\Editor\\Utility\\SceneCameraLock.cs.meta \r\n A Assets\\Scripts\\Cinematic \r\n A Assets\\Scripts\\Cinematic.meta \r\n A Assets\\Scripts\\Cinematic\\PlayerCopyTool.cs \r\n A Assets\\Scripts\\Cinematic\\PlayerCopyTool.cs.meta"
+    "Comment": "Real merge to main",
+    "Author": "Ian.H",
+    "Date": "29/02/2024 16:04:22",
+    "Items": "C Packages\\packages-lock.json \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\UIMapVendingMachineMarkerCluster.cs"
   },
   "Build": {
-    "Id": "5648",
-    "Number": "5648",
-    "Tag": "jenkins-RustServer-5648",
-    "Url": "https://build.facepunch.com/job/RustServer/5648/",
+    "Id": "5649",
+    "Number": "5649",
+    "Tag": "jenkins-RustServer-5649",
+    "Url": "https://build.facepunch.com/job/RustServer/5649/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709205445,
+  "Date": 1709222707,
   "DateString": "29 02 2024",
-  "TimeString": "11:17"
+  "TimeString": "16:05"
 }
