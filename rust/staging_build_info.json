@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93566",
+    "ChangeId": "93593",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed nightlight variables all being 0 on server startup",
-    "Author": "andre",
-    "Date": "28/02/2024 13:56:01",
-    "Items": "C Assets\\Scripts\\ConsoleCommands\\env.cs"
+    "Comment": "merge from analytics_pooling_refactor -> main",
+    "Author": "jake",
+    "Date": "29/02/2024 01:27:35",
+    "Items": "C Assets\\Scripts\\Analytics\\PerformanceLogging.cs"
   },
   "Build": {
-    "Id": "5643",
-    "Number": "5643",
-    "Tag": "jenkins-RustServer-5643",
-    "Url": "https://build.facepunch.com/job/RustServer/5643/",
+    "Id": "5644",
+    "Number": "5644",
+    "Tag": "jenkins-RustServer-5644",
+    "Url": "https://build.facepunch.com/job/RustServer/5644/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709128607,
-  "DateString": "28 02 2024",
-  "TimeString": "13:56"
+  "Date": 1709170087,
+  "DateString": "29 02 2024",
+  "TimeString": "01:28"
 }
