@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93653",
+    "ChangeId": "93654",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed merge fuckery in flare material.",
+    "Comment": "Large Furnace: Nudged bounce light distance down a tiny fraction to fix a little ground bleed.",
     "Author": "petur",
-    "Date": "01/03/2024 19:45:28",
-    "Items": "C Assets\\Scripts\\Entity\\Misc\\F15\\Model\\Effects\\vfx_f15_flare.mat"
+    "Date": "01/03/2024 20:15:02",
+    "Items": "C Assets\\Prefabs\\Deployable\\Furnace.Large\\furnace.large.prefab"
   },
   "Build": {
-    "Id": "5652",
-    "Number": "5652",
-    "Tag": "jenkins-RustServer-5652",
-    "Url": "https://build.facepunch.com/job/RustServer/5652/",
+    "Id": "5653",
+    "Number": "5653",
+    "Tag": "jenkins-RustServer-5653",
+    "Url": "https://build.facepunch.com/job/RustServer/5653/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709322367,
+  "Date": 1709325079,
   "DateString": "1 03 2024",
-  "TimeString": "19:46"
+  "TimeString": "20:31"
 }
