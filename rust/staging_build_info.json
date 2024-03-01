@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93619",
+    "ChangeId": "93631",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Real merge to main",
-    "Author": "Ian.H",
-    "Date": "29/02/2024 16:04:22",
-    "Items": "C Packages\\packages-lock.json \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\UIMapVendingMachineMarkerCluster.cs"
+    "Comment": "Fixed skin viewer item spin being affected by framerate",
+    "Author": "BillBorman",
+    "Date": "29/02/2024 23:42:50",
+    "Items": "C Assets\\Scripts\\Game\\SkinViewer.cs"
   },
   "Build": {
-    "Id": "5649",
-    "Number": "5649",
-    "Tag": "jenkins-RustServer-5649",
-    "Url": "https://build.facepunch.com/job/RustServer/5649/",
+    "Id": "5650",
+    "Number": "5650",
+    "Tag": "jenkins-RustServer-5650",
+    "Url": "https://build.facepunch.com/job/RustServer/5650/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709222707,
+  "Date": 1709250209,
   "DateString": "29 02 2024",
-  "TimeString": "16:05"
+  "TimeString": "23:43"
 }
