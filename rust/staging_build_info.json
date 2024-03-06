@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93654",
+    "ChangeId": "93827",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Large Furnace: Nudged bounce light distance down a tiny fraction to fix a little ground bleed.",
-    "Author": "petur",
-    "Date": "01/03/2024 20:15:02",
-    "Items": "C Assets\\Prefabs\\Deployable\\Furnace.Large\\furnace.large.prefab"
+    "Comment": "Small adjustment to axe and pick visual positioning on the item store abyss page. I didn't have time to position these perfectly the other day.",
+    "Author": "BillBorman",
+    "Date": "06/03/2024 09:08:40",
+    "Items": "C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Abyss Pack\\ItemPreview_Abyss_Hatchet.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Abyss Pack\\ItemPreview_Abyss_Pickaxe.prefab"
   },
   "Build": {
-    "Id": "5653",
-    "Number": "5653",
-    "Tag": "jenkins-RustServer-5653",
-    "Url": "https://build.facepunch.com/job/RustServer/5653/",
+    "Id": "5666",
+    "Number": "5666",
+    "Tag": "jenkins-RustServer-5666",
+    "Url": "https://build.facepunch.com/job/RustServer/5666/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709325079,
-  "DateString": "1 03 2024",
-  "TimeString": "20:31"
+  "Date": 1709717143,
+  "DateString": "6 03 2024",
+  "TimeString": "09:25"
 }
