@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93873",
+    "ChangeId": "93877",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Mereg from tutorial_island_valid_bounds",
-    "Author": "andre",
-    "Date": "06/03/2024 22:59:55",
-    "Items": "C ProjectSettings\\DynamicsManager.asset \r\n C Assets\\Scripts\\Networking\\NetworkVisibilityGrid.cs \r\n C Assets\\Scripts\\Game\\ValidBounds.cs"
+    "Comment": "Merged vendor ui emoji support",
+    "Author": "Ian.H",
+    "Date": "07/03/2024 00:06:50",
+    "Items": "C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.SingleVendor.prefab \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\SingleVendor.cs"
   },
   "Build": {
-    "Id": "5670",
-    "Number": "5670",
-    "Tag": "jenkins-RustServer-5670",
-    "Url": "https://build.facepunch.com/job/RustServer/5670/",
+    "Id": "5671",
+    "Number": "5671",
+    "Tag": "jenkins-RustServer-5671",
+    "Url": "https://build.facepunch.com/job/RustServer/5671/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709766072,
-  "DateString": "6 03 2024",
-  "TimeString": "23:01"
+  "Date": 1709770094,
+  "DateString": "7 03 2024",
+  "TimeString": "00:08"
 }
