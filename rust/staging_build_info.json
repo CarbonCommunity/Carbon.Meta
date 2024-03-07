@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93896",
+    "ChangeId": "93900",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "chicken costume DLC unlock fix",
-    "Author": "alistair",
-    "Date": "07/03/2024 10:39:50",
-    "Items": "C Assets\\Prefabs\\Misc\\Easter\\ChickenCostume\\chicken.costume.item.prefab"
+    "Comment": "Fixed tutorial island missing terrain splats",
+    "Author": "diogo",
+    "Date": "07/03/2024 13:32:29",
+    "Items": "C Assets\\Scripts\\Rendering\\MeshTerrainRoot.cs"
   },
   "Build": {
-    "Id": "5676",
-    "Number": "5676",
-    "Tag": "jenkins-RustServer-5676",
-    "Url": "https://build.facepunch.com/job/RustServer/5676/",
+    "Id": "5677",
+    "Number": "5677",
+    "Tag": "jenkins-RustServer-5677",
+    "Url": "https://build.facepunch.com/job/RustServer/5677/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709808038,
+  "Date": 1709818430,
   "DateString": "7 03 2024",
-  "TimeString": "10:40"
+  "TimeString": "13:33"
 }
