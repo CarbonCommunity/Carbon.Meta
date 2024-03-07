@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93880",
+    "ChangeId": "93886",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Subtract 93877, will go out in hotfix",
-    "Author": "jarryd",
-    "Date": "07/03/2024 00:42:18",
-    "Items": "C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.SingleVendor.prefab \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\SingleVendor.cs"
+    "Comment": "merge from fix_sendupdatedinventoryinternal_nre",
+    "Author": "alistair",
+    "Date": "07/03/2024 08:13:39",
+    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
   },
   "Build": {
-    "Id": "5672",
-    "Number": "5672",
-    "Tag": "jenkins-RustServer-5672",
-    "Url": "https://build.facepunch.com/job/RustServer/5672/",
+    "Id": "5673",
+    "Number": "5673",
+    "Tag": "jenkins-RustServer-5673",
+    "Url": "https://build.facepunch.com/job/RustServer/5673/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709772631,
+  "Date": 1709799276,
   "DateString": "7 03 2024",
-  "TimeString": "00:50"
+  "TimeString": "08:14"
 }
