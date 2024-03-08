@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93924",
+    "ChangeId": "93930",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fix for RPC error in StartTutorial if no ping data had been initialised on the server",
-    "Author": "jarryd",
-    "Date": "07/03/2024 23:21:21",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\BasePlayer-Pings.cs"
+    "Comment": "",
+    "Author": "jake",
+    "Date": "08/03/2024 01:54:41",
+    "Items": "C Assets\\Plugins\\Facepunch.Unity\\FpApi\\Models\\FeaturesInfo.cs \r\n C Assets\\Scripts\\Analytics\\Analytics.Azure.Web.cs"
   },
   "Build": {
-    "Id": "5683",
-    "Number": "5683",
-    "Tag": "jenkins-RustServer-5683",
-    "Url": "https://build.facepunch.com/job/RustServer/5683/",
+    "Id": "5684",
+    "Number": "5684",
+    "Tag": "jenkins-RustServer-5684",
+    "Url": "https://build.facepunch.com/job/RustServer/5684/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709854565,
-  "DateString": "7 03 2024",
-  "TimeString": "23:36"
+  "Date": 1709862930,
+  "DateString": "8 03 2024",
+  "TimeString": "01:55"
 }
