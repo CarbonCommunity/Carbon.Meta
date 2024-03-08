@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93968",
+    "ChangeId": "93970",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge vendor ui fixes 5",
+    "Comment": "Merge vendor fixes 5",
     "Author": "Ian.H",
-    "Date": "08/03/2024 21:04:47",
-    "Items": "C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.VendorListing.prefab \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\VendorListing.cs"
+    "Date": "08/03/2024 21:12:16",
+    "Items": "C Assets\\Localization\\af\\engine.json \r\n C Assets\\Localization\\ar\\engine.json \r\n C Assets\\Localization\\ca\\engine.json \r\n C Assets\\Localization\\cs\\engine.json \r\n C Assets\\Localization\\da\\engine.json \r\n C Assets\\Localization\\de\\engine.json \r\n C Assets\\Localization\\el\\engine.json \r\n C Assets\\Localization\\en-PT\\engine.json \r\n C Assets\\Localization\\en\\engine.json \r\n C Assets\\Localization\\es-ES\\engine.json \r\n C Assets\\Localization\\fi\\engine.json \r\n C Assets\\Localization\\fr\\engine.json \r\n C Assets\\Localization\\he\\engine.json \r\n C Assets\\Localization\\hu\\engine.json \r\n C Assets\\Localization\\it\\engine.json \r\n C Assets\\Localization\\ja\\engine.json \r\n C Assets\\Localization\\ko\\engine.json \r\n C Assets\\Localization\\nl\\engine.json \r\n C Assets\\Localization\\no\\engine.json \r\n C Assets\\Localization\\pl\\engine.json \r\n C Assets\\Localization\\pt-BR\\engine.json \r\n C Assets\\Localization\\pt-PT\\engine.json \r\n C Assets\\Localization\\ro\\engine.json \r\n C Assets\\Localization\\ru\\engine.json \r\n C Assets\\Localization\\sr\\engine.json \r\n C Assets\\Localization\\sv-SE\\engine.json \r\n C Assets\\Localization\\tr\\engine.json \r\n C Assets\\Localization\\uk\\phrases.json \r\n C Assets\\Localization\\uk\\engine.json \r\n C Assets\\Localization\\vi\\engine.json \r\n C Assets\\Localization\\zh-CN\\engine.json \r\n C Assets\\Localization\\zh-TW\\engine.json \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.VendorListing.prefab \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\VendorListing.cs"
   },
   "Build": {
-    "Id": "5687",
-    "Number": "5687",
-    "Tag": "jenkins-RustServer-5687",
-    "Url": "https://build.facepunch.com/job/RustServer/5687/",
+    "Id": "5688",
+    "Number": "5688",
+    "Tag": "jenkins-RustServer-5688",
+    "Url": "https://build.facepunch.com/job/RustServer/5688/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709931961,
+  "Date": 1709934095,
   "DateString": "8 03 2024",
-  "TimeString": "21:06"
+  "TimeString": "21:41"
 }
