@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93930",
+    "ChangeId": "93939",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "jake",
-    "Date": "08/03/2024 01:54:41",
-    "Items": "C Assets\\Plugins\\Facepunch.Unity\\FpApi\\Models\\FeaturesInfo.cs \r\n C Assets\\Scripts\\Analytics\\Analytics.Azure.Web.cs"
+    "Comment": "merge from tutorial_bag_improvements",
+    "Author": "alistair",
+    "Date": "08/03/2024 09:18:19",
+    "Items": "C Assets\\Scripts\\Entity\\Misc\\SleepingBag.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tutorial.cs"
   },
   "Build": {
-    "Id": "5684",
-    "Number": "5684",
-    "Tag": "jenkins-RustServer-5684",
-    "Url": "https://build.facepunch.com/job/RustServer/5684/",
+    "Id": "5685",
+    "Number": "5685",
+    "Tag": "jenkins-RustServer-5685",
+    "Url": "https://build.facepunch.com/job/RustServer/5685/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709862930,
+  "Date": 1709889560,
   "DateString": "8 03 2024",
-  "TimeString": "01:55"
+  "TimeString": "09:19"
 }
