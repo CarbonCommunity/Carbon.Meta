@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93923",
+    "ChangeId": "93924",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Don't rebuild skeleton, since that method is editor only!",
-    "Author": "BillBorman",
-    "Date": "07/03/2024 23:03:48",
-    "Items": "C Assets\\Scripts\\Game\\SkinViewer.cs"
+    "Comment": "Fix for RPC error in StartTutorial if no ping data had been initialised on the server",
+    "Author": "jarryd",
+    "Date": "07/03/2024 23:21:21",
+    "Items": "C Assets\\Scripts\\Entity\\Player\\BasePlayer-Pings.cs"
   },
   "Build": {
-    "Id": "5682",
-    "Number": "5682",
-    "Tag": "jenkins-RustServer-5682",
-    "Url": "https://build.facepunch.com/job/RustServer/5682/",
+    "Id": "5683",
+    "Number": "5683",
+    "Tag": "jenkins-RustServer-5683",
+    "Url": "https://build.facepunch.com/job/RustServer/5683/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1709852657,
+  "Date": 1709854565,
   "DateString": "7 03 2024",
-  "TimeString": "23:04"
+  "TimeString": "23:36"
 }
