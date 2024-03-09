@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "93933",
+    "ChangeId": "93960",
     "Branch": "release",
     "Repo": "rust_reboot",
     "Comment": "merge from main",
     "Author": "alistair",
-    "Date": "08/03/2024 07:35:59",
-    "Items": "C Assets\\Content\\UI\\MenuUI\\UI.ServerBrowser.TagList.Summary.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\Brutalist\\MenuUI.ItemStore.BuildingSkin.Brutalist.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Building Skins\\LegacyWood\\MenuUI.ItemStore.BuildingSkin.LegacyWood.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Misc\\Industrial Lights\\MenuUI.ItemStore.Misc.IndustrialLights.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Abyss\\MenuUI.ItemStore.Pack.Abyss.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Arctic\\MenuUI.ItemStore.Pack.Arctic.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Packs\\Frontier\\MenuUI.ItemStore.Pack.Frontier.prefab \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Frontier Pack\\ItemPreview_Frontier_Planters.playable \r\n C Assets\\Content\\UI\\MenuUI\\ItemStore\\Previews\\Frontier Pack\\ItemPreview_Frontier_Planters.prefab \r\n C Assets\\Plugins\\Facepunch.Unity\\FpApi\\Models\\FeaturesInfo.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.cs \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.SingleVendor.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Vendor.VendorListing.prefab \r\n C Assets\\Scripts\\Analytics\\Analytics.Azure.Web.cs \r\n C Assets\\Scripts\\Game\\SkinViewer.cs \r\n C Assets\\Scripts\\ConsoleCommands\\server.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\VendorListing.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\VendorUI\\SingleVendor.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Pings.cs"
+    "Date": "08/03/2024 18:36:12",
+    "Items": "C Prerequisites\\SteamInventory\\generator.json \r\n C Prerequisites\\SteamInventory\\Icons\\584379.png \r\n C Prerequisites\\SteamInventory\\PaymentRules.csv \r\n C Prerequisites\\SteamInventory\\schema-full.json \r\n C Prerequisites\\SteamInventory\\schema-new.json \r\n C Prerequisites\\SteamInventory\\schema-old.json \r\n C Assets\\Content\\UI\\GameUI\\GameUI.Hud.BeltBar.prefab \r\n C Assets\\Plugins\\Facepunch.Input\\Input.cs \r\n C Assets\\Plugins\\Rust.Workshop\\Approved.2024.cs \r\n C Assets\\Scripts\\PostProcessing\\CustomPostEffects\\NightLight\\NightLightShader.shader \r\n C Assets\\Scripts\\Client\\TokenisedPhrase.cs \r\n C Assets\\Scripts\\Entity\\Misc\\SleepingBag.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\Binocular.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Server.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tutorial.cs \r\n A Prerequisites\\SteamInventory\\Icons\\57500.png \r\n A Prerequisites\\SteamInventory\\Icons\\57501.png \r\n A Prerequisites\\SteamInventory\\Icons\\57502.png \r\n A Prerequisites\\SteamInventory\\Icons\\57503.png \r\n A Prerequisites\\SteamInventory\\Icons\\57504.png \r\n A Prerequisites\\SteamInventory\\Icons\\57505.png \r\n A Prerequisites\\SteamInventory\\Icons\\57506.png \r\n A Prerequisites\\SteamInventory\\Icons\\57507.png"
   },
   "Build": {
-    "Id": "626",
-    "Number": "626",
-    "Tag": "jenkins-RustReleaseServer-626",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/626/",
+    "Id": "627",
+    "Number": "627",
+    "Tag": "jenkins-RustReleaseServer-627",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/627/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1709883401,
+  "Date": 1709923029,
   "DateString": "8 03 2024",
-  "TimeString": "07:36"
+  "TimeString": "18:37"
 }
