@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94025",
+    "ChangeId": "94043",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
+    "Comment": "merge from tutorial_island",
     "Author": "alistair",
-    "Date": "11/03/2024 17:56:05",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\BasePlayer-Projectile.cs"
+    "Date": "12/03/2024 09:07:49",
+    "Items": "C Assets\\Editor\\Utility\\Phrases\\Phrases.Engine.cs \r\n C Assets\\Plugins\\Rust.Global\\Defines.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\TutorialFullScreenHelpInfo.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Barrels.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_ChangeBlock.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_CloseDoor.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_FillTC.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_Foundation.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_Planner.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_Softsides.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildKayak.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Cook_Ignite.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Cook.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Craft.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.FinishBase_ClothHemp.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.FinishBase_Deployables.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Furnace.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.HarvestBear.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Hunt_Campfire.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Hunt_Harvest.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Hunt_Spear.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Inventory.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.MoveControls.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Ore.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Paddle.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.TreeHitting.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.UseFurnace.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\Menu\\MenuHelpWidget.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_UpgradeWood.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.OpenSupplies.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BuildBase_Hammer.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.LowGrade.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Sprinting.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Bandages.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.BowUsage.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Clothing.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Cook_Eat.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.DeployVehicles.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Respawn.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.CorpseLooting.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\HelpPrompts\\HelpInfo.Crouch.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialIsland.cs \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission04C_FillToolCupboard.asset \r\n C Assets\\Scripts\\Mission\\Objectives\\MissionObjective_RetrieveItemsFromCorpse.cs \r\n C Assets\\Scripts\\UI\\TutorialHelpPopup.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Pings.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Client.cs \r\n C Assets\\Scripts\\ConsoleCommands\\debug.cs \r\n D Assets\\Scripts\\UI\\TutorialHelpModalStageWidget.cs \r\n D Assets\\Scripts\\UI\\TutorialHelpModalStageWidget.cs.meta"
   },
   "Build": {
-    "Id": "5692",
-    "Number": "5692",
-    "Tag": "jenkins-RustServer-5692",
-    "Url": "https://build.facepunch.com/job/RustServer/5692/",
+    "Id": "5694",
+    "Number": "5694",
+    "Tag": "jenkins-RustServer-5694",
+    "Url": "https://build.facepunch.com/job/RustServer/5694/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710179849,
-  "DateString": "11 03 2024",
-  "TimeString": "17:57"
+  "Date": 1710234862,
+  "DateString": "12 03 2024",
+  "TimeString": "09:14"
 }
