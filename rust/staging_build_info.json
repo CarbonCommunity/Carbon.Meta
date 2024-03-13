@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94102",
+    "ChangeId": "94112",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Compile fix",
-    "Author": "flavien.c",
-    "Date": "13/03/2024 11:18:40",
-    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\Planner.Guide.Snapping.cs"
+    "Comment": "merge from maptooltips_nameupdate",
+    "Author": "alistair",
+    "Date": "13/03/2024 15:15:04",
+    "Items": "C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.DeliveryDrone.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Explosion.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.FrankensteinPet.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.HackableCrate.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.Island.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.MLRSRocket.prefab \r\n C Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.PatrolHeliMarker.prefab"
   },
   "Build": {
-    "Id": "5698",
-    "Number": "5698",
-    "Tag": "jenkins-RustServer-5698",
-    "Url": "https://build.facepunch.com/job/RustServer/5698/",
+    "Id": "5700",
+    "Number": "5700",
+    "Tag": "jenkins-RustServer-5700",
+    "Url": "https://build.facepunch.com/job/RustServer/5700/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710328765,
+  "Date": 1710345015,
   "DateString": "13 03 2024",
-  "TimeString": "11:19"
+  "TimeString": "15:50"
 }
