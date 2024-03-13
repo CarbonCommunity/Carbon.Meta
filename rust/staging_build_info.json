@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94144",
+    "ChangeId": "94146",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed debuglanguage being on by default (mode 2) instead of off (mode 0) as intended. Bug from merge in 94124.",
+    "Comment": "Actually let's go 4x as fast - that matches the scroll sensitivity of the main crafting list. Increased queue scroll sensitivity also.",
     "Author": "BillBorman",
-    "Date": "13/03/2024 22:37:05",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs"
+    "Date": "13/03/2024 22:50:47",
+    "Items": "C Assets\\Content\\UI\\GameUI\\GameUI.Crafting.prefab"
   },
   "Build": {
-    "Id": "5704",
-    "Number": "5704",
-    "Tag": "jenkins-RustServer-5704",
-    "Url": "https://build.facepunch.com/job/RustServer/5704/",
+    "Id": "5705",
+    "Number": "5705",
+    "Tag": "jenkins-RustServer-5705",
+    "Url": "https://build.facepunch.com/job/RustServer/5705/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710369755,
+  "Date": 1710372115,
   "DateString": "13 03 2024",
-  "TimeString": "22:42"
+  "TimeString": "23:21"
 }
