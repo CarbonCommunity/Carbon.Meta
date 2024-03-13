@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94127",
+    "ChangeId": "94144",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from io_entity_snapping/button_fix",
-    "Author": "alistair",
-    "Date": "13/03/2024 17:42:54",
-    "Items": "C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Button\\Button.prefab"
+    "Comment": "Fixed debuglanguage being on by default (mode 2) instead of off (mode 0) as intended. Bug from merge in 94124.",
+    "Author": "BillBorman",
+    "Date": "13/03/2024 22:37:05",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs"
   },
   "Build": {
-    "Id": "5702",
-    "Number": "5702",
-    "Tag": "jenkins-RustServer-5702",
-    "Url": "https://build.facepunch.com/job/RustServer/5702/",
+    "Id": "5704",
+    "Number": "5704",
+    "Tag": "jenkins-RustServer-5704",
+    "Url": "https://build.facepunch.com/job/RustServer/5704/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710352494,
+  "Date": 1710369755,
   "DateString": "13 03 2024",
-  "TimeString": "17:54"
+  "TimeString": "22:42"
 }
