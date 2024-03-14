@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94189",
+    "ChangeId": "94224",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "alistair",
-    "Date": "14/03/2024 11:58:07",
-    "Items": "C Assets\\Scripts\\ConsoleCommands\\antihack.cs"
+    "Comment": "In editor only, throw an exception if Pool.GetList is going to return a list that isn't empty.",
+    "Author": "BillBorman",
+    "Date": "14/03/2024 21:56:45",
+    "Items": "C Assets\\Plugins\\Facepunch.System\\Pool.cs"
   },
   "Build": {
-    "Id": "5709",
-    "Number": "5709",
-    "Tag": "jenkins-RustServer-5709",
-    "Url": "https://build.facepunch.com/job/RustServer/5709/",
+    "Id": "5710",
+    "Number": "5710",
+    "Tag": "jenkins-RustServer-5710",
+    "Url": "https://build.facepunch.com/job/RustServer/5710/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710417535,
+  "Date": 1710453565,
   "DateString": "14 03 2024",
-  "TimeString": "11:58"
+  "TimeString": "21:59"
 }
