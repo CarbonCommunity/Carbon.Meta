@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94162",
+    "ChangeId": "94163",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge SkinViewerBones -> main",
+    "Comment": "Reduce latestSeatClipSeemsFarAway from 40m to 25m just to make 100% sure this is fixed.",
     "Author": "BillBorman",
-    "Date": "14/03/2024 02:27:33",
-    "Items": "C Assets\\bundled\\Prefabs\\ui\\SkinViewer.prefab \r\n C Assets\\Prefabs\\Clothes\\vest.metal\\vest.metal.prefab \r\n C Assets\\Prefabs\\Clothes\\vest.metal\\vest.metal_ice\\vest.metal_ice.prefab \r\n C Assets\\Scripts\\Game\\Wearable.cs \r\n C Assets\\Scripts\\Game\\GameManager.cs \r\n C Assets\\Scripts\\Game\\PrefabPreProcess.cs \r\n C Assets\\Scripts\\Game\\SkinViewer.cs"
+    "Date": "14/03/2024 02:46:40",
+    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\Boat\\MotorRowboat.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs"
   },
   "Build": {
-    "Id": "5706",
-    "Number": "5706",
-    "Tag": "jenkins-RustServer-5706",
-    "Url": "https://build.facepunch.com/job/RustServer/5706/",
+    "Id": "5707",
+    "Number": "5707",
+    "Tag": "jenkins-RustServer-5707",
+    "Url": "https://build.facepunch.com/job/RustServer/5707/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710383291,
+  "Date": 1710385387,
   "DateString": "14 03 2024",
-  "TimeString": "02:28"
+  "TimeString": "03:03"
 }
