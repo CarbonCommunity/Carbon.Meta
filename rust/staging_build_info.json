@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94146",
+    "ChangeId": "94162",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Actually let's go 4x as fast - that matches the scroll sensitivity of the main crafting list. Increased queue scroll sensitivity also.",
+    "Comment": "Merge SkinViewerBones -> main",
     "Author": "BillBorman",
-    "Date": "13/03/2024 22:50:47",
-    "Items": "C Assets\\Content\\UI\\GameUI\\GameUI.Crafting.prefab"
+    "Date": "14/03/2024 02:27:33",
+    "Items": "C Assets\\bundled\\Prefabs\\ui\\SkinViewer.prefab \r\n C Assets\\Prefabs\\Clothes\\vest.metal\\vest.metal.prefab \r\n C Assets\\Prefabs\\Clothes\\vest.metal\\vest.metal_ice\\vest.metal_ice.prefab \r\n C Assets\\Scripts\\Game\\Wearable.cs \r\n C Assets\\Scripts\\Game\\GameManager.cs \r\n C Assets\\Scripts\\Game\\PrefabPreProcess.cs \r\n C Assets\\Scripts\\Game\\SkinViewer.cs"
   },
   "Build": {
-    "Id": "5705",
-    "Number": "5705",
-    "Tag": "jenkins-RustServer-5705",
-    "Url": "https://build.facepunch.com/job/RustServer/5705/",
+    "Id": "5706",
+    "Number": "5706",
+    "Tag": "jenkins-RustServer-5706",
+    "Url": "https://build.facepunch.com/job/RustServer/5706/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710372115,
-  "DateString": "13 03 2024",
-  "TimeString": "23:21"
+  "Date": 1710383291,
+  "DateString": "14 03 2024",
+  "TimeString": "02:28"
 }
