@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94227",
+    "ChangeId": "94228",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed editor-only list check in Pool.Free",
+    "Comment": "Add info on a collider name to the IsSeatClipping error",
     "Author": "BillBorman",
-    "Date": "14/03/2024 23:00:18",
-    "Items": "C Assets\\Plugins\\Facepunch.System\\Pool.cs"
+    "Date": "14/03/2024 23:04:28",
+    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs"
   },
   "Build": {
-    "Id": "5711",
-    "Number": "5711",
-    "Tag": "jenkins-RustServer-5711",
-    "Url": "https://build.facepunch.com/job/RustServer/5711/",
+    "Id": "5712",
+    "Number": "5712",
+    "Tag": "jenkins-RustServer-5712",
+    "Url": "https://build.facepunch.com/job/RustServer/5712/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710457272,
+  "Date": 1710459400,
   "DateString": "14 03 2024",
-  "TimeString": "23:01"
+  "TimeString": "23:36"
 }
