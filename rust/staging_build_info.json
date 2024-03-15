@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94228",
+    "ChangeId": "94243",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Add info on a collider name to the IsSeatClipping error",
+    "Comment": "Clear list when using GetList in the pool",
     "Author": "BillBorman",
-    "Date": "14/03/2024 23:04:28",
-    "Items": "C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs"
+    "Date": "15/03/2024 04:28:15",
+    "Items": "C Assets\\Plugins\\Facepunch.System\\Pool.cs"
   },
   "Build": {
-    "Id": "5712",
-    "Number": "5712",
-    "Tag": "jenkins-RustServer-5712",
-    "Url": "https://build.facepunch.com/job/RustServer/5712/",
+    "Id": "5713",
+    "Number": "5713",
+    "Tag": "jenkins-RustServer-5713",
+    "Url": "https://build.facepunch.com/job/RustServer/5713/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710459400,
-  "DateString": "14 03 2024",
-  "TimeString": "23:36"
+  "Date": 1710476936,
+  "DateString": "15 03 2024",
+  "TimeString": "04:28"
 }
