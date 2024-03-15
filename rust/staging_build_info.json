@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94243",
+    "ChangeId": "94246",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Clear list when using GetList in the pool",
+    "Comment": "Remove all my temporary rowboat seat clip debugging. Hopefully rowboat dismounts are now solved",
     "Author": "BillBorman",
-    "Date": "15/03/2024 04:28:15",
-    "Items": "C Assets\\Plugins\\Facepunch.System\\Pool.cs"
+    "Date": "15/03/2024 05:02:41",
+    "Items": "C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\Boat\\MotorRowboat.cs"
   },
   "Build": {
-    "Id": "5713",
-    "Number": "5713",
-    "Tag": "jenkins-RustServer-5713",
-    "Url": "https://build.facepunch.com/job/RustServer/5713/",
+    "Id": "5714",
+    "Number": "5714",
+    "Tag": "jenkins-RustServer-5714",
+    "Url": "https://build.facepunch.com/job/RustServer/5714/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710476936,
+  "Date": 1710479999,
   "DateString": "15 03 2024",
-  "TimeString": "04:28"
+  "TimeString": "05:19"
 }
