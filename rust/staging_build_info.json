@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94250",
+    "ChangeId": "94260",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Use 'obj is IList' instead of the earlier, longer version",
-    "Author": "BillBorman",
-    "Date": "15/03/2024 06:05:11",
-    "Items": "C Assets\\Plugins\\Facepunch.System\\Pool.cs"
+    "Comment": "network++",
+    "Author": "alistair",
+    "Date": "15/03/2024 10:01:59",
+    "Items": "C Assets\\Plugins\\Rust.Global\\Protocol.cs"
   },
   "Build": {
-    "Id": "5715",
-    "Number": "5715",
-    "Tag": "jenkins-RustServer-5715",
-    "Url": "https://build.facepunch.com/job/RustServer/5715/",
+    "Id": "5716",
+    "Number": "5716",
+    "Tag": "jenkins-RustServer-5716",
+    "Url": "https://build.facepunch.com/job/RustServer/5716/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710482759,
+  "Date": 1710496984,
   "DateString": "15 03 2024",
-  "TimeString": "06:05"
+  "TimeString": "10:03"
 }
