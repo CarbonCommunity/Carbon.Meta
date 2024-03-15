@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94277",
+    "ChangeId": "94283",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "merge from harmony2_3 -> aux2",
-    "Author": "jake",
-    "Date": "15/03/2024 13:57:05",
-    "Items": "C Prerequisites\\SteamInventory\\generator.json \r\n C Prerequisites\\SteamInventory\\Icons\\584379.png \r\n C Prerequisites\\SteamInventory\\PaymentRules.csv \r\n C Prerequisites\\SteamInventory\\schema-full.json \r\n C Prerequisites\\SteamInventory\\schema-old.json \r\n C Prerequisites\\SteamInventory\\schema-new.json \r\n C ProjectSettings\\ProjectSettings.asset \r\n C Assets\\Editor\\Utility\\Build.cs \r\n C Assets\\Plugins\\Facepunch.System\\Pool.cs \r\n C Assets\\Plugins\\Harmony\\0Harmony.dll.meta \r\n C Assets\\Plugins\\Harmony\\0Harmony.dll \r\n C Assets\\Plugins\\Rust.Harmony\\Rust.Harmony.asmdef \r\n C Assets\\Plugins\\Rust.Harmony\\HarmonyLoader.cs \r\n C Assets\\Plugins\\Rust.Workshop\\Approved.2024.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs \r\n A Prerequisites\\SteamInventory\\Icons\\57600.png \r\n A Prerequisites\\SteamInventory\\Icons\\57601.png \r\n A Prerequisites\\SteamInventory\\Icons\\57602.png \r\n A Prerequisites\\SteamInventory\\Icons\\57603.png \r\n A Prerequisites\\SteamInventory\\Icons\\57604.png \r\n A Prerequisites\\SteamInventory\\Icons\\57605.png \r\n A Prerequisites\\SteamInventory\\Icons\\57606.png \r\n A Prerequisites\\SteamInventory\\Icons\\57607.png \r\n A Assets\\Plugins\\Harmony\\0Harmony.pdb \r\n A Assets\\Plugins\\Harmony\\0Harmony.pdb.meta"
+    "Comment": "Merged electricity_power_fixes/ceilinglight to Aux2",
+    "Author": "flavien.c",
+    "Date": "15/03/2024 14:05:12",
+    "Items": "C Assets\\Scripts\\Entity\\Misc\\CeilingLight.cs"
   },
   "Build": {
-    "Id": "641",
-    "Number": "641",
-    "Tag": "jenkins-RustServerAux02-641",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/641/",
+    "Id": "642",
+    "Number": "642",
+    "Tag": "jenkins-RustServerAux02-642",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/642/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1710511087,
+  "Date": 1710513872,
   "DateString": "15 03 2024",
-  "TimeString": "13:58"
+  "TimeString": "14:44"
 }
