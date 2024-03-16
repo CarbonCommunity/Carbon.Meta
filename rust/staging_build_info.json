@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94260",
+    "ChangeId": "94313",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "network++",
-    "Author": "alistair",
-    "Date": "15/03/2024 10:01:59",
-    "Items": "C Assets\\Plugins\\Rust.Global\\Protocol.cs"
+    "Comment": "",
+    "Author": "diogo",
+    "Date": "16/03/2024 20:39:23",
+    "Items": "C Assets\\Content\\Workshop\\skin\\sleepingbag\\blue plaid sleeping bag\\diffuse.tga.meta"
   },
   "Build": {
-    "Id": "5716",
-    "Number": "5716",
-    "Tag": "jenkins-RustServer-5716",
-    "Url": "https://build.facepunch.com/job/RustServer/5716/",
+    "Id": "5717",
+    "Number": "5717",
+    "Tag": "jenkins-RustServer-5717",
+    "Url": "https://build.facepunch.com/job/RustServer/5717/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710496984,
-  "DateString": "15 03 2024",
-  "TimeString": "10:03"
+  "Date": 1710621657,
+  "DateString": "16 03 2024",
+  "TimeString": "20:40"
 }
