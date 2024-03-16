@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94306",
+    "ChangeId": "94308",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merge from full_server_demos -> aux2\r\nNetwork++",
-    "Author": "jake",
-    "Date": "15/03/2024 23:40:25",
-    "Items": "C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\Plugins\\Facepunch.System\\Pool.cs \r\n C Assets\\Plugins\\Facepunch.Raknet\\Raknet.Client.cs \r\n C Assets\\Plugins\\Facepunch.Raknet\\Raknet.Server.cs \r\n C Assets\\Plugins\\Facepunch.SteamNetworking\\SteamNetworking.Client.cs \r\n C Assets\\Plugins\\Facepunch.SteamNetworking\\SteamNetworking.Server.cs \r\n C Assets\\Plugins\\Facepunch.Network\\Message.cs \r\n C Assets\\Plugins\\Facepunch.Network\\Client.cs \r\n C Assets\\Plugins\\Facepunch.Network\\Server.cs \r\n C Assets\\Plugins\\Facepunch.Network\\BaseNetwork.cs \r\n C Assets\\Plugins\\Facepunch.Network\\DemoClient.cs \r\n C Assets\\Plugins\\Facepunch.Network\\NetWrite.cs \r\n C Assets\\Plugins\\Rust.Global\\Protocol.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\BaseEntity.Signal.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\BaseEntity.RPC.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\Boat\\MotorRowboat.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\BaseVehicle.Server.cs \r\n C Assets\\Scripts\\Client\\Client.Connection.cs \r\n A Assets\\Plugins\\Facepunch.Network\\Demos\\Helper\\PacketOrdering.cs \r\n A Assets\\Plugins\\Facepunch.Network\\Demos\\Helper\\PacketOrdering.cs.meta"
+    "Comment": "Merged io_entity_snapping/fixes to Aux2",
+    "Author": "flavien.c",
+    "Date": "16/03/2024 00:34:59",
+    "Items": "C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\FluidSplitter\\FluidSplitter.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\App\\SmartSwitch\\SmartSwitch.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Button\\Button.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\FluidCombiner\\fluid.combiner.deployed.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\FluidSwitch\\FluidSwitch.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\ANDSwitch\\ANDSwitch.entity.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\ORSwitch\\ORSwitch.entity.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\XORSwitch\\XORSwitch.entity.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Splitter\\Splitter.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Sprinkler\\electric.sprinkler.deployed.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Timers\\Timer.prefab \r\n C Assets\\Prefabs\\Misc\\PermStore\\IndustrialLight\\industrial.wall.lamp.deployed.prefab"
   },
   "Build": {
-    "Id": "644",
-    "Number": "644",
-    "Tag": "jenkins-RustServerAux02-644",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/644/",
+    "Id": "645",
+    "Number": "645",
+    "Tag": "jenkins-RustServerAux02-645",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/645/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1710546091,
-  "DateString": "15 03 2024",
-  "TimeString": "23:41"
+  "Date": 1710549351,
+  "DateString": "16 03 2024",
+  "TimeString": "00:35"
 }
