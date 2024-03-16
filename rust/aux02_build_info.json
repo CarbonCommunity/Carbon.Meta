@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94308",
+    "ChangeId": "94309",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merged io_entity_snapping/fixes to Aux2",
+    "Comment": "Merged electricity_power_fixes to Aux2",
     "Author": "flavien.c",
-    "Date": "16/03/2024 00:34:59",
-    "Items": "C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\FluidSplitter\\FluidSplitter.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\App\\SmartSwitch\\SmartSwitch.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Button\\Button.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\FluidCombiner\\fluid.combiner.deployed.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\FluidSwitch\\FluidSwitch.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\ANDSwitch\\ANDSwitch.entity.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\ORSwitch\\ORSwitch.entity.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\XORSwitch\\XORSwitch.entity.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Splitter\\Splitter.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Sprinkler\\electric.sprinkler.deployed.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Timers\\Timer.prefab \r\n C Assets\\Prefabs\\Misc\\PermStore\\IndustrialLight\\industrial.wall.lamp.deployed.prefab"
+    "Date": "16/03/2024 00:35:35",
+    "Items": "C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\DFlipFlop\\ElectricalDFlipFlop.cs \r\n C Assets\\Scripts\\EntityIO\\Electric\\App\\SmartSwitch.cs \r\n C Assets\\Scripts\\EntityIO\\Electric\\ElectricSwitch.cs"
   },
   "Build": {
-    "Id": "645",
-    "Number": "645",
-    "Tag": "jenkins-RustServerAux02-645",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/645/",
+    "Id": "646",
+    "Number": "646",
+    "Tag": "jenkins-RustServerAux02-646",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/646/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1710549351,
+  "Date": 1710556444,
   "DateString": "16 03 2024",
-  "TimeString": "00:35"
+  "TimeString": "02:34"
 }
