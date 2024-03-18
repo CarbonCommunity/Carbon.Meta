@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94309",
+    "ChangeId": "94360",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merged electricity_power_fixes to Aux2",
-    "Author": "flavien.c",
-    "Date": "16/03/2024 00:35:35",
-    "Items": "C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\DFlipFlop\\ElectricalDFlipFlop.cs \r\n C Assets\\Scripts\\EntityIO\\Electric\\App\\SmartSwitch.cs \r\n C Assets\\Scripts\\EntityIO\\Electric\\ElectricSwitch.cs"
+    "Comment": "merge harmony2_3 -> aux2",
+    "Author": "jake",
+    "Date": "18/03/2024 17:25:35",
+    "Items": "C Assets\\Plugins\\Rust.Harmony\\HarmonyLoader.cs"
   },
   "Build": {
-    "Id": "646",
-    "Number": "646",
-    "Tag": "jenkins-RustServerAux02-646",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/646/",
+    "Id": "647",
+    "Number": "647",
+    "Tag": "jenkins-RustServerAux02-647",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/647/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1710556444,
-  "DateString": "16 03 2024",
-  "TimeString": "02:34"
+  "Date": 1710782799,
+  "DateString": "18 03 2024",
+  "TimeString": "17:26"
 }
