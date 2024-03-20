@@ -10,14 +10,14 @@
     "Items": "C Assets\\Content\\Player\\Animations\\Cinematics\\Dialogue\\talking_06.fbx.meta"
   },
   "Build": {
-    "Id": "5718",
-    "Number": "5718",
-    "Tag": "jenkins-RustServer-5718",
-    "Url": "https://build.facepunch.com/job/RustServer/5718/",
+    "Id": "5723",
+    "Number": "5723",
+    "Tag": "jenkins-RustServer-5723",
+    "Url": "https://build.facepunch.com/job/RustServer/5723/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1710799029,
-  "DateString": "18 03 2024",
-  "TimeString": "21:57"
+  "Date": 1710948903,
+  "DateString": "20 03 2024",
+  "TimeString": "15:35"
 }
