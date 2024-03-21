@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94558",
+    "ChangeId": "94562",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "phrases",
-    "Author": "alistair",
-    "Date": "21/03/2024 20:22:52",
-    "Items": "C Assets\\Localization\\af\\engine.json \r\n C Assets\\Localization\\ar\\engine.json \r\n C Assets\\Localization\\ca\\engine.json \r\n C Assets\\Localization\\cs\\engine.json \r\n C Assets\\Localization\\da\\engine.json \r\n C Assets\\Localization\\de\\engine.json \r\n C Assets\\Localization\\el\\engine.json \r\n C Assets\\Localization\\en-PT\\engine.json \r\n C Assets\\Localization\\en\\engine.json \r\n C Assets\\Localization\\es-ES\\engine.json \r\n C Assets\\Localization\\fi\\engine.json \r\n C Assets\\Localization\\fr\\engine.json \r\n C Assets\\Localization\\he\\engine.json \r\n C Assets\\Localization\\hu\\engine.json \r\n C Assets\\Localization\\it\\engine.json \r\n C Assets\\Localization\\ja\\engine.json \r\n C Assets\\Localization\\ko\\engine.json \r\n C Assets\\Localization\\nl\\engine.json \r\n C Assets\\Localization\\no\\engine.json \r\n C Assets\\Localization\\pl\\engine.json \r\n C Assets\\Localization\\pt-BR\\engine.json \r\n C Assets\\Localization\\pt-PT\\engine.json \r\n C Assets\\Localization\\ro\\engine.json \r\n C Assets\\Localization\\ru\\engine.json \r\n C Assets\\Localization\\sr\\engine.json \r\n C Assets\\Localization\\sv-SE\\engine.json \r\n C Assets\\Localization\\tr\\engine.json \r\n C Assets\\Localization\\uk\\engine.json \r\n C Assets\\Localization\\vi\\engine.json \r\n C Assets\\Localization\\zh-CN\\engine.json \r\n C Assets\\Localization\\zh-TW\\engine.json"
+    "Comment": "Fixed easter egg hunt missing phrases",
+    "Author": "flavien.c",
+    "Date": "21/03/2024 21:59:51",
+    "Items": "C Assets\\Localization\\en\\engine.json \r\n C Assets\\Prefabs\\Misc\\Halloween\\HalloweenHunt.cs \r\n C Assets\\Prefabs\\Misc\\Easter\\EggHuntEvent.cs"
   },
   "Build": {
-    "Id": "5724",
-    "Number": "5724",
-    "Tag": "jenkins-RustServer-5724",
-    "Url": "https://build.facepunch.com/job/RustServer/5724/",
+    "Id": "5725",
+    "Number": "5725",
+    "Tag": "jenkins-RustServer-5725",
+    "Url": "https://build.facepunch.com/job/RustServer/5725/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711052666,
+  "Date": 1711058459,
   "DateString": "21 03 2024",
-  "TimeString": "20:24"
+  "TimeString": "22:00"
 }
