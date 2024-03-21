@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94535",
+    "ChangeId": "94557",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "merge from sat tube",
-    "Author": "paroxum",
-    "Date": "21/03/2024 14:40:56",
-    "Items": "C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_root_LODS\\Oilrig_root_HLOD_albedo.png \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_root_LODS\\Oilrig_root_HLOD_normals.png \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_root_LODS\\Oilrig_root_HLOD_specular.png \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_root_LODS\\Oilrig_root_HLOD_mesh.asset \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_root_LODS\\Oilrig_root_HLOD_material.mat \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_small.unity \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_2.prefab \r\n C Assets\\Content\\Props\\Moonpool_crane\\models\\oilrig_moon_pool_crane.fbx \r\n C Assets\\Content\\Props\\Moonpool_crane\\models\\oilrig_moon_pool_crane.fbx.meta \r\n C Assets\\Content\\Structures\\military_hangar\\models\\Materials\\02 - Default.mat \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\level3_cctv_room.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\level3_interior_hall.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_moon_pool.prefab \r\n C Assets\\Content\\Structures\\oilrig\\models\\level3_interior_hall_COL.fbx \r\n A Assets\\Content\\Props\\Moonpool_crane\\models\\Materials \r\n A Assets\\Content\\Props\\Moonpool_crane\\models\\Materials.meta \r\n A Assets\\Content\\Props\\Moonpool_crane\\oilrig_moon_pool_crane.prefab \r\n A Assets\\Content\\Props\\Moonpool_crane\\oilrig_moon_pool_crane.prefab.meta \r\n A Assets\\Content\\Props\\Moonpool_crane\\textures \r\n A Assets\\Content\\Props\\Moonpool_crane\\textures.meta \r\n A Assets\\Content\\Props\\Moonpool_crane\\models\\Materials\\moon_pool_crane.mat \r\n A Assets\\Content\\Props\\Moonpool_crane\\models\\Materials\\moon_pool_crane.mat.meta \r\n A Assets\\Content\\Props\\Moonpool_crane\\textures\\moon_pool_crane_nrm.tga \r\n A Assets\\Content\\Props\\Moonpool_crane\\textures\\moon_pool_crane_nrm.tga.meta \r\n A Assets\\Content\\Props\\Moonpool_crane\\textures\\moon_pool_crane_packedMask.tga \r\n A Assets\\Content\\Props\\Moonpool_crane\\textures\\moon_pool_crane_packedMask.tga.meta"
+    "Comment": "Merged harbor_tweaks_4",
+    "Author": "Ian.H",
+    "Date": "21/03/2024 19:36:33",
+    "Items": "C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShipTest.prefab \r\n C Assets\\Content\\Structures\\cargo_ship\\Models\\cargo_ship_hull_interior_b.fbx \r\n C Assets\\Content\\Structures\\cargo_ship\\Models\\cargo_ship_hull_interior.fbx \r\n C Assets\\Content\\Structures\\cargo_ship\\Models\\cargo_ship_hull_interior_COL.fbx \r\n C Assets\\Scripts\\Util\\Components\\MaterialConfig.cs \r\n C Assets\\Scripts\\Util\\Components\\MaterialSetup.cs"
   },
   "Build": {
-    "Id": "658",
-    "Number": "658",
-    "Tag": "jenkins-RustServerAux02-658",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/658/",
+    "Id": "659",
+    "Number": "659",
+    "Tag": "jenkins-RustServerAux02-659",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/659/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711032237,
+  "Date": 1711049847,
   "DateString": "21 03 2024",
-  "TimeString": "14:43"
+  "TimeString": "19:37"
 }
