@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94455",
+    "ChangeId": "94532",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merge from harbor_tweaks_4_cargoship",
-    "Author": "jarryd",
-    "Date": "20/03/2024 05:39:21",
-    "Items": "C protobuf\\proto\\Entity.proto \r\n C Assets\\manifest.asset \r\n C Assets\\Scenes\\Test\\Assets_Zoo.unity \r\n C Assets\\Scenes\\Test\\CargoCraneTest.unity \r\n C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Scenes\\Prefabs\\Overgrowth\\overgrowth_dressing.asset \r\n C Assets\\Scenes\\Prefabs\\Overgrowth\\overgrowth_dressing\\HeightTexture.png \r\n C Assets\\Scenes\\Prefabs\\Overgrowth\\overgrowth_dressing\\NormalTexture.png \r\n C Assets\\Scenes\\Prefabs\\Overgrowth\\overgrowth_dressing\\SplatTexture0.png \r\n C Assets\\Scenes\\Prefabs\\Overgrowth\\overgrowth_dressing\\SplatTexture1.png \r\n C Assets\\Scenes\\Prefabs\\Overgrowth\\overgrowth_dressing\\NormalTexture.png.meta \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2_root2_LODS\\harbor_2_root2_HLOD_mesh.asset \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2_root2_LODS\\harbor_2_root2_HLOD_albedo.png \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2_root2_LODS\\harbor_2_root2_HLOD_normals.png \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2_root2_LODS\\harbor_2_root2_HLOD_specular.png \r\n C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.cs \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.Serializer.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Content\\Props\\AC_units\\ac_unit_a_300x300.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\HarborCraneContainerSpawnPoint.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_pickup.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_swing_bridge.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_rotate.prefab \r\n C Assets\\Prefabs\\NPC\\M2Bradley\\Scripts\\BasePath.cs \r\n C Assets\\Scripts\\Procedural\\TerrainExtension\\TerrainMeta.cs \r\n C Assets\\Scripts\\ConsoleCommands\\spawn.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborProximityManager.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborProximityEntity.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.Client.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneStatic.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCrane.cs \r\n A Assets\\Content\\Properties\\MaterialConfig\\Snow Effect.asset \r\n A Assets\\Content\\Properties\\MaterialConfig\\Snow Effect.asset.meta \r\n A Assets\\Content\\Props\\shipping_containers\\models\\drop_off_ground_decal.fbx \r\n A Assets\\Content\\Props\\shipping_containers\\models\\drop_off_ground_decal.fbx.meta \r\n A Assets\\Content\\Props\\shipping_containers\\drop_off_ground_decal.prefab \r\n A Assets\\Content\\Props\\shipping_containers\\drop_off_ground_decal.prefab.meta \r\n A Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_container_block.prefab \r\n A Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_container_block.prefab.meta"
+    "Comment": "Merged in harbor_tweaks_4_cargoship",
+    "Author": "Ian.H",
+    "Date": "21/03/2024 12:46:53",
+    "Items": "C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs"
   },
   "Build": {
-    "Id": "655",
-    "Number": "655",
-    "Tag": "jenkins-RustServerAux02-655",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/655/",
+    "Id": "656",
+    "Number": "656",
+    "Tag": "jenkins-RustServerAux02-656",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/656/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1710952635,
-  "DateString": "20 03 2024",
-  "TimeString": "16:37"
+  "Date": 1711025270,
+  "DateString": "21 03 2024",
+  "TimeString": "12:47"
 }
