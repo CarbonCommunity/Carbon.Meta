@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94557",
+    "ChangeId": "94582",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merged harbor_tweaks_4",
-    "Author": "Ian.H",
-    "Date": "21/03/2024 19:36:33",
-    "Items": "C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShipTest.prefab \r\n C Assets\\Content\\Structures\\cargo_ship\\Models\\cargo_ship_hull_interior_b.fbx \r\n C Assets\\Content\\Structures\\cargo_ship\\Models\\cargo_ship_hull_interior.fbx \r\n C Assets\\Content\\Structures\\cargo_ship\\Models\\cargo_ship_hull_interior_COL.fbx \r\n C Assets\\Scripts\\Util\\Components\\MaterialConfig.cs \r\n C Assets\\Scripts\\Util\\Components\\MaterialSetup.cs"
+    "Comment": "Merge from bradley_scientists",
+    "Author": "adam",
+    "Date": "22/03/2024 10:31:43",
+    "Items": "C Assets\\Prefabs\\NPC\\M2Bradley\\Scripts\\BradleyAPC.cs"
   },
   "Build": {
-    "Id": "659",
-    "Number": "659",
-    "Tag": "jenkins-RustServerAux02-659",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/659/",
+    "Id": "661",
+    "Number": "661",
+    "Tag": "jenkins-RustServerAux02-661",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/661/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711049847,
-  "DateString": "21 03 2024",
-  "TimeString": "19:37"
+  "Date": 1711103533,
+  "DateString": "22 03 2024",
+  "TimeString": "10:32"
 }
