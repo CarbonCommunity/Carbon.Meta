@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94582",
+    "ChangeId": "94604",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
     "Comment": "Merge from bradley_scientists",
     "Author": "adam",
-    "Date": "22/03/2024 10:31:43",
-    "Items": "C Assets\\Prefabs\\NPC\\M2Bradley\\Scripts\\BradleyAPC.cs"
+    "Date": "22/03/2024 16:22:30",
+    "Items": "C Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\Scientist\\ScientistNPC_BradleyAPC_Monument.prefab \r\n C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Prefabs\\NPC\\M2Bradley\\Scripts\\BradleyAPC.cs \r\n A cfg\\ai\\scientist.stationary.bradleyapc \r\n A Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\Scientist\\Scientist.BradleyAPC.Stationary.AIDesign.asset \r\n A Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\Scientist\\Scientist.BradleyAPC.Stationary.AIDesign.asset.meta"
   },
   "Build": {
-    "Id": "661",
-    "Number": "661",
-    "Tag": "jenkins-RustServerAux02-661",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/661/",
+    "Id": "662",
+    "Number": "662",
+    "Tag": "jenkins-RustServerAux02-662",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/662/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711103533,
+  "Date": 1711124594,
   "DateString": "22 03 2024",
-  "TimeString": "10:32"
+  "TimeString": "16:23"
 }
