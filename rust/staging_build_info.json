@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94668",
+    "ChangeId": "94726",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "alistair",
-    "Date": "25/03/2024 10:55:19",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\BasePlayer-Projectile.cs \r\n C Assets\\Scripts\\ConsoleCommands\\antihack.cs"
+    "Comment": "Made Prefab_Context_scene darker so that models, colliders etc can be seen more clearly against the background",
+    "Author": "BillBorman",
+    "Date": "25/03/2024 22:40:13",
+    "Items": "C Assets\\Scenes\\Prefab_Context_scene.unity"
   },
   "Build": {
-    "Id": "5728",
-    "Number": "5728",
-    "Tag": "jenkins-RustServer-5728",
-    "Url": "https://build.facepunch.com/job/RustServer/5728/",
+    "Id": "5729",
+    "Number": "5729",
+    "Tag": "jenkins-RustServer-5729",
+    "Url": "https://build.facepunch.com/job/RustServer/5729/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711364178,
+  "Date": 1711406471,
   "DateString": "25 03 2024",
-  "TimeString": "10:56"
+  "TimeString": "22:41"
 }
