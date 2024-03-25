@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94604",
+    "ChangeId": "94665",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merge from bradley_scientists",
-    "Author": "adam",
-    "Date": "22/03/2024 16:22:30",
-    "Items": "C Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\Scientist\\ScientistNPC_BradleyAPC_Monument.prefab \r\n C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Prefabs\\NPC\\M2Bradley\\Scripts\\BradleyAPC.cs \r\n A cfg\\ai\\scientist.stationary.bradleyapc \r\n A Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\Scientist\\Scientist.BradleyAPC.Stationary.AIDesign.asset \r\n A Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\Scientist\\Scientist.BradleyAPC.Stationary.AIDesign.asset.meta"
+    "Comment": "merge from oilrig sat tube",
+    "Author": "paroxum",
+    "Date": "25/03/2024 09:37:27",
+    "Items": "C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_small.unity \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_2.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\level3_cctv_room.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_moon_pool.prefab"
   },
   "Build": {
-    "Id": "662",
-    "Number": "662",
-    "Tag": "jenkins-RustServerAux02-662",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/662/",
+    "Id": "665",
+    "Number": "665",
+    "Tag": "jenkins-RustServerAux02-665",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/665/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711124594,
-  "DateString": "22 03 2024",
-  "TimeString": "16:23"
+  "Date": 1711359514,
+  "DateString": "25 03 2024",
+  "TimeString": "09:38"
 }
