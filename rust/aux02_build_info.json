@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94749",
+    "ChangeId": "94764",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
     "Comment": "Merge from harbor_tweaks_4_cargoship",
     "Author": "jarryd",
-    "Date": "26/03/2024 01:24:16",
-    "Items": "C Assets\\Scenes\\Test\\CargoDocking\\CargoDocking Terrain.asset \r\n C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\bundled\\Prefabs\\static\\door.hinged.cargo_ship_side.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Content\\Props\\shipping_containers\\harbor_dynamic_container.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Textures\\crane_packed_a_nrm.tga \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Textures\\crane_packed_b_nrm.tga \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Textures\\crane_packed_a_packedMask.tga \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Textures\\crane_packed_b_packedMask.tga \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\harbor_crane.fbx \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs"
+    "Date": "26/03/2024 05:05:50",
+    "Items": "C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_a_COL.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_b_COL.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_c_COL.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_d_COL.fbx.meta \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs"
   },
   "Build": {
-    "Id": "668",
-    "Number": "668",
-    "Tag": "jenkins-RustServerAux02-668",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/668/",
+    "Id": "669",
+    "Number": "669",
+    "Tag": "jenkins-RustServerAux02-669",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/669/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711417870,
+  "Date": 1711429603,
   "DateString": "26 03 2024",
-  "TimeString": "01:51"
+  "TimeString": "05:06"
 }
