@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94729",
+    "ChangeId": "94774",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Remove prefab context scene camera as well",
-    "Author": "BillBorman",
-    "Date": "25/03/2024 23:00:00",
-    "Items": "C Assets\\Scenes\\Prefab_Context_scene.unity"
+    "Comment": "cherrypicking ArtBugFixes_2024/BradleyHeliCrate_Fixes",
+    "Author": "alistair",
+    "Date": "26/03/2024 09:17:45",
+    "Items": "C Assets\\Prefabs\\NPC\\M2Bradley\\bradley_crate.prefab \r\n C Assets\\Prefabs\\NPC\\Patrol Helicopter\\heli_crate.prefab"
   },
   "Build": {
-    "Id": "5730",
-    "Number": "5730",
-    "Tag": "jenkins-RustServer-5730",
-    "Url": "https://build.facepunch.com/job/RustServer/5730/",
+    "Id": "5731",
+    "Number": "5731",
+    "Tag": "jenkins-RustServer-5731",
+    "Url": "https://build.facepunch.com/job/RustServer/5731/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711409371,
-  "DateString": "25 03 2024",
-  "TimeString": "23:29"
+  "Date": 1711444738,
+  "DateString": "26 03 2024",
+  "TimeString": "09:18"
 }
