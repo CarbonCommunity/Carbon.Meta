@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94665",
+    "ChangeId": "94716",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "merge from oilrig sat tube",
-    "Author": "paroxum",
-    "Date": "25/03/2024 09:37:27",
-    "Items": "C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_small.unity \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_2.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\level3_cctv_room.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_moon_pool.prefab"
+    "Comment": "Merge harbor tweaks 4",
+    "Author": "Ian.H",
+    "Date": "25/03/2024 20:02:11",
+    "Items": "C Packages\\amplify.shadereditor\\AmplifyShaderEditor.asmdef \r\n C protobuf\\proto\\Entity.proto \r\n C Assets\\Scenes\\Test\\CargoDocking\\CargoDocking Terrain.asset \r\n C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.asset \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2\\HeightTexture.png \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2\\NormalTexture.png \r\n C Assets\\Scenes\\Release\\Procedural Map.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.cs \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.Serializer.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShipTest.prefab \r\n C Assets\\Content\\Structures\\walkways\\walkway_b_450x150_stairs_double_red.prefab \r\n C Assets\\Content\\Structures\\walkways\\walkway_b_150x100_stairs_double_no_rail_red.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_2_grounds_a.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_a.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_2_grounds_a_COL.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Grounds\\harbor_1_grounds_a.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Grounds\\harbor_1_grounds_b.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Grounds\\harbor_2_grounds_a.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Grounds\\harbor_1_grounds_c.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_swing_bridge.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_rotate.prefab \r\n C Assets\\Content\\Structures\\Industrial_structures\\models\\materials\\cooling_tower_collapsed_bits_a_LOD.mat \r\n C Assets\\Content\\Structures\\Industrial_structures\\models\\materials\\cooling_tower_collapsed_bits_b_LOD.mat \r\n C Assets\\Content\\Structures\\Industrial_structures\\models\\materials\\cooling_tower_collapsed_bits_c_LOD.mat \r\n C Assets\\Content\\Structures\\Spherical Tank\\Models\\Materials\\spheretank_walkway_f_LOD.mat \r\n C Assets\\Content\\Structures\\train_tunnels\\Models\\Materials\\train_tunnel_cables.mat \r\n A Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_a_COL.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_a_COL.fbx.meta \r\n A Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_b_COL.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_b_COL.fbx.meta \r\n A Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_c_COL.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_c_COL.fbx.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_base_COL.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_base_COL.fbx.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_c_COL.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_c_COL.fbx.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_c.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_c.fbx.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_d_COL.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_d_COL.fbx.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_d.fbx \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_d.fbx.meta \r\n D Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_a_COL_temp.fbx \r\n D Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_a_COL_temp.fbx.meta \r\n D Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_b_COL_temp.fbx \r\n D Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_b_COL_temp.fbx.meta \r\n D Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_c_COL_temp.fbx \r\n D Assets\\Content\\Structures\\Harbor\\Grounds\\models\\harbor_1_grounds_c_COL_temp.fbx.meta"
   },
   "Build": {
-    "Id": "665",
-    "Number": "665",
-    "Tag": "jenkins-RustServerAux02-665",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/665/",
+    "Id": "667",
+    "Number": "667",
+    "Tag": "jenkins-RustServerAux02-667",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/667/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711359514,
-  "DateString": "25 03 2024",
-  "TimeString": "09:38"
+  "Date": 1711413845,
+  "DateString": "26 03 2024",
+  "TimeString": "00:44"
 }
