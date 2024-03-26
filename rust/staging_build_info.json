@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94817",
+    "ChangeId": "94820",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "network++",
-    "Author": "alistair",
-    "Date": "26/03/2024 13:55:24",
-    "Items": "C Assets\\Plugins\\Rust.Global\\Protocol.cs"
+    "Comment": "~Additional fix for edit-mode reflection probe flicker",
+    "Author": "diogo",
+    "Date": "26/03/2024 14:37:41",
+    "Items": "C Assets\\Scripts\\Client\\RustCamera.cs"
   },
   "Build": {
-    "Id": "5732",
-    "Number": "5732",
-    "Tag": "jenkins-RustServer-5732",
-    "Url": "https://build.facepunch.com/job/RustServer/5732/",
+    "Id": "5733",
+    "Number": "5733",
+    "Tag": "jenkins-RustServer-5733",
+    "Url": "https://build.facepunch.com/job/RustServer/5733/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711461389,
+  "Date": 1711464136,
   "DateString": "26 03 2024",
-  "TimeString": "13:56"
+  "TimeString": "14:42"
 }
