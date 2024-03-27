@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94858",
+    "ChangeId": "94865",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
     "Comment": "Merge from harbor_tweaks_4_cargoship",
     "Author": "jarryd",
-    "Date": "26/03/2024 23:34:23",
-    "Items": "C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Scenes\\Prefabs\\Water Wells\\water_well_a\\water_well_a.unity \r\n C Assets\\Scenes\\Prefabs\\Water Wells\\water_well_b\\water_well_b.unity \r\n C Assets\\Scenes\\Prefabs\\Water Wells\\water_well_c\\water_well_c.unity \r\n C Assets\\Scenes\\Prefabs\\Water Wells\\water_well_d\\water_well_d.unity \r\n C Assets\\Scenes\\Prefabs\\Water Wells\\water_well_e\\water_well_e.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.asset \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2\\TopologyTexture.png \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\tiny\\water_well_a.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\tiny\\water_well_b.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\tiny\\water_well_c.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\tiny\\water_well_d.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\tiny\\water_well_e.prefab \r\n C Assets\\Content\\Building\\materials\\atlas_wood_stone_metal.mat \r\n C Assets\\Content\\Building\\materials\\atlas_toptier.mat \r\n C Assets\\Content\\Properties\\MaterialConfig\\Snow Effect.asset \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Content\\Props\\water_drums\\Models\\Materials\\water_drums_mossy.mat \r\n C Assets\\Content\\Props\\shipping_containers\\dynamic_container_style_1.prefab \r\n C Assets\\Content\\Structures\\Pipelines\\models\\Materials\\pipelines_rusty_metal_blue.mat \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_rotate.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_base.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_a.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_a.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_b.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_b.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_c.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_c.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_d.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\swing_bridge_ramp_d.fbx.meta \r\n C Assets\\Content\\Structures\\Harbor\\Swing_bridge\\swing_bridge.prefab \r\n C Assets\\Prefabs\\Deployable\\Water Well\\waterwellstatic.prefab \r\n C Assets\\Prefabs\\Deployable\\Water Well\\models\\Materials\\corrugated_a_waterwell.mat \r\n C Assets\\Scripts\\Procedural\\TerrainCheck\\TerrainCheck.cs \r\n C Assets\\Scripts\\Procedural\\TerrainFilter\\TerrainFilter.cs \r\n C Assets\\Scripts\\Procedural\\TerrainAnchor\\TerrainAnchor.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\materials\\swing_bridge_LOD.mat \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\models\\materials\\swing_bridge_LOD.mat.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_ao.tga \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_ao.tga.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_diff.tga \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_diff.tga.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_metg.tga \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_metg.tga.meta \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_norm.tga \r\n A Assets\\Content\\Structures\\Harbor\\Swing_bridge\\textures\\LOD\\swing_bridge_LODbake_norm.tga.meta"
+    "Date": "27/03/2024 03:01:32",
+    "Items": "C Assets\\Scenes\\Test\\CargoCraneTest.unity \r\n C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_pickup.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_rotate.prefab \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneStatic.cs"
   },
   "Build": {
-    "Id": "675",
-    "Number": "675",
-    "Tag": "jenkins-RustServerAux02-675",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/675/",
+    "Id": "676",
+    "Number": "676",
+    "Tag": "jenkins-RustServerAux02-676",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/676/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711497395,
-  "DateString": "26 03 2024",
-  "TimeString": "23:56"
+  "Date": 1711508535,
+  "DateString": "27 03 2024",
+  "TimeString": "03:02"
 }
