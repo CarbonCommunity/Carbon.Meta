@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94898",
+    "ChangeId": "94930",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from vendor_ui_map_close",
+    "Comment": "merge from SignFix",
     "Author": "alistair",
-    "Date": "27/03/2024 08:35:36",
-    "Items": "C Assets\\Scripts\\UI\\Ingame\\Map\\MapInterface.cs"
+    "Date": "27/03/2024 12:51:38",
+    "Items": "C Assets\\Content\\Structures\\Harbor\\Tugboat\\Models\\tugboat_a_convex_COL.fbx \r\n C Assets\\Content\\Vehicles\\Boats\\Tugboat\\Tugboat.prefab"
   },
   "Build": {
-    "Id": "5736",
-    "Number": "5736",
-    "Tag": "jenkins-RustServer-5736",
-    "Url": "https://build.facepunch.com/job/RustServer/5736/",
+    "Id": "5737",
+    "Number": "5737",
+    "Tag": "jenkins-RustServer-5737",
+    "Url": "https://build.facepunch.com/job/RustServer/5737/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711528604,
+  "Date": 1711543964,
   "DateString": "27 03 2024",
-  "TimeString": "08:36"
+  "TimeString": "12:52"
 }
