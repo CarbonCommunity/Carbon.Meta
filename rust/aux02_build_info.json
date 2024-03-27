@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94865",
+    "ChangeId": "94938",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Merge from harbor_tweaks_4_cargoship",
-    "Author": "jarryd",
-    "Date": "27/03/2024 03:01:32",
-    "Items": "C Assets\\Scenes\\Test\\CargoCraneTest.unity \r\n C Assets\\Scenes\\Test\\CargoDocking.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_pickup.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_rotate.prefab \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneStatic.cs"
+    "Comment": "merge from oilrig_sat_tube",
+    "Author": "alistair",
+    "Date": "27/03/2024 14:00:40",
+    "Items": "C Assets\\Scenes\\Prefabs\\Oilrig\\OilrigAI.prefab \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\OilrigAI2.prefab \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_small.unity \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_2.prefab \r\n C Assets\\Content\\Props\\Suitcase\\Models\\Suitcase_colliders.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_moon_pool.prefab \r\n C Assets\\Content\\Structures\\oilrig_small\\Models\\level3_vent_COL.fbx.meta"
   },
   "Build": {
-    "Id": "676",
-    "Number": "676",
-    "Tag": "jenkins-RustServerAux02-676",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/676/",
+    "Id": "677",
+    "Number": "677",
+    "Tag": "jenkins-RustServerAux02-677",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/677/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711508535,
+  "Date": 1711548098,
   "DateString": "27 03 2024",
-  "TimeString": "03:02"
+  "TimeString": "14:01"
 }
