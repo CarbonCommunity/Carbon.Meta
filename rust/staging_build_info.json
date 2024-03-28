@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95055",
+    "ChangeId": "95057",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "alistair",
-    "Date": "28/03/2024 14:39:03",
-    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
+    "Comment": "Fixed visualize texel density shader error + now works in edit-mode",
+    "Author": "diogo",
+    "Date": "28/03/2024 15:22:28",
+    "Items": "C Assets\\Third Party\\VisualizeTexelDensity\\VisualizeTexelDensity.cs \r\n C Assets\\Third Party\\VisualizeTexelDensity\\Resources\\TexelDensityRender.shader \r\n C Assets\\Scripts\\Client\\RustCamera.cs"
   },
   "Build": {
-    "Id": "5743",
-    "Number": "5743",
-    "Tag": "jenkins-RustServer-5743",
-    "Url": "https://build.facepunch.com/job/RustServer/5743/",
+    "Id": "5744",
+    "Number": "5744",
+    "Tag": "jenkins-RustServer-5744",
+    "Url": "https://build.facepunch.com/job/RustServer/5744/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711636809,
+  "Date": 1711640145,
   "DateString": "28 03 2024",
-  "TimeString": "14:40"
+  "TimeString": "15:35"
 }
