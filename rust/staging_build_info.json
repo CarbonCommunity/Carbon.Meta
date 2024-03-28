@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95049",
+    "ChangeId": "95055",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Restored Unity version to  2021.3.35f1",
-    "Author": "diogo",
-    "Date": "28/03/2024 12:42:07",
-    "Items": "C ProjectSettings\\ProjectVersion.txt"
+    "Comment": "",
+    "Author": "alistair",
+    "Date": "28/03/2024 14:39:03",
+    "Items": "C Assets\\Scripts\\Entity\\Player\\Components\\PlayerInventory.cs"
   },
   "Build": {
-    "Id": "5742",
-    "Number": "5742",
-    "Tag": "jenkins-RustServer-5742",
-    "Url": "https://build.facepunch.com/job/RustServer/5742/",
+    "Id": "5743",
+    "Number": "5743",
+    "Tag": "jenkins-RustServer-5743",
+    "Url": "https://build.facepunch.com/job/RustServer/5743/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711629808,
+  "Date": 1711636809,
   "DateString": "28 03 2024",
-  "TimeString": "12:43"
+  "TimeString": "14:40"
 }
