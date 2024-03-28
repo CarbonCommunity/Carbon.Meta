@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95040",
+    "ChangeId": "95049",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from save248",
-    "Author": "alistair",
-    "Date": "28/03/2024 09:18:29",
-    "Items": "C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Content\\Structures\\underwater_labs\\socketData\\socketData_module_1200x1800_ladder_moonpool.prefab \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n A Assets\\Content\\Properties\\MaterialConfig\\Snow Effect Part Accum Mats.asset \r\n A Assets\\Content\\Properties\\MaterialConfig\\Snow Effect Part Accum Mats.asset.meta"
+    "Comment": "Restored Unity version to  2021.3.35f1",
+    "Author": "diogo",
+    "Date": "28/03/2024 12:42:07",
+    "Items": "C ProjectSettings\\ProjectVersion.txt"
   },
   "Build": {
-    "Id": "5741",
-    "Number": "5741",
-    "Tag": "jenkins-RustServer-5741",
-    "Url": "https://build.facepunch.com/job/RustServer/5741/",
+    "Id": "5742",
+    "Number": "5742",
+    "Tag": "jenkins-RustServer-5742",
+    "Url": "https://build.facepunch.com/job/RustServer/5742/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711619311,
+  "Date": 1711629808,
   "DateString": "28 03 2024",
-  "TimeString": "09:48"
+  "TimeString": "12:43"
 }
