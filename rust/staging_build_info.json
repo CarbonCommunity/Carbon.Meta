@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95130",
+    "ChangeId": "95156",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from electricity_power_fixes/randswitch",
-    "Author": "alistair",
-    "Date": "29/03/2024 14:53:14",
-    "Items": "C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Gates\\RANDSwitch\\RANDSwitch.cs"
+    "Comment": "Fixed oilrig environment volume collision meshes not having read/write flag set",
+    "Author": "andre",
+    "Date": "29/03/2024 19:36:58",
+    "Items": "C Assets\\Content\\Structures\\oilrig\\models\\oilrig_moon_pool_env_volume.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\models\\oilrig_sat_tube_300_volume.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\models\\oilrig_sat_tube_750_volume.fbx.meta"
   },
   "Build": {
-    "Id": "5752",
-    "Number": "5752",
-    "Tag": "jenkins-RustServer-5752",
-    "Url": "https://build.facepunch.com/job/RustServer/5752/",
+    "Id": "5753",
+    "Number": "5753",
+    "Tag": "jenkins-RustServer-5753",
+    "Url": "https://build.facepunch.com/job/RustServer/5753/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711725637,
+  "Date": 1711741058,
   "DateString": "29 03 2024",
-  "TimeString": "15:20"
+  "TimeString": "19:37"
 }
