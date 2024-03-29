@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95111",
+    "ChangeId": "95125",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "manifest",
+    "Comment": "merge from workbench2_spraycan_oversized_collider",
     "Author": "alistair",
-    "Date": "29/03/2024 13:04:38",
-    "Items": "C Assets\\Localization\\en\\engine.json \r\n C Assets\\manifest.asset"
+    "Date": "29/03/2024 14:41:47",
+    "Items": "C Assets\\Prefabs\\Deployable\\Tier 2 Workbench\\workbench2.deployed.prefab"
   },
   "Build": {
-    "Id": "5750",
-    "Number": "5750",
-    "Tag": "jenkins-RustServer-5750",
-    "Url": "https://build.facepunch.com/job/RustServer/5750/",
+    "Id": "5751",
+    "Number": "5751",
+    "Tag": "jenkins-RustServer-5751",
+    "Url": "https://build.facepunch.com/job/RustServer/5751/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711717523,
+  "Date": 1711723318,
   "DateString": "29 03 2024",
-  "TimeString": "13:05"
+  "TimeString": "14:41"
 }
