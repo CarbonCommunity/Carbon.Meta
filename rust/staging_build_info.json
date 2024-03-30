@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95172",
+    "ChangeId": "95182",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Third time the charm?",
+    "Comment": "Merge patrol heli revision",
     "Author": "Ian.H",
-    "Date": "29/03/2024 23:43:37",
-    "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Orbit.cs"
+    "Date": "30/03/2024 02:33:36",
+    "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Orbit.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Strafe.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.OrbitStrafe.cs"
   },
   "Build": {
-    "Id": "5756",
-    "Number": "5756",
-    "Tag": "jenkins-RustServer-5756",
-    "Url": "https://build.facepunch.com/job/RustServer/5756/",
+    "Id": "5757",
+    "Number": "5757",
+    "Tag": "jenkins-RustServer-5757",
+    "Url": "https://build.facepunch.com/job/RustServer/5757/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711755840,
-  "DateString": "29 03 2024",
-  "TimeString": "23:44"
+  "Date": 1711766205,
+  "DateString": "30 03 2024",
+  "TimeString": "02:36"
 }
