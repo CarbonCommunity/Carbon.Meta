@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95198",
+    "ChangeId": "95199",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from /main/io_entity_snapping/fixes/2",
+    "Comment": "subtracting 95196 merge from toolcupboard_retroskin - build compile",
     "Author": "alistair",
-    "Date": "30/03/2024 19:34:20",
-    "Items": "C Assets\\Scripts\\Building\\Socket_Free.cs \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Detectors\\LaserDetector\\LaserDetector.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\IndustrialCombiner\\industrialcombiner.deployed.prefab"
+    "Date": "30/03/2024 19:53:53",
+    "Items": "C Assets\\Scripts\\Entity\\BuildingBlock\\BuildingPrivilegeRetroScreen.cs \r\n C Assets\\Scenes\\Test\\ParticleTestMap.unity \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\cupboard.tool.retro.deployed.prefab \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\materials\\retro_toolcupboard_screenmaterial.mat.meta \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\materials\\retro_toolcupboard_group_refraction.mat \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\materials\\retro_toolcupboard_screenmaterial.mat \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-active-loop.asset \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-close.asset \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-open.asset \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\materials\\retro_toolcupboard_screenmaterial_diffuse.mat \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\materials\\retro_toolcupboard_screenmaterial_diffuse.mat.meta \r\n D Assets\\Scripts\\UI\\Utilities\\AlphaSinPulse.cs \r\n D Assets\\Scripts\\UI\\Utilities\\AlphaSinPulse.cs.meta \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-active-loop-01.wav \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-active-loop-01.wav.meta \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-close-01.wav \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-close-01.wav.meta \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-close-02.wav \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-close-02.wav.meta \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-open-01.wav \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-open-01.wav.meta \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-open-02.wav \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-open-02.wav.meta \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-open-03.wav \r\n D Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Sound\\tool-cupboard-retro-open-03.wav.meta"
   },
   "Build": {
-    "Id": "5758",
-    "Number": "5758",
-    "Tag": "jenkins-RustServer-5758",
-    "Url": "https://build.facepunch.com/job/RustServer/5758/",
+    "Id": "5759",
+    "Number": "5759",
+    "Tag": "jenkins-RustServer-5759",
+    "Url": "https://build.facepunch.com/job/RustServer/5759/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711827327,
+  "Date": 1711830497,
   "DateString": "30 03 2024",
-  "TimeString": "19:35"
+  "TimeString": "20:28"
 }
