@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95156",
+    "ChangeId": "95172",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed oilrig environment volume collision meshes not having read/write flag set",
-    "Author": "andre",
-    "Date": "29/03/2024 19:36:58",
-    "Items": "C Assets\\Content\\Structures\\oilrig\\models\\oilrig_moon_pool_env_volume.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\models\\oilrig_sat_tube_300_volume.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\models\\oilrig_sat_tube_750_volume.fbx.meta"
+    "Comment": "Third time the charm?",
+    "Author": "Ian.H",
+    "Date": "29/03/2024 23:43:37",
+    "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Orbit.cs"
   },
   "Build": {
-    "Id": "5753",
-    "Number": "5753",
-    "Tag": "jenkins-RustServer-5753",
-    "Url": "https://build.facepunch.com/job/RustServer/5753/",
+    "Id": "5756",
+    "Number": "5756",
+    "Tag": "jenkins-RustServer-5756",
+    "Url": "https://build.facepunch.com/job/RustServer/5756/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711741058,
+  "Date": 1711755840,
   "DateString": "29 03 2024",
-  "TimeString": "19:37"
+  "TimeString": "23:44"
 }
