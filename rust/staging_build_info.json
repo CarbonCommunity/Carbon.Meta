@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95182",
+    "ChangeId": "95198",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge patrol heli revision",
-    "Author": "Ian.H",
-    "Date": "30/03/2024 02:33:36",
-    "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Orbit.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Strafe.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.OrbitStrafe.cs"
+    "Comment": "merge from /main/io_entity_snapping/fixes/2",
+    "Author": "alistair",
+    "Date": "30/03/2024 19:34:20",
+    "Items": "C Assets\\Scripts\\Building\\Socket_Free.cs \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\Detectors\\LaserDetector\\LaserDetector.prefab \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\IndustrialCombiner\\industrialcombiner.deployed.prefab"
   },
   "Build": {
-    "Id": "5757",
-    "Number": "5757",
-    "Tag": "jenkins-RustServer-5757",
-    "Url": "https://build.facepunch.com/job/RustServer/5757/",
+    "Id": "5758",
+    "Number": "5758",
+    "Tag": "jenkins-RustServer-5758",
+    "Url": "https://build.facepunch.com/job/RustServer/5758/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711766205,
+  "Date": 1711827327,
   "DateString": "30 03 2024",
-  "TimeString": "02:36"
+  "TimeString": "19:35"
 }
