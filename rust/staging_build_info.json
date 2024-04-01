@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95249",
+    "ChangeId": "95250",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from toolcupboard_retroskin",
+    "Comment": "phrases",
     "Author": "alistair",
-    "Date": "01/04/2024 21:55:43",
-    "Items": "C Assets\\Scripts\\Entity\\BuildingBlock\\BuildingPrivilegeRetroScreen.cs \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\cupboard.tool.retro.deployed.prefab \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\materials\\retro_tool_cupboard_transparent_albedo.tga \r\n C Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\model\\retro_toolcupboard.fbx \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\model\\retro_toolcupboard_storageadapter_cover.fbx \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\model\\retro_toolcupboard_storageadapter_cover.fbx.meta \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Animations \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Animations.meta \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\StorageAdaptor_retro_tc.deployed.prefab \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\StorageAdaptor_retro_tc.deployed.prefab.meta \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Animations\\toolcupboard-retro_screensinit.anim \r\n A Assets\\Prefabs\\Deployable\\Tool Cupboard\\Retro\\Animations\\toolcupboard-retro_screensinit.anim.meta"
+    "Date": "01/04/2024 22:19:09",
+    "Items": "C Assets\\Localization\\af\\engine.json \r\n C Assets\\Localization\\ar\\engine.json \r\n C Assets\\Localization\\ca\\engine.json \r\n C Assets\\Localization\\cs\\engine.json \r\n C Assets\\Localization\\da\\engine.json \r\n C Assets\\Localization\\de\\engine.json \r\n C Assets\\Localization\\el\\engine.json \r\n C Assets\\Localization\\en-PT\\engine.json \r\n C Assets\\Localization\\es-ES\\engine.json \r\n C Assets\\Localization\\fi\\engine.json \r\n C Assets\\Localization\\fr\\engine.json \r\n C Assets\\Localization\\he\\engine.json \r\n C Assets\\Localization\\hu\\engine.json \r\n C Assets\\Localization\\it\\engine.json \r\n C Assets\\Localization\\ja\\engine.json \r\n C Assets\\Localization\\ko\\engine.json \r\n C Assets\\Localization\\nl\\engine.json \r\n C Assets\\Localization\\no\\engine.json \r\n C Assets\\Localization\\pl\\engine.json \r\n C Assets\\Localization\\pt-BR\\engine.json \r\n C Assets\\Localization\\pt-PT\\engine.json \r\n C Assets\\Localization\\ro\\engine.json \r\n C Assets\\Localization\\ru\\engine.json \r\n C Assets\\Localization\\sr\\engine.json \r\n C Assets\\Localization\\sv-SE\\engine.json \r\n C Assets\\Localization\\tr\\engine.json \r\n C Assets\\Localization\\uk\\engine.json \r\n C Assets\\Localization\\vi\\engine.json \r\n C Assets\\Localization\\zh-CN\\engine.json \r\n C Assets\\Localization\\zh-TW\\engine.json \r\n C Assets\\Localization\\en\\engine.json"
   },
   "Build": {
-    "Id": "5766",
-    "Number": "5766",
-    "Tag": "jenkins-RustServer-5766",
-    "Url": "https://build.facepunch.com/job/RustServer/5766/",
+    "Id": "5767",
+    "Number": "5767",
+    "Tag": "jenkins-RustServer-5767",
+    "Url": "https://build.facepunch.com/job/RustServer/5767/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712004983,
+  "Date": 1712007699,
   "DateString": "1 04 2024",
-  "TimeString": "20:56"
+  "TimeString": "21:41"
 }
