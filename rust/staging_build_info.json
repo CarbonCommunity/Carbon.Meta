@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95243",
+    "ChangeId": "95244",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from Minigun_2024",
-    "Author": "alistair",
-    "Date": "01/04/2024 19:47:11",
-    "Items": "C Assets\\Scripts\\Entity\\Misc\\AutoTurret\\AutoTurret.Server.cs"
+    "Comment": "Subtract 94930, there is now a more general sign fix",
+    "Author": "BillBorman",
+    "Date": "01/04/2024 20:57:09",
+    "Items": "C Assets\\Content\\Structures\\Harbor\\Tugboat\\Models\\tugboat_a_convex_COL.fbx \r\n C Assets\\Content\\Vehicles\\Boats\\Tugboat\\Tugboat.prefab"
   },
   "Build": {
-    "Id": "5764",
-    "Number": "5764",
-    "Tag": "jenkins-RustServer-5764",
-    "Url": "https://build.facepunch.com/job/RustServer/5764/",
+    "Id": "5765",
+    "Number": "5765",
+    "Tag": "jenkins-RustServer-5765",
+    "Url": "https://build.facepunch.com/job/RustServer/5765/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1711997254,
+  "Date": 1712001473,
   "DateString": "1 04 2024",
-  "TimeString": "18:47"
+  "TimeString": "19:57"
 }
