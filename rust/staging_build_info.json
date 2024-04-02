@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95287",
+    "ChangeId": "95289",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge from bradley_scientists",
-    "Author": "adam",
-    "Date": "02/04/2024 10:41:40",
-    "Items": "C cfg\\ai\\scientist.stationary.bradleyapc \r\n C Assets\\Rust.Ai\\Agents\\NPCPlayer\\HumanNPC\\ScientistBrain.States.Chase.cs \r\n C Assets\\Prefabs\\NPC\\M2Bradley\\Scripts\\BradleyAPC.cs"
+    "Comment": "merge from Minigun_2024",
+    "Author": "alistair",
+    "Date": "02/04/2024 10:58:02",
+    "Items": "C Assets\\Scripts\\ViewModel\\ViewmodelCameraAnimation.cs \r\n C Assets\\Prefabs\\Weapons\\Minigun\\minigun.viewmodel.prefab"
   },
   "Build": {
-    "Id": "5772",
-    "Number": "5772",
-    "Tag": "jenkins-RustServer-5772",
-    "Url": "https://build.facepunch.com/job/RustServer/5772/",
+    "Id": "5773",
+    "Number": "5773",
+    "Tag": "jenkins-RustServer-5773",
+    "Url": "https://build.facepunch.com/job/RustServer/5773/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712050945,
+  "Date": 1712053328,
   "DateString": "2 04 2024",
-  "TimeString": "09:42"
+  "TimeString": "10:22"
 }
