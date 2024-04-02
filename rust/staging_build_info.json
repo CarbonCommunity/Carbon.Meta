@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95250",
+    "ChangeId": "95267",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "phrases",
-    "Author": "alistair",
-    "Date": "01/04/2024 22:19:09",
-    "Items": "C Assets\\Localization\\af\\engine.json \r\n C Assets\\Localization\\ar\\engine.json \r\n C Assets\\Localization\\ca\\engine.json \r\n C Assets\\Localization\\cs\\engine.json \r\n C Assets\\Localization\\da\\engine.json \r\n C Assets\\Localization\\de\\engine.json \r\n C Assets\\Localization\\el\\engine.json \r\n C Assets\\Localization\\en-PT\\engine.json \r\n C Assets\\Localization\\es-ES\\engine.json \r\n C Assets\\Localization\\fi\\engine.json \r\n C Assets\\Localization\\fr\\engine.json \r\n C Assets\\Localization\\he\\engine.json \r\n C Assets\\Localization\\hu\\engine.json \r\n C Assets\\Localization\\it\\engine.json \r\n C Assets\\Localization\\ja\\engine.json \r\n C Assets\\Localization\\ko\\engine.json \r\n C Assets\\Localization\\nl\\engine.json \r\n C Assets\\Localization\\no\\engine.json \r\n C Assets\\Localization\\pl\\engine.json \r\n C Assets\\Localization\\pt-BR\\engine.json \r\n C Assets\\Localization\\pt-PT\\engine.json \r\n C Assets\\Localization\\ro\\engine.json \r\n C Assets\\Localization\\ru\\engine.json \r\n C Assets\\Localization\\sr\\engine.json \r\n C Assets\\Localization\\sv-SE\\engine.json \r\n C Assets\\Localization\\tr\\engine.json \r\n C Assets\\Localization\\uk\\engine.json \r\n C Assets\\Localization\\vi\\engine.json \r\n C Assets\\Localization\\zh-CN\\engine.json \r\n C Assets\\Localization\\zh-TW\\engine.json \r\n C Assets\\Localization\\en\\engine.json"
+    "Comment": "Server startup fix",
+    "Author": "andre",
+    "Date": "02/04/2024 07:12:42",
+    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseProjectile.cs"
   },
   "Build": {
-    "Id": "5767",
-    "Number": "5767",
-    "Tag": "jenkins-RustServer-5767",
-    "Url": "https://build.facepunch.com/job/RustServer/5767/",
+    "Id": "5768",
+    "Number": "5768",
+    "Tag": "jenkins-RustServer-5768",
+    "Url": "https://build.facepunch.com/job/RustServer/5768/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712007699,
-  "DateString": "1 04 2024",
-  "TimeString": "21:41"
+  "Date": 1712038456,
+  "DateString": "2 04 2024",
+  "TimeString": "06:14"
 }
