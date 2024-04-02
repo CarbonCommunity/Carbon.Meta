@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95273",
+    "ChangeId": "95279",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from save248",
-    "Author": "alistair",
-    "Date": "02/04/2024 08:17:48",
-    "Items": "C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_2.prefab"
+    "Comment": "merge patrol_helicopter_revision",
+    "Author": "Ian.H",
+    "Date": "02/04/2024 09:23:19",
+    "Items": "C ProjectSettings\\ProjectSettings.asset \r\n C Assets\\Standard Assets\\Third Party\\CamelotVFX_ Fire&Smoke\\Materials\\Fire_Sprites_v3.mat \r\n C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Content\\Props\\electrical_boxes\\Models\\Materials\\electrical_boxes_puzzles.mat \r\n C Assets\\Content\\Props\\electrical_boxes\\Models\\Materials\\electrical_boxes_puzzles_on.mat \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Orbit.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelictoperAI.States.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Patrol.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Strafe.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.OrbitStrafe.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Flee.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.Targeting.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.Zones.cs \r\n C Assets\\Scripts\\ConsoleCommands\\heli.cs"
   },
   "Build": {
-    "Id": "5770",
-    "Number": "5770",
-    "Tag": "jenkins-RustServer-5770",
-    "Url": "https://build.facepunch.com/job/RustServer/5770/",
+    "Id": "5771",
+    "Number": "5771",
+    "Tag": "jenkins-RustServer-5771",
+    "Url": "https://build.facepunch.com/job/RustServer/5771/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712044140,
+  "Date": 1712046962,
   "DateString": "2 04 2024",
-  "TimeString": "07:49"
+  "TimeString": "08:36"
 }
