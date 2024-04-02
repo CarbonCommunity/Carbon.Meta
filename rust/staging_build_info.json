@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95324",
+    "ChangeId": "95363",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "subtracting 95312 merge from save248 - critial error on joining world",
+    "Comment": "merge from Minigun_2024",
     "Author": "alistair",
-    "Date": "02/04/2024 17:09:05",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_2.prefab \r\n C Assets\\manifest.asset \r\n C Assets\\Content\\Textures\\Decals\\KARGO_1x4.tga \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_bush_a_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_bush_a_Billboard_Mat.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_a_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_a_Billboard_Mat.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_b_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_b_Billboard_Mat.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_c_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_c_Billboard_Mat.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_d_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_d_Billboard_Mat.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_e_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_e_Billboard_Mat.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_f_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_f_Billboard_Mat.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_g_Billboard_Mat_snow.mat \r\n C Assets\\Content\\Nature\\Overgrowth\\models\\Materials\\creeping_tree_g_Billboard_Mat.mat \r\n C Assets\\Content\\Props\\wooden_pallets\\Models\\Materials\\wooden_pallet_LOD3.mat \r\n C Assets\\Content\\Structures\\cargo_ship\\Models\\cargo_ship_hull_interior.fbx \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Materials\\crane_metal_trim_blue.mat \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Materials\\crane_metal_trim_blue.mat.meta \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Materials\\crane_packed_metal_blue.mat \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Materials\\crane_packed_metal_blue.mat.meta \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_dynamic_rotate.prefab \r\n C Assets\\Content\\Structures\\Harbor\\Cranes\\harbor_crane_static.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\level3_cctv_room.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\level3_interior_hall.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_moon_pool.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_sat_tube_300_a.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_sat_tube_300_b.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_sat_tube_750.prefab \r\n C Assets\\Content\\Structures\\oilrig\\prefabs_large_oilrig\\oilrig_sat_tube_ladder_300.prefab \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShipTest.prefab \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig_small.unity \r\n C Assets\\Scenes\\Prefabs\\Oilrig\\Oilrig.unity \r\n D Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Materials\\crane_details_blue.mat \r\n D Assets\\Content\\Structures\\Harbor\\Cranes\\Models\\Materials\\crane_details_blue.mat.meta \r\n D Assets\\Prefabs\\Deployable\\monument_cctv_desk \r\n D Assets\\Prefabs\\Deployable\\monument_cctv_desk.meta"
+    "Date": "02/04/2024 23:07:47",
+    "Items": "C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\SpinUpWeapon.cs \r\n C Assets\\Prefabs\\Weapons\\Minigun\\Model\\v_minigun_anims.fbx.meta"
   },
   "Build": {
-    "Id": "5776",
-    "Number": "5776",
-    "Tag": "jenkins-RustServer-5776",
-    "Url": "https://build.facepunch.com/job/RustServer/5776/",
+    "Id": "5777",
+    "Number": "5777",
+    "Tag": "jenkins-RustServer-5777",
+    "Url": "https://build.facepunch.com/job/RustServer/5777/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712074188,
+  "Date": 1712095759,
   "DateString": "2 04 2024",
-  "TimeString": "16:09"
+  "TimeString": "22:09"
 }
