@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95267",
+    "ChangeId": "95271",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Server startup fix",
-    "Author": "andre",
-    "Date": "02/04/2024 07:12:42",
-    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\BaseProjectile.cs"
+    "Comment": "network++",
+    "Author": "alistair",
+    "Date": "02/04/2024 08:04:36",
+    "Items": "C Assets\\Plugins\\Rust.Global\\Protocol.cs"
   },
   "Build": {
-    "Id": "5768",
-    "Number": "5768",
-    "Tag": "jenkins-RustServer-5768",
-    "Url": "https://build.facepunch.com/job/RustServer/5768/",
+    "Id": "5769",
+    "Number": "5769",
+    "Tag": "jenkins-RustServer-5769",
+    "Url": "https://build.facepunch.com/job/RustServer/5769/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712038456,
+  "Date": 1712041509,
   "DateString": "2 04 2024",
-  "TimeString": "06:14"
+  "TimeString": "07:05"
 }
