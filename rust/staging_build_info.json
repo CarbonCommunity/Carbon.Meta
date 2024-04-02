@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95271",
+    "ChangeId": "95273",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "network++",
+    "Comment": "merge from save248",
     "Author": "alistair",
-    "Date": "02/04/2024 08:04:36",
-    "Items": "C Assets\\Plugins\\Rust.Global\\Protocol.cs"
+    "Date": "02/04/2024 08:17:48",
+    "Items": "C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\offshore\\Oilrig_2.prefab"
   },
   "Build": {
-    "Id": "5769",
-    "Number": "5769",
-    "Tag": "jenkins-RustServer-5769",
-    "Url": "https://build.facepunch.com/job/RustServer/5769/",
+    "Id": "5770",
+    "Number": "5770",
+    "Tag": "jenkins-RustServer-5770",
+    "Url": "https://build.facepunch.com/job/RustServer/5770/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712041509,
+  "Date": 1712044140,
   "DateString": "2 04 2024",
-  "TimeString": "07:05"
+  "TimeString": "07:49"
 }
