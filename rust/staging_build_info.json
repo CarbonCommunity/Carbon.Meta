@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95463",
+    "ChangeId": "95467",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from Military Flamethrower_2024",
-    "Author": "alistair",
-    "Date": "03/04/2024 22:20:55",
-    "Items": "C Assets\\Content\\Effects\\Muzzleflashes\\Flamethrower\\flamethrower-smoke.mat \r\n C Assets\\Scripts\\Client\\ParticleDisableOnParentDestroy.cs \r\n C Assets\\Prefabs\\Weapons\\Military Flamethrower\\militaryflamethrower.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Military Flamethrower\\Effects\\flamethrower_military_fire_12range.prefab \r\n C Assets\\Prefabs\\Weapons\\Flamethrower\\Flamethrower_fireball.prefab \r\n A Assets\\Content\\Effects\\Fire\\flame_ground_fireball.mat \r\n A Assets\\Content\\Effects\\Fire\\flame_ground_fireball.mat.meta \r\n A Assets\\Content\\Effects\\Textures\\Fire\\flame-candle-v2-blue.mat \r\n A Assets\\Content\\Effects\\Textures\\Fire\\flame-candle-v2-blue.mat.meta"
+    "Comment": "Fixed cargo ship getting stuck while docked if all of it's loot rounds had already spawned by the time it docks (in this case, no further loot will spawn)",
+    "Author": "jarryd",
+    "Date": "03/04/2024 23:32:03",
+    "Items": "C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs"
   },
   "Build": {
-    "Id": "5788",
-    "Number": "5788",
-    "Tag": "jenkins-RustServer-5788",
-    "Url": "https://build.facepunch.com/job/RustServer/5788/",
+    "Id": "5789",
+    "Number": "5789",
+    "Tag": "jenkins-RustServer-5789",
+    "Url": "https://build.facepunch.com/job/RustServer/5789/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712179339,
+  "Date": 1712183585,
   "DateString": "3 04 2024",
-  "TimeString": "21:22"
+  "TimeString": "22:33"
 }
