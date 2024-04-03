@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95388",
+    "ChangeId": "95391",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Merge container_delays",
+    "Comment": "~ Fix editor gizmos null error",
     "Author": "Ian.H",
-    "Date": "03/04/2024 11:46:16",
-    "Items": "C protobuf\\proto\\Entity.proto \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.cs \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.Serializer.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs"
+    "Date": "03/04/2024 12:09:11",
+    "Items": "C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs"
   },
   "Build": {
-    "Id": "5780",
-    "Number": "5780",
-    "Tag": "jenkins-RustServer-5780",
-    "Url": "https://build.facepunch.com/job/RustServer/5780/",
+    "Id": "5781",
+    "Number": "5781",
+    "Tag": "jenkins-RustServer-5781",
+    "Url": "https://build.facepunch.com/job/RustServer/5781/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712142537,
+  "Date": 1712151869,
   "DateString": "3 04 2024",
-  "TimeString": "11:08"
+  "TimeString": "13:44"
 }
