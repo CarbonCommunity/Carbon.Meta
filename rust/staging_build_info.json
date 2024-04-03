@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95391",
+    "ChangeId": "95417",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "~ Fix editor gizmos null error",
-    "Author": "Ian.H",
-    "Date": "03/04/2024 12:09:11",
-    "Items": "C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs"
+    "Comment": "~ Cached server browser HttpClient exceptions no longer prevent download reattempts",
+    "Author": "andre",
+    "Date": "03/04/2024 15:59:41",
+    "Items": "C Assets\\Scripts\\ServerList\\ServerListManager.cs"
   },
   "Build": {
-    "Id": "5781",
-    "Number": "5781",
-    "Tag": "jenkins-RustServer-5781",
-    "Url": "https://build.facepunch.com/job/RustServer/5781/",
+    "Id": "5782",
+    "Number": "5782",
+    "Tag": "jenkins-RustServer-5782",
+    "Url": "https://build.facepunch.com/job/RustServer/5782/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712151869,
+  "Date": 1712160094,
   "DateString": "3 04 2024",
-  "TimeString": "13:44"
+  "TimeString": "16:01"
 }
