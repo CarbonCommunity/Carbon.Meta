@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95385",
+    "ChangeId": "95388",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Disabled material import on oilrig moonpool environment volume collider meshes (for some reason this pulls them into the discard bundle in the server build)",
-    "Author": "andre",
-    "Date": "03/04/2024 10:06:57",
-    "Items": "C Assets\\Content\\Structures\\oilrig\\models\\oilrig_moon_pool_env_volume.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\models\\oilrig_sat_tube_300_volume.fbx.meta \r\n C Assets\\Content\\Structures\\oilrig\\models\\oilrig_sat_tube_750_volume.fbx.meta"
+    "Comment": "Merge container_delays",
+    "Author": "Ian.H",
+    "Date": "03/04/2024 11:46:16",
+    "Items": "C protobuf\\proto\\Entity.proto \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.cs \r\n C Assets\\Plugins\\Rust.Data\\generated\\ProtocolBuffers.Serializer.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs \r\n C Assets\\Scripts\\Monuments\\Harbor\\HarborCraneContainerPickup.cs"
   },
   "Build": {
-    "Id": "5779",
-    "Number": "5779",
-    "Tag": "jenkins-RustServer-5779",
-    "Url": "https://build.facepunch.com/job/RustServer/5779/",
+    "Id": "5780",
+    "Number": "5780",
+    "Tag": "jenkins-RustServer-5780",
+    "Url": "https://build.facepunch.com/job/RustServer/5780/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712139722,
+  "Date": 1712142537,
   "DateString": "3 04 2024",
-  "TimeString": "10:22"
+  "TimeString": "11:08"
 }
