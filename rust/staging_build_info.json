@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95431",
+    "ChangeId": "95442",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Check in helicopter revision",
-    "Author": "Ian.H",
-    "Date": "03/04/2024 17:31:04",
-    "Items": "C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelictoperAI.States.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Patrol.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.Strafe.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\StateAI\\PatrolHelicopterAI.States.OrbitStrafe.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopter.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.Targeting.cs \r\n C Assets\\Scripts\\Entity\\Misc\\PatrolHelicopter\\PatrolHelicopterAI.Zones.cs"
+    "Comment": "merge from Military Flamethrower_2024",
+    "Author": "alistair",
+    "Date": "03/04/2024 18:48:02",
+    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\FlameThrower.cs"
   },
   "Build": {
-    "Id": "5783",
-    "Number": "5783",
-    "Tag": "jenkins-RustServer-5783",
-    "Url": "https://build.facepunch.com/job/RustServer/5783/",
+    "Id": "5785",
+    "Number": "5785",
+    "Tag": "jenkins-RustServer-5785",
+    "Url": "https://build.facepunch.com/job/RustServer/5785/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712163224,
+  "Date": 1712166511,
   "DateString": "3 04 2024",
-  "TimeString": "16:53"
+  "TimeString": "17:48"
 }
