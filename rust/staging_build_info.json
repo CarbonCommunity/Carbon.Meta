@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95448",
+    "ChangeId": "95463",
     "Branch": "main",
     "Repo": "rust_reboot",
     "Comment": "merge from Military Flamethrower_2024",
     "Author": "alistair",
-    "Date": "03/04/2024 19:26:48",
-    "Items": "C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\FlameThrower.cs"
+    "Date": "03/04/2024 22:20:55",
+    "Items": "C Assets\\Content\\Effects\\Muzzleflashes\\Flamethrower\\flamethrower-smoke.mat \r\n C Assets\\Scripts\\Client\\ParticleDisableOnParentDestroy.cs \r\n C Assets\\Prefabs\\Weapons\\Military Flamethrower\\militaryflamethrower.entity.prefab \r\n C Assets\\Prefabs\\Weapons\\Military Flamethrower\\Effects\\flamethrower_military_fire_12range.prefab \r\n C Assets\\Prefabs\\Weapons\\Flamethrower\\Flamethrower_fireball.prefab \r\n A Assets\\Content\\Effects\\Fire\\flame_ground_fireball.mat \r\n A Assets\\Content\\Effects\\Fire\\flame_ground_fireball.mat.meta \r\n A Assets\\Content\\Effects\\Textures\\Fire\\flame-candle-v2-blue.mat \r\n A Assets\\Content\\Effects\\Textures\\Fire\\flame-candle-v2-blue.mat.meta"
   },
   "Build": {
-    "Id": "5786",
-    "Number": "5786",
-    "Tag": "jenkins-RustServer-5786",
-    "Url": "https://build.facepunch.com/job/RustServer/5786/",
+    "Id": "5788",
+    "Number": "5788",
+    "Tag": "jenkins-RustServer-5788",
+    "Url": "https://build.facepunch.com/job/RustServer/5788/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712168932,
+  "Date": 1712179339,
   "DateString": "3 04 2024",
-  "TimeString": "18:28"
+  "TimeString": "21:22"
 }
