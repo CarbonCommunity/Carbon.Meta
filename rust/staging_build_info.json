@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95467",
+    "ChangeId": "95493",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fixed cargo ship getting stuck while docked if all of it's loot rounds had already spawned by the time it docks (in this case, no further loot will spawn)",
-    "Author": "jarryd",
-    "Date": "03/04/2024 23:32:03",
-    "Items": "C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs"
+    "Comment": "merge from harbor_outofbounds_fix",
+    "Author": "alistair",
+    "Date": "04/04/2024 13:31:21",
+    "Items": "C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Scripts\\Procedural\\TerrainFilter\\TerrainFilter.cs \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity"
   },
   "Build": {
-    "Id": "5789",
-    "Number": "5789",
-    "Tag": "jenkins-RustServer-5789",
-    "Url": "https://build.facepunch.com/job/RustServer/5789/",
+    "Id": "5790",
+    "Number": "5790",
+    "Tag": "jenkins-RustServer-5790",
+    "Url": "https://build.facepunch.com/job/RustServer/5790/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712183585,
-  "DateString": "3 04 2024",
-  "TimeString": "22:33"
+  "Date": 1712233978,
+  "DateString": "4 04 2024",
+  "TimeString": "12:32"
 }
