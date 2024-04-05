@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95494",
+    "ChangeId": "95565",
     "Branch": "release",
     "Repo": "rust_reboot",
-    "Comment": "merge from - RC",
+    "Comment": "merge from PingEstimatorRewrite",
     "Author": "alistair",
-    "Date": "04/04/2024 13:39:24",
-    "Items": "C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Scripts\\Procedural\\TerrainFilter\\TerrainFilter.cs \r\n C Assets\\Scripts\\ServerList\\ServerListManager.cs"
+    "Date": "05/04/2024 14:10:54",
+    "Items": "C Assets\\Plugins\\Facepunch.Ping\\PingEstimateResults.cs \r\n C Assets\\Plugins\\Facepunch.Ping\\PingSample.cs \r\n C Assets\\Plugins\\Facepunch.Ping\\PingEstimater.cs \r\n C Assets\\Plugins\\Facepunch.Ping\\Facepunch.Ping.asmdef \r\n C Assets\\Scripts\\ConsoleCommands\\client.cs \r\n C Assets\\Scripts\\ServerList\\ServerListManager.cs"
   },
   "Build": {
-    "Id": "641",
-    "Number": "641",
-    "Tag": "jenkins-RustReleaseServer-641",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/641/",
+    "Id": "648",
+    "Number": "648",
+    "Tag": "jenkins-RustReleaseServer-648",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/648/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1712234432,
-  "DateString": "4 04 2024",
-  "TimeString": "12:40"
+  "Date": 1712322693,
+  "DateString": "5 04 2024",
+  "TimeString": "13:11"
 }
