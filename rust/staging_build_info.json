@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95493",
+    "ChangeId": "95533",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from harbor_outofbounds_fix",
+    "Comment": "subtracting 95523 - compile issue",
     "Author": "alistair",
-    "Date": "04/04/2024 13:31:21",
-    "Items": "C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_1.prefab \r\n C Assets\\bundled\\Prefabs\\autospawn\\monument\\harbor\\harbor_2.prefab \r\n C Assets\\Scripts\\Procedural\\TerrainFilter\\TerrainFilter.cs \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_1.unity \r\n C Assets\\Scenes\\Prefabs\\Harbor\\harbor_2.unity"
+    "Date": "05/04/2024 00:16:17",
+    "Items": "C Assets\\Plugins\\Amazon\\AWSSDK.Core.dll \r\n C Assets\\Plugins\\Amazon\\AWSSDK.S3.dll \r\n C Assets\\Scripts\\Development\\ItemIconUpload.cs \r\n C Assets\\Scripts\\Development\\SteamInventoryGen.cs \r\n C Assets\\Scripts\\Game\\Rust.cs"
   },
   "Build": {
-    "Id": "5790",
-    "Number": "5790",
-    "Tag": "jenkins-RustServer-5790",
-    "Url": "https://build.facepunch.com/job/RustServer/5790/",
+    "Id": "5794",
+    "Number": "5794",
+    "Tag": "jenkins-RustServer-5794",
+    "Url": "https://build.facepunch.com/job/RustServer/5794/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712233978,
+  "Date": 1712273944,
   "DateString": "4 04 2024",
-  "TimeString": "12:32"
+  "TimeString": "23:39"
 }
