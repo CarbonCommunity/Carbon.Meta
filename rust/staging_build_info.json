@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95533",
+    "ChangeId": "95535",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "subtracting 95523 - compile issue",
-    "Author": "alistair",
-    "Date": "05/04/2024 00:16:17",
-    "Items": "C Assets\\Plugins\\Amazon\\AWSSDK.Core.dll \r\n C Assets\\Plugins\\Amazon\\AWSSDK.S3.dll \r\n C Assets\\Scripts\\Development\\ItemIconUpload.cs \r\n C Assets\\Scripts\\Development\\SteamInventoryGen.cs \r\n C Assets\\Scripts\\Game\\Rust.cs"
+    "Comment": "Merge HarborAudioFix -> Main",
+    "Author": "BillBorman",
+    "Date": "05/04/2024 01:41:45",
+    "Items": "C Assets\\Scripts\\Audio\\SoundManager.cs \r\n C Assets\\Scripts\\Audio\\Sound.cs"
   },
   "Build": {
-    "Id": "5794",
-    "Number": "5794",
-    "Tag": "jenkins-RustServer-5794",
-    "Url": "https://build.facepunch.com/job/RustServer/5794/",
+    "Id": "5796",
+    "Number": "5796",
+    "Tag": "jenkins-RustServer-5796",
+    "Url": "https://build.facepunch.com/job/RustServer/5796/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712273944,
-  "DateString": "4 04 2024",
-  "TimeString": "23:39"
+  "Date": 1712279926,
+  "DateString": "5 04 2024",
+  "TimeString": "01:18"
 }
