@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95552",
+    "ChangeId": "95579",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from HarborAudioFixFuture",
+    "Comment": "~ merge from wr_minigun_reload_fix",
     "Author": "alistair",
-    "Date": "05/04/2024 11:03:43",
-    "Items": "C Assets\\Scripts\\Audio\\SoundManager.cs \r\n C Assets\\Scripts\\Audio\\Sound.cs"
+    "Date": "06/04/2024 10:23:33",
+    "Items": "C Assets\\Scripts\\Game\\WorldModelRackMountConfig.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRackSlot.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRack.Server.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRack.Client.cs \r\n C Assets\\Prefabs\\Weapons\\Minigun\\minigun.worldmodel.prefab"
   },
   "Build": {
-    "Id": "5798",
-    "Number": "5798",
-    "Tag": "jenkins-RustServer-5798",
-    "Url": "https://build.facepunch.com/job/RustServer/5798/",
+    "Id": "5799",
+    "Number": "5799",
+    "Tag": "jenkins-RustServer-5799",
+    "Url": "https://build.facepunch.com/job/RustServer/5799/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712311498,
-  "DateString": "5 04 2024",
-  "TimeString": "10:04"
+  "Date": 1712430551,
+  "DateString": "6 04 2024",
+  "TimeString": "19:09"
 }
