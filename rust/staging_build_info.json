@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95618",
+    "ChangeId": "95625",
     "Branch": "main",
     "Repo": "rust_reboot",
     "Comment": "",
     "Author": "ryan.w",
-    "Date": "09/04/2024 11:54:39",
-    "Items": "C Assets\\Rust.Ai\\NextAI\\BaseRidableAnimal.cs \r\n C Assets\\Rust.Ai\\NextAI\\RidableHorse.cs"
+    "Date": "09/04/2024 14:44:00",
+    "Items": "C Assets\\Rust.Ai\\NextAI\\RidableHorse.cs"
   },
   "Build": {
-    "Id": "5802",
-    "Number": "5802",
-    "Tag": "jenkins-RustServer-5802",
-    "Url": "https://build.facepunch.com/job/RustServer/5802/",
+    "Id": "5803",
+    "Number": "5803",
+    "Tag": "jenkins-RustServer-5803",
+    "Url": "https://build.facepunch.com/job/RustServer/5803/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712660301,
+  "Date": 1712670308,
   "DateString": "9 04 2024",
-  "TimeString": "10:58"
+  "TimeString": "13:45"
 }
