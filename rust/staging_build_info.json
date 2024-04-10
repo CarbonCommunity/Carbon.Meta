@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95662",
+    "ChangeId": "95664",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from electricity_power_fixes/2",
-    "Author": "alistair",
-    "Date": "10/04/2024 13:05:09",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\EntityIO\\IOEntity.cs \r\n C Assets\\Prefabs\\Deployable\\VendingMachine\\UI\\Editor\\IOConfigEditor.cs"
+    "Comment": "",
+    "Author": "andre",
+    "Date": "10/04/2024 14:25:58",
+    "Items": "C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatCommon\\LogPlayerTickOptions.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatServer\\AntiCheatServerInterface.cs \r\n C Assets\\Scripts\\Server\\EACServer.cs"
   },
   "Build": {
-    "Id": "5807",
-    "Number": "5807",
-    "Tag": "jenkins-RustServer-5807",
-    "Url": "https://build.facepunch.com/job/RustServer/5807/",
+    "Id": "5808",
+    "Number": "5808",
+    "Tag": "jenkins-RustServer-5808",
+    "Url": "https://build.facepunch.com/job/RustServer/5808/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712750778,
+  "Date": 1712755606,
   "DateString": "10 04 2024",
-  "TimeString": "12:06"
+  "TimeString": "13:26"
 }
