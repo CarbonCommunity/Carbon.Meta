@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95643",
+    "ChangeId": "95662",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "subtracting tc_reskin_storageadaptor_fix - compile",
+    "Comment": "merge from electricity_power_fixes/2",
     "Author": "alistair",
-    "Date": "10/04/2024 07:09:51",
-    "Items": "C Assets\\Scripts\\EntityIO\\Industrial\\IndustrialStorageAdaptor.cs"
+    "Date": "10/04/2024 13:05:09",
+    "Items": "C Assets\\Generated\\ConsoleSystem.cs \r\n C Assets\\Scripts\\EntityIO\\IOEntity.cs \r\n C Assets\\Prefabs\\Deployable\\VendingMachine\\UI\\Editor\\IOConfigEditor.cs"
   },
   "Build": {
-    "Id": "5805",
-    "Number": "5805",
-    "Tag": "jenkins-RustServer-5805",
-    "Url": "https://build.facepunch.com/job/RustServer/5805/",
+    "Id": "5807",
+    "Number": "5807",
+    "Tag": "jenkins-RustServer-5807",
+    "Url": "https://build.facepunch.com/job/RustServer/5807/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712729439,
+  "Date": 1712750778,
   "DateString": "10 04 2024",
-  "TimeString": "06:10"
+  "TimeString": "12:06"
 }
