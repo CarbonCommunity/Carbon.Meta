@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95729",
+    "ChangeId": "95756",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "Fix compile error from namespace",
-    "Author": "jake",
-    "Date": "11/04/2024 15:02:46",
-    "Items": "C Assets\\Plugins\\Rust.Platform.Common\\ServerTagCompressor.cs"
+    "Comment": "merge from fix_spectate_health_flicker_2",
+    "Author": "alistair",
+    "Date": "11/04/2024 18:18:13",
+    "Items": "C Assets\\Scripts\\Entity\\Player\\BasePlayer-SaveLoad.cs"
   },
   "Build": {
-    "Id": "5813",
-    "Number": "5813",
-    "Tag": "jenkins-RustServer-5813",
-    "Url": "https://build.facepunch.com/job/RustServer/5813/",
+    "Id": "5814",
+    "Number": "5814",
+    "Tag": "jenkins-RustServer-5814",
+    "Url": "https://build.facepunch.com/job/RustServer/5814/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712844199,
+  "Date": 1712855956,
   "DateString": "11 04 2024",
-  "TimeString": "14:03"
+  "TimeString": "17:19"
 }
