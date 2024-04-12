@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95792",
+    "ChangeId": "95802",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "compile fix",
+    "Comment": "merge from wr_dead_area_fix",
     "Author": "alistair",
-    "Date": "12/04/2024 12:17:12",
-    "Items": "C Assets\\Plugins\\Facepunch.Ping\\PingEstimater.cs"
+    "Date": "12/04/2024 14:45:28",
+    "Items": "C Assets\\Prefabs\\Deployable\\WeaponRacks\\weaponrack_tall.deployed.prefab \r\n C Assets\\Prefabs\\Deployable\\WeaponRacks\\weaponrack_wide.deployed.prefab"
   },
   "Build": {
-    "Id": "5818",
-    "Number": "5818",
-    "Tag": "jenkins-RustServer-5818",
-    "Url": "https://build.facepunch.com/job/RustServer/5818/",
+    "Id": "5819",
+    "Number": "5819",
+    "Tag": "jenkins-RustServer-5819",
+    "Url": "https://build.facepunch.com/job/RustServer/5819/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712920672,
+  "Date": 1712929603,
   "DateString": "12 04 2024",
-  "TimeString": "11:17"
+  "TimeString": "13:46"
 }
