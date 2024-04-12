@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95779",
+    "ChangeId": "95792",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "ryan.w",
-    "Date": "12/04/2024 10:53:35",
-    "Items": "C Assets\\Generated\\ConsoleSystem.cs"
+    "Comment": "compile fix",
+    "Author": "alistair",
+    "Date": "12/04/2024 12:17:12",
+    "Items": "C Assets\\Plugins\\Facepunch.Ping\\PingEstimater.cs"
   },
   "Build": {
-    "Id": "5816",
-    "Number": "5816",
-    "Tag": "jenkins-RustServer-5816",
-    "Url": "https://build.facepunch.com/job/RustServer/5816/",
+    "Id": "5818",
+    "Number": "5818",
+    "Tag": "jenkins-RustServer-5818",
+    "Url": "https://build.facepunch.com/job/RustServer/5818/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1712915646,
+  "Date": 1712920672,
   "DateString": "12 04 2024",
-  "TimeString": "09:54"
+  "TimeString": "11:17"
 }
