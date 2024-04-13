@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95565",
+    "ChangeId": "95822",
     "Branch": "release",
     "Repo": "rust_reboot",
-    "Comment": "merge from PingEstimatorRewrite",
+    "Comment": "merge from woc_hotfix2",
     "Author": "alistair",
-    "Date": "05/04/2024 14:10:54",
-    "Items": "C Assets\\Plugins\\Facepunch.Ping\\PingEstimateResults.cs \r\n C Assets\\Plugins\\Facepunch.Ping\\PingSample.cs \r\n C Assets\\Plugins\\Facepunch.Ping\\PingEstimater.cs \r\n C Assets\\Plugins\\Facepunch.Ping\\Facepunch.Ping.asmdef \r\n C Assets\\Scripts\\ConsoleCommands\\client.cs \r\n C Assets\\Scripts\\ServerList\\ServerListManager.cs"
+    "Date": "12/04/2024 20:26:36",
+    "Items": "C Assets\\Prefabs\\Weapons\\Minigun\\minigun.worldmodel.prefab \r\n C Assets\\Rust.Ai\\NextAI\\TestRidableHorse.prefab \r\n C Assets\\Rust.Ai\\NextAI\\BaseRidableAnimal.cs \r\n C Assets\\Rust.Ai\\NextAI\\RidableHorse.cs \r\n C Assets\\Scripts\\Game\\WorldModelRackMountConfig.cs \r\n C Assets\\Scripts\\ConsoleCommands\\antihack.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tick.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRackSlot.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRack.Client.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRack.Server.cs"
   },
   "Build": {
-    "Id": "648",
-    "Number": "648",
-    "Tag": "jenkins-RustReleaseServer-648",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/648/",
+    "Id": "649",
+    "Number": "649",
+    "Tag": "jenkins-RustReleaseServer-649",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/649/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1712322693,
-  "DateString": "5 04 2024",
-  "TimeString": "13:11"
+  "Date": 1712950146,
+  "DateString": "12 04 2024",
+  "TimeString": "19:29"
 }
