@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95883",
+    "ChangeId": "95889",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from client_server_fields",
+    "Comment": "merge from effects_pooling_warmup",
     "Author": "alistair",
-    "Date": "15/04/2024 16:29:01",
-    "Items": "C Assets\\Third Party\\Community\\CommunityEntity.UI.Countdown.cs \r\n C Assets\\Third Party\\Community\\CommunityEntity.UI.FadeOut.cs \r\n C Assets\\Rust.Ai\\Npc\\BaseNpc.Ai.cs \r\n C Assets\\Rust.Ai\\Agents\\Fish\\SimpleShark.cs \r\n C Assets\\Scripts\\Events\\RoadBradleys.cs \r\n C Assets\\Scripts\\Rendering\\LiquidWobble.cs \r\n C Assets\\Scripts\\Audio\\SoundModulation.cs \r\n C Assets\\Scripts\\Audio\\SoundFade.cs \r\n C Assets\\Scripts\\Audio\\Shoutcast\\ShoutcastStreamer.cs \r\n C Assets\\Scripts\\ImageEffects\\GlowOutline\\WorldModelOutline.cs \r\n C Assets\\Scripts\\ViewModel\\ViewmodelSway.cs \r\n C Assets\\Scripts\\ViewModel\\ViewmodelBob.cs \r\n C Assets\\Scripts\\ViewModel\\BaseViewModel.cs \r\n C Assets\\Scripts\\Shared\\Editor\\ClientServerFieldFinder.cs \r\n C Assets\\Scripts\\Engine\\DDraw\\DDraw.cs \r\n C Assets\\Scripts\\Game\\GameModes\\Softcore\\ReclaimManager.cs \r\n C Assets\\Scripts\\Entity\\BuildingBlock\\BuildingPrivilegeRetro.cs \r\n C Assets\\Scripts\\Entity\\BuildingBlock\\BuildingPrivilegeRetroScreen.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\Train\\TrainTrackSpline.cs \r\n C Assets\\Scripts\\Entity\\Vehicle\\ModularVehicles\\ModularCar.Client.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WhitelistLootContainer.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Pet.cs \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerModel.Ik.cs \r\n C Assets\\Scripts\\Entity\\Player\\Components\\PlayerModel.Legs.cs \r\n C Assets\\Scripts\\Entity\\BaseEntity\\HeldEntity\\LiquidWeaponEffects.cs \r\n C Assets\\Scripts\\EntityIO\\Industrial\\IndustrialConveyor.cs \r\n C Assets\\Scripts\\UI\\InfoBar.cs \r\n C Assets\\Scripts\\UI\\AIDesigner\\DeleteEventButton.cs \r\n C Assets\\Scripts\\UI\\AIDesigner\\BaseStateUI.cs \r\n C Assets\\Scripts\\UI\\Utilities\\AlphaSinPulse.cs \r\n C Assets\\Scripts\\Client\\DrawCameraFrustum.cs \r\n C Assets\\Prefabs\\Weapon Mods\\LaserSight\\LaserBeam.cs \r\n C Assets\\Prefabs\\Tools\\Spraycan\\SprayCanSpray.cs \r\n C Assets\\Prefabs\\Misc\\XMas\\PoweredLights\\BaseBulb.cs \r\n C Assets\\Prefabs\\Misc\\XMas\\PoweredLights\\Bulb.cs \r\n C Assets\\Prefabs\\Building\\legacy.shelter.wood\\LegacyShelterDoor.cs \r\n C Assets\\Prefabs\\Deployable\\PlayerIOEnts\\UI\\IOConfig.cs \r\n C Assets\\Prefabs\\NPC\\M2Bradley\\Scripts\\TreadAnimator.cs \r\n C Assets\\Content\\Vehicles\\Boats\\CargoShip\\CargoShip.cs"
+    "Date": "15/04/2024 18:21:02",
+    "Items": "C Assets\\bundled\\Prefabs\\fx\\impacts\\bullet\\Flesh\\fleshbloodimpact.prefab \r\n C Assets\\Prefabs\\Weapons\\Compound Bow\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Nailgun\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Bolt Rifle\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Bow\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Pipe Shotgun\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\SMG\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\L96\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\M39 EMR\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\m92\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Pistol\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Crossbow\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\DoubleShotgun\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Grenade Launcher\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\HMLMG\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\lr300\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\m249\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\python\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Revolver\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Semi Auto Rifle\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\spas12\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Thompson\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\GlockSkin\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\ak47u\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\M4 Shotgun\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\RocketLauncher\\CNY_DragonLauncher\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\mp5\\Effects\\attack.prefab \r\n C Assets\\Prefabs\\Weapons\\Minigun\\Effects\\attack.prefab"
   },
   "Build": {
-    "Id": "5826",
-    "Number": "5826",
-    "Tag": "jenkins-RustServer-5826",
-    "Url": "https://build.facepunch.com/job/RustServer/5826/",
+    "Id": "5827",
+    "Number": "5827",
+    "Tag": "jenkins-RustServer-5827",
+    "Url": "https://build.facepunch.com/job/RustServer/5827/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1713194990,
+  "Date": 1713201707,
   "DateString": "15 04 2024",
-  "TimeString": "15:29"
+  "TimeString": "17:21"
 }
