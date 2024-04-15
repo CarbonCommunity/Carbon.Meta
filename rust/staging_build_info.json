@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95849",
+    "ChangeId": "95862",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
+    "Comment": "merge from mission_improvements_may_24",
     "Author": "alistair",
-    "Date": "15/04/2024 09:19:56",
-    "Items": "C Assets\\Scripts\\Server\\AntiHack.cs"
+    "Date": "15/04/2024 13:09:50",
+    "Items": "C Assets\\Editor\\SceneLoader.cs \r\n C Assets\\Generated\\EntityMenu.cs \r\n C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\manifest.asset \r\n C Assets\\Scripts\\Mission\\WorldPositionGenerator.cs \r\n C Assets\\Scripts\\Mission\\BaseMission.cs \r\n C Assets\\Scripts\\Mission\\Editor\\BaseMissionEditor.cs \r\n C Assets\\Scripts\\Mission\\Objectives\\MissionObjective_Harvest.cs \r\n C Assets\\Scripts\\Mission\\Objectives\\MissionObjective_SpeakWith.cs \r\n C Assets\\Scripts\\Entity\\AIBrain\\BaseAIBrain.cs \r\n C Assets\\Scripts\\Item\\ItemStructs.cs \r\n C Assets\\Prefabs\\Missions\\Fisherman_Fishing.asset \r\n C Assets\\Prefabs\\Missions\\Lumberjack_KillAnimals.asset \r\n C Assets\\Prefabs\\Missions\\DungeonMission.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission01_Forage.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission02_Craft.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission03_BuildBase.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission04_FinishBase.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission05_HuntForFood.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission05B_CookFood.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission06_PrepareForCombat.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission06B_KillTheBear.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07_BuildFurnace.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07B_BuildWorkbench.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission07C_BuildKayak.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission08_Escape.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission03B_BuildBase.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission04B_UpgradeToWood.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission04C_FillToolCupboard.asset \r\n C Assets\\Prefabs\\Missions\\TutorialIsland\\TutorialMission05C_Respawn.asset \r\n A Assets\\Scripts\\Mission\\DebugWorldPosition.cs \r\n A Assets\\Scripts\\Mission\\DebugWorldPosition.cs.meta \r\n A Assets\\Scenes\\Test\\MissionZoo.unity \r\n A Assets\\Scenes\\Test\\MissionZoo.unity.meta \r\n A Assets\\Prefabs\\Tools\\MissionScanner \r\n A Assets\\Prefabs\\Tools\\MissionScanner.meta \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\atmospheric.scanner.item.prefab \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\atmospheric.scanner.item.prefab.meta \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\ItemModScanData.cs \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\ItemModScanData.cs.meta \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\MissionScanner.cs \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\MissionScanner.cs.meta \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\MissionScanner.entity.prefab \r\n A Assets\\Prefabs\\Tools\\MissionScanner\\MissionScanner.entity.prefab.meta"
   },
   "Build": {
-    "Id": "5822",
-    "Number": "5822",
-    "Tag": "jenkins-RustServer-5822",
-    "Url": "https://build.facepunch.com/job/RustServer/5822/",
+    "Id": "5823",
+    "Number": "5823",
+    "Tag": "jenkins-RustServer-5823",
+    "Url": "https://build.facepunch.com/job/RustServer/5823/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1713169238,
+  "Date": 1713183047,
   "DateString": "15 04 2024",
-  "TimeString": "08:20"
+  "TimeString": "12:10"
 }
