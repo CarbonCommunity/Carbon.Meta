@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95921",
+    "ChangeId": "95959",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "merge from mission_improvements_may_24",
-    "Author": "alistair",
-    "Date": "16/04/2024 08:31:33",
-    "Items": "C Assets\\Generated\\EntityMenu.cs \r\n C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\manifest.asset \r\n C Assets\\Scripts\\UI\\UIConversationScreen.cs \r\n C Assets\\Scripts\\UI\\Missions\\MissionsHUD.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\MapInterface.cs \r\n C Assets\\Scenes\\Test\\MissionZoo.unity \r\n C Assets\\Content\\UI\\GameUI\\GameUI.ConversationScreen.prefab \r\n C Assets\\Content\\UI\\GameUI\\GameUI.Hud.Map.prefab \r\n C Assets\\Prefabs\\Missions\\BoarHunt_Basic.asset \r\n C Assets\\Prefabs\\Missions\\DeerHunt_Basic.asset \r\n C Assets\\Prefabs\\Missions\\Divemaster_CrateFree.asset \r\n C Assets\\Prefabs\\Missions\\Divemaster_SharkHunt.asset \r\n C Assets\\Prefabs\\Missions\\HarvestMission.asset \r\n C Assets\\Prefabs\\Missions\\Lumberjack_HarvestWood.asset \r\n A Assets\\Scripts\\UI\\Ingame\\Map\\MissionPointMapMarker.cs \r\n A Assets\\Scripts\\UI\\Ingame\\Map\\MissionPointMapMarker.cs.meta \r\n A Assets\\Scripts\\UI\\UIMissionInfoConversation.cs \r\n A Assets\\Scripts\\UI\\UIMissionInfoConversation.cs.meta \r\n A Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.MissionPoint.List.prefab \r\n A Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.MissionPoint.List.prefab.meta \r\n D Assets\\Prefabs\\Tools\\MissionScanner \r\n D Assets\\Prefabs\\Tools\\MissionScanner.meta"
+    "Comment": "Merge from unity_2022.3.24",
+    "Author": "andre",
+    "Date": "16/04/2024 18:20:49",
+    "Items": "C Assets\\Scripts\\Entity\\Misc\\SeekerMissiles\\SeekerTarget.cs \r\n C Assets\\Scripts\\Entity\\Misc\\CardGames\\CardPlayerData.cs"
   },
   "Build": {
-    "Id": "5829",
-    "Number": "5829",
-    "Tag": "jenkins-RustServer-5829",
-    "Url": "https://build.facepunch.com/job/RustServer/5829/",
+    "Id": "5835",
+    "Number": "5835",
+    "Tag": "jenkins-RustServer-5835",
+    "Url": "https://build.facepunch.com/job/RustServer/5835/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1713252753,
+  "Date": 1713288077,
   "DateString": "16 04 2024",
-  "TimeString": "07:32"
+  "TimeString": "17:21"
 }
