@@ -1,23 +1,23 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95914",
+    "ChangeId": "95921",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Comment": "",
-    "Author": "andre",
-    "Date": "16/04/2024 06:57:26",
-    "Items": "C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\SanctionsInterface.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatClient\\AntiCheatClientInterface.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatClient\\OnMessageToPeerCallback.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatClient\\OnMessageToServerCallback.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatServer\\BeginSessionOptions.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatServer\\OnMessageToClientCallback.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatServer\\AntiCheatServerInterface.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Bindings.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatCommon\\LogPlayerTickOptions.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatCommon\\AntiCheatCommonEventParamType.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatCommon\\LogEventParamPairParamValue.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatCommon\\LogPlayerTakeDamageOptions.cs \r\n C Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\AntiCheatCommon\\AntiCheatCommonInterface.cs \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\CreatePlayerSanctionAppealCallback.cs \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\CreatePlayerSanctionAppealCallback.cs.meta \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\CreatePlayerSanctionAppealCallbackInfo.cs \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\CreatePlayerSanctionAppealCallbackInfo.cs.meta \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\CreatePlayerSanctionAppealOptions.cs \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\CreatePlayerSanctionAppealOptions.cs.meta \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\SanctionAppealReason.cs \r\n A Assets\\Plugins\\EpicOnlineServices\\Source\\Generated\\Sanctions\\SanctionAppealReason.cs.meta"
+    "Comment": "merge from mission_improvements_may_24",
+    "Author": "alistair",
+    "Date": "16/04/2024 08:31:33",
+    "Items": "C Assets\\Generated\\EntityMenu.cs \r\n C Assets\\Generated\\RpcCalls.cs \r\n C Assets\\manifest.asset \r\n C Assets\\Scripts\\UI\\UIConversationScreen.cs \r\n C Assets\\Scripts\\UI\\Missions\\MissionsHUD.cs \r\n C Assets\\Scripts\\UI\\Ingame\\Map\\MapInterface.cs \r\n C Assets\\Scenes\\Test\\MissionZoo.unity \r\n C Assets\\Content\\UI\\GameUI\\GameUI.ConversationScreen.prefab \r\n C Assets\\Content\\UI\\GameUI\\GameUI.Hud.Map.prefab \r\n C Assets\\Prefabs\\Missions\\BoarHunt_Basic.asset \r\n C Assets\\Prefabs\\Missions\\DeerHunt_Basic.asset \r\n C Assets\\Prefabs\\Missions\\Divemaster_CrateFree.asset \r\n C Assets\\Prefabs\\Missions\\Divemaster_SharkHunt.asset \r\n C Assets\\Prefabs\\Missions\\HarvestMission.asset \r\n C Assets\\Prefabs\\Missions\\Lumberjack_HarvestWood.asset \r\n A Assets\\Scripts\\UI\\Ingame\\Map\\MissionPointMapMarker.cs \r\n A Assets\\Scripts\\UI\\Ingame\\Map\\MissionPointMapMarker.cs.meta \r\n A Assets\\Scripts\\UI\\UIMissionInfoConversation.cs \r\n A Assets\\Scripts\\UI\\UIMissionInfoConversation.cs.meta \r\n A Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.MissionPoint.List.prefab \r\n A Assets\\Prefabs\\Tools\\Map\\UI\\UI.Map.MissionPoint.List.prefab.meta \r\n D Assets\\Prefabs\\Tools\\MissionScanner \r\n D Assets\\Prefabs\\Tools\\MissionScanner.meta"
   },
   "Build": {
-    "Id": "5828",
-    "Number": "5828",
-    "Tag": "jenkins-RustServer-5828",
-    "Url": "https://build.facepunch.com/job/RustServer/5828/",
+    "Id": "5829",
+    "Number": "5829",
+    "Tag": "jenkins-RustServer-5829",
+    "Url": "https://build.facepunch.com/job/RustServer/5829/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1713247090,
+  "Date": 1713252753,
   "DateString": "16 04 2024",
-  "TimeString": "05:58"
+  "TimeString": "07:32"
 }
