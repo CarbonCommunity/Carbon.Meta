@@ -1,23 +1,20 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "95822",
+    "ChangeId": "96249",
     "Branch": "release",
     "Repo": "rust_reboot",
-    "Comment": "merge from woc_hotfix2",
-    "Author": "alistair",
-    "Date": "12/04/2024 20:26:36",
-    "Items": "C Assets\\Prefabs\\Weapons\\Minigun\\minigun.worldmodel.prefab \r\n C Assets\\Rust.Ai\\NextAI\\TestRidableHorse.prefab \r\n C Assets\\Rust.Ai\\NextAI\\BaseRidableAnimal.cs \r\n C Assets\\Rust.Ai\\NextAI\\RidableHorse.cs \r\n C Assets\\Scripts\\Game\\WorldModelRackMountConfig.cs \r\n C Assets\\Scripts\\ConsoleCommands\\antihack.cs \r\n C Assets\\Scripts\\Entity\\Player\\BasePlayer-Tick.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRackSlot.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRack.Client.cs \r\n C Assets\\Scripts\\Entity\\Misc\\WeaponRack\\WeaponRack.Server.cs"
+    "Date": "23/04/2024 12:10:03"
   },
   "Build": {
-    "Id": "649",
-    "Number": "649",
-    "Tag": "jenkins-RustReleaseServer-649",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/649/",
+    "Id": "653",
+    "Number": "653",
+    "Tag": "jenkins-RustReleaseServer-653",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/653/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1712950146,
-  "DateString": "12 04 2024",
-  "TimeString": "19:29"
+  "Date": 1713870652,
+  "DateString": "23 04 2024",
+  "TimeString": "11:10"
 }
