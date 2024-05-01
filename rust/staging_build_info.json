@@ -1,20 +1,20 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "96795",
+    "ChangeId": "96800",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Date": "01/05/2024 08:13:18"
+    "Date": "01/05/2024 09:25:14"
   },
   "Build": {
-    "Id": "5899",
-    "Number": "5899",
-    "Tag": "jenkins-RustServer-5899",
-    "Url": "https://build.facepunch.com/job/RustServer/5899/",
+    "Id": "5900",
+    "Number": "5900",
+    "Tag": "jenkins-RustServer-5900",
+    "Url": "https://build.facepunch.com/job/RustServer/5900/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1714547640,
+  "Date": 1714551953,
   "DateString": "1 05 2024",
-  "TimeString": "07:14"
+  "TimeString": "08:25"
 }
