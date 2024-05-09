@@ -1,23 +1,20 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "94969",
+    "ChangeId": "97124",
     "Branch": "Aux2",
     "Repo": "rust_reboot",
-    "Comment": "Cherry picking 94968",
-    "Author": "andre",
-    "Date": "27/03/2024 18:17:07",
-    "Items": "C Assets\\Scripts\\Util\\Components\\MaterialSetup.cs"
+    "Date": "09/05/2024 10:15:29"
   },
   "Build": {
-    "Id": "680",
-    "Number": "680",
-    "Tag": "jenkins-RustServerAux02-680",
-    "Url": "https://build.facepunch.com/job/RustServerAux02/680/",
+    "Id": "684",
+    "Number": "684",
+    "Tag": "jenkins-RustServerAux02-684",
+    "Url": "https://build.facepunch.com/job/RustServerAux02/684/",
     "Name": "RustServerAux02",
     "Node": "Win4"
   },
-  "Date": 1711563470,
-  "DateString": "27 03 2024",
-  "TimeString": "18:17"
+  "Date": 1715258342,
+  "DateString": "9 05 2024",
+  "TimeString": "12:39"
 }
