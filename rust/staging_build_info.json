@@ -7,14 +7,14 @@
     "Date": "20/05/2024 15:06:45"
   },
   "Build": {
-    "Id": "5950",
-    "Number": "5950",
-    "Tag": "jenkins-RustServer-5950",
-    "Url": "https://build.facepunch.com/job/RustServer/5950/",
+    "Id": "5951",
+    "Number": "5951",
+    "Tag": "jenkins-RustServer-5951",
+    "Url": "https://build.facepunch.com/job/RustServer/5951/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1716260263,
+  "Date": 1716262674,
   "DateString": "21 05 2024",
-  "TimeString": "02:57"
+  "TimeString": "03:37"
 }
