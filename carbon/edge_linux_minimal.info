@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.109",
-	"InformationalVersion": "2.1.109-MinimalUnix-develop-2f47b8f2",
+	"Version": "2.1.110",
+	"InformationalVersion": "2.1.110-MinimalUnix-develop-e5f0f34e",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "2f47b8f21e010f015a059dd2888e9bc38fdcc30e",
-		"HashShort": "2f47b8f2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2f47b8f21e010f015a059dd2888e9bc38fdcc30e",
-		"Author": "raul",
-		"Comment": "Preload++",
+		"HashLong": "e5f0f34e75e5b9bb80b5e63055e9887d417d8200",
+		"HashShort": "e5f0f34e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e5f0f34e75e5b9bb80b5e63055e9887d417d8200",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Rust prefix",
 		"Tag": "edge_build",
-		"Date": "2024-06-06 19:23:48 +0200"
+		"Date": "2024-06-06 20:08:20 +0200"
 	}
 }
