@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.3.102",
+	"InformationalVersion": "2.3.102-Minimal-rust_beta/staging-c22ba774",
+	"Protocol": "2024.06.06.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "c22ba7745d05950939de302e07658886c19b067b",
+		"HashShort": "c22ba774",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c22ba7745d05950939de302e07658886c19b067b",
+		"Author": "raul",
+		"Comment": "Merging from develop",
+		"Tag": "rustbeta_staging",
+		"Date": "2024-06-06 17:19:28 +0200"
+	}
+}
