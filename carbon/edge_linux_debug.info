@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.108",
-	"InformationalVersion": "2.1.108-DebugUnix-develop-7db4b70c",
+	"Version": "2.1.109",
+	"InformationalVersion": "2.1.109-DebugUnix-develop-2f47b8f2",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7db4b70c5403f64dd4aaa6e5ccb5b087ef47b76c",
-		"HashShort": "7db4b70c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7db4b70c5403f64dd4aaa6e5ccb5b087ef47b76c",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Update hook-build.yml",
+		"HashLong": "2f47b8f21e010f015a059dd2888e9bc38fdcc30e",
+		"HashShort": "2f47b8f2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2f47b8f21e010f015a059dd2888e9bc38fdcc30e",
+		"Author": "raul",
+		"Comment": "Preload++",
 		"Tag": "edge_build",
-		"Date": "2024-06-06 18:47:48 +0200"
+		"Date": "2024-06-06 19:23:48 +0200"
 	}
 }
