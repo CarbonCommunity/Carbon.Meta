@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.1.117",
+	"InformationalVersion": "2.1.117-Debug-develop-792c40e7",
+	"Protocol": "2024.06.06.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "792c40e71169e55c74162f00624fbd61615779d5",
+		"HashShort": "792c40e7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/792c40e71169e55c74162f00624fbd61615779d5",
+		"Author": "raul",
+		"Comment": "Compiler reference priority",
+		"Tag": "edge_build",
+		"Date": "2024-06-07 15:56:13 +0200"
+	}
+}
