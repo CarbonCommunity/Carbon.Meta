@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.117",
-	"InformationalVersion": "2.1.117-MinimalUnix-develop-792c40e7",
+	"Version": "2.1.118",
+	"InformationalVersion": "2.1.118-MinimalUnix-develop-6c43a8a3",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "792c40e71169e55c74162f00624fbd61615779d5",
-		"HashShort": "792c40e7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/792c40e71169e55c74162f00624fbd61615779d5",
+		"HashLong": "6c43a8a3911824ad359e735f6fcab98d9960d7b9",
+		"HashShort": "6c43a8a3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6c43a8a3911824ad359e735f6fcab98d9960d7b9",
 		"Author": "raul",
-		"Comment": "Compiler reference priority",
+		"Comment": "Hard import Newtonsoft.Json",
 		"Tag": "edge_build",
-		"Date": "2024-06-07 15:56:13 +0200"
+		"Date": "2024-06-08 15:12:30 +0200"
 	}
 }
