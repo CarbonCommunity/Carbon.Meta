@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.122",
-	"InformationalVersion": "2.1.122-MinimalUnix-develop-f676f230",
+	"Version": "2.1.123",
+	"InformationalVersion": "2.1.123-MinimalUnix-develop-78ba9840",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f676f2308b1aaa77be68f22567d192e74aaab22e",
-		"HashShort": "f676f230",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f676f2308b1aaa77be68f22567d192e74aaab22e",
+		"HashLong": "78ba98404ccfb8ed0888836fc426c6802ae2755e",
+		"HashShort": "78ba9840",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/78ba98404ccfb8ed0888836fc426c6802ae2755e",
 		"Author": "raul",
-		"Comment": "Hook internal fix++",
+		"Comment": "Sources occasional NRE fix",
 		"Tag": "edge_build",
-		"Date": "2024-06-09 04:36:14 +0200"
+		"Date": "2024-06-09 04:56:33 +0200"
 	}
 }
