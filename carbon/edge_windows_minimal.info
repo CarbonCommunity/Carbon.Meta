@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.123",
-	"InformationalVersion": "2.1.123-Minimal-develop-78ba9840",
+	"Version": "2.1.124",
+	"InformationalVersion": "2.1.124-Minimal-develop-e75f42f3",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "78ba98404ccfb8ed0888836fc426c6802ae2755e",
-		"HashShort": "78ba9840",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/78ba98404ccfb8ed0888836fc426c6802ae2755e",
+		"HashLong": "e75f42f3bc5aa2090618c53b0689bb2b58c6101f",
+		"HashShort": "e75f42f3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e75f42f3bc5aa2090618c53b0689bb2b58c6101f",
 		"Author": "raul",
-		"Comment": "Sources occasional NRE fix",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2024-06-09 04:56:33 +0200"
+		"Date": "2024-06-09 14:57:01 +0200"
 	}
 }
