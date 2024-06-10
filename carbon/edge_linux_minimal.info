@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.126",
-	"InformationalVersion": "2.1.126-MinimalUnix-develop-f413ab78",
+	"Version": "2.1.127",
+	"InformationalVersion": "2.1.127-MinimalUnix-develop-52c6018b",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f413ab781b429ff14c1b170e1a76c5f13bee2ce4",
-		"HashShort": "f413ab78",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f413ab781b429ff14c1b170e1a76c5f13bee2ce4",
+		"HashLong": "52c6018b4ee73d37b2c802dfe0320d943ddc5e28",
+		"HashShort": "52c6018b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52c6018b4ee73d37b2c802dfe0320d943ddc5e28",
 		"Author": "raul",
-		"Comment": "Added `Carbon.Test` component",
+		"Comment": "Initial Carbon.Test backend",
 		"Tag": "edge_build",
-		"Date": "2024-06-10 16:02:23 +0200"
+		"Date": "2024-06-10 18:19:39 +0200"
 	}
 }
