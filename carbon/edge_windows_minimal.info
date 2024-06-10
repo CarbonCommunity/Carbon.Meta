@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.127",
-	"InformationalVersion": "2.1.127-Minimal-develop-52c6018b",
+	"Version": "2.1.128",
+	"InformationalVersion": "2.1.128-Minimal-develop-f9575d5d",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "52c6018b4ee73d37b2c802dfe0320d943ddc5e28",
-		"HashShort": "52c6018b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52c6018b4ee73d37b2c802dfe0320d943ddc5e28",
+		"HashLong": "f9575d5d6f525df7095f86321e6a8e4399471101",
+		"HashShort": "f9575d5d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f9575d5d6f525df7095f86321e6a8e4399471101",
 		"Author": "raul",
-		"Comment": "Initial Carbon.Test backend",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2024-06-10 18:19:39 +0200"
+		"Date": "2024-06-10 18:34:35 +0200"
 	}
 }
