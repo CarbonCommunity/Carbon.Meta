@@ -1,16 +1,16 @@
 {
 	"Version": "2.1.130",
-	"InformationalVersion": "2.1.130-Debug-develop-d0dfe979",
+	"InformationalVersion": "2.1.130-Debug-develop-cceb9c1b",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d0dfe9796f916f23889901932da9ad2d6ed18b38",
-		"HashShort": "d0dfe979",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d0dfe9796f916f23889901932da9ad2d6ed18b38",
+		"HashLong": "cceb9c1b1893de725be76513348c1f43633c9b38",
+		"HashShort": "cceb9c1b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/cceb9c1b1893de725be76513348c1f43633c9b38",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "No longer show the full path of the plugin if it fails (in the compilation failure error)",
 		"Tag": "edge_build",
-		"Date": "2024-06-10 19:59:05 +0200"
+		"Date": "2024-06-10 23:13:51 +0200"
 	}
 }
