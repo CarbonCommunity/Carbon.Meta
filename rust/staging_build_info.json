@@ -7,14 +7,14 @@
     "Date": "11/06/2024 17:34:22"
   },
   "Build": {
-    "Id": "6043",
-    "Number": "6043",
-    "Tag": "jenkins-RustServer-6043",
-    "Url": "https://build.facepunch.com/job/RustServer/6043/",
+    "Id": "6044",
+    "Number": "6044",
+    "Tag": "jenkins-RustServer-6044",
+    "Url": "https://build.facepunch.com/job/RustServer/6044/",
     "Name": "RustServer",
     "Node": "Win4"
   },
-  "Date": 1718123762,
+  "Date": 1718129521,
   "DateString": "11 06 2024",
-  "TimeString": "16:36"
+  "TimeString": "18:12"
 }
