@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.131",
-	"InformationalVersion": "2.1.131-DebugUnix-develop-682bbda7",
+	"Version": "2.1.133",
+	"InformationalVersion": "2.1.133-DebugUnix-develop-27f4f623",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "682bbda73996a689e56cdd3b748cf01102a37cb4",
-		"HashShort": "682bbda7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/682bbda73996a689e56cdd3b748cf01102a37cb4",
+		"HashLong": "27f4f623747b3ff071253d658b1588418f003126",
+		"HashShort": "27f4f623",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/27f4f623747b3ff071253d658b1588418f003126",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Fixed Carbon.Test not bundling properly",
 		"Tag": "edge_build",
-		"Date": "2024-06-11 18:18:24 +0200"
+		"Date": "2024-06-13 00:26:12 +0200"
 	}
 }
