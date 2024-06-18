@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.133",
-	"InformationalVersion": "2.1.133-Debug-develop-27f4f623",
+	"Version": "2.1.134",
+	"InformationalVersion": "2.1.134-Debug-develop-f94761bb",
 	"Protocol": "2024.06.06.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "27f4f623747b3ff071253d658b1588418f003126",
-		"HashShort": "27f4f623",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/27f4f623747b3ff071253d658b1588418f003126",
+		"HashLong": "f94761bb15dc323414814427ad779bcdb91d4c82",
+		"HashShort": "f94761bb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f94761bb15dc323414814427ad779bcdb91d4c82",
 		"Author": "raul",
-		"Comment": "Fixed Carbon.Test not bundling properly",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2024-06-13 00:26:12 +0200"
+		"Date": "2024-06-19 00:56:33 +0200"
 	}
 }
