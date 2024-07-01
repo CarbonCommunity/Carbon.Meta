@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.134",
-	"InformationalVersion": "2.3.134-DebugUnix-rust_beta/staging-c8e56a76",
+	"Version": "2.3.135",
+	"InformationalVersion": "2.3.135-DebugUnix-rust_beta/staging-c8e56a76",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Linux",
 	"Commit": {
