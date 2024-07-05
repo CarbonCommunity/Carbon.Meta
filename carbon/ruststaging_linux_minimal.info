@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.3.144",
+	"InformationalVersion": "2.3.144-MinimalUnix-rust_beta/staging-ba5e74d9",
+	"Protocol": "2024.07.04.0",
+	"Platform": "Linux",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "ba5e74d9d95e12f7973b94b957301849fe631063",
+		"HashShort": "ba5e74d9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ba5e74d9d95e12f7973b94b957301849fe631063",
+		"Author": "raul",
+		"Comment": "Common++",
+		"Tag": "rustbeta_staging",
+		"Date": "2024-07-06 01:11:37 +0200"
+	}
+}
