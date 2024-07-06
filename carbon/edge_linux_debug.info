@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.178",
-	"InformationalVersion": "2.1.178-DebugUnix-develop-19c0d4c0",
+	"Version": "2.1.179",
+	"InformationalVersion": "2.1.179-DebugUnix-develop-aebb44cd",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "19c0d4c0e1bc800fbe5da1c356ef3a5646ae0566",
-		"HashShort": "19c0d4c0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/19c0d4c0e1bc800fbe5da1c356ef3a5646ae0566",
+		"HashLong": "aebb44cd94c1ee1145e9f320a0ce4ec57f36955b",
+		"HashShort": "aebb44cd",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aebb44cd94c1ee1145e9f320a0ce4ec57f36955b",
 		"Author": "raul",
-		"Comment": "Client module removal",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2024-07-07 01:34:45 +0200"
+		"Date": "2024-07-07 01:47:29 +0200"
 	}
 }
