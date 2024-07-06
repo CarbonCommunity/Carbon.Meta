@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.144",
-	"InformationalVersion": "2.3.144-Minimal-rust_beta/staging-ba5e74d9",
+	"Version": "2.3.145",
+	"InformationalVersion": "2.3.145-Minimal-rust_beta/staging-ba5e74d9",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Windows",
 	"Commit": {
