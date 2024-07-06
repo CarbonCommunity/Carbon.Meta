@@ -1,16 +1,1 @@
-{
-	"Version": "2.1.176",
-	"InformationalVersion": "2.1.176-MinimalUnix-develop-9e6f119a",
-	"Protocol": "2024.07.04.0",
-	"Platform": "Linux",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "9e6f119a536f6172a0ff12c82ec0954f81fb9def",
-		"HashShort": "9e6f119a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9e6f119a536f6172a0ff12c82ec0954f81fb9def",
-		"Author": "raul",
-		"Comment": "Common++",
-		"Tag": "edge_build",
-		"Date": "2024-07-07 01:20:21 +0200"
-	}
-}
+Not Found

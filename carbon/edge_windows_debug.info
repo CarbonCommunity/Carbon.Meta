@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.176",
-	"InformationalVersion": "2.1.176-Debug-develop-9e6f119a",
+	"Version": "2.1.178",
+	"InformationalVersion": "2.1.178-Debug-develop-19c0d4c0",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "9e6f119a536f6172a0ff12c82ec0954f81fb9def",
-		"HashShort": "9e6f119a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9e6f119a536f6172a0ff12c82ec0954f81fb9def",
+		"HashLong": "19c0d4c0e1bc800fbe5da1c356ef3a5646ae0566",
+		"HashShort": "19c0d4c0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/19c0d4c0e1bc800fbe5da1c356ef3a5646ae0566",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Client module removal",
 		"Tag": "edge_build",
-		"Date": "2024-07-07 01:20:21 +0200"
+		"Date": "2024-07-07 01:34:45 +0200"
 	}
 }
