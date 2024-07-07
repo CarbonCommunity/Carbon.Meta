@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.182",
-	"InformationalVersion": "2.1.182-DebugUnix-develop-9b8412d8",
+	"Version": "2.1.183",
+	"InformationalVersion": "2.1.183-DebugUnix-develop-d69d2cea",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "9b8412d830603fe4e998aad5afd952654c2d40ed",
-		"HashShort": "9b8412d8",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9b8412d830603fe4e998aad5afd952654c2d40ed",
-		"Author": "raul",
-		"Comment": "Checksum warn exclusion for `OnSendCommand [list]`",
+		"HashLong": "d69d2cea3e8d71b4afa5322c7d93eead549e74f8",
+		"HashShort": "d69d2cea",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d69d2cea3e8d71b4afa5322c7d93eead549e74f8",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Update README.md",
 		"Tag": "edge_build",
-		"Date": "2024-07-07 02:37:30 +0200"
+		"Date": "2024-07-07 12:46:08 +0200"
 	}
 }
