@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.185",
-	"InformationalVersion": "2.1.185-MinimalUnix-develop-c408858f",
+	"Version": "2.1.186",
+	"InformationalVersion": "2.1.186-MinimalUnix-develop-877f4d8c",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "c408858fea9f6937ef6f6d3ebbe3cc1714afc04e",
-		"HashShort": "c408858f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c408858fea9f6937ef6f6d3ebbe3cc1714afc04e",
+		"HashLong": "877f4d8c1647415277fa7ddb7fe76258ee4fffa5",
+		"HashShort": "877f4d8c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/877f4d8c1647415277fa7ddb7fe76258ee4fffa5",
 		"Author": "raul",
 		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2024-07-07 22:38:02 +0200"
+		"Date": "2024-07-08 19:29:05 +0200"
 	}
 }
