@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.148",
-	"InformationalVersion": "2.3.148-MinimalUnix-rust_beta/staging-fdb3958a",
+	"Version": "2.3.149",
+	"InformationalVersion": "2.3.149-MinimalUnix-rust_beta/staging-fdb3958a",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Linux",
 	"Commit": {
