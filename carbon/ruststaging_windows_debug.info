@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.3.150",
+	"InformationalVersion": "2.3.150-Debug-rust_beta/staging-fdb3958a",
+	"Protocol": "2024.07.04.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "fdb3958a8c4436fd6c4dbb87d57cc4d797f82091",
+		"HashShort": "fdb3958a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fdb3958a8c4436fd6c4dbb87d57cc4d797f82091",
+		"Author": "raul",
+		"Comment": "Merging from develop",
+		"Tag": "rustbeta_staging",
+		"Date": "2024-07-07 22:38:47 +0200"
+	}
+}
