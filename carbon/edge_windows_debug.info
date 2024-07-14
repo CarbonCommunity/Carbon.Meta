@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.198",
-	"InformationalVersion": "2.1.198-Debug-develop-a0d76c7f",
+	"Version": "2.1.199",
+	"InformationalVersion": "2.1.199-Debug-develop-ad4d8ad6",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a0d76c7f207b7120e24ba03617a8c7fe4ec1f803",
-		"HashShort": "a0d76c7f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a0d76c7f207b7120e24ba03617a8c7fe4ec1f803",
+		"HashLong": "ad4d8ad6181cfe5fadcf73f6719776b96f8dab7c",
+		"HashShort": "ad4d8ad6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ad4d8ad6181cfe5fadcf73f6719776b96f8dab7c",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Delete client-build.yml",
+		"Comment": "Update README.md",
 		"Tag": "edge_build",
-		"Date": "2024-07-12 19:24:12 +0200"
+		"Date": "2024-07-14 16:53:41 +0200"
 	}
 }
