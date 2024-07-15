@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.155",
-	"InformationalVersion": "2.3.155-DebugUnix-rust_beta/staging-fdb3958a",
+	"Version": "2.3.156",
+	"InformationalVersion": "2.3.156-DebugUnix-rust_beta/staging-fdb3958a",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Linux",
 	"Commit": {
