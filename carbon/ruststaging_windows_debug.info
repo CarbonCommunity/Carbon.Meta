@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.158",
-	"InformationalVersion": "2.3.158-Debug-rust_beta/staging-fdb3958a",
+	"Version": "2.3.159",
+	"InformationalVersion": "2.3.159-Debug-rust_beta/staging-fdb3958a",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Windows",
 	"Commit": {
