@@ -1,17 +1,16 @@
 {
-	"Version": "2.1.200",
-	"InformationalVersion": "2.1.200-Minimal-develop-85e54488",
+	"Version": "2.1.201",
+	"InformationalVersion": "2.1.201-Minimal-develop-33105eae",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "85e5448832cf870c4ad727e9e2f3d0b7b1420095",
-		"HashShort": "85e54488",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/85e5448832cf870c4ad727e9e2f3d0b7b1420095",
+		"HashLong": "33105eae5a587093bbac71186ecdbe7f9b7983cf",
+		"HashShort": "33105eae",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/33105eae5a587093bbac71186ecdbe7f9b7983cf",
 		"Author": "raul",
-		"Comment": "Set Carbon hook prefix, postfix and transpiler patches to use highest patching priority
-Submodules++",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2024-07-14 19:31:32 +0200"
+		"Date": "2024-07-19 20:52:53 +0200"
 	}
 }
