@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.161",
-	"InformationalVersion": "2.3.161-MinimalUnix-rust_beta/staging-bac25c33",
+	"Version": "2.3.162",
+	"InformationalVersion": "2.3.162-MinimalUnix-rust_beta/staging-bac25c33",
 	"Protocol": "2024.07.04.0",
 	"Platform": "Linux",
 	"Commit": {
