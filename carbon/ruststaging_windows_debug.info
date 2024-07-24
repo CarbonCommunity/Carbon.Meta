@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.165",
-	"InformationalVersion": "2.3.165-Debug-rust_beta/staging-45aff525",
+	"Version": "2.3.166",
+	"InformationalVersion": "2.3.166-Debug-rust_beta/staging-45aff525",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
