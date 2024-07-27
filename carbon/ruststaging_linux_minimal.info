@@ -1,17 +1,16 @@
 {
-	"Version": "2.3.171",
-	"InformationalVersion": "2.3.171-MinimalUnix-rust_beta/staging-3ddcf0d3",
+	"Version": "2.3.172",
+	"InformationalVersion": "2.3.172-MinimalUnix-rust_beta/staging-288e0548",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "3ddcf0d3191926425e2faf684b1c3dfcf3925f1b",
-		"HashShort": "3ddcf0d3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3ddcf0d3191926425e2faf684b1c3dfcf3925f1b",
+		"HashLong": "288e054814baddfdd15f08050f2f05c085cde701",
+		"HashShort": "288e0548",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/288e054814baddfdd15f08050f2f05c085cde701",
 		"Author": "raul",
-		"Comment": "WebScript removal
-Applied newly added config properties for controlling script and zipscript compilation check rate",
+		"Comment": "Submodules++",
 		"Tag": "rustbeta_staging",
-		"Date": "2024-07-26 18:23:51 +0200"
+		"Date": "2024-07-27 01:14:25 +0200"
 	}
 }
