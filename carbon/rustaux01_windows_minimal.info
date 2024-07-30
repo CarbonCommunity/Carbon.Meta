@@ -1,16 +1,1 @@
-{
-	"Version": "2.5.161",
-	"InformationalVersion": "2.5.161-Minimal-rust_beta/aux01-ae87233e",
-	"Protocol": "0.0.1.0-aux01",
-	"Platform": "Windows",
-	"Commit": {
-		"Branch": "rust_beta/aux01",
-		"HashLong": "ae87233e728919e9e67a1981b10524b23909a625",
-		"HashShort": "ae87233e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ae87233e728919e9e67a1981b10524b23909a625",
-		"Author": "raul",
-		"Comment": "Compile fix",
-		"Tag": "rustbeta_aux01",
-		"Date": "2024-06-24 19:16:25 +0200"
-	}
-}
+Not Found
