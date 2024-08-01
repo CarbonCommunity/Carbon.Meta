@@ -1,16 +1,1 @@
-{
-	"Version": "2.0.123",
-	"InformationalVersion": "2.0.123-MinimalUnix-production-2c5d1afe",
-	"Protocol": "2024.08.01.0",
-	"Platform": "Linux",
-	"Commit": {
-		"Branch": "production",
-		"HashLong": "2c5d1afe69391b8dfc995ccf0b67efbe202ac960",
-		"HashShort": "2c5d1afe",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2c5d1afe69391b8dfc995ccf0b67efbe202ac960",
-		"Author": "raul",
-		"Comment": "Merging from develop",
-		"Tag": "production_build",
-		"Date": "2024-08-01 18:51:03 +0200"
-	}
-}
+Not Found
