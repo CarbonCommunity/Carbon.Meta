@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.215",
-	"InformationalVersion": "2.1.215-MinimalUnix-develop-4bcfedc5",
+	"Version": "2.1.216",
+	"InformationalVersion": "2.1.216-MinimalUnix-develop-03f1482e",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "4bcfedc54dd8262bd384f03393b9de6eefdfdada",
-		"HashShort": "4bcfedc5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4bcfedc54dd8262bd384f03393b9de6eefdfdada",
+		"HashLong": "03f1482e13ecf147df2367fb78d0ddcd825ec4a1",
+		"HashShort": "03f1482e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/03f1482e13ecf147df2367fb78d0ddcd825ec4a1",
 		"Author": "raul",
-		"Comment": "Merging from rust_beta/staging",
+		"Comment": "Improvement for hook validation",
 		"Tag": "edge_build",
-		"Date": "2024-08-01 17:24:47 +0200"
+		"Date": "2024-08-01 18:50:03 +0200"
 	}
 }
