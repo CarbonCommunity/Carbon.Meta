@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.3.193",
+	"InformationalVersion": "2.3.193-Minimal-rust_beta/staging-0565e940",
+	"Protocol": "2024.08.01.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "0565e9408cbceb6317d7e072f4a8f0dc4d906821",
+		"HashShort": "0565e940",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0565e9408cbceb6317d7e072f4a8f0dc4d906821",
+		"Author": "raul",
+		"Comment": "Flag fix++",
+		"Tag": "rustbeta_staging",
+		"Date": "2024-08-01 17:23:00 +0200"
+	}
+}
