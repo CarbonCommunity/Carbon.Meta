@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.217",
-	"InformationalVersion": "2.1.217-Debug-develop-460d9f75",
+	"Version": "2.1.218",
+	"InformationalVersion": "2.1.218-Debug-develop-a0e57f0e",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "460d9f7556e86bd5ef9fbbc143bb4896a1d017c9",
-		"HashShort": "460d9f75",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/460d9f7556e86bd5ef9fbbc143bb4896a1d017c9",
+		"HashLong": "a0e57f0e4a1378699825b724563398301edd1b72",
+		"HashShort": "a0e57f0e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a0e57f0e4a1378699825b724563398301edd1b72",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Update edge-build.yml",
+		"Comment": "Ship Carbon release builds in the Rust (release) version of Carbon (can use this build to preload your server on wipe day - gets updated 1h before Rust wipe)",
 		"Tag": "edge_build",
-		"Date": "2024-08-02 04:44:06 +0200"
+		"Date": "2024-08-02 04:57:05 +0200"
 	}
 }
