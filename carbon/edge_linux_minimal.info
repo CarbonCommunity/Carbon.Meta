@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.216",
-	"InformationalVersion": "2.1.216-MinimalUnix-develop-03f1482e",
+	"Version": "2.1.217",
+	"InformationalVersion": "2.1.217-MinimalUnix-develop-460d9f75",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "03f1482e13ecf147df2367fb78d0ddcd825ec4a1",
-		"HashShort": "03f1482e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/03f1482e13ecf147df2367fb78d0ddcd825ec4a1",
-		"Author": "raul",
-		"Comment": "Improvement for hook validation",
+		"HashLong": "460d9f7556e86bd5ef9fbbc143bb4896a1d017c9",
+		"HashShort": "460d9f75",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/460d9f7556e86bd5ef9fbbc143bb4896a1d017c9",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Update edge-build.yml",
 		"Tag": "edge_build",
-		"Date": "2024-08-01 18:50:03 +0200"
+		"Date": "2024-08-02 04:44:06 +0200"
 	}
 }
