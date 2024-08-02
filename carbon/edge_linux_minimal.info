@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.218",
-	"InformationalVersion": "2.1.218-MinimalUnix-develop-a0e57f0e",
+	"Version": "2.1.219",
+	"InformationalVersion": "2.1.219-MinimalUnix-develop-6c4f3218",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a0e57f0e4a1378699825b724563398301edd1b72",
-		"HashShort": "a0e57f0e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a0e57f0e4a1378699825b724563398301edd1b72",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Ship Carbon release builds in the Rust (release) version of Carbon (can use this build to preload your server on wipe day - gets updated 1h before Rust wipe)",
+		"HashLong": "6c4f3218600b7b9c684ad0fa45c00f207c5f97ba",
+		"HashShort": "6c4f3218",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6c4f3218600b7b9c684ad0fa45c00f207c5f97ba",
+		"Author": "raul",
+		"Comment": "Fix++",
 		"Tag": "edge_build",
-		"Date": "2024-08-02 04:57:05 +0200"
+		"Date": "2024-08-02 14:49:45 +0200"
 	}
 }
