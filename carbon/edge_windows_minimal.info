@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.1.223",
+	"InformationalVersion": "2.1.223-Minimal-develop-96da438c",
+	"Protocol": "2024.08.01.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "96da438c331674f162d0ce1d7d07524a487865d9",
+		"HashShort": "96da438c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/96da438c331674f162d0ce1d7d07524a487865d9",
+		"Author": "raul",
+		"Comment": "Cleanup",
+		"Tag": "edge_build",
+		"Date": "2024-08-05 16:53:59 +0200"
+	}
+}
