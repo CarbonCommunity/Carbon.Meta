@@ -1,17 +1,16 @@
 {
-	"Version": "2.1.225",
-	"InformationalVersion": "2.1.225-Debug-develop-a8067e73",
+	"Version": "2.1.227",
+	"InformationalVersion": "2.1.227-Debug-develop-4be52b61",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a8067e73b9257a54cde030ae3667973c3918fa00",
-		"HashShort": "a8067e73",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a8067e73b9257a54cde030ae3667973c3918fa00",
+		"HashLong": "4be52b61f8554c487099d6583f61f739c1cc6806",
+		"HashShort": "4be52b61",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4be52b61f8554c487099d6583f61f739c1cc6806",
 		"Author": "raul",
-		"Comment": "Base++
-Changed Harmony to use the Thin version",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2024-08-05 18:20:31 +0200"
+		"Date": "2024-08-05 20:15:07 +0200"
 	}
 }
