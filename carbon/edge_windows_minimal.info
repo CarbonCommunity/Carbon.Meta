@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.223",
-	"InformationalVersion": "2.1.223-Minimal-develop-96da438c",
+	"Version": "2.1.224",
+	"InformationalVersion": "2.1.224-Minimal-develop-52c861b9",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "96da438c331674f162d0ce1d7d07524a487865d9",
-		"HashShort": "96da438c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/96da438c331674f162d0ce1d7d07524a487865d9",
+		"HashLong": "52c861b9da75eb6e75e05e94c9495bf2b3f6f9a2",
+		"HashShort": "52c861b9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52c861b9da75eb6e75e05e94c9495bf2b3f6f9a2",
 		"Author": "raul",
-		"Comment": "Cleanup",
+		"Comment": "NuGet version update",
 		"Tag": "edge_build",
-		"Date": "2024-08-05 16:53:59 +0200"
+		"Date": "2024-08-05 17:27:44 +0200"
 	}
 }
