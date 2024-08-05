@@ -1,16 +1,17 @@
 {
-	"Version": "2.1.224",
-	"InformationalVersion": "2.1.224-Minimal-develop-52c861b9",
+	"Version": "2.1.225",
+	"InformationalVersion": "2.1.225-Minimal-develop-a8067e73",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "52c861b9da75eb6e75e05e94c9495bf2b3f6f9a2",
-		"HashShort": "52c861b9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52c861b9da75eb6e75e05e94c9495bf2b3f6f9a2",
+		"HashLong": "a8067e73b9257a54cde030ae3667973c3918fa00",
+		"HashShort": "a8067e73",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a8067e73b9257a54cde030ae3667973c3918fa00",
 		"Author": "raul",
-		"Comment": "NuGet version update",
+		"Comment": "Base++
+Changed Harmony to use the Thin version",
 		"Tag": "edge_build",
-		"Date": "2024-08-05 17:27:44 +0200"
+		"Date": "2024-08-05 18:20:31 +0200"
 	}
 }
