@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.234",
-	"InformationalVersion": "2.1.234-Debug-develop-2370ba60",
+	"Version": "2.1.235",
+	"InformationalVersion": "2.1.235-Debug-develop-7f71af13",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "2370ba600f9ffacff321ce46f500d594e727faa2",
-		"HashShort": "2370ba60",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2370ba600f9ffacff321ce46f500d594e727faa2",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Enabled internal hook checkout for hook generating process",
+		"HashLong": "7f71af13408fdd69b2c878e12b0fc14bdac4053a",
+		"HashShort": "7f71af13",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7f71af13408fdd69b2c878e12b0fc14bdac4053a",
+		"Author": "raul",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2024-08-08 14:41:26 +0200"
+		"Date": "2024-08-08 19:18:03 +0200"
 	}
 }
