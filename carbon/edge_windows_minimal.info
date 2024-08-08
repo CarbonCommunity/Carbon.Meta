@@ -1,17 +1,16 @@
 {
-	"Version": "2.1.231",
-	"InformationalVersion": "2.1.231-Minimal-develop-d8ddf01b",
+	"Version": "2.1.232",
+	"InformationalVersion": "2.1.232-Minimal-develop-16d7943b",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d8ddf01b88a6a4099976879b83dcfc52bad9754d",
-		"HashShort": "d8ddf01b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d8ddf01b88a6a4099976879b83dcfc52bad9754d",
+		"HashLong": "16d7943b28b5efa13bc24b15d57f5189cac3ba67",
+		"HashShort": "16d7943b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/16d7943b28b5efa13bc24b15d57f5189cac3ba67",
 		"Author": "raul",
-		"Comment": "Depot downloader update++
-Referenced ZstdSharp",
+		"Comment": "Downgraded sharpcompress since it's causing issues",
 		"Tag": "edge_build",
-		"Date": "2024-08-08 01:59:03 +0200"
+		"Date": "2024-08-08 02:59:36 +0200"
 	}
 }
