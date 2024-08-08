@@ -1,16 +1,17 @@
 {
-	"Version": "2.1.230",
-	"InformationalVersion": "2.1.230-Debug-develop-117dfa23",
+	"Version": "2.1.231",
+	"InformationalVersion": "2.1.231-Debug-develop-d8ddf01b",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "117dfa239a622f33c6863f6b2b52cba2604c1754",
-		"HashShort": "117dfa23",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/117dfa239a622f33c6863f6b2b52cba2604c1754",
+		"HashLong": "d8ddf01b88a6a4099976879b83dcfc52bad9754d",
+		"HashShort": "d8ddf01b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d8ddf01b88a6a4099976879b83dcfc52bad9754d",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Depot downloader update++
+Referenced ZstdSharp",
 		"Tag": "edge_build",
-		"Date": "2024-08-07 01:48:36 +0200"
+		"Date": "2024-08-08 01:59:03 +0200"
 	}
 }
