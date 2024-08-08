@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.231",
+	"InformationalVersion": "2.1.231-MinimalUnix-develop-d8ddf01b",
+	"Protocol": "2024.08.01.0",
+	"Platform": "Linux",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "d8ddf01b88a6a4099976879b83dcfc52bad9754d",
+		"HashShort": "d8ddf01b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d8ddf01b88a6a4099976879b83dcfc52bad9754d",
+		"Author": "raul",
+		"Comment": "Depot downloader update++
+Referenced ZstdSharp",
+		"Tag": "edge_build",
+		"Date": "2024-08-08 01:59:03 +0200"
+	}
+}
