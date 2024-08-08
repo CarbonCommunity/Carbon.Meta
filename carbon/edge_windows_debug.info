@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.232",
-	"InformationalVersion": "2.1.232-Debug-develop-16d7943b",
+	"Version": "2.1.233",
+	"InformationalVersion": "2.1.233-Debug-develop-665068f9",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "16d7943b28b5efa13bc24b15d57f5189cac3ba67",
-		"HashShort": "16d7943b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/16d7943b28b5efa13bc24b15d57f5189cac3ba67",
+		"HashLong": "665068f9fe4c70e75b6b0d4ca455377dca7c4b18",
+		"HashShort": "665068f9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/665068f9fe4c70e75b6b0d4ca455377dca7c4b18",
 		"Author": "raul",
-		"Comment": "Downgraded sharpcompress since it's causing issues",
+		"Comment": "Removed Carbon.Hooks.Internal",
 		"Tag": "edge_build",
-		"Date": "2024-08-08 02:59:36 +0200"
+		"Date": "2024-08-08 14:39:48 +0200"
 	}
 }
