@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.235",
-	"InformationalVersion": "2.1.235-Minimal-develop-7f71af13",
+	"Version": "2.1.236",
+	"InformationalVersion": "2.1.236-Minimal-develop-3b34fc5b",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7f71af13408fdd69b2c878e12b0fc14bdac4053a",
-		"HashShort": "7f71af13",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7f71af13408fdd69b2c878e12b0fc14bdac4053a",
+		"HashLong": "3b34fc5bf1dcc99d7530984f7b061bae5a9bb22f",
+		"HashShort": "3b34fc5b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3b34fc5bf1dcc99d7530984f7b061bae5a9bb22f",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Updated initialization failure messages (when Oxide is still patched in Rust assemblies, etc)",
 		"Tag": "edge_build",
-		"Date": "2024-08-08 19:18:03 +0200"
+		"Date": "2024-08-09 13:07:48 +0200"
 	}
 }
