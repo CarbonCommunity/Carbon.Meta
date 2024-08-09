@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.240",
-	"InformationalVersion": "2.1.240-Debug-develop-9f0dc9e4",
+	"Version": "2.1.241",
+	"InformationalVersion": "2.1.241-Debug-develop-a2554d52",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "9f0dc9e498fb3f2a43be49a87189befef586358b",
-		"HashShort": "9f0dc9e4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9f0dc9e498fb3f2a43be49a87189befef586358b",
+		"HashLong": "a2554d52489382e0c71de5bab450fd56d339d26d",
+		"HashShort": "a2554d52",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a2554d52489382e0c71de5bab450fd56d339d26d",
 		"Author": "raul",
-		"Comment": "Native++",
+		"Comment": "Plugin format error handling and solution suggestion",
 		"Tag": "edge_build",
-		"Date": "2024-08-09 23:49:56 +0200"
+		"Date": "2024-08-10 00:42:42 +0200"
 	}
 }
