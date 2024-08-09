@@ -1,6 +1,6 @@
 {
-	"Version": "2.1.238",
-	"InformationalVersion": "2.1.238-MinimalUnix-develop-39e1df04",
+	"Version": "2.1.239",
+	"InformationalVersion": "2.1.239-MinimalUnix-develop-39e1df04",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Linux",
 	"Commit": {
