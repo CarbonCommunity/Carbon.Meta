@@ -1,17 +1,16 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 Backend unavailable, connection timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend unavailable, connection timeout</h1>
-    <p>Backend unavailable, connection timeout</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-ams2100129-AMS 1723331363 3347536609</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+{
+	"Version": "2.5.174",
+	"InformationalVersion": "2.5.174-DebugUnix-rust_beta/aux01-469b5c87",
+	"Protocol": "0.0.1.0-aux01",
+	"Platform": "Linux",
+	"Commit": {
+		"Branch": "rust_beta/aux01",
+		"HashLong": "469b5c87ecfdcf00c3d25306ec7a2d4c9d932cc2",
+		"HashShort": "469b5c87",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/469b5c87ecfdcf00c3d25306ec7a2d4c9d932cc2",
+		"Author": "raul",
+		"Comment": "Merging from rust_beta/staging",
+		"Tag": "rustbeta_aux01",
+		"Date": "2024-08-05 17:58:06 +0200"
+	}
+}
