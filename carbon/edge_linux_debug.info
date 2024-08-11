@@ -1,6 +1,6 @@
 {
-	"Version": "2.1.244",
-	"InformationalVersion": "2.1.244-DebugUnix-develop-0f35b400",
+	"Version": "2.1.245",
+	"InformationalVersion": "2.1.245-DebugUnix-develop-0f35b400",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Linux",
 	"Commit": {
