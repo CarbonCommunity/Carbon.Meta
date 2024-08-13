@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.250",
-	"InformationalVersion": "2.1.250-Minimal-develop-a0d54e39",
+	"Version": "2.1.251",
+	"InformationalVersion": "2.1.251-Minimal-develop-ce85e9c2",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a0d54e39c6d86e9b862fbb3e75cf2e3344d1c850",
-		"HashShort": "a0d54e39",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a0d54e39c6d86e9b862fbb3e75cf2e3344d1c850",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Update hook-build.yml",
+		"HashLong": "ce85e9c2981ec89af2d3edf6b2f631bad2b74b5f",
+		"HashShort": "ce85e9c2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ce85e9c2981ec89af2d3edf6b2f631bad2b74b5f",
+		"Author": "raul",
+		"Comment": "Fix for branch",
 		"Tag": "edge_build",
-		"Date": "2024-08-13 03:19:11 +0200"
+		"Date": "2024-08-13 03:26:13 +0200"
 	}
 }
