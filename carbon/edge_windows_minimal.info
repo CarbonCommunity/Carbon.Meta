@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.248",
-	"InformationalVersion": "2.1.248-Minimal-develop-335eec7b",
+	"Version": "2.1.249",
+	"InformationalVersion": "2.1.249-Minimal-develop-641c7699",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "335eec7b9ff41413c8b1f6c88c575b07d54bd81d",
-		"HashShort": "335eec7b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/335eec7b9ff41413c8b1f6c88c575b07d54bd81d",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Update hook-build.yml",
+		"HashLong": "641c769949d4a4863d2124b1829339c09f1d89e1",
+		"HashShort": "641c7699",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/641c769949d4a4863d2124b1829339c09f1d89e1",
+		"Author": "raul",
+		"Comment": "Brought back Carbon.Hooks.Internal as submodule",
 		"Tag": "edge_build",
-		"Date": "2024-08-13 01:09:05 +0200"
+		"Date": "2024-08-13 03:18:36 +0200"
 	}
 }
