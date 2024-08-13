@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.251",
-	"InformationalVersion": "2.1.251-Debug-develop-ce85e9c2",
+	"Version": "2.1.252",
+	"InformationalVersion": "2.1.252-Debug-develop-a77bd574",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ce85e9c2981ec89af2d3edf6b2f631bad2b74b5f",
-		"HashShort": "ce85e9c2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ce85e9c2981ec89af2d3edf6b2f631bad2b74b5f",
+		"HashLong": "a77bd574feef989e3f8bb53f645e476531516024",
+		"HashShort": "a77bd574",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a77bd574feef989e3f8bb53f645e476531516024",
 		"Author": "raul",
-		"Comment": "Fix for branch",
+		"Comment": "Fixed cszip awaiting",
 		"Tag": "edge_build",
-		"Date": "2024-08-13 03:26:13 +0200"
+		"Date": "2024-08-13 22:06:55 +0200"
 	}
 }
