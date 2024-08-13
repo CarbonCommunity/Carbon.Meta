@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.3.208",
+	"InformationalVersion": "2.3.208-Debug-rust_beta/staging-163bb7f7",
+	"Protocol": "2024.09.05.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "163bb7f71391be32206ca33fba092d7f94f88b05",
+		"HashShort": "163bb7f7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/163bb7f71391be32206ca33fba092d7f94f88b05",
+		"Author": "raul",
+		"Comment": "Protocol update (`2024.09.05.0`)",
+		"Tag": "rustbeta_staging",
+		"Date": "2024-08-13 03:37:25 +0200"
+	}
+}
