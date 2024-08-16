@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.252",
-	"InformationalVersion": "2.1.252-MinimalUnix-develop-a77bd574",
+	"Version": "2.1.253",
+	"InformationalVersion": "2.1.253-MinimalUnix-develop-fe0611dd",
 	"Protocol": "2024.08.01.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a77bd574feef989e3f8bb53f645e476531516024",
-		"HashShort": "a77bd574",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a77bd574feef989e3f8bb53f645e476531516024",
+		"HashLong": "fe0611ddea6dc5941163b587cc101055075ed1f9",
+		"HashShort": "fe0611dd",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fe0611ddea6dc5941163b587cc101055075ed1f9",
 		"Author": "raul",
-		"Comment": "Fixed cszip awaiting",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2024-08-13 22:06:55 +0200"
+		"Date": "2024-08-16 22:25:58 +0200"
 	}
 }
