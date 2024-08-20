@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.223",
+	"InformationalVersion": "2.3.223-DebugUnix-rust_beta/staging-c781cc16",
+	"Protocol": "2024.09.05.0",
+	"Platform": "Linux",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "c781cc1684fe80b2afa427e775ae5752beccfe24",
+		"HashShort": "c781cc16",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c781cc1684fe80b2afa427e775ae5752beccfe24",
+		"Author": "raul",
+		"Comment": "Common++
+Build fix",
+		"Tag": "rustbeta_staging",
+		"Date": "2024-08-21 01:00:57 +0200"
+	}
+}
