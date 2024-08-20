@@ -1,16 +1,1 @@
-{
-	"Version": "2.3.219",
-	"InformationalVersion": "2.3.219-MinimalUnix-rust_beta/staging-e0f19969",
-	"Protocol": "2024.09.05.0",
-	"Platform": "Linux",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "e0f19969b991b7ac4212593cf2299ceb9f3b89eb",
-		"HashShort": "e0f19969",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e0f19969b991b7ac4212593cf2299ceb9f3b89eb",
-		"Author": "raul",
-		"Comment": "Native++",
-		"Tag": "rustbeta_staging",
-		"Date": "2024-08-15 17:27:41 +0200"
-	}
-}
+Not Found
