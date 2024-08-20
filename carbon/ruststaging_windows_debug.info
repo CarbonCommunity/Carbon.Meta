@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.3.222",
+	"InformationalVersion": "2.3.222-Debug-rust_beta/staging-ec8809bd",
+	"Protocol": "2024.09.05.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "ec8809bd125300cca2734c27097c4f1effe8e2cf",
+		"HashShort": "ec8809bd",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ec8809bd125300cca2734c27097c4f1effe8e2cf",
+		"Author": "raul",
+		"Comment": "New Rust Facepunch.Pool updates",
+		"Tag": "rustbeta_staging",
+		"Date": "2024-08-21 00:10:01 +0200"
+	}
+}
