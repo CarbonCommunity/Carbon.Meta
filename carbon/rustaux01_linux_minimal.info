@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.5.200",
+	"InformationalVersion": "2.5.200-MinimalUnix-rust_beta/aux01-55394b5f",
+	"Protocol": "0.0.1.0-aux01",
+	"Platform": "Linux",
+	"Commit": {
+		"Branch": "rust_beta/aux01",
+		"HashLong": "55394b5f38a23d3ecca68e253ac314d8552f8ea2",
+		"HashShort": "55394b5f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/55394b5f38a23d3ecca68e253ac314d8552f8ea2",
+		"Author": "raul",
+		"Comment": "Merging from rust_beta/staging",
+		"Tag": "rustbeta_aux01",
+		"Date": "2024-09-01 01:47:52 +0200"
+	}
+}
