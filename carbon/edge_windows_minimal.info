@@ -1,17 +1,16 @@
 {
-	"Version": "2.1.276",
-	"InformationalVersion": "2.1.276-Minimal-develop-ca115607",
+	"Version": "2.1.280",
+	"InformationalVersion": "2.1.280-Minimal-develop-ac34a72f",
 	"Protocol": "2024.09.05.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ca1156076655f9ee7d839c2f69fc6389ba3478dd",
-		"HashShort": "ca115607",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ca1156076655f9ee7d839c2f69fc6389ba3478dd",
+		"HashLong": "ac34a72fcc6828a7517a0a62a719945721205835",
+		"HashShort": "ac34a72f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ac34a72fcc6828a7517a0a62a719945721205835",
 		"Author": "raul",
-		"Comment": "Removed DepotDownloader debugging
-Submodules",
+		"Comment": "Modules++",
 		"Tag": "edge_build",
-		"Date": "2024-09-06 14:59:16 +0200"
+		"Date": "2024-09-06 16:06:24 +0200"
 	}
 }
