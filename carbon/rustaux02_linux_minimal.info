@@ -1,16 +1,1 @@
-{
-	"Version": "2.6.211",
-	"InformationalVersion": "2.6.211-MinimalUnix-rust_beta/aux02-102a11b5",
-	"Protocol": "0.0.1.0-aux02",
-	"Platform": "Linux",
-	"Commit": {
-		"Branch": "rust_beta/aux02",
-		"HashLong": "102a11b5cd800a19161878b6b6edf279bf3c932a",
-		"HashShort": "102a11b5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/102a11b5cd800a19161878b6b6edf279bf3c932a",
-		"Author": "raul",
-		"Comment": "Merging from develop",
-		"Tag": "rustbeta_aux02",
-		"Date": "2024-09-06 16:59:55 +0200"
-	}
-}
+Not Found
