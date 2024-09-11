@@ -1,6 +1,6 @@
 {
-	"Version": "2.5.211",
-	"InformationalVersion": "2.5.211-Debug-rust_beta/aux01-eafaf264",
+	"Version": "2.5.212",
+	"InformationalVersion": "2.5.212-Debug-rust_beta/aux01-eafaf264",
 	"Protocol": "0.0.1.0-aux01",
 	"Platform": "Windows",
 	"Commit": {
