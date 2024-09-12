@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.285",
-	"InformationalVersion": "2.1.285-Minimal-develop-d571a082",
+	"Version": "2.1.288",
+	"InformationalVersion": "2.1.288-Minimal-develop-56fe7ea9",
 	"Protocol": "2024.09.05.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d571a082ddb57ec5086d59491f499a3c7f7e8d48",
-		"HashShort": "d571a082",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d571a082ddb57ec5086d59491f499a3c7f7e8d48",
+		"HashLong": "56fe7ea99943d0ea2296b1c72faf218e670173de",
+		"HashShort": "56fe7ea9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/56fe7ea99943d0ea2296b1c72faf218e670173de",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Submodules for da edge build",
 		"Tag": "edge_build",
-		"Date": "2024-09-07 18:13:01 +0200"
+		"Date": "2024-09-12 05:12:22 +0200"
 	}
 }
