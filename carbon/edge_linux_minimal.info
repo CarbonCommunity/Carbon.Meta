@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.288",
-	"InformationalVersion": "2.1.288-MinimalUnix-develop-56fe7ea9",
+	"Version": "2.1.291",
+	"InformationalVersion": "2.1.291-MinimalUnix-develop-e4abc8e2",
 	"Protocol": "2024.09.05.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "56fe7ea99943d0ea2296b1c72faf218e670173de",
-		"HashShort": "56fe7ea9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/56fe7ea99943d0ea2296b1c72faf218e670173de",
+		"HashLong": "e4abc8e205f3ae3cee909e6a4c3bcf61eda58772",
+		"HashShort": "e4abc8e2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e4abc8e205f3ae3cee909e6a4c3bcf61eda58772",
 		"Author": "raul",
-		"Comment": "Submodules for da edge build",
+		"Comment": "Depot++",
 		"Tag": "edge_build",
-		"Date": "2024-09-12 05:12:22 +0200"
+		"Date": "2024-09-14 15:27:57 +0200"
 	}
 }
