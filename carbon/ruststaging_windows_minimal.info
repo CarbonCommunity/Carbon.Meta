@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.324",
-	"InformationalVersion": "2.3.324-Minimal-rust_beta/staging-ec391cd3",
+	"Version": "2.3.325",
+	"InformationalVersion": "2.3.325-Minimal-rust_beta/staging-ec391cd3",
 	"Protocol": "2024.10.03.0",
 	"Platform": "Windows",
 	"Commit": {
