@@ -1,17 +1,16 @@
 {
-	"Version": "2.1.303",
-	"InformationalVersion": "2.1.303-MinimalUnix-develop-7cbfff3b",
+	"Version": "2.1.304",
+	"InformationalVersion": "2.1.304-MinimalUnix-develop-8a7172bd",
 	"Protocol": "2024.10.03.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7cbfff3b374e4d8406dd9ea358e9b221356873e7",
-		"HashShort": "7cbfff3b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7cbfff3b374e4d8406dd9ea358e9b221356873e7",
+		"HashLong": "8a7172bd2a2946d4f6d36dfa05ae82654cafb2bf",
+		"HashShort": "8a7172bd",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8a7172bd2a2946d4f6d36dfa05ae82654cafb2bf",
 		"Author": "raul",
-		"Comment": "Upgraded Roslyn to 4.12.7 from 4.12.4
-Upgraded CodeAnalysis.CSharp to 4.11.0 from 4.10.0",
+		"Comment": "Modules++",
 		"Tag": "edge_build",
-		"Date": "2024-10-07 10:55:10 +0200"
+		"Date": "2024-10-08 16:37:53 +0200"
 	}
 }
