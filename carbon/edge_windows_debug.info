@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.308",
-	"InformationalVersion": "2.1.308-Debug-develop-6f4164db",
+	"Version": "2.1.309",
+	"InformationalVersion": "2.1.309-Debug-develop-4ea66246",
 	"Protocol": "2024.10.03.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "6f4164db62b9b652bbe1e12baa94736adb0b98cf",
-		"HashShort": "6f4164db",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6f4164db62b9b652bbe1e12baa94736adb0b98cf",
+		"HashLong": "4ea66246aac80d95fa06d3df2c248b15f80f75d6",
+		"HashShort": "4ea66246",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4ea66246aac80d95fa06d3df2c248b15f80f75d6",
 		"Author": "raul",
-		"Comment": "Do da build",
+		"Comment": "Hooks.Internal (fix for OnIORefCleared)",
 		"Tag": "edge_build",
-		"Date": "2024-10-10 18:11:26 +0200"
+		"Date": "2024-10-10 20:56:09 +0200"
 	}
 }
