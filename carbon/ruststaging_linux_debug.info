@@ -1,16 +1,1 @@
-{
-	"Version": "2.3.331",
-	"InformationalVersion": "2.3.331-DebugUnix-rust_beta/staging-ec391cd3",
-	"Protocol": "2024.10.03.0",
-	"Platform": "Linux",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "ec391cd3d8c194e54da1e92906ae5e79ef4087e4",
-		"HashShort": "ec391cd3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ec391cd3d8c194e54da1e92906ae5e79ef4087e4",
-		"Author": "raul",
-		"Comment": "Submodules",
-		"Tag": "rustbeta_staging",
-		"Date": "2024-10-03 15:07:01 +0200"
-	}
-}
+Not Found
