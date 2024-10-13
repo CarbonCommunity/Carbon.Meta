@@ -1,1 +1,16 @@
-Not Found
+{
+	"Version": "2.1.317",
+	"InformationalVersion": "2.1.317-Minimal-develop-ae4326f9",
+	"Protocol": "2024.10.03.0",
+	"Platform": "Windows",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "ae4326f9cfee40bd9ecd33b442707e3e1c8737d1",
+		"HashShort": "ae4326f9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ae4326f9cfee40bd9ecd33b442707e3e1c8737d1",
+		"Author": "raul",
+		"Comment": "Depot update and NRE fix for Client",
+		"Tag": "edge_build",
+		"Date": "2024-10-13 16:53:19 +0200"
+	}
+}

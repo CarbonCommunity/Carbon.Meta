@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.316",
-	"InformationalVersion": "2.1.316-MinimalUnix-develop-35ed09c5",
+	"Version": "2.1.317",
+	"InformationalVersion": "2.1.317-MinimalUnix-develop-ae4326f9",
 	"Protocol": "2024.10.03.0",
 	"Platform": "Linux",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "35ed09c582cbbc249d4d85635870d2d94a995271",
-		"HashShort": "35ed09c5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/35ed09c582cbbc249d4d85635870d2d94a995271",
+		"HashLong": "ae4326f9cfee40bd9ecd33b442707e3e1c8737d1",
+		"HashShort": "ae4326f9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ae4326f9cfee40bd9ecd33b442707e3e1c8737d1",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Depot update and NRE fix for Client",
 		"Tag": "edge_build",
-		"Date": "2024-10-13 05:00:58 +0200"
+		"Date": "2024-10-13 16:53:19 +0200"
 	}
 }
