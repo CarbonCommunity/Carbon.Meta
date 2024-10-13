@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.334",
-	"InformationalVersion": "2.3.334-Minimal-rust_beta/staging-49a68a9c",
+	"Version": "2.3.335",
+	"InformationalVersion": "2.3.335-Minimal-rust_beta/staging-49a68a9c",
 	"Protocol": "2024.11.07.0",
 	"Platform": "Windows",
 	"Commit": {
