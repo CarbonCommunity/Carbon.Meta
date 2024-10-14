@@ -1,16 +1,16 @@
 {
-	"Version": "2.1.317",
-	"InformationalVersion": "2.1.317-Debug-develop-ae4326f9",
+	"Version": "2.1.318",
+	"InformationalVersion": "2.1.318-Debug-develop-dc275065",
 	"Protocol": "2024.10.03.0",
 	"Platform": "Windows",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ae4326f9cfee40bd9ecd33b442707e3e1c8737d1",
-		"HashShort": "ae4326f9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ae4326f9cfee40bd9ecd33b442707e3e1c8737d1",
+		"HashLong": "dc2750651bd48f41a04a3246b1cfe65a4a58d206",
+		"HashShort": "dc275065",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dc2750651bd48f41a04a3246b1cfe65a4a58d206",
 		"Author": "raul",
-		"Comment": "Depot update and NRE fix for Client",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2024-10-13 16:53:19 +0200"
+		"Date": "2024-10-14 18:08:33 +0200"
 	}
 }
