@@ -1,6 +1,6 @@
 {
-	"Version": "2.6.254",
-	"InformationalVersion": "2.6.254-Minimal-rust_beta/aux02-8cb4ded9",
+	"Version": "2.6.255",
+	"InformationalVersion": "2.6.255-Minimal-rust_beta/aux02-8cb4ded9",
 	"Protocol": "0.0.1.0-aux02",
 	"Platform": "Windows",
 	"Commit": {
