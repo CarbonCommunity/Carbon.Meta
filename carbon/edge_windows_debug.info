@@ -1,16 +1,17 @@
 {
-	"Version": "2.1.318",
-	"InformationalVersion": "2.1.318-Debug-develop-dc275065",
+	"Version": "2.1.319",
+	"InformationalVersion": "2.1.319-Debug-develop-06605b96",
 	"Protocol": "2024.10.03.0",
 	"Platform": "Windows",
+	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "dc2750651bd48f41a04a3246b1cfe65a4a58d206",
-		"HashShort": "dc275065",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dc2750651bd48f41a04a3246b1cfe65a4a58d206",
+		"HashLong": "06605b96e27813b68bda23bdc5acbbcd5dc1688a",
+		"HashShort": "06605b96",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/06605b96e27813b68bda23bdc5acbbcd5dc1688a",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Include configuration in the `.info` file",
 		"Tag": "edge_build",
-		"Date": "2024-10-14 18:08:33 +0200"
+		"Date": "2024-10-17 15:01:46 +0200"
 	}
 }
