@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.150",
-	"InformationalVersion": "2.0.150-MinimalUnix-production-83012be1",
+	"Version": "2.0.151",
+	"InformationalVersion": "2.0.151-MinimalUnix-production-29d71153",
 	"Protocol": "2024.10.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "83012be16ff434384b0902ca0ba48177230adbba",
-		"HashShort": "83012be1",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/83012be16ff434384b0902ca0ba48177230adbba",
+		"HashLong": "29d711534d7c5bdc2619f5c88e166ffca2342223",
+		"HashShort": "29d71153",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/29d711534d7c5bdc2619f5c88e166ffca2342223",
 		"Author": "raul",
-		"Comment": "Final",
+		"Comment": "Name update",
 		"Tag": "production_build",
-		"Date": "2024-10-18 22:23:13 +0200"
+		"Date": "2024-10-18 22:29:40 +0200"
 	}
 }
