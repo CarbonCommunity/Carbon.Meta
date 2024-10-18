@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.324",
+	"InformationalVersion": "2.1.324-MinimalUnix-develop-ab49fc78",
+	"Protocol": "2024.10.03.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "ab49fc78d6e3c8c202e0765ed7eff7d5a3685d72",
+		"HashShort": "ab49fc78",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ab49fc78d6e3c8c202e0765ed7eff7d5a3685d72",
+		"Author": "raul",
+		"Comment": "V2",
+		"Tag": "edge_build",
+		"Date": "2024-10-18 22:10:34 +0200"
+	}
+}
