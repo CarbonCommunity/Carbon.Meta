@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.360",
-	"InformationalVersion": "2.3.360-Debug-rust_beta/staging-0fc1ada7",
-	"Protocol": "2024.11.07.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "0fc1ada75d113d508a985174a3f579550c738ce1",
-		"HashShort": "0fc1ada7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0fc1ada75d113d508a985174a3f579550c738ce1",
-		"Author": "raul",
-		"Comment": "Modules++",
-		"Tag": "rustbeta_staging",
-		"Date": "2024-11-03 15:14:10 +0100"
-	}
-}
+Not Found
