@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.151",
-	"InformationalVersion": "2.0.151-Minimal-production-29d71153",
-	"Protocol": "2024.10.03.0",
+	"Version": "2.0.153",
+	"InformationalVersion": "2.0.153-Minimal-production-f92453c8",
+	"Protocol": "2024.11.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "29d711534d7c5bdc2619f5c88e166ffca2342223",
-		"HashShort": "29d71153",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/29d711534d7c5bdc2619f5c88e166ffca2342223",
+		"HashLong": "f92453c8e9987b7d3624432d9fbffb2548777ace",
+		"HashShort": "f92453c8",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f92453c8e9987b7d3624432d9fbffb2548777ace",
 		"Author": "raul",
-		"Comment": "Name update",
+		"Comment": "Prod submodules++",
 		"Tag": "production_build",
-		"Date": "2024-10-18 22:29:40 +0200"
+		"Date": "2024-11-07 19:24:31 +0100"
 	}
 }
