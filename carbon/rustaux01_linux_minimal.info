@@ -1,6 +1,6 @@
 {
-	"Version": "2.5.278",
-	"InformationalVersion": "2.5.278-MinimalUnix-rust_beta/aux01-aa6fbb3e",
+	"Version": "2.5.279",
+	"InformationalVersion": "2.5.279-MinimalUnix-rust_beta/aux01-aa6fbb3e",
 	"Protocol": "0.0.1.0-aux01",
 	"Platform": "Linux",
 	"Commit": {
