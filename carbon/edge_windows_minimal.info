@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.334",
-	"InformationalVersion": "2.1.334-Minimal-develop-17f855a7",
+	"Version": "2.1.335",
+	"InformationalVersion": "2.1.335-Minimal-develop-e72d73c2",
 	"Protocol": "2024.11.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "17f855a75218f9aeddf9bdd0be9da936abc619a7",
-		"HashShort": "17f855a7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/17f855a75218f9aeddf9bdd0be9da936abc619a7",
+		"HashLong": "e72d73c273b8fb482ff59f9011801148d320e7bc",
+		"HashShort": "e72d73c2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e72d73c273b8fb482ff59f9011801148d320e7bc",
 		"Author": "raul",
-		"Comment": "Submodules",
+		"Comment": "Merging from production",
 		"Tag": "edge_build",
-		"Date": "2024-11-07 19:22:33 +0100"
+		"Date": "2024-11-11 15:18:08 +0100"
 	}
 }
