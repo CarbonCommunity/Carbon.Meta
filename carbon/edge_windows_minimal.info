@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.338",
-	"InformationalVersion": "2.1.338-Minimal-develop-109b4db5",
+	"Version": "2.1.339",
+	"InformationalVersion": "2.1.339-Minimal-develop-401398e9",
 	"Protocol": "2024.11.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "109b4db5d70f1f2776bc1036b8a7d424330fff73",
-		"HashShort": "109b4db5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/109b4db5d70f1f2776bc1036b8a7d424330fff73",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "No longer build production upon `production` branch merge",
+		"HashLong": "401398e9459607e85fc0004a1a83e93a28426a95",
+		"HashShort": "401398e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/401398e9459607e85fc0004a1a83e93a28426a95",
+		"Author": "raul",
+		"Comment": "Pooling",
 		"Tag": "edge_build",
-		"Date": "2024-11-13 23:29:39 +0100"
+		"Date": "2024-11-13 23:58:18 +0100"
 	}
 }
