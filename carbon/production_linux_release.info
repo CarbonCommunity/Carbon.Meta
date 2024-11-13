@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.153",
-	"InformationalVersion": "2.0.153-ReleaseUnix-production-f92453c8",
+	"Version": "2.0.155",
+	"InformationalVersion": "2.0.155-ReleaseUnix-production-2692d297",
 	"Protocol": "2024.11.07.0",
 	"Platform": "Linux",
 	"Config": "ReleaseUnix",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "f92453c8e9987b7d3624432d9fbffb2548777ace",
-		"HashShort": "f92453c8",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f92453c8e9987b7d3624432d9fbffb2548777ace",
+		"HashLong": "2692d2975856d7a4a64772174d97b45139dcd4ee",
+		"HashShort": "2692d297",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2692d2975856d7a4a64772174d97b45139dcd4ee",
 		"Author": "raul",
-		"Comment": "Prod submodules++",
+		"Comment": "Submodules++",
 		"Tag": "production_build",
-		"Date": "2024-11-07 19:24:31 +0100"
+		"Date": "2024-11-14 00:30:51 +0100"
 	}
 }
