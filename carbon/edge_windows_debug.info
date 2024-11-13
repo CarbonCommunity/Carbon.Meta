@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.337",
-	"InformationalVersion": "2.1.337-Debug-develop-f9ff766e",
+	"Version": "2.1.338",
+	"InformationalVersion": "2.1.338-Debug-develop-109b4db5",
 	"Protocol": "2024.11.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f9ff766e5a43f8ff3192be3b64d6ee1645dbcc22",
-		"HashShort": "f9ff766e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f9ff766e5a43f8ff3192be3b64d6ee1645dbcc22",
-		"Author": "raul",
-		"Comment": "Edge++",
+		"HashLong": "109b4db5d70f1f2776bc1036b8a7d424330fff73",
+		"HashShort": "109b4db5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/109b4db5d70f1f2776bc1036b8a7d424330fff73",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "No longer build production upon `production` branch merge",
 		"Tag": "edge_build",
-		"Date": "2024-11-12 04:30:07 +0100"
+		"Date": "2024-11-13 23:29:39 +0100"
 	}
 }
