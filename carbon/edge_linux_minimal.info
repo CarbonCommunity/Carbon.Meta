@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.339",
-	"InformationalVersion": "2.1.339-MinimalUnix-develop-401398e9",
+	"Version": "2.1.340",
+	"InformationalVersion": "2.1.340-MinimalUnix-develop-cb6e1f25",
 	"Protocol": "2024.11.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "401398e9459607e85fc0004a1a83e93a28426a95",
-		"HashShort": "401398e9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/401398e9459607e85fc0004a1a83e93a28426a95",
+		"HashLong": "cb6e1f252dd227bb53094ea48a763b374f505600",
+		"HashShort": "cb6e1f25",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/cb6e1f252dd227bb53094ea48a763b374f505600",
 		"Author": "raul",
-		"Comment": "Pooling",
+		"Comment": "Common",
 		"Tag": "edge_build",
-		"Date": "2024-11-13 23:58:18 +0100"
+		"Date": "2024-11-17 14:35:23 +0100"
 	}
 }
