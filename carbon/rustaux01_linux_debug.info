@@ -1,6 +1,6 @@
 {
-	"Version": "2.5.300",
-	"InformationalVersion": "2.5.300-DebugUnix-rust_beta/aux01-aa6fbb3e",
+	"Version": "2.5.301",
+	"InformationalVersion": "2.5.301-DebugUnix-rust_beta/aux01-aa6fbb3e",
 	"Protocol": "0.0.1.0-aux01",
 	"Platform": "Linux",
 	"Commit": {
