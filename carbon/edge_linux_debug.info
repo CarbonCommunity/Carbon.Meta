@@ -1,3 +1,17 @@
-<html><body><h1>504 Gateway Time-out</h1>
-The server didn't respond in time.
-</body></html>
+{
+	"Version": "2.1.350",
+	"InformationalVersion": "2.1.350-DebugUnix-develop-41f1ed30",
+	"Protocol": "2024.11.07.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "41f1ed30758c625802a33732206985903a30e919",
+		"HashShort": "41f1ed30",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/41f1ed30758c625802a33732206985903a30e919",
+		"Author": "raul",
+		"Comment": "Submodules go brr",
+		"Tag": "edge_build",
+		"Date": "2024-11-27 19:15:43 +0100"
+	}
+}
