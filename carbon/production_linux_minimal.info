@@ -1,17 +1,1 @@
-{
-	"Version": "2.0.155",
-	"InformationalVersion": "2.0.155-MinimalUnix-production-2692d297",
-	"Protocol": "2024.11.07.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "production",
-		"HashLong": "2692d2975856d7a4a64772174d97b45139dcd4ee",
-		"HashShort": "2692d297",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2692d2975856d7a4a64772174d97b45139dcd4ee",
-		"Author": "raul",
-		"Comment": "Submodules++",
-		"Tag": "production_build",
-		"Date": "2024-11-14 00:30:51 +0100"
-	}
-}
+Not Found
