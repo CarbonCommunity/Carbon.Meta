@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.352",
-	"InformationalVersion": "2.1.352-Minimal-develop-a07b8aa3",
+	"Version": "2.1.353",
+	"InformationalVersion": "2.1.353-Minimal-develop-f674e2e9",
 	"Protocol": "2024.12.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a07b8aa3b21e07f2553171b9c71da67e0c96291b",
-		"HashShort": "a07b8aa3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a07b8aa3b21e07f2553171b9c71da67e0c96291b",
-		"Author": "raul",
-		"Comment": "Submodules",
+		"HashLong": "f674e2e9751c6dd417a502718437c4626c42cd34",
+		"HashShort": "f674e2e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f674e2e9751c6dd417a502718437c4626c42cd34",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Update production-build.yml",
 		"Tag": "edge_build",
-		"Date": "2024-12-05 18:23:36 +0100"
+		"Date": "2024-12-05 18:45:02 +0100"
 	}
 }
