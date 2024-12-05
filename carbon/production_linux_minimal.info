@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.0.159",
+	"InformationalVersion": "2.0.159-MinimalUnix-production-744dd2f4",
+	"Protocol": "2024.12.05.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "production",
+		"HashLong": "744dd2f41eda8a6eb46edaefa3eff0de55c480d2",
+		"HashShort": "744dd2f4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/744dd2f41eda8a6eb46edaefa3eff0de55c480d2",
+		"Author": "raul",
+		"Comment": "Cargo targets",
+		"Tag": "production_build",
+		"Date": "2024-12-05 19:12:30 +0100"
+	}
+}
