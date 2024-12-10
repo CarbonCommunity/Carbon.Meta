@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.6.314",
+	"InformationalVersion": "2.6.314-Minimal-rust_beta/aux02-8c19ed99",
+	"Protocol": "0.0.1.0-aux02",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/aux02",
+		"HashLong": "8c19ed9978e283096031b27bfd723797df495279",
+		"HashShort": "8c19ed99",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8c19ed9978e283096031b27bfd723797df495279",
+		"Author": "raul",
+		"Comment": "Merging from develop",
+		"Tag": "rustbeta_aux02",
+		"Date": "2024-12-07 23:05:48 +0100"
+	}
+}
