@@ -1,3 +1,16 @@
-<html><body><h1>504 Gateway Time-out</h1>
-The server didn't respond in time.
-</body></html>
+{
+	"Version": "2.2.107",
+	"InformationalVersion": "2.2.107-DebugUnix-preview-451f96ca",
+	"Protocol": "2024.09.05.0",
+	"Platform": "Linux",
+	"Commit": {
+		"Branch": "preview",
+		"HashLong": "451f96ca154fc9ec129e7a335616255ea9e3ac6d",
+		"HashShort": "451f96ca",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/451f96ca154fc9ec129e7a335616255ea9e3ac6d",
+		"Author": "raul",
+		"Comment": "Compiler",
+		"Tag": "preview_build",
+		"Date": "2024-09-16 21:52:41 +0200"
+	}
+}
