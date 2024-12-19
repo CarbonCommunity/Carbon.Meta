@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.362",
+	"InformationalVersion": "2.1.362-Minimal-develop-a949a1f4",
+	"Protocol": "2024.12.05.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "a949a1f41924f677d7dec965b6c09fb7dd74aad9",
+		"HashShort": "a949a1f4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a949a1f41924f677d7dec965b6c09fb7dd74aad9",
+		"Author": "raul",
+		"Comment": "Bootstrap++",
+		"Tag": "edge_build",
+		"Date": "2024-12-19 21:10:20 +0100"
+	}
+}
