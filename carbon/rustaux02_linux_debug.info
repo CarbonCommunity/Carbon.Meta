@@ -1,6 +1,6 @@
 {
-	"Version": "2.6.333",
-	"InformationalVersion": "2.6.333-DebugUnix-rust_beta/aux02-46e455fa",
+	"Version": "2.6.334",
+	"InformationalVersion": "2.6.334-DebugUnix-rust_beta/aux02-46e455fa",
 	"Protocol": "0.0.1.0-aux02",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
