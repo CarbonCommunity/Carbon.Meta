@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.419",
-	"InformationalVersion": "2.3.419-Debug-rust_beta/staging-04e0b82c",
-	"Protocol": "2024.12.05.0",
+	"Version": "2.3.420",
+	"InformationalVersion": "2.3.420-Debug-rust_beta/staging-540f3bba",
+	"Protocol": "2025.01.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "04e0b82c770eacf2b749decb7e67afc3dd22dc6e",
-		"HashShort": "04e0b82c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/04e0b82c770eacf2b749decb7e67afc3dd22dc6e",
+		"HashLong": "540f3bbac2dbc7667b65b1c503962980ecc117fe",
+		"HashShort": "540f3bba",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/540f3bbac2dbc7667b65b1c503962980ecc117fe",
 		"Author": "raul",
-		"Comment": "Base++",
+		"Comment": "Protocol++",
 		"Tag": "rustbeta_staging",
-		"Date": "2024-12-05 16:56:27 +0100"
+		"Date": "2024-12-31 01:59:18 +0100"
 	}
 }
