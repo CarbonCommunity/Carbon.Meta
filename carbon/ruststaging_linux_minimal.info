@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.426",
-	"InformationalVersion": "2.3.426-MinimalUnix-rust_beta/staging-540f3bba",
+	"Version": "2.3.427",
+	"InformationalVersion": "2.3.427-MinimalUnix-rust_beta/staging-540f3bba",
 	"Protocol": "2025.01.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
