@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.381",
-	"InformationalVersion": "2.1.381-DebugUnix-develop-9cff078a",
+	"Version": "2.1.382",
+	"InformationalVersion": "2.1.382-DebugUnix-develop-2d4f291b",
 	"Protocol": "2025.01.02.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "9cff078a4a7ad08e7f90bbe0bf3e9257f26b16f6",
-		"HashShort": "9cff078a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9cff078a4a7ad08e7f90bbe0bf3e9257f26b16f6",
-		"Author": "raul",
-		"Comment": "Common",
+		"HashLong": "2d4f291ba65877f54e0c150e957fbed96e0891c2",
+		"HashShort": "2d4f291b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2d4f291ba65877f54e0c150e957fbed96e0891c2",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Year++",
 		"Tag": "edge_build",
-		"Date": "2025-01-07 19:08:53 +0100"
+		"Date": "2025-01-07 18:10:08 +0000"
 	}
 }
