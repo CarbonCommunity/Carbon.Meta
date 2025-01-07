@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.109",
-	"InformationalVersion": "2.2.109-Minimal-preview-92af2455",
+	"Version": "2.2.110",
+	"InformationalVersion": "2.2.110-Minimal-preview-e486d55e",
 	"Protocol": "2025.01.02.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "preview",
-		"HashLong": "92af2455d240bfa0e5c37be4f326026b13029c93",
-		"HashShort": "92af2455",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/92af2455d240bfa0e5c37be4f326026b13029c93",
+		"HashLong": "e486d55ee218cdc95051290330d4dfe3079d49b4",
+		"HashShort": "e486d55e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e486d55ee218cdc95051290330d4dfe3079d49b4",
 		"Author": "raul",
 		"Comment": "Merging from develop",
 		"Tag": "preview_build",
-		"Date": "2025-01-06 04:58:54 +0100"
+		"Date": "2025-01-07 12:19:10 +0100"
 	}
 }
