@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.0.165",
+	"InformationalVersion": "2.0.165-Release-production-b1f9036c",
+	"Protocol": "2025.01.02.0",
+	"Platform": "Windows",
+	"Config": "Release",
+	"Commit": {
+		"Branch": "production",
+		"HashLong": "b1f9036c859750f18f88fed14cce8a6fb31986b7",
+		"HashShort": "b1f9036c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b1f9036c859750f18f88fed14cce8a6fb31986b7",
+		"Author": "raul",
+		"Comment": "Preloader++",
+		"Tag": "production_build",
+		"Date": "2025-01-11 18:16:06 +0100"
+	}
+}
