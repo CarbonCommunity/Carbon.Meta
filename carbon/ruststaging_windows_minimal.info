@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.435",
-	"InformationalVersion": "2.3.435-Minimal-rust_beta/staging-d08235ff",
-	"Protocol": "2025.02.06.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "d08235ff554534bb50e08be33be6239dd5db6375",
-		"HashShort": "d08235ff",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d08235ff554534bb50e08be33be6239dd5db6375",
-		"Author": "raul",
-		"Comment": "Protocol update++",
-		"Tag": "rustbeta_staging",
-		"Date": "2025-01-09 16:29:52 +0100"
-	}
-}
+Not Found
