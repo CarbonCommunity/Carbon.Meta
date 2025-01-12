@@ -1,17 +1,17 @@
 {
-	"Version": "2.5.342",
-	"InformationalVersion": "2.5.342-Minimal-rust_beta/aux01-6531f708",
+	"Version": "2.5.343",
+	"InformationalVersion": "2.5.343-Minimal-rust_beta/aux01-36cb4424",
 	"Protocol": "0.0.1.0-aux01",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/aux01",
-		"HashLong": "6531f7088f693b3879b1544187534c219f86c4ca",
-		"HashShort": "6531f708",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6531f7088f693b3879b1544187534c219f86c4ca",
+		"HashLong": "36cb4424fcd0fb487ba3326ab164a1ff6b5d42ad",
+		"HashShort": "36cb4424",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/36cb4424fcd0fb487ba3326ab164a1ff6b5d42ad",
 		"Author": "raul",
 		"Comment": "Merging from develop",
 		"Tag": "rustbeta_aux01",
-		"Date": "2025-01-07 14:38:22 +0100"
+		"Date": "2025-01-12 05:52:44 +0100"
 	}
 }

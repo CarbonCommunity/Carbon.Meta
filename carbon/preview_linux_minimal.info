@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.111",
-	"InformationalVersion": "2.2.111-MinimalUnix-preview-1eb4a863",
-	"Protocol": "2025.01.02.1",
+	"Version": "2.2.112",
+	"InformationalVersion": "2.2.112-MinimalUnix-preview-96c89253",
+	"Protocol": "2025.01.02.2",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "preview",
-		"HashLong": "1eb4a8635c5747e951ede11dbc8961c19a4f80af",
-		"HashShort": "1eb4a863",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1eb4a8635c5747e951ede11dbc8961c19a4f80af",
+		"HashLong": "96c89253d84eb347fd49afda0e4379ee89dca589",
+		"HashShort": "96c89253",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/96c89253d84eb347fd49afda0e4379ee89dca589",
 		"Author": "raul",
 		"Comment": "Merging from develop",
 		"Tag": "preview_build",
-		"Date": "2025-01-07 20:51:04 +0100"
+		"Date": "2025-01-12 05:54:21 +0100"
 	}
 }
