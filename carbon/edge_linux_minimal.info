@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.388",
-	"InformationalVersion": "2.1.388-MinimalUnix-develop-1d4335b9",
+	"Version": "2.1.389",
+	"InformationalVersion": "2.1.389-MinimalUnix-develop-94f40443",
 	"Protocol": "2025.01.02.2",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "1d4335b9135bec4c8ef155f7fa561e9a292d8b11",
-		"HashShort": "1d4335b9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1d4335b9135bec4c8ef155f7fa561e9a292d8b11",
+		"HashLong": "94f404439163e26ce8f393a2270d2915e3698e4d",
+		"HashShort": "94f40443",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/94f404439163e26ce8f393a2270d2915e3698e4d",
 		"Author": "raul",
-		"Comment": "Protocol++",
+		"Comment": "Fixed occasional ScriptLoader NRE caused when rush-reloading a plugin that's currently being compiled
+Submodules++",
 		"Tag": "edge_build",
-		"Date": "2025-01-12 00:22:14 +0100"
+		"Date": "2025-01-12 05:42:47 +0100"
 	}
 }
