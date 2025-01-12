@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.390",
-	"InformationalVersion": "2.1.390-DebugUnix-develop-083c2850",
+	"Version": "2.1.391",
+	"InformationalVersion": "2.1.391-DebugUnix-develop-ce4884ad",
 	"Protocol": "2025.01.02.2",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "083c285085b4676a629fa8feeaadf92125423ac0",
-		"HashShort": "083c2850",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/083c285085b4676a629fa8feeaadf92125423ac0",
+		"HashLong": "ce4884ad583727783e03cb6102dd73a0c1d77a38",
+		"HashShort": "ce4884ad",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ce4884ad583727783e03cb6102dd73a0c1d77a38",
 		"Author": "raul",
-		"Comment": "Publicizer update",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-01-12 05:48:57 +0100"
+		"Date": "2025-01-12 07:10:27 +0100"
 	}
 }
