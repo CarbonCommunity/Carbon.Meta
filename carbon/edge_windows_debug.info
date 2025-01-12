@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.389",
-	"InformationalVersion": "2.1.389-Debug-develop-94f40443",
+	"Version": "2.1.390",
+	"InformationalVersion": "2.1.390-Debug-develop-083c2850",
 	"Protocol": "2025.01.02.2",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "94f404439163e26ce8f393a2270d2915e3698e4d",
-		"HashShort": "94f40443",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/94f404439163e26ce8f393a2270d2915e3698e4d",
+		"HashLong": "083c285085b4676a629fa8feeaadf92125423ac0",
+		"HashShort": "083c2850",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/083c285085b4676a629fa8feeaadf92125423ac0",
 		"Author": "raul",
-		"Comment": "Fixed occasional ScriptLoader NRE caused when rush-reloading a plugin that's currently being compiled
-Submodules++",
+		"Comment": "Publicizer update",
 		"Tag": "edge_build",
-		"Date": "2025-01-12 05:42:47 +0100"
+		"Date": "2025-01-12 05:48:57 +0100"
 	}
 }
