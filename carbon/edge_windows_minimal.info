@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.390",
-	"InformationalVersion": "2.1.390-Minimal-develop-083c2850",
-	"Protocol": "2025.01.02.2",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "083c285085b4676a629fa8feeaadf92125423ac0",
-		"HashShort": "083c2850",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/083c285085b4676a629fa8feeaadf92125423ac0",
-		"Author": "raul",
-		"Comment": "Publicizer update",
-		"Tag": "edge_build",
-		"Date": "2025-01-12 05:48:57 +0100"
-	}
-}
+Not Found
