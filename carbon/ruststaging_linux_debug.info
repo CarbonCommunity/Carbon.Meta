@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.443",
-	"InformationalVersion": "2.3.443-DebugUnix-rust_beta/staging-adc779c4",
+	"Version": "2.3.444",
+	"InformationalVersion": "2.3.444-DebugUnix-rust_beta/staging-adc779c4",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
