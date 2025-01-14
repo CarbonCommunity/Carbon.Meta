@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.443",
+	"InformationalVersion": "2.3.443-Minimal-rust_beta/staging-adc779c4",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "adc779c4e6d4a54d08f066a191d5c788b9649972",
+		"HashShort": "adc779c4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/adc779c4e6d4a54d08f066a191d5c788b9649972",
+		"Author": "raul",
+		"Comment": "Merge++",
+		"Tag": "rustbeta_staging",
+		"Date": "2025-01-14 01:34:13 +0100"
+	}
+}
