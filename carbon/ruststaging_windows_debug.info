@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.444",
-	"InformationalVersion": "2.3.444-Debug-rust_beta/staging-adc779c4",
+	"Version": "2.3.445",
+	"InformationalVersion": "2.3.445-Debug-rust_beta/staging-adc779c4",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
