@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.445",
-	"InformationalVersion": "2.3.445-MinimalUnix-rust_beta/staging-adc779c4",
+	"Version": "2.3.446",
+	"InformationalVersion": "2.3.446-MinimalUnix-rust_beta/staging-adc779c4",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
