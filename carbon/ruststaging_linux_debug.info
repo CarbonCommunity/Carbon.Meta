@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.447",
-	"InformationalVersion": "2.3.447-DebugUnix-rust_beta/staging-ef6617f5",
+	"Version": "2.3.448",
+	"InformationalVersion": "2.3.448-DebugUnix-rust_beta/staging-ef6617f5",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
