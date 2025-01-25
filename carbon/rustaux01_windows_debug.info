@@ -1,6 +1,6 @@
 {
-	"Version": "2.5.357",
-	"InformationalVersion": "2.5.357-Debug-rust_beta/aux01-0df43f0e",
+	"Version": "2.5.358",
+	"InformationalVersion": "2.5.358-Debug-rust_beta/aux01-0df43f0e",
 	"Protocol": "0.0.1.0-aux01",
 	"Platform": "Windows",
 	"Config": "Debug",
