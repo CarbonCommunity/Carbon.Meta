@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.113",
-	"InformationalVersion": "2.2.113-Debug-preview-2499cd8f",
+	"Version": "2.2.114",
+	"InformationalVersion": "2.2.114-Debug-preview-1cfcc6fb",
 	"Protocol": "2025.01.02.2",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "preview",
-		"HashLong": "2499cd8f357cd0b3567bdc0bce2aa9cc4c1cf09c",
-		"HashShort": "2499cd8f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2499cd8f357cd0b3567bdc0bce2aa9cc4c1cf09c",
+		"HashLong": "1cfcc6fbb661a6da577934ef68da46b622d4f8ba",
+		"HashShort": "1cfcc6fb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1cfcc6fbb661a6da577934ef68da46b622d4f8ba",
 		"Author": "raul",
 		"Comment": "Merging from develop",
 		"Tag": "preview_build",
-		"Date": "2025-01-12 07:13:12 +0100"
+		"Date": "2025-01-26 19:09:02 +0100"
 	}
 }
