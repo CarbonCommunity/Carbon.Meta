@@ -1,17 +1,17 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 Connection reset by peer</title>
-  </head>
-  <body>
-    <h1>Error 503 Connection reset by peer</h1>
-    <p>Connection reset by peer</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-ams21029-AMS 1738278630 3110108675</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+{
+	"Version": "2.3.465",
+	"InformationalVersion": "2.3.465-Minimal-rust_beta/staging-d83a0b85",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "d83a0b8581ea01fdb02cd104dad9f19500c5b1ed",
+		"HashShort": "d83a0b85",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d83a0b8581ea01fdb02cd104dad9f19500c5b1ed",
+		"Author": "raul",
+		"Comment": "Modules fix",
+		"Tag": "rustbeta_staging",
+		"Date": "2025-01-30 22:50:48 +0100"
+	}
+}
