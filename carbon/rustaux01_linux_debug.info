@@ -1,17 +1,3 @@
-{
-	"Version": "2.5.362",
-	"InformationalVersion": "2.5.362-DebugUnix-rust_beta/aux01-0df43f0e",
-	"Protocol": "0.0.1.0-aux01",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "rust_beta/aux01",
-		"HashLong": "0df43f0efc4a403514eff33b3573d58e16409784",
-		"HashShort": "0df43f0e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0df43f0efc4a403514eff33b3573d58e16409784",
-		"Author": "raul",
-		"Comment": "Merging from develop",
-		"Tag": "rustbeta_aux01",
-		"Date": "2025-01-12 07:12:11 +0100"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
