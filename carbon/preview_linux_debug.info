@@ -1,17 +1,3 @@
-{
-	"Version": "2.2.114",
-	"InformationalVersion": "2.2.114-DebugUnix-preview-1cfcc6fb",
-	"Protocol": "2025.01.02.2",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "preview",
-		"HashLong": "1cfcc6fbb661a6da577934ef68da46b622d4f8ba",
-		"HashShort": "1cfcc6fb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1cfcc6fbb661a6da577934ef68da46b622d4f8ba",
-		"Author": "raul",
-		"Comment": "Merging from develop",
-		"Tag": "preview_build",
-		"Date": "2025-01-26 19:09:02 +0100"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
