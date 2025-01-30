@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.465",
+	"InformationalVersion": "2.3.465-Minimal-rust_beta/staging-d83a0b85",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "d83a0b8581ea01fdb02cd104dad9f19500c5b1ed",
+		"HashShort": "d83a0b85",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d83a0b8581ea01fdb02cd104dad9f19500c5b1ed",
+		"Author": "raul",
+		"Comment": "Modules fix",
+		"Tag": "rustbeta_staging",
+		"Date": "2025-01-30 22:50:48 +0100"
+	}
+}
