@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.468",
-	"InformationalVersion": "2.3.468-MinimalUnix-rust_beta/staging-cad21521",
+	"Version": "2.3.469",
+	"InformationalVersion": "2.3.469-MinimalUnix-rust_beta/staging-cad21521",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
