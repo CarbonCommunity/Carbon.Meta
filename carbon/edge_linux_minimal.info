@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.422",
-	"InformationalVersion": "2.1.422-MinimalUnix-develop-cd5e08b9",
+	"Version": "2.1.423",
+	"InformationalVersion": "2.1.423-MinimalUnix-develop-ee0ef01d",
 	"Protocol": "2025.01.02.2",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "cd5e08b9e5508fb5f1f6622464d3d3ced341d77b",
-		"HashShort": "cd5e08b9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/cd5e08b9e5508fb5f1f6622464d3d3ced341d77b",
+		"HashLong": "ee0ef01dc0a64206574c15e918d53bd35213a01b",
+		"HashShort": "ee0ef01d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ee0ef01dc0a64206574c15e918d53bd35213a01b",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Update README.md",
+		"Comment": "Fixed dead links",
 		"Tag": "edge_build",
-		"Date": "2025-02-02 15:52:22 +0100"
+		"Date": "2025-02-02 15:53:58 +0100"
 	}
 }
