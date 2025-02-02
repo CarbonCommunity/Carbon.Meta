@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.424",
-	"InformationalVersion": "2.1.424-Minimal-develop-2da59ce4",
+	"Version": "2.1.425",
+	"InformationalVersion": "2.1.425-Minimal-develop-e5df179a",
 	"Protocol": "2025.01.02.2",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "2da59ce45054fb6e1066b784f6156b841ae3e52f",
-		"HashShort": "2da59ce4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2da59ce45054fb6e1066b784f6156b841ae3e52f",
+		"HashLong": "e5df179a636e0c43731daf21d45689981ac2247a",
+		"HashShort": "e5df179a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e5df179a636e0c43731daf21d45689981ac2247a",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Logo dark/light mode",
+		"Comment": "Update README.md",
 		"Tag": "edge_build",
-		"Date": "2025-02-02 16:15:19 +0100"
+		"Date": "2025-02-02 16:25:14 +0100"
 	}
 }
