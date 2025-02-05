@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.474",
-	"InformationalVersion": "2.3.474-MinimalUnix-rust_beta/staging-22e3a645",
+	"Version": "2.3.475",
+	"InformationalVersion": "2.3.475-MinimalUnix-rust_beta/staging-22e3a645",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
