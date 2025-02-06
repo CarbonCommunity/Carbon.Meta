@@ -1,17 +1,1 @@
-{
-	"Version": "2.0.168",
-	"InformationalVersion": "2.0.168-Release-production-21a567fe",
-	"Protocol": "2025.02.06.0",
-	"Platform": "Windows",
-	"Config": "Release",
-	"Commit": {
-		"Branch": "production",
-		"HashLong": "21a567feb2c11c835a7ee9537c7480540bbd7d6a",
-		"HashShort": "21a567fe",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/21a567feb2c11c835a7ee9537c7480540bbd7d6a",
-		"Author": "raul",
-		"Comment": "Merging from develop",
-		"Tag": "production_build",
-		"Date": "2025-02-06 19:21:45 +0100"
-	}
-}
+Not Found
