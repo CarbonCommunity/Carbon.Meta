@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.0.169",
+	"InformationalVersion": "2.0.169-ReleaseUnix-production-7206fdee",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Linux",
+	"Config": "ReleaseUnix",
+	"Commit": {
+		"Branch": "production",
+		"HashLong": "7206fdee484fe42824730082a07378c9fc5cc42c",
+		"HashShort": "7206fdee",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7206fdee484fe42824730082a07378c9fc5cc42c",
+		"Author": "raul",
+		"Comment": "Merging from develop",
+		"Tag": "production_build",
+		"Date": "2025-02-07 00:30:51 +0100"
+	}
+}
