@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.432",
-	"InformationalVersion": "2.1.432-DebugUnix-develop-93bfb51f",
+	"Version": "2.1.433",
+	"InformationalVersion": "2.1.433-DebugUnix-develop-f61f8c91",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "93bfb51fc1ecdab9ca8de076523b122dc309f3c0",
-		"HashShort": "93bfb51f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/93bfb51fc1ecdab9ca8de076523b122dc309f3c0",
+		"HashLong": "f61f8c9150fc4d6cd6af4b0ef55e54d5963946c2",
+		"HashShort": "f61f8c91",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f61f8c9150fc4d6cd6af4b0ef55e54d5963946c2",
 		"Author": "raul",
-		"Comment": "Updated Harmony to v2.3.5",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2025-02-07 13:12:49 +0100"
+		"Date": "2025-02-07 13:44:36 +0100"
 	}
 }
