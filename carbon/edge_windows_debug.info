@@ -1,20 +1,17 @@
 {
-	"Version": "2.1.434",
-	"InformationalVersion": "2.1.434-Debug-develop-82e7e163",
+	"Version": "2.1.435",
+	"InformationalVersion": "2.1.435-Debug-develop-70f32fd6",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "82e7e163a1d77a5f18e26e1d4ccda391c4977d8b",
-		"HashShort": "82e7e163",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/82e7e163a1d77a5f18e26e1d4ccda391c4977d8b",
+		"HashLong": "70f32fd6549cdf35986900c3dfe79e0710e7e5fa",
+		"HashShort": "70f32fd6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/70f32fd6549cdf35986900c3dfe79e0710e7e5fa",
 		"Author": "raul",
-		"Comment": "Include `Carbon.Hooks.Community.dll` and `Carbon.Hooks.Oxide.dll` within the patches
-- This makes it so if you boot up a server on a machine without internet or if hook downloads fail, it falls back to the most recent protocol builds within the build
-- Hooks still auto-update on server boot to ensure latest is used
-Use `HOOKGEN` define as build.bat second parameter to use the locally built file, otherwise fallsback to downloading from our API",
+		"Comment": "Use `Release[Unix]` hook builds for the Minimal patches",
 		"Tag": "edge_build",
-		"Date": "2025-02-07 16:09:31 +0100"
+		"Date": "2025-02-07 16:18:15 +0100"
 	}
 }
