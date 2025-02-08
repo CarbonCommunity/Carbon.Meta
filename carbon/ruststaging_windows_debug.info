@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.483",
-	"InformationalVersion": "2.3.483-Debug-rust_beta/staging-88bc49b4",
+	"Version": "2.3.484",
+	"InformationalVersion": "2.3.484-Debug-rust_beta/staging-88bc49b4",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
