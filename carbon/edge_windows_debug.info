@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.435",
-	"InformationalVersion": "2.1.435-Debug-develop-70f32fd6",
+	"Version": "2.1.436",
+	"InformationalVersion": "2.1.436-Debug-develop-0c16f5af",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "70f32fd6549cdf35986900c3dfe79e0710e7e5fa",
-		"HashShort": "70f32fd6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/70f32fd6549cdf35986900c3dfe79e0710e7e5fa",
+		"HashLong": "0c16f5af88f3fd01b96d42232f132298f94ca48e",
+		"HashShort": "0c16f5af",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0c16f5af88f3fd01b96d42232f132298f94ca48e",
 		"Author": "raul",
-		"Comment": "Use `Release[Unix]` hook builds for the Minimal patches",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-02-07 16:18:15 +0100"
+		"Date": "2025-02-08 19:38:19 +0100"
 	}
 }
