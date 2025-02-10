@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.438",
+	"InformationalVersion": "2.1.438-Minimal-develop-1f5f49e9",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "1f5f49e9f08e78d7482f2f7594fc48c5b2b28734",
+		"HashShort": "1f5f49e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1f5f49e9f08e78d7482f2f7594fc48c5b2b28734",
+		"Author": "raul",
+		"Comment": "Community go brr",
+		"Tag": "edge_build",
+		"Date": "2025-02-10 23:27:26 +0100"
+	}
+}
