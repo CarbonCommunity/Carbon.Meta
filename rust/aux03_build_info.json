@@ -1,0 +1,20 @@
+{
+  "Scm": {
+    "Type": "PlasticScm",
+    "ChangeId": "113510",
+    "Branch": "Aux3",
+    "Repo": "rust_reboot",
+    "Date": "14/02/2025 15:21:07"
+  },
+  "Build": {
+    "Id": "110",
+    "Number": "110",
+    "Tag": "jenkins-RustServerAux03-110",
+    "Url": "https://build.facepunch.com/job/RustServerAux03/110/",
+    "Name": "RustServerAux03",
+    "Node": "Win_AMD_2"
+  },
+  "Date": 1739546486,
+  "DateString": "14 02 2025",
+  "TimeString": "15:21"
+}
