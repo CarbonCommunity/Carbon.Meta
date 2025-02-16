@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.444",
-	"InformationalVersion": "2.1.444-MinimalUnix-develop-2244e00d",
+	"Version": "2.1.445",
+	"InformationalVersion": "2.1.445-MinimalUnix-develop-600781f4",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "2244e00dd2b4bc033bc54928750224a4abf1eb25",
-		"HashShort": "2244e00d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2244e00dd2b4bc033bc54928750224a4abf1eb25",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Added `aux03` to the daily build loop",
+		"HashLong": "600781f48f161a6b941c6fc14963607291666dcd",
+		"HashShort": "600781f4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/600781f48f161a6b941c6fc14963607291666dcd",
+		"Author": "raul",
+		"Comment": "Inject `RUST_AUX03` in Roslyn compiler if running the Carbon AUX03 build
+Skip hook warns in AUX03 Carbon builds",
 		"Tag": "edge_build",
-		"Date": "2025-02-16 13:18:46 +0000"
+		"Date": "2025-02-16 16:49:18 +0100"
 	}
 }
