@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.448",
-	"InformationalVersion": "2.1.448-Minimal-develop-80ad5a87",
-	"Protocol": "2025.02.06.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "80ad5a878bfcfc6c9429896f6620f06d5d58a0a0",
-		"HashShort": "80ad5a87",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/80ad5a878bfcfc6c9429896f6620f06d5d58a0a0",
-		"Author": "raul",
-		"Comment": "Chmodded that file cus linux asked",
-		"Tag": "edge_build",
-		"Date": "2025-02-16 17:16:34 +0100"
-	}
-}
+Not Found
