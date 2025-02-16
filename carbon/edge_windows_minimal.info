@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.445",
-	"InformationalVersion": "2.1.445-Minimal-develop-600781f4",
+	"Version": "2.1.446",
+	"InformationalVersion": "2.1.446-Minimal-develop-55dffbab",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "600781f48f161a6b941c6fc14963607291666dcd",
-		"HashShort": "600781f4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/600781f48f161a6b941c6fc14963607291666dcd",
-		"Author": "raul",
-		"Comment": "Inject `RUST_AUX03` in Roslyn compiler if running the Carbon AUX03 build
-Skip hook warns in AUX03 Carbon builds",
+		"HashLong": "55dffbab2fa4a9f579fa9b8b6ddcd3b284049651",
+		"HashShort": "55dffbab",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/55dffbab2fa4a9f579fa9b8b6ddcd3b284049651",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Hook building action settings (added AUX03 option)",
 		"Tag": "edge_build",
-		"Date": "2025-02-16 16:49:18 +0100"
+		"Date": "2025-02-16 16:57:47 +0100"
 	}
 }
