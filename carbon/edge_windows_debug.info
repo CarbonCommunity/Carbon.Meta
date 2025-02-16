@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.449",
+	"InformationalVersion": "2.1.449-Debug-develop-7953a92b",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "7953a92b805497c01775811be62d5618c7ccdd91",
+		"HashShort": "7953a92b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7953a92b805497c01775811be62d5618c7ccdd91",
+		"Author": "raul",
+		"Comment": "Submodules++",
+		"Tag": "edge_build",
+		"Date": "2025-02-17 00:43:52 +0100"
+	}
+}
