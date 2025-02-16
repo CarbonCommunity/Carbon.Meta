@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.443",
-	"InformationalVersion": "2.1.443-DebugUnix-develop-0fcd993d",
+	"Version": "2.1.444",
+	"InformationalVersion": "2.1.444-DebugUnix-develop-2244e00d",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0fcd993d76f01df1a58dab279970828e3a88664a",
-		"HashShort": "0fcd993d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0fcd993d76f01df1a58dab279970828e3a88664a",
-		"Author": "raul",
-		"Comment": "Common++",
+		"HashLong": "2244e00dd2b4bc033bc54928750224a4abf1eb25",
+		"HashShort": "2244e00d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2244e00dd2b4bc033bc54928750224a4abf1eb25",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Added `aux03` to the daily build loop",
 		"Tag": "edge_build",
-		"Date": "2025-02-13 16:21:32 +0100"
+		"Date": "2025-02-16 13:18:46 +0000"
 	}
 }
