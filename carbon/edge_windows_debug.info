@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.446",
-	"InformationalVersion": "2.1.446-Debug-develop-55dffbab",
+	"Version": "2.1.447",
+	"InformationalVersion": "2.1.447-Debug-develop-6ab00f30",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "55dffbab2fa4a9f579fa9b8b6ddcd3b284049651",
-		"HashShort": "55dffbab",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/55dffbab2fa4a9f579fa9b8b6ddcd3b284049651",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Hook building action settings (added AUX03 option)",
+		"HashLong": "6ab00f30341cd2aca6b7e2e6408c467d51e63e8c",
+		"HashShort": "6ab00f30",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6ab00f30341cd2aca6b7e2e6408c467d51e63e8c",
+		"Author": "raul",
+		"Comment": "Forgot linux was a thing",
 		"Tag": "edge_build",
-		"Date": "2025-02-16 16:57:47 +0100"
+		"Date": "2025-02-16 17:09:23 +0100"
 	}
 }
