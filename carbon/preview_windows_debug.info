@@ -1,6 +1,6 @@
 {
-	"Version": "2.2.117",
-	"InformationalVersion": "2.2.117-Debug-preview-df4b0c05",
+	"Version": "2.2.118",
+	"InformationalVersion": "2.2.118-Debug-preview-df4b0c05",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
