@@ -1,6 +1,6 @@
 {
-	"Version": "2.2.118",
-	"InformationalVersion": "2.2.118-MinimalUnix-preview-df4b0c05",
+	"Version": "2.2.119",
+	"InformationalVersion": "2.2.119-MinimalUnix-preview-df4b0c05",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
