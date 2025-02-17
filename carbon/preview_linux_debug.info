@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.116",
-	"InformationalVersion": "2.2.116-DebugUnix-preview-97c8a155",
+	"Version": "2.2.117",
+	"InformationalVersion": "2.2.117-DebugUnix-preview-df4b0c05",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "preview",
-		"HashLong": "97c8a15594055117e8f65c5c16f0119cb3c2fac3",
-		"HashShort": "97c8a155",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/97c8a15594055117e8f65c5c16f0119cb3c2fac3",
+		"HashLong": "df4b0c05e3042387a7c1b3394c4987ea51e14784",
+		"HashShort": "df4b0c05",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/df4b0c05e3042387a7c1b3394c4987ea51e14784",
 		"Author": "raul",
 		"Comment": "Merging from develop",
 		"Tag": "preview_build",
-		"Date": "2025-02-07 16:34:08 +0100"
+		"Date": "2025-02-17 00:53:58 +0100"
 	}
 }
