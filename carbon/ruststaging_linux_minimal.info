@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.501",
+	"InformationalVersion": "2.3.501-MinimalUnix-rust_beta/staging-c361c0fa",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "c361c0fa62805b73656becb5cbd6106f26b95920",
+		"HashShort": "c361c0fa",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c361c0fa62805b73656becb5cbd6106f26b95920",
+		"Author": "raul",
+		"Comment": "Modules++",
+		"Tag": "rustbeta_staging",
+		"Date": "2025-02-17 22:05:26 +0100"
+	}
+}
