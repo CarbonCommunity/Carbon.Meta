@@ -1,6 +1,6 @@
 {
-	"Version": "2.6.392",
-	"InformationalVersion": "2.6.392-MinimalUnix-rust_beta/aux02-b7dce4e8",
+	"Version": "2.6.393",
+	"InformationalVersion": "2.6.393-MinimalUnix-rust_beta/aux02-b7dce4e8",
 	"Protocol": "0.0.1.0-aux02",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
