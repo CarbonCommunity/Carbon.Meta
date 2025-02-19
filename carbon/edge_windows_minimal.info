@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.451",
-	"InformationalVersion": "2.1.451-Minimal-develop-813ea935",
+	"Version": "2.1.452",
+	"InformationalVersion": "2.1.452-Minimal-develop-438c92e0",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "813ea935f1bebe06c2d548962429320e72f9e0fd",
-		"HashShort": "813ea935",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/813ea935f1bebe06c2d548962429320e72f9e0fd",
+		"HashLong": "438c92e036cf1eba39efaab372d7172177f2245e",
+		"HashShort": "438c92e0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/438c92e036cf1eba39efaab372d7172177f2245e",
 		"Author": "raul",
-		"Comment": "Common",
+		"Comment": "Fixed occasional native NRE when updating plugins while compilation for that file is going on",
 		"Tag": "edge_build",
-		"Date": "2025-02-19 19:53:06 +0100"
+		"Date": "2025-02-20 00:45:59 +0100"
 	}
 }
