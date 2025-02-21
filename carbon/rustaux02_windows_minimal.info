@@ -1,17 +1,1 @@
-{
-	"Version": "2.6.398",
-	"InformationalVersion": "2.6.398-Minimal-rust_beta/aux02-9cd7eab0",
-	"Protocol": "0.0.1.0-aux02",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "rust_beta/aux02",
-		"HashLong": "9cd7eab0d1942fa98416f1e9333cbfb5b5e5e828",
-		"HashShort": "9cd7eab0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9cd7eab0d1942fa98416f1e9333cbfb5b5e5e828",
-		"Author": "raul",
-		"Comment": "Merging from rust_beta/staging",
-		"Tag": "rustbeta_aux02",
-		"Date": "2025-02-18 14:06:02 +0100"
-	}
-}
+Not Found
