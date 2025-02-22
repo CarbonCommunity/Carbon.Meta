@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.6.400",
+	"InformationalVersion": "2.6.400-Debug-rust_beta/aux02-8f983339",
+	"Protocol": "0.0.1.0-aux02",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/aux02",
+		"HashLong": "8f98333923ff7314a5b9428f1591b7b6b9bea3e8",
+		"HashShort": "8f983339",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8f98333923ff7314a5b9428f1591b7b6b9bea3e8",
+		"Author": "raul",
+		"Comment": "Common++",
+		"Tag": "rustbeta_aux02",
+		"Date": "2025-02-22 03:40:16 +0100"
+	}
+}
