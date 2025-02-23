@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.457",
-	"InformationalVersion": "2.1.457-Minimal-develop-6fadd5df",
+	"Version": "2.1.458",
+	"InformationalVersion": "2.1.458-Minimal-develop-55bf84c4",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "6fadd5df8b0cddba9b8e47a6c0ea8660c660464d",
-		"HashShort": "6fadd5df",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6fadd5df8b0cddba9b8e47a6c0ea8660c660464d",
+		"HashLong": "55bf84c48f4b0bcbff4da9327a1b9e14ef3cedae",
+		"HashShort": "55bf84c4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/55bf84c48f4b0bcbff4da9327a1b9e14ef3cedae",
 		"Author": "raul",
-		"Comment": "Merge branch 'develop' of https://github.com/CarbonCommunity/Carbon into develop",
+		"Comment": "Edge build",
 		"Tag": "edge_build",
-		"Date": "2025-02-21 16:47:39 +0100"
+		"Date": "2025-02-24 00:01:19 +0100"
 	}
 }
