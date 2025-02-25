@@ -7,14 +7,14 @@
     "Date": "25/02/2025 16:25:51"
   },
   "Build": {
-    "Id": "118",
-    "Number": "118",
-    "Tag": "jenkins-RustServerAux03-118",
-    "Url": "https://build.facepunch.com/job/RustServerAux03/118/",
+    "Id": "119",
+    "Number": "119",
+    "Tag": "jenkins-RustServerAux03-119",
+    "Url": "https://build.facepunch.com/job/RustServerAux03/119/",
     "Name": "RustServerAux03",
     "Node": "Win_AMD_2"
   },
-  "Date": 1740502060,
+  "Date": 1740506910,
   "DateString": "25 02 2025",
-  "TimeString": "16:47"
+  "TimeString": "18:08"
 }
