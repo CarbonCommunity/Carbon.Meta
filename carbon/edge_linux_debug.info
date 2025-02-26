@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.477",
-	"InformationalVersion": "2.1.477-DebugUnix-develop-eec40773",
+	"Version": "2.1.478",
+	"InformationalVersion": "2.1.478-DebugUnix-develop-51293810",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "eec4077372ed8c37f033475b0f549faeda9cb8c1",
-		"HashShort": "eec40773",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/eec4077372ed8c37f033475b0f549faeda9cb8c1",
+		"HashLong": "51293810b36ee778b2d0559216b9e279b0e740cd",
+		"HashShort": "51293810",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/51293810b36ee778b2d0559216b9e279b0e740cd",
 		"Author": "raul",
-		"Comment": "Finalized :)",
+		"Comment": "Don't include the profiler directory in Carbon builds",
 		"Tag": "edge_build",
-		"Date": "2025-02-26 15:58:49 +0100"
+		"Date": "2025-02-26 16:20:46 +0100"
 	}
 }
