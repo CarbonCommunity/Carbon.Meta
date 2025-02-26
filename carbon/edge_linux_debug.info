@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.474",
-	"InformationalVersion": "2.1.474-DebugUnix-develop-e5b95b13",
+	"Version": "2.1.475",
+	"InformationalVersion": "2.1.475-DebugUnix-develop-0dd082bd",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "e5b95b13a20d5cad0601790e9c94be447f05489a",
-		"HashShort": "e5b95b13",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e5b95b13a20d5cad0601790e9c94be447f05489a",
+		"HashLong": "0dd082bde6d3b32f2ca87745560bffee56a386f8",
+		"HashShort": "0dd082bd",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0dd082bde6d3b32f2ca87745560bffee56a386f8",
 		"Author": "raul",
-		"Comment": "Directory fix",
+		"Comment": "Solution project setup fixes",
 		"Tag": "edge_build",
-		"Date": "2025-02-26 15:21:04 +0100"
+		"Date": "2025-02-26 15:47:15 +0100"
 	}
 }
