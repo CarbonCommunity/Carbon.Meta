@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.475",
-	"InformationalVersion": "2.1.475-Debug-develop-0dd082bd",
+	"Version": "2.1.476",
+	"InformationalVersion": "2.1.476-Debug-develop-540e89b5",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0dd082bde6d3b32f2ca87745560bffee56a386f8",
-		"HashShort": "0dd082bd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0dd082bde6d3b32f2ca87745560bffee56a386f8",
+		"HashLong": "540e89b52ae3e196eeb2acb5fc5a37c26b1eb72e",
+		"HashShort": "540e89b5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/540e89b52ae3e196eeb2acb5fc5a37c26b1eb72e",
 		"Author": "raul",
-		"Comment": "Solution project setup fixes",
+		"Comment": "No longer need to do that",
 		"Tag": "edge_build",
-		"Date": "2025-02-26 15:47:15 +0100"
+		"Date": "2025-02-26 15:48:36 +0100"
 	}
 }
