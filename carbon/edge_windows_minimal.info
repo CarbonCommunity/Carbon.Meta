@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.460",
-	"InformationalVersion": "2.1.460-Minimal-develop-eb026691",
+	"Version": "2.1.461",
+	"InformationalVersion": "2.1.461-Minimal-develop-e19ef693",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "eb026691950fd662ed7ba4e217d1a203013f1c45",
-		"HashShort": "eb026691",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/eb026691950fd662ed7ba4e217d1a203013f1c45",
+		"HashLong": "e19ef69301fd0e454541db33eaad62c8284f4c5a",
+		"HashShort": "e19ef693",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e19ef69301fd0e454541db33eaad62c8284f4c5a",
 		"Author": "raul",
-		"Comment": "Added Carbon.Profiler",
+		"Comment": "Added Carbon.Profiler submodule
+Added Profiler solution reference",
 		"Tag": "edge_build",
-		"Date": "2025-02-25 22:32:59 +0100"
+		"Date": "2025-02-26 01:47:21 +0100"
 	}
 }
