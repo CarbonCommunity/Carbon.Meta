@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.479",
-	"InformationalVersion": "2.1.479-Minimal-develop-86988c61",
+	"Version": "2.1.480",
+	"InformationalVersion": "2.1.480-Minimal-develop-c067a9c7",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "86988c61ef78d4560a00e82043ee4ca5c715eeb8",
-		"HashShort": "86988c61",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/86988c61ef78d4560a00e82043ee4ca5c715eeb8",
+		"HashLong": "c067a9c7d2a7b70a762175f5c6500d16f7cdce4c",
+		"HashShort": "c067a9c7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c067a9c7d2a7b70a762175f5c6500d16f7cdce4c",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Added `HARMONYMOD` conditional symbol for the profiler build",
 		"Tag": "edge_build",
-		"Date": "2025-02-26 19:05:11 +0100"
+		"Date": "2025-02-26 23:16:49 +0100"
 	}
 }
