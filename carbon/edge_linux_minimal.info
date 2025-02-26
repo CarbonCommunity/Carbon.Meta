@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.464",
+	"InformationalVersion": "2.1.464-MinimalUnix-develop-5a4a5170",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "5a4a5170e8dae32ba268b3cd9b0e801345697120",
+		"HashShort": "5a4a5170",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5a4a5170e8dae32ba268b3cd9b0e801345697120",
+		"Author": "raul",
+		"Comment": "Added profiler build",
+		"Tag": "edge_build",
+		"Date": "2025-02-26 04:04:14 +0100"
+	}
+}
