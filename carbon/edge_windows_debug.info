@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.470",
-	"InformationalVersion": "2.1.470-Debug-develop-a58bac8a",
+	"Version": "2.1.471",
+	"InformationalVersion": "2.1.471-Debug-develop-eb9b170f",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a58bac8a2a321d636beae97d3e50016aafe7115f",
-		"HashShort": "a58bac8a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a58bac8a2a321d636beae97d3e50016aafe7115f",
+		"HashLong": "eb9b170f8b861488e8cec8fb24ba0026de248e6c",
+		"HashShort": "eb9b170f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/eb9b170f8b861488e8cec8fb24ba0026de248e6c",
 		"Author": "raul",
-		"Comment": "Linux doesn't like that",
+		"Comment": "Test",
 		"Tag": "edge_build",
-		"Date": "2025-02-26 13:14:57 +0100"
+		"Date": "2025-02-26 13:23:09 +0100"
 	}
 }
