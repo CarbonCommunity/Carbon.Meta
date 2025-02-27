@@ -1,17 +1,17 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 Request timedout</title>
-  </head>
-  <body>
-    <h1>Error 503 Request timedout</h1>
-    <p>Request timedout</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-fra-etou8220061-FRA 1740690832 1169028591</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+{
+	"Version": "2.5.394",
+	"InformationalVersion": "2.5.394-Debug-rust_beta/aux01-03922c4a",
+	"Protocol": "0.0.1.0-aux01",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/aux01",
+		"HashLong": "03922c4a84bd1d575be86d671c0cd9d6c9950760",
+		"HashShort": "03922c4a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/03922c4a84bd1d575be86d671c0cd9d6c9950760",
+		"Author": "raul",
+		"Comment": "Build fix",
+		"Tag": "rustbeta_aux01",
+		"Date": "2025-02-07 16:39:32 +0100"
+	}
+}
