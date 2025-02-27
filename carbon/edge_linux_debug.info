@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.480",
-	"InformationalVersion": "2.1.480-DebugUnix-develop-c067a9c7",
-	"Protocol": "2025.02.06.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "c067a9c7d2a7b70a762175f5c6500d16f7cdce4c",
-		"HashShort": "c067a9c7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c067a9c7d2a7b70a762175f5c6500d16f7cdce4c",
-		"Author": "raul",
-		"Comment": "Added `HARMONYMOD` conditional symbol for the profiler build",
-		"Tag": "edge_build",
-		"Date": "2025-02-26 23:16:49 +0100"
-	}
-}
+Not Found
