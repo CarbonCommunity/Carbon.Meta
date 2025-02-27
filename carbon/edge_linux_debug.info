@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.481",
+	"InformationalVersion": "2.1.481-DebugUnix-develop-2824f089",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "2824f089b5d18fd560d817257aa93b7388a3d194",
+		"HashShort": "2824f089",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2824f089b5d18fd560d817257aa93b7388a3d194",
+		"Author": "raul",
+		"Comment": "Submodules++",
+		"Tag": "edge_build",
+		"Date": "2025-02-27 01:34:49 +0100"
+	}
+}
