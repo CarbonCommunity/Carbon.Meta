@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.518",
+	"InformationalVersion": "2.3.518-Debug-rust_beta/staging-ea386a01",
+	"Protocol": "2025.03.06.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "ea386a01e85aba6b86bb0d62099392e3d65642c6",
+		"HashShort": "ea386a01",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ea386a01e85aba6b86bb0d62099392e3d65642c6",
+		"Author": "raul",
+		"Comment": "Common++",
+		"Tag": "rustbeta_staging",
+		"Date": "2025-02-28 17:58:16 +0100"
+	}
+}
