@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.518",
-	"InformationalVersion": "2.3.518-Minimal-rust_beta/staging-ea386a01",
+	"Version": "2.3.519",
+	"InformationalVersion": "2.3.519-Minimal-rust_beta/staging-ea386a01",
 	"Protocol": "2025.03.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
