@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.495",
-	"InformationalVersion": "2.1.495-Debug-develop-b1170bf1",
+	"Version": "2.1.496",
+	"InformationalVersion": "2.1.496-Debug-develop-993bb69b",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "b1170bf1b1d764e1cca3f40f34ed1c41993c7b30",
-		"HashShort": "b1170bf1",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b1170bf1b1d764e1cca3f40f34ed1c41993c7b30",
+		"HashLong": "993bb69b4e165245a6050c1d9f8a8310e262b9aa",
+		"HashShort": "993bb69b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/993bb69b4e165245a6050c1d9f8a8310e262b9aa",
 		"Author": "raul",
-		"Comment": "Internal hooks",
+		"Comment": "Updated `Carbon.targets`
+Bootstrap++",
 		"Tag": "edge_build",
-		"Date": "2025-02-28 23:15:45 +0100"
+		"Date": "2025-03-01 03:00:51 +0100"
 	}
 }
