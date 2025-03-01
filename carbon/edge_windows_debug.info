@@ -1,18 +1,21 @@
 {
-	"Version": "2.1.496",
-	"InformationalVersion": "2.1.496-Debug-develop-993bb69b",
+	"Version": "2.1.497",
+	"InformationalVersion": "2.1.497-Debug-develop-9d69b39e",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "993bb69b4e165245a6050c1d9f8a8310e262b9aa",
-		"HashShort": "993bb69b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/993bb69b4e165245a6050c1d9f8a8310e262b9aa",
+		"HashLong": "9d69b39e87a2a4e269d5563962c56c28385fe00d",
+		"HashShort": "9d69b39e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9d69b39e87a2a4e269d5563962c56c28385fe00d",
 		"Author": "raul",
-		"Comment": "Updated `Carbon.targets`
-Bootstrap++",
+		"Comment": "Upgraded:
+- Roslyn 4.13.1
+- ICsharpCode 9.0.0.7889
+- CodeAnalysis.Csharp 4.13.0
+- Mono.Cecil 0.11.6",
 		"Tag": "edge_build",
-		"Date": "2025-03-01 03:00:51 +0100"
+		"Date": "2025-03-01 03:07:37 +0100"
 	}
 }
