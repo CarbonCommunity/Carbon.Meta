@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.522",
-	"InformationalVersion": "2.3.522-Minimal-rust_beta/staging-a4a4210a",
+	"Version": "2.3.523",
+	"InformationalVersion": "2.3.523-Minimal-rust_beta/staging-a4a4210a",
 	"Protocol": "2025.03.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
