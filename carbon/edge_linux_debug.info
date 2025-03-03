@@ -1,17 +1,19 @@
 {
-	"Version": "2.1.504",
-	"InformationalVersion": "2.1.504-DebugUnix-develop-d7a41be0",
+	"Version": "2.1.505",
+	"InformationalVersion": "2.1.505-DebugUnix-develop-55a6522e",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d7a41be042e56f79eca814ea37e6c558619359b6",
-		"HashShort": "d7a41be0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d7a41be042e56f79eca814ea37e6c558619359b6",
+		"HashLong": "55a6522e9ae649f1c1462558843751a1ebeb687b",
+		"HashShort": "55a6522e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/55a6522e9ae649f1c1462558843751a1ebeb687b",
 		"Author": "raul",
-		"Comment": "Removed `Carbon.Hooks.Internal` from the main repository",
+		"Comment": "Revert ""Removed `Carbon.Hooks.Internal` from the main repository""
+
+This reverts commit d7a41be042e56f79eca814ea37e6c558619359b6.",
 		"Tag": "edge_build",
-		"Date": "2025-03-03 19:42:58 +0100"
+		"Date": "2025-03-03 19:50:31 +0100"
 	}
 }
