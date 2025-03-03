@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.500",
-	"InformationalVersion": "2.1.500-DebugUnix-develop-73308462",
+	"Version": "2.1.503",
+	"InformationalVersion": "2.1.503-DebugUnix-develop-c91cf65e",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "733084623841b9a2891ffdcc538f0a5b4837b6df",
-		"HashShort": "73308462",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/733084623841b9a2891ffdcc538f0a5b4837b6df",
+		"HashLong": "c91cf65e40d82ebdfeac310059a3c90f5320b282",
+		"HashShort": "c91cf65e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c91cf65e40d82ebdfeac310059a3c90f5320b282",
 		"Author": "raul",
-		"Comment": "Release build updates (moved to `rust_beta/release` instead of using `develop`",
+		"Comment": "Another one of those",
 		"Tag": "edge_build",
-		"Date": "2025-03-03 18:55:45 +0100"
+		"Date": "2025-03-03 19:24:59 +0100"
 	}
 }
