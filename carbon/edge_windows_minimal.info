@@ -1,19 +1,19 @@
 {
-	"Version": "2.1.508",
-	"InformationalVersion": "2.1.508-Minimal-develop-d94afed5",
+	"Version": "2.1.510",
+	"InformationalVersion": "2.1.510-Minimal-develop-63415941",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d94afed599fcdf5bac7e63dbeab480bbd4b8d054",
-		"HashShort": "d94afed5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d94afed599fcdf5bac7e63dbeab480bbd4b8d054",
+		"HashLong": "63415941d2dd6dcad66c98fe36383d22a4e9756c",
+		"HashShort": "63415941",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/63415941d2dd6dcad66c98fe36383d22a4e9756c",
 		"Author": "raul",
-		"Comment": "Revert ""Static linking test""
+		"Comment": "Revert ""Test""
 
-This reverts commit 64d5d758bde299cb3d660eca7ae943db3dff80be.",
+This reverts commit b584d6709cc35ac35bd6a8ecdea122ac2d32d911.",
 		"Tag": "edge_build",
-		"Date": "2025-03-04 01:11:55 +0100"
+		"Date": "2025-03-04 18:12:31 +0100"
 	}
 }
