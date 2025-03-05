@@ -1,19 +1,17 @@
 {
-	"Version": "2.1.510",
-	"InformationalVersion": "2.1.510-Debug-develop-63415941",
+	"Version": "2.1.523",
+	"InformationalVersion": "2.1.523-Debug-develop-da6dec7c",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "63415941d2dd6dcad66c98fe36383d22a4e9756c",
-		"HashShort": "63415941",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/63415941d2dd6dcad66c98fe36383d22a4e9756c",
+		"HashLong": "da6dec7c2dc2c813a8faf186dd86586352d71db3",
+		"HashShort": "da6dec7c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/da6dec7c2dc2c813a8faf186dd86586352d71db3",
 		"Author": "raul",
-		"Comment": "Revert ""Test""
-
-This reverts commit b584d6709cc35ac35bd6a8ecdea122ac2d32d911.",
+		"Comment": "Potential fix",
 		"Tag": "edge_build",
-		"Date": "2025-03-04 18:12:31 +0100"
+		"Date": "2025-03-05 01:25:25 +0100"
 	}
 }
