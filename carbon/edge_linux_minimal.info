@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.523",
-	"InformationalVersion": "2.1.523-MinimalUnix-develop-da6dec7c",
+	"Version": "2.1.524",
+	"InformationalVersion": "2.1.524-MinimalUnix-develop-611903a8",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "da6dec7c2dc2c813a8faf186dd86586352d71db3",
-		"HashShort": "da6dec7c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/da6dec7c2dc2c813a8faf186dd86586352d71db3",
+		"HashLong": "611903a80af70b73c511ee41e5267899f3eda801",
+		"HashShort": "611903a8",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/611903a80af70b73c511ee41e5267899f3eda801",
 		"Author": "raul",
-		"Comment": "Potential fix",
+		"Comment": "Dotnet version bump",
 		"Tag": "edge_build",
-		"Date": "2025-03-05 01:25:25 +0100"
+		"Date": "2025-03-05 12:42:22 +0100"
 	}
 }
