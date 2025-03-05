@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.6.412",
+	"InformationalVersion": "2.6.412-DebugUnix-rust_beta/aux02-177c9f20",
+	"Protocol": "0.0.1.0-aux02",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "rust_beta/aux02",
+		"HashLong": "177c9f20132c1c9cb56e10cd4f58c2af1d9c7b60",
+		"HashShort": "177c9f20",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/177c9f20132c1c9cb56e10cd4f58c2af1d9c7b60",
+		"Author": "raul",
+		"Comment": "Merging from develop",
+		"Tag": "rustbeta_aux02",
+		"Date": "2025-02-25 18:42:14 +0100"
+	}
+}
