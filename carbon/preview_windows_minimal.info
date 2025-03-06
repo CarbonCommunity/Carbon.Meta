@@ -1,17 +1,1 @@
-{
-	"Version": "2.2.121",
-	"InformationalVersion": "2.2.121-Minimal-preview-051af3c0",
-	"Protocol": "2025.02.06.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "preview",
-		"HashLong": "051af3c07a2a22b4650f5c58a0b497bbaf9e2396",
-		"HashShort": "051af3c0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/051af3c07a2a22b4650f5c58a0b497bbaf9e2396",
-		"Author": "raul",
-		"Comment": "Merging from develop",
-		"Tag": "preview_build",
-		"Date": "2025-02-17 19:43:54 +0100"
-	}
-}
+Not Found
