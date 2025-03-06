@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.579",
-	"InformationalVersion": "2.1.579-DebugUnix-develop-98fc511b",
-	"Protocol": "2025.02.06.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "98fc511bdbd77419d1ada2e863187ba12b1a08fb",
-		"HashShort": "98fc511b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/98fc511bdbd77419d1ada2e863187ba12b1a08fb",
-		"Author": "raul",
-		"Comment": "Hook gen",
-		"Tag": "edge_build",
-		"Date": "2025-03-06 16:23:22 +0100"
-	}
-}
+Not Found
