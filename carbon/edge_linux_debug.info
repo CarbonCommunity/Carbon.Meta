@@ -1,17 +1,47 @@
 {
-	"Version": "2.1.537",
-	"InformationalVersion": "2.1.537-DebugUnix-develop-15507a2b",
+	"Version": "2.1.542",
+	"InformationalVersion": "2.1.542-DebugUnix-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
 	"Protocol": "2025.02.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
-		"Branch": "develop",
-		"HashLong": "15507a2b53ab974a7209a29bee96a3d0106de2b3",
-		"HashShort": "15507a2b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/15507a2b53ab974a7209a29bee96a3d0106de2b3",
-		"Author": "raul",
-		"Comment": "Am tired obviously",
+		"Branch": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"HashLong": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"HashShort": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Url": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon/commit/fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Author": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Comment": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
 		"Tag": "edge_build",
-		"Date": "2025-03-06 02:13:31 +0100"
+		"Date": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon"
 	}
 }
