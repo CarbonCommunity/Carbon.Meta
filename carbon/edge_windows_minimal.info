@@ -1,6 +1,6 @@
 {
-	"Version": "2.1.570",
-	"InformationalVersion": "2.1.570-Minimal-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+	"Version": "2.1.571",
+	"InformationalVersion": "2.1.571-Minimal-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
 To add an exception for this directory, call:
 
 	git config --global --add safe.directory /__w/Carbon/Carbon-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
