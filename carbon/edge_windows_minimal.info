@@ -1,1 +1,47 @@
-Not Found
+{
+	"Version": "2.1.561",
+	"InformationalVersion": "2.1.561-Minimal-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"HashLong": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"HashShort": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Url": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon/commit/fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Author": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Comment": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Tag": "edge_build",
+		"Date": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /__w/Carbon/Carbon"
+	}
+}
