@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.580",
-	"InformationalVersion": "2.1.580-DebugUnix-develop-244ce627",
-	"Protocol": "2025.02.06.0",
+	"Version": "2.1.581",
+	"InformationalVersion": "2.1.581-DebugUnix-develop-ac0946fb",
+	"Protocol": "2025.03.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "244ce62752499e19d31777633c966b91390ef1d6",
-		"HashShort": "244ce627",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/244ce62752499e19d31777633c966b91390ef1d6",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Update hook-build.yml",
+		"HashLong": "ac0946fb7a043b467c80f2d53062aa297b693051",
+		"HashShort": "ac0946fb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ac0946fb7a043b467c80f2d53062aa297b693051",
+		"Author": "raul",
+		"Comment": "Merging from rust_beta/staging
+Protocol++",
 		"Tag": "edge_build",
-		"Date": "2025-03-06 16:33:22 +0100"
+		"Date": "2025-03-06 17:37:24 +0100"
 	}
 }
