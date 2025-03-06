@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.580",
+	"InformationalVersion": "2.1.580-DebugUnix-develop-244ce627",
+	"Protocol": "2025.02.06.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "244ce62752499e19d31777633c966b91390ef1d6",
+		"HashShort": "244ce627",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/244ce62752499e19d31777633c966b91390ef1d6",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Update hook-build.yml",
+		"Tag": "edge_build",
+		"Date": "2025-03-06 16:33:22 +0100"
+	}
+}
