@@ -1,17 +1,19 @@
 {
-	"Version": "2.1.594",
-	"InformationalVersion": "2.1.594-Minimal-develop-d1ee2f0f",
+	"Version": "2.1.595",
+	"InformationalVersion": "2.1.595-Minimal-develop-1175eb47",
 	"Protocol": "2025.03.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d1ee2f0fa2bc277e8a1110f1ec2f9d41d09aed75",
-		"HashShort": "d1ee2f0f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d1ee2f0fa2bc277e8a1110f1ec2f9d41d09aed75",
+		"HashLong": "1175eb470cf20f229c5a6b92ace8c453862ff7bc",
+		"HashShort": "1175eb47",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1175eb470cf20f229c5a6b92ace8c453862ff7bc",
 		"Author": "raul",
-		"Comment": "Done pls",
+		"Comment": "Added Carbon.Publicizer.Shared
+Updated Carbon.Publicizer to use the shared code and removed old publicizer code (the one that creates ""Checksum validation"" failures)
+Carbon.Startup++",
 		"Tag": "edge_build",
-		"Date": "2025-03-07 20:41:58 +0100"
+		"Date": "2025-03-07 22:14:21 +0100"
 	}
 }
