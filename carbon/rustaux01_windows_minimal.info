@@ -1,6 +1,6 @@
 {
-	"Version": "2.5.401",
-	"InformationalVersion": "2.5.401-Minimal-rust_beta/aux01-2d1d0026",
+	"Version": "2.5.402",
+	"InformationalVersion": "2.5.402-Minimal-rust_beta/aux01-2d1d0026",
 	"Protocol": "0.0.1.0-aux01",
 	"Platform": "Windows",
 	"Config": "Minimal",
