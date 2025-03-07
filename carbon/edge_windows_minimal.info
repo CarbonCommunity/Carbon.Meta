@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.593",
-	"InformationalVersion": "2.1.593-Minimal-develop-2c3a9866",
+	"Version": "2.1.594",
+	"InformationalVersion": "2.1.594-Minimal-develop-d1ee2f0f",
 	"Protocol": "2025.03.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "2c3a9866fd52981fbf2e86bae5c816dbf708ab54",
-		"HashShort": "2c3a9866",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2c3a9866fd52981fbf2e86bae5c816dbf708ab54",
+		"HashLong": "d1ee2f0fa2bc277e8a1110f1ec2f9d41d09aed75",
+		"HashShort": "d1ee2f0f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d1ee2f0fa2bc277e8a1110f1ec2f9d41d09aed75",
 		"Author": "raul",
-		"Comment": "Finished :)",
+		"Comment": "Done pls",
 		"Tag": "edge_build",
-		"Date": "2025-03-07 20:32:39 +0100"
+		"Date": "2025-03-07 20:41:58 +0100"
 	}
 }
