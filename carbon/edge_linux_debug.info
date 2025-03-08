@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.597",
-	"InformationalVersion": "2.1.597-DebugUnix-develop-9c06c174",
+	"Version": "2.1.598",
+	"InformationalVersion": "2.1.598-DebugUnix-develop-7e98a220",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "9c06c174c33a177e487195461ba49ede87f355a2",
-		"HashShort": "9c06c174",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9c06c174c33a177e487195461ba49ede87f355a2",
+		"HashLong": "7e98a220115640b970cc2d4e9a032d3bc35a97b6",
+		"HashShort": "7e98a220",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7e98a220115640b970cc2d4e9a032d3bc35a97b6",
 		"Author": "raul",
-		"Comment": "Skip checksum validation on staging, release, aux01, aux02 and aux03",
+		"Comment": "Checksum validation",
 		"Tag": "edge_build",
-		"Date": "2025-03-08 02:13:37 +0100"
+		"Date": "2025-03-08 02:41:06 +0100"
 	}
 }
