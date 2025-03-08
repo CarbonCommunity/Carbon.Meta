@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.600",
+	"InformationalVersion": "2.1.600-Debug-develop-85d28c1c",
+	"Protocol": "2025.03.06.1",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "85d28c1cab7113adafc14ef7dd69f28bf1dd5001",
+		"HashShort": "85d28c1c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/85d28c1cab7113adafc14ef7dd69f28bf1dd5001",
+		"Author": "raul",
+		"Comment": "Finalized windows build scripts",
+		"Tag": "edge_build",
+		"Date": "2025-03-08 21:40:20 +0100"
+	}
+}

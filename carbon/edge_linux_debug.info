@@ -1,19 +1,17 @@
 {
-	"Version": "2.1.599",
-	"InformationalVersion": "2.1.599-DebugUnix-develop-a86839cd",
+	"Version": "2.1.600",
+	"InformationalVersion": "2.1.600-DebugUnix-develop-85d28c1c",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a86839cd59b9fd5f5765046815642cc6f9b65b08",
-		"HashShort": "a86839cd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a86839cd59b9fd5f5765046815642cc6f9b65b08",
+		"HashLong": "85d28c1cab7113adafc14ef7dd69f28bf1dd5001",
+		"HashShort": "85d28c1c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/85d28c1cab7113adafc14ef7dd69f28bf1dd5001",
 		"Author": "raul",
-		"Comment": "Reduced warning overreacting
-Added `-noarchive` argument to build and profiler runners which skip archiving step when set
-Added HasArg to runner",
+		"Comment": "Finalized windows build scripts",
 		"Tag": "edge_build",
-		"Date": "2025-03-08 20:46:41 +0100"
+		"Date": "2025-03-08 21:40:20 +0100"
 	}
 }
