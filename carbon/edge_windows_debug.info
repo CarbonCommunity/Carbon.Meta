@@ -1,19 +1,20 @@
 {
-	"Version": "2.1.595",
-	"InformationalVersion": "2.1.595-Debug-develop-1175eb47",
-	"Protocol": "2025.03.06.0",
+	"Version": "2.1.596",
+	"InformationalVersion": "2.1.596-Debug-develop-8b566753",
+	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "1175eb470cf20f229c5a6b92ace8c453862ff7bc",
-		"HashShort": "1175eb47",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1175eb470cf20f229c5a6b92ace8c453862ff7bc",
+		"HashLong": "8b56675382e53b0aec0073412812ff35674f0d19",
+		"HashShort": "8b566753",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8b56675382e53b0aec0073412812ff35674f0d19",
 		"Author": "raul",
-		"Comment": "Added Carbon.Publicizer.Shared
-Updated Carbon.Publicizer to use the shared code and removed old publicizer code (the one that creates ""Checksum validation"" failures)
-Carbon.Startup++",
+		"Comment": "Protocol++ (2025.03.06.1)
+Added get/set process variable to runner
+Added Files.Hash to Carbon Runner
+When downloading Rust server files, store assembly-csharp hash on the process variable, to be later used by hook gen to identify the assembly version",
 		"Tag": "edge_build",
-		"Date": "2025-03-07 22:14:21 +0100"
+		"Date": "2025-03-08 02:01:05 +0100"
 	}
 }
