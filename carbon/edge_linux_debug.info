@@ -1,20 +1,17 @@
 {
-	"Version": "2.1.596",
-	"InformationalVersion": "2.1.596-DebugUnix-develop-8b566753",
+	"Version": "2.1.597",
+	"InformationalVersion": "2.1.597-DebugUnix-develop-9c06c174",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "8b56675382e53b0aec0073412812ff35674f0d19",
-		"HashShort": "8b566753",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8b56675382e53b0aec0073412812ff35674f0d19",
+		"HashLong": "9c06c174c33a177e487195461ba49ede87f355a2",
+		"HashShort": "9c06c174",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9c06c174c33a177e487195461ba49ede87f355a2",
 		"Author": "raul",
-		"Comment": "Protocol++ (2025.03.06.1)
-Added get/set process variable to runner
-Added Files.Hash to Carbon Runner
-When downloading Rust server files, store assembly-csharp hash on the process variable, to be later used by hook gen to identify the assembly version",
+		"Comment": "Skip checksum validation on staging, release, aux01, aux02 and aux03",
 		"Tag": "edge_build",
-		"Date": "2025-03-08 02:01:05 +0100"
+		"Date": "2025-03-08 02:13:37 +0100"
 	}
 }
