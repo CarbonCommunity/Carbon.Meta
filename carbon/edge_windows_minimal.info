@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.604",
-	"InformationalVersion": "2.1.604-Minimal-develop-273758fd",
+	"Version": "2.1.605",
+	"InformationalVersion": "2.1.605-Minimal-develop-1e741db1",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "273758fd813b6c6785d376b98c1fabbcf2139cd7",
-		"HashShort": "273758fd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/273758fd813b6c6785d376b98c1fabbcf2139cd7",
+		"HashLong": "1e741db1fd75c7f239fcaea93c9c36566d5b474e",
+		"HashShort": "1e741db1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1e741db1fd75c7f239fcaea93c9c36566d5b474e",
 		"Author": "raul",
-		"Comment": "Profiler",
+		"Comment": "Publicize Rust.FileSystem.dll by default",
 		"Tag": "edge_build",
-		"Date": "2025-03-09 21:21:53 +0100"
+		"Date": "2025-03-10 19:50:07 +0100"
 	}
 }
