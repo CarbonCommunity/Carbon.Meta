@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.606",
-	"InformationalVersion": "2.1.606-Debug-develop-55d9ada9",
+	"Version": "2.1.607",
+	"InformationalVersion": "2.1.607-Debug-develop-e81a50b6",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "55d9ada98d24cf0e49d9a041ebb0f5d30ea79fce",
-		"HashShort": "55d9ada9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/55d9ada98d24cf0e49d9a041ebb0f5d30ea79fce",
+		"HashLong": "e81a50b6b579b43eeeb1188b75e6706516fc94ef",
+		"HashShort": "e81a50b6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e81a50b6b579b43eeeb1188b75e6706516fc94ef",
 		"Author": "raul",
-		"Comment": "Build `prod` Carbon.Native build",
+		"Comment": "Logs",
 		"Tag": "edge_build",
-		"Date": "2025-03-12 14:38:40 +0100"
+		"Date": "2025-03-12 15:31:30 +0100"
 	}
 }
