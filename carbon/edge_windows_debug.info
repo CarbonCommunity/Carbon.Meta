@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.614",
+	"InformationalVersion": "2.1.614-Debug-develop-1e2f5c5a",
+	"Protocol": "2025.03.06.1",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "1e2f5c5abed09b0c5d447d46b6bb36ead1594b76",
+		"HashShort": "1e2f5c5a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1e2f5c5abed09b0c5d447d46b6bb36ead1594b76",
+		"Author": "raul",
+		"Comment": "Common++",
+		"Tag": "edge_build",
+		"Date": "2025-03-13 13:40:30 +0100"
+	}
+}
