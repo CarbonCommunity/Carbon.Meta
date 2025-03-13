@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.617",
-	"InformationalVersion": "2.1.617-Debug-develop-5e39625a",
+	"Version": "2.1.618",
+	"InformationalVersion": "2.1.618-Debug-develop-9840b284",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "5e39625a57c8f0d7cd2bdfde0833bda09700d0fb",
-		"HashShort": "5e39625a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5e39625a57c8f0d7cd2bdfde0833bda09700d0fb",
+		"HashLong": "9840b2849959b7db1fc1f3bb2e9e0bab3ae1b15f",
+		"HashShort": "9840b284",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9840b2849959b7db1fc1f3bb2e9e0bab3ae1b15f",
 		"Author": "raul",
-		"Comment": "Enforced `Facepunch.Ping` to be publicised",
+		"Comment": "AutoPatch hotfix",
 		"Tag": "edge_build",
-		"Date": "2025-03-13 18:57:50 +0100"
+		"Date": "2025-03-13 21:07:04 +0100"
 	}
 }
