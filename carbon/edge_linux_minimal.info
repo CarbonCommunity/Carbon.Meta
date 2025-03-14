@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.619",
-	"InformationalVersion": "2.1.619-MinimalUnix-develop-aa92f55b",
+	"Version": "2.1.620",
+	"InformationalVersion": "2.1.620-MinimalUnix-develop-6caee731",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "aa92f55bee8ba0b0700cf224ef038379a3e3d438",
-		"HashShort": "aa92f55b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aa92f55bee8ba0b0700cf224ef038379a3e3d438",
+		"HashLong": "6caee731b644d1380c3a607567e4183691cfbabe",
+		"HashShort": "6caee731",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6caee731b644d1380c3a607567e4183691cfbabe",
 		"Author": "raul",
-		"Comment": "Merged ThePitereq's LUI updates",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-03-14 16:46:33 +0100"
+		"Date": "2025-03-14 17:41:25 +0100"
 	}
 }
