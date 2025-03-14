@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.621",
-	"InformationalVersion": "2.1.621-Minimal-develop-04206861",
+	"Version": "2.1.622",
+	"InformationalVersion": "2.1.622-Minimal-develop-7dfe2a3d",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0420686177627b2b17f0cffae1fe7932e384ddfe",
-		"HashShort": "04206861",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0420686177627b2b17f0cffae1fe7932e384ddfe",
+		"HashLong": "7dfe2a3d33a02f8d53071ba22445d08dfbcfb379",
+		"HashShort": "7dfe2a3d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7dfe2a3d33a02f8d53071ba22445d08dfbcfb379",
 		"Author": "raul",
-		"Comment": "Removed +carbon.skiphookupdates
-Common++",
+		"Comment": "Bootstrap",
 		"Tag": "edge_build",
-		"Date": "2025-03-14 17:48:07 +0100"
+		"Date": "2025-03-15 00:00:31 +0100"
 	}
 }
