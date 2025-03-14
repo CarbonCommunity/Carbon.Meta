@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.620",
-	"InformationalVersion": "2.1.620-MinimalUnix-develop-6caee731",
+	"Version": "2.1.621",
+	"InformationalVersion": "2.1.621-MinimalUnix-develop-04206861",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "6caee731b644d1380c3a607567e4183691cfbabe",
-		"HashShort": "6caee731",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6caee731b644d1380c3a607567e4183691cfbabe",
+		"HashLong": "0420686177627b2b17f0cffae1fe7932e384ddfe",
+		"HashShort": "04206861",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0420686177627b2b17f0cffae1fe7932e384ddfe",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Removed +carbon.skiphookupdates
+Common++",
 		"Tag": "edge_build",
-		"Date": "2025-03-14 17:41:25 +0100"
+		"Date": "2025-03-14 17:48:07 +0100"
 	}
 }
