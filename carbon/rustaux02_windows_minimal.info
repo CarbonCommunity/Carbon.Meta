@@ -1,17 +1,1 @@
-{
-	"Version": "2.6.423",
-	"InformationalVersion": "2.6.423-Minimal-rust_beta/aux02-208be3db",
-	"Protocol": "0.0.1.0-aux02",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "rust_beta/aux02",
-		"HashLong": "208be3dbfd27570accaa70a3be928f18561b8aab",
-		"HashShort": "208be3db",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/208be3dbfd27570accaa70a3be928f18561b8aab",
-		"Author": "raul",
-		"Comment": "Profiler staging changes",
-		"Tag": "rustbeta_aux02_build",
-		"Date": "2025-03-09 20:48:38 +0100"
-	}
-}
+Not Found
