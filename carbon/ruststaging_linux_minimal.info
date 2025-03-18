@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.555",
-	"InformationalVersion": "2.3.555-MinimalUnix-rust_beta/staging-0123f586",
+	"Version": "2.3.557",
+	"InformationalVersion": "2.3.557-MinimalUnix-rust_beta/staging-69be2d32",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "0123f58669523a43135cf6ce274058c079da0752",
-		"HashShort": "0123f586",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0123f58669523a43135cf6ce274058c079da0752",
+		"HashLong": "69be2d32c5b299819f286a924eb99c5d7dae20b2",
+		"HashShort": "69be2d32",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/69be2d32c5b299819f286a924eb99c5d7dae20b2",
 		"Author": "raul",
-		"Comment": "TextTable changes",
+		"Comment": "Removed Mono.Data.Sqlite and replaced it with Microsoft.Data.Sqlite",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-03-14 14:35:19 +0100"
+		"Date": "2025-03-18 13:36:04 +0100"
 	}
 }
