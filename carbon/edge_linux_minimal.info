@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.622",
-	"InformationalVersion": "2.1.622-MinimalUnix-develop-7dfe2a3d",
+	"Version": "2.1.623",
+	"InformationalVersion": "2.1.623-MinimalUnix-develop-13f732fa",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7dfe2a3d33a02f8d53071ba22445d08dfbcfb379",
-		"HashShort": "7dfe2a3d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7dfe2a3d33a02f8d53071ba22445d08dfbcfb379",
+		"HashLong": "13f732fa9f69e2e93579a4669f5476736e1ed84d",
+		"HashShort": "13f732fa",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/13f732fa9f69e2e93579a4669f5476736e1ed84d",
 		"Author": "raul",
-		"Comment": "Bootstrap",
+		"Comment": "Fixed git post checkout hook to now properly carefully switch branches in mass on synced branch repos",
 		"Tag": "edge_build",
-		"Date": "2025-03-15 00:00:31 +0100"
+		"Date": "2025-03-18 22:19:45 +0100"
 	}
 }
