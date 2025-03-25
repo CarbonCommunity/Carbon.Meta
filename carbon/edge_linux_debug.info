@@ -1,17 +1,19 @@
 {
-	"Version": "2.1.626",
-	"InformationalVersion": "2.1.626-DebugUnix-develop-36e2307a",
+	"Version": "2.1.627",
+	"InformationalVersion": "2.1.627-DebugUnix-develop-ab1e4e12",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "36e2307ae134ab45477753acf7798452c87aa25f",
-		"HashShort": "36e2307a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/36e2307ae134ab45477753acf7798452c87aa25f",
-		"Author": "raul",
-		"Comment": "Edge build++",
+		"HashLong": "ab1e4e121164e7ec5cd890e95772e529ef27ee7c",
+		"HashShort": "ab1e4e12",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ab1e4e121164e7ec5cd890e95772e529ef27ee7c",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge pull request #78 from 0ff1/develop
+
+fix: error when debugOutputPath is null.",
 		"Tag": "edge_build",
-		"Date": "2025-03-21 20:05:13 +0100"
+		"Date": "2025-03-25 12:58:42 +0100"
 	}
 }
