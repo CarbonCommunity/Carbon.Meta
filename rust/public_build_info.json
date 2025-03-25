@@ -7,14 +7,14 @@
     "Date": "24/03/2025 09:00:52"
   },
   "Build": {
-    "Id": "818",
-    "Number": "818",
-    "Tag": "jenkins-RustReleaseServer-818",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/818/",
+    "Id": "819",
+    "Number": "819",
+    "Tag": "jenkins-RustReleaseServer-819",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/819/",
     "Name": "RustReleaseServer",
     "Node": "Win4"
   },
-  "Date": 1742806893,
+  "Date": 1742844232,
   "DateString": "24 03 2025",
-  "TimeString": "09:01"
+  "TimeString": "19:23"
 }
