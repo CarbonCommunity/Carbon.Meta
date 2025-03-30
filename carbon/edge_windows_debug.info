@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.633",
-	"InformationalVersion": "2.1.633-Debug-develop-aeb169d0",
+	"Version": "2.1.636",
+	"InformationalVersion": "2.1.636-Debug-develop-ed6febd8",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "aeb169d0084a956e4e42138537a4f4e2c5d9a54d",
-		"HashShort": "aeb169d0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aeb169d0084a956e4e42138537a4f4e2c5d9a54d",
+		"HashLong": "ed6febd8916b9800fbf787a657a15132a34e74b3",
+		"HashShort": "ed6febd8",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed6febd8916b9800fbf787a657a15132a34e74b3",
 		"Author": "raul",
-		"Comment": "Edge++",
+		"Comment": "Copy error handling & optional flag for Carbon.Runner",
 		"Tag": "edge_build",
-		"Date": "2025-03-29 16:07:28 +0100"
+		"Date": "2025-03-30 23:01:42 +0200"
 	}
 }
