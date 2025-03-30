@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.637",
-	"InformationalVersion": "2.1.637-Debug-develop-f140512a",
+	"Version": "2.1.638",
+	"InformationalVersion": "2.1.638-Debug-develop-dd8f1d95",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f140512aabf0ef78a57c20847dd19758f2d1660f",
-		"HashShort": "f140512a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f140512aabf0ef78a57c20847dd19758f2d1660f",
+		"HashLong": "dd8f1d9572e80ebe6b779ca6021a7ca32038940d",
+		"HashShort": "dd8f1d95",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dd8f1d9572e80ebe6b779ca6021a7ca32038940d",
 		"Author": "raul",
-		"Comment": "Fixed the Carbon.Documentation directory",
+		"Comment": "Fixed everything",
 		"Tag": "edge_build",
-		"Date": "2025-03-31 00:27:41 +0200"
+		"Date": "2025-03-31 01:05:51 +0200"
 	}
 }
