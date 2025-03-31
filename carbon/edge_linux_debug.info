@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.641",
-	"InformationalVersion": "2.1.641-DebugUnix-develop-852e8a54",
+	"Version": "2.1.642",
+	"InformationalVersion": "2.1.642-DebugUnix-develop-958337da",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "852e8a546be8a4abd28b48a8565fb7db3840ec3a",
-		"HashShort": "852e8a54",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/852e8a546be8a4abd28b48a8565fb7db3840ec3a",
+		"HashLong": "958337da325caf25c1d5c03cca2e8c980e97ac44",
+		"HashShort": "958337da",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/958337da325caf25c1d5c03cca2e8c980e97ac44",
 		"Author": "raul",
-		"Comment": "Added parameters and updated returning behaviour information",
+		"Comment": "Parse hook flags",
 		"Tag": "edge_build",
-		"Date": "2025-03-31 21:51:54 +0200"
+		"Date": "2025-03-31 22:37:33 +0200"
 	}
 }
