@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.639",
-	"InformationalVersion": "2.1.639-Minimal-develop-0e0081b6",
+	"Version": "2.1.640",
+	"InformationalVersion": "2.1.640-Minimal-develop-a939441b",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0e0081b6fc6036ef5c85ba0d78724ae5b9f09d52",
-		"HashShort": "0e0081b6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0e0081b6fc6036ef5c85ba0d78724ae5b9f09d52",
+		"HashLong": "a939441bd42191d306018f455ca41240e29a3e17",
+		"HashShort": "a939441b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a939441bd42191d306018f455ca41240e29a3e17",
 		"Author": "raul",
-		"Comment": "Polished the bjesus out of the Docs generator (+ lotsa updates, open the commit lol)",
+		"Comment": "Added AI metadata & research support for hook descriptors",
 		"Tag": "edge_build",
-		"Date": "2025-03-31 05:12:28 +0200"
+		"Date": "2025-03-31 18:19:57 +0200"
 	}
 }
