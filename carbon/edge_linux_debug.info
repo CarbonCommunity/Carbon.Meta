@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.638",
-	"InformationalVersion": "2.1.638-DebugUnix-develop-dd8f1d95",
+	"Version": "2.1.639",
+	"InformationalVersion": "2.1.639-DebugUnix-develop-0e0081b6",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "dd8f1d9572e80ebe6b779ca6021a7ca32038940d",
-		"HashShort": "dd8f1d95",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dd8f1d9572e80ebe6b779ca6021a7ca32038940d",
+		"HashLong": "0e0081b6fc6036ef5c85ba0d78724ae5b9f09d52",
+		"HashShort": "0e0081b6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0e0081b6fc6036ef5c85ba0d78724ae5b9f09d52",
 		"Author": "raul",
-		"Comment": "Fixed everything",
+		"Comment": "Polished the bjesus out of the Docs generator (+ lotsa updates, open the commit lol)",
 		"Tag": "edge_build",
-		"Date": "2025-03-31 01:05:51 +0200"
+		"Date": "2025-03-31 05:12:28 +0200"
 	}
 }
