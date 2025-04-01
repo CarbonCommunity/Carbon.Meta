@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.646",
-	"InformationalVersion": "2.1.646-MinimalUnix-develop-c3aa9907",
+	"Version": "2.1.647",
+	"InformationalVersion": "2.1.647-MinimalUnix-develop-48710b1a",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "c3aa99074216ea63b906c643d177124d93d708a6",
-		"HashShort": "c3aa9907",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c3aa99074216ea63b906c643d177124d93d708a6",
+		"HashLong": "48710b1a67d37d7669b51a269492f7c4a0e45755",
+		"HashShort": "48710b1a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/48710b1a67d37d7669b51a269492f7c4a0e45755",
 		"Author": "raul",
-		"Comment": "Include item flags (if any) next to the item names",
+		"Comment": "Generate 0All list of all entities in one file
+Don't show item Rarity badge if it's None",
 		"Tag": "edge_build",
-		"Date": "2025-04-01 16:23:20 +0200"
+		"Date": "2025-04-01 16:40:50 +0200"
 	}
 }
