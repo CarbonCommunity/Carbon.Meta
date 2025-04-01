@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.644",
-	"InformationalVersion": "2.1.644-MinimalUnix-develop-4eca9e66",
+	"Version": "2.1.645",
+	"InformationalVersion": "2.1.645-MinimalUnix-develop-b53ad5ab",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "4eca9e6678a5d701e733114557bb30ff5d7105b3",
-		"HashShort": "4eca9e66",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4eca9e6678a5d701e733114557bb30ff5d7105b3",
+		"HashLong": "b53ad5abec32bee471adf35d29e9dc610d3512e9",
+		"HashShort": "b53ad5ab",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b53ad5abec32bee471adf35d29e9dc610d3512e9",
 		"Author": "raul",
-		"Comment": "Added server metadata - entities and items",
+		"Comment": "Polished item formatting",
 		"Tag": "edge_build",
-		"Date": "2025-04-01 15:43:56 +0200"
+		"Date": "2025-04-01 16:15:10 +0200"
 	}
 }
