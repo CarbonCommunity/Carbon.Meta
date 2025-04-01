@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.653",
-	"InformationalVersion": "2.1.653-Debug-develop-9e2f1894",
+	"Version": "2.1.654",
+	"InformationalVersion": "2.1.654-Debug-develop-7aa04a01",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "9e2f18946e7b15e9374e67e0eddb439634dd9b66",
-		"HashShort": "9e2f1894",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9e2f18946e7b15e9374e67e0eddb439634dd9b66",
+		"HashLong": "7aa04a01c323f48440ca6ba9accd4e12e3b6ac12",
+		"HashShort": "7aa04a01",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7aa04a01c323f48440ca6ba9accd4e12e3b6ac12",
 		"Author": "raul",
-		"Comment": "Added anchors to various Rust reference prefabs/entities paths",
+		"Comment": "Added changelog processing",
 		"Tag": "edge_build",
-		"Date": "2025-04-01 22:10:34 +0200"
+		"Date": "2025-04-02 01:08:01 +0200"
 	}
 }
