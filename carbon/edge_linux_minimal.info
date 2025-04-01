@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.650",
+	"InformationalVersion": "2.1.650-MinimalUnix-develop-3bf37dfe",
+	"Protocol": "2025.03.06.1",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "3bf37dfea38046525a3da7909c5d28063275e8a6",
+		"HashShort": "3bf37dfe",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3bf37dfea38046525a3da7909c5d28063275e8a6",
+		"Author": "raul",
+		"Comment": "Added API buttons to Rust reference pages",
+		"Tag": "edge_build",
+		"Date": "2025-04-01 19:22:01 +0200"
+	}
+}
