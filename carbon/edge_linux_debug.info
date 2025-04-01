@@ -1,19 +1,17 @@
 {
-	"Version": "2.1.652",
-	"InformationalVersion": "2.1.652-DebugUnix-develop-e037fbe6",
+	"Version": "2.1.653",
+	"InformationalVersion": "2.1.653-DebugUnix-develop-9e2f1894",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "e037fbe6abde2ba9588469163b0ef425c79e1648",
-		"HashShort": "e037fbe6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e037fbe6abde2ba9588469163b0ef425c79e1648",
+		"HashLong": "9e2f18946e7b15e9374e67e0eddb439634dd9b66",
+		"HashShort": "9e2f1894",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9e2f18946e7b15e9374e67e0eddb439634dd9b66",
 		"Author": "raul",
-		"Comment": "Give better context for compilation failures due to required plugins or references missing
-Fixed string list leaking in ScriptLoader
-Do not attempt to compile plugins if // Reference dependencies aren't found on disk and print a similar error to missing required plugins",
+		"Comment": "Added anchors to various Rust reference prefabs/entities paths",
 		"Tag": "edge_build",
-		"Date": "2025-04-01 21:05:42 +0200"
+		"Date": "2025-04-01 22:10:34 +0200"
 	}
 }
