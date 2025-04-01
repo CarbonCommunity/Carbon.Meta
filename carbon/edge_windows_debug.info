@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.648",
-	"InformationalVersion": "2.1.648-Debug-develop-f66575f6",
+	"Version": "2.1.649",
+	"InformationalVersion": "2.1.649-Debug-develop-95ed8804",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f66575f628230152f00b60ab781e043fa336c6c6",
-		"HashShort": "f66575f6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f66575f628230152f00b60ab781e043fa336c6c6",
+		"HashLong": "95ed8804958642b7d0d5820600dba6ce2c5149aa",
+		"HashShort": "95ed8804",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/95ed8804958642b7d0d5820600dba6ce2c5149aa",
 		"Author": "raul",
-		"Comment": "Added 0All for items",
+		"Comment": "Use docs/public/rust api directory for generating static Rust reference pages
+Added Rust metadata prefabs generator",
 		"Tag": "edge_build",
-		"Date": "2025-04-01 16:48:50 +0200"
+		"Date": "2025-04-01 18:54:18 +0200"
 	}
 }
