@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.656",
-	"InformationalVersion": "2.1.656-DebugUnix-develop-4ebbcad4",
+	"Version": "2.1.657",
+	"InformationalVersion": "2.1.657-DebugUnix-develop-0b6dfdaf",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "4ebbcad476c3dcf48a858b43cdd5a933b21168cd",
-		"HashShort": "4ebbcad4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4ebbcad476c3dcf48a858b43cdd5a933b21168cd",
+		"HashLong": "0b6dfdaf50db6a723ab3ee7210c5bcb3eaa982d7",
+		"HashShort": "0b6dfdaf",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0b6dfdaf50db6a723ab3ee7210c5bcb3eaa982d7",
 		"Author": "raul",
-		"Comment": "Added prefab and entity components to the docs",
+		"Comment": "Added UniTask NuGet",
 		"Tag": "edge_build",
-		"Date": "2025-04-02 18:40:22 +0200"
+		"Date": "2025-04-02 18:50:09 +0200"
 	}
 }
