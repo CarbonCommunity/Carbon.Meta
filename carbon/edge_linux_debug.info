@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.655",
-	"InformationalVersion": "2.1.655-DebugUnix-develop-ff34f167",
+	"Version": "2.1.656",
+	"InformationalVersion": "2.1.656-DebugUnix-develop-4ebbcad4",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ff34f167009a98adb2d84189b3a57b2e82b5c375",
-		"HashShort": "ff34f167",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ff34f167009a98adb2d84189b3a57b2e82b5c375",
+		"HashLong": "4ebbcad476c3dcf48a858b43cdd5a933b21168cd",
+		"HashShort": "4ebbcad4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4ebbcad476c3dcf48a858b43cdd5a933b21168cd",
 		"Author": "raul",
-		"Comment": "Tag fix + Edge build",
+		"Comment": "Added prefab and entity components to the docs",
 		"Tag": "edge_build",
-		"Date": "2025-04-02 16:23:32 +0200"
+		"Date": "2025-04-02 18:40:22 +0200"
 	}
 }
