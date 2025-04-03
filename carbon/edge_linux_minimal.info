@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.657",
-	"InformationalVersion": "2.1.657-MinimalUnix-develop-0b6dfdaf",
+	"Version": "2.1.660",
+	"InformationalVersion": "2.1.660-MinimalUnix-develop-0fbdfe70",
 	"Protocol": "2025.03.06.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0b6dfdaf50db6a723ab3ee7210c5bcb3eaa982d7",
-		"HashShort": "0b6dfdaf",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0b6dfdaf50db6a723ab3ee7210c5bcb3eaa982d7",
+		"HashLong": "0fbdfe70c3d917465c55442a5d57680077c0ce82",
+		"HashShort": "0fbdfe70",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0fbdfe70c3d917465c55442a5d57680077c0ce82",
 		"Author": "raul",
-		"Comment": "Added UniTask NuGet",
+		"Comment": "LUI imagetype patch",
 		"Tag": "edge_build",
-		"Date": "2025-04-02 18:50:09 +0200"
+		"Date": "2025-04-02 23:40:17 +0200"
 	}
 }
