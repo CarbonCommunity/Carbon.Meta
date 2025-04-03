@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.662",
+	"InformationalVersion": "2.1.662-DebugUnix-develop-3d5376c3",
+	"Protocol": "2025.04.03.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "3d5376c3c5b646b1c82f13002cffdbfff5b283c3",
+		"HashShort": "3d5376c3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3d5376c3c5b646b1c82f13002cffdbfff5b283c3",
+		"Author": "raul",
+		"Comment": "Merge branch 'rust_beta/staging' into develop",
+		"Tag": "edge_build",
+		"Date": "2025-04-03 20:46:27 +0200"
+	}
+}
