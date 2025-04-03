@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.583",
-	"InformationalVersion": "2.3.583-Debug-rust_beta/staging-586d71ec",
+	"Version": "2.3.584",
+	"InformationalVersion": "2.3.584-Debug-rust_beta/staging-dc087bd2",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "586d71ec396e29f82e4f2eb3361c8c8d87369ed9",
-		"HashShort": "586d71ec",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/586d71ec396e29f82e4f2eb3361c8c8d87369ed9",
+		"HashLong": "dc087bd239c20c5cc4ff95185d87fc0e1de1203d",
+		"HashShort": "dc087bd2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dc087bd239c20c5cc4ff95185d87fc0e1de1203d",
 		"Author": "raul",
-		"Comment": "Added Mono.Data.Sqlite",
+		"Comment": "Use `release` Rust branch by default for wipe day",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-04-03 16:13:17 +0200"
+		"Date": "2025-04-03 18:07:22 +0200"
 	}
 }
