@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.665",
-	"InformationalVersion": "2.1.665-DebugUnix-develop-78f576e3",
+	"Version": "2.1.666",
+	"InformationalVersion": "2.1.666-DebugUnix-develop-697e18e9",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "78f576e3756903a0df729f7b79ce777bc31ff085",
-		"HashShort": "78f576e3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/78f576e3756903a0df729f7b79ce777bc31ff085",
+		"HashLong": "697e18e91a7ca3f916d1a981976096b12771e018",
+		"HashShort": "697e18e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/697e18e91a7ca3f916d1a981976096b12771e018",
 		"Author": "raul",
-		"Comment": "Probably do that lol",
+		"Comment": "Removed unused options",
 		"Tag": "edge_build",
-		"Date": "2025-04-05 16:27:56 +0200"
+		"Date": "2025-04-05 16:28:54 +0200"
 	}
 }
