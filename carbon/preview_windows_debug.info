@@ -1,47 +1,17 @@
 {
-	"Version": "2.0.0",
-	"InformationalVersion": "2.0.0-Debug-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon-fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon",
-	"Protocol": "2025.02.06.0",
+	"Version": "2.2.131",
+	"InformationalVersion": "2.2.131-Debug-develop-697e18e9",
+	"Protocol": "2025.04.03.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
-		"Branch": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon",
-		"HashLong": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon",
-		"HashShort": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon",
-		"Url": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon/commit/fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon",
-		"Author": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon",
-		"Comment": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon",
+		"Branch": "develop",
+		"HashLong": "697e18e91a7ca3f916d1a981976096b12771e018",
+		"HashShort": "697e18e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/697e18e91a7ca3f916d1a981976096b12771e018",
+		"Author": "raul",
+		"Comment": "Removed unused options",
 		"Tag": "preview_build",
-		"Date": "fatal: detected dubious ownership in repository at '/__w/Carbon/Carbon'
-To add an exception for this directory, call:
-
-	git config --global --add safe.directory /__w/Carbon/Carbon"
+		"Date": "2025-04-05 16:28:54 +0200"
 	}
 }

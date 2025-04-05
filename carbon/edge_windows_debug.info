@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.664",
-	"InformationalVersion": "2.1.664-Debug-develop-fa99781d",
+	"Version": "2.1.665",
+	"InformationalVersion": "2.1.665-Debug-develop-78f576e3",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "fa99781dabbf65bb75f614a68021bc7ef6c7eeec",
-		"HashShort": "fa99781d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fa99781dabbf65bb75f614a68021bc7ef6c7eeec",
+		"HashLong": "78f576e3756903a0df729f7b79ce777bc31ff085",
+		"HashShort": "78f576e3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/78f576e3756903a0df729f7b79ce777bc31ff085",
 		"Author": "raul",
-		"Comment": "Hook gen experiment (might end up getting reverted)",
+		"Comment": "Probably do that lol",
 		"Tag": "edge_build",
-		"Date": "2025-04-05 02:39:15 +0200"
+		"Date": "2025-04-05 16:27:56 +0200"
 	}
 }
