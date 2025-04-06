@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.668",
-	"InformationalVersion": "2.1.668-MinimalUnix-develop-7530783b",
+	"Version": "2.1.669",
+	"InformationalVersion": "2.1.669-MinimalUnix-develop-8649b27a",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7530783b88375622646a9c0e0f030f150ea38f4c",
-		"HashShort": "7530783b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7530783b88375622646a9c0e0f030f150ea38f4c",
+		"HashLong": "8649b27ac03f241c1fc1b16b2cece38a7b50232e",
+		"HashShort": "8649b27a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8649b27ac03f241c1fc1b16b2cece38a7b50232e",
 		"Author": "raul",
-		"Comment": "Fixed Carbon.Native build prewarm",
+		"Comment": "Build Unix also",
 		"Tag": "edge_build",
-		"Date": "2025-04-06 05:02:50 +0200"
+		"Date": "2025-04-06 05:07:39 +0200"
 	}
 }
