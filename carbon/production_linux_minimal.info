@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.182",
-	"InformationalVersion": "2.0.182-MinimalUnix-production-82834e31",
+	"Version": "2.0.183",
+	"InformationalVersion": "2.0.183-MinimalUnix-production-c287e819",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "82834e3160f65425da5713408c1c22bc038ce209",
-		"HashShort": "82834e31",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/82834e3160f65425da5713408c1c22bc038ce209",
+		"HashLong": "c287e819e8dfc727e3271e7abe5ae0ff40e8870a",
+		"HashShort": "c287e819",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c287e819e8dfc727e3271e7abe5ae0ff40e8870a",
 		"Author": "raul",
-		"Comment": "Merging from rust_beta/staging",
+		"Comment": "Merging from develop",
 		"Tag": "production_build",
-		"Date": "2025-04-03 18:08:37 +0200"
+		"Date": "2025-04-07 22:02:38 +0200"
 	}
 }
