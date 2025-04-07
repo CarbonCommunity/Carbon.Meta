@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.587",
-	"InformationalVersion": "2.3.587-Minimal-rust_beta/staging-dc087bd2",
+	"Version": "2.3.589",
+	"InformationalVersion": "2.3.589-Minimal-rust_beta/staging-fddab3a7",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "dc087bd239c20c5cc4ff95185d87fc0e1de1203d",
-		"HashShort": "dc087bd2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dc087bd239c20c5cc4ff95185d87fc0e1de1203d",
+		"HashLong": "fddab3a7875299d9c25bef45b747bd93ba152f70",
+		"HashShort": "fddab3a7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fddab3a7875299d9c25bef45b747bd93ba152f70",
 		"Author": "raul",
-		"Comment": "Use `release` Rust branch by default for wipe day",
+		"Comment": "Staging build fix",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-04-03 18:07:22 +0200"
+		"Date": "2025-04-07 23:30:38 +0200"
 	}
 }
