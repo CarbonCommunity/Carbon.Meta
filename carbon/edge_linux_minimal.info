@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.671",
-	"InformationalVersion": "2.1.671-MinimalUnix-develop-879f9008",
-	"Protocol": "2025.04.03.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "879f9008dd43aa366010153ecf4c8312ff877bbc",
-		"HashShort": "879f9008",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/879f9008dd43aa366010153ecf4c8312ff877bbc",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Update FUNDING.yml",
-		"Tag": "edge_build",
-		"Date": "2025-04-07 23:07:45 +0200"
-	}
-}
+Not Found
