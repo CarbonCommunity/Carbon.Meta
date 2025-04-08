@@ -1,1 +1,19 @@
-Not Found
+{
+	"Version": "2.1.673",
+	"InformationalVersion": "2.1.673-DebugUnix-develop-3fe4c134",
+	"Protocol": "2025.04.03.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "3fe4c1349cf872c707aaff81e7ebd564f251f5c6",
+		"HashShort": "3fe4c134",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3fe4c1349cf872c707aaff81e7ebd564f251f5c6",
+		"Author": "raul",
+		"Comment": "Revert ""Profiler version fix""
+
+This reverts commit 169cdce3114ef4b580005c1ec72cfecb86c33ba4.",
+		"Tag": "edge_build",
+		"Date": "2025-04-08 17:03:44 +0200"
+	}
+}
