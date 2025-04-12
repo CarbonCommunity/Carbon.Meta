@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.677",
-	"InformationalVersion": "2.1.677-MinimalUnix-develop-14170b27",
+	"Version": "2.1.678",
+	"InformationalVersion": "2.1.678-MinimalUnix-develop-f3cb1852",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "14170b271a3e6fbf2d1a27ff0ab81d64279e0da5",
-		"HashShort": "14170b27",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/14170b271a3e6fbf2d1a27ff0ab81d64279e0da5",
+		"HashLong": "f3cb185260dfec3cd85910cccb25fc8699559d6a",
+		"HashShort": "f3cb1852",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f3cb185260dfec3cd85910cccb25fc8699559d6a",
 		"Author": "raul",
-		"Comment": "Temporarily removed UniTask
-Common++",
+		"Comment": "Bootstrap",
 		"Tag": "edge_build",
-		"Date": "2025-04-12 18:36:50 +0200"
+		"Date": "2025-04-12 18:39:22 +0200"
 	}
 }
