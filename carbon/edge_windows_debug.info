@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.676",
-	"InformationalVersion": "2.1.676-Debug-develop-d5949da3",
+	"Version": "2.1.677",
+	"InformationalVersion": "2.1.677-Debug-develop-14170b27",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d5949da3229e70fe8e4f2753a31159c0964742e5",
-		"HashShort": "d5949da3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d5949da3229e70fe8e4f2753a31159c0964742e5",
+		"HashLong": "14170b271a3e6fbf2d1a27ff0ab81d64279e0da5",
+		"HashShort": "14170b27",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/14170b271a3e6fbf2d1a27ff0ab81d64279e0da5",
 		"Author": "raul",
-		"Comment": "Identifier fixes",
+		"Comment": "Temporarily removed UniTask
+Common++",
 		"Tag": "edge_build",
-		"Date": "2025-04-10 22:51:42 +0200"
+		"Date": "2025-04-12 18:36:50 +0200"
 	}
 }
