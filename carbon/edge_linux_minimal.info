@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.685",
-	"InformationalVersion": "2.1.685-MinimalUnix-develop-a10b0416",
+	"Version": "2.1.686",
+	"InformationalVersion": "2.1.686-MinimalUnix-develop-c6666baf",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a10b0416cc4383a816222555e22e6fe3c00e908e",
-		"HashShort": "a10b0416",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a10b0416cc4383a816222555e22e6fe3c00e908e",
+		"HashLong": "c6666bafd8c2fbbf55ecfaed9ddee150160c238c",
+		"HashShort": "c6666baf",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c6666bafd8c2fbbf55ecfaed9ddee150160c238c",
 		"Author": "Oleg",
-		"Comment": "remove unused files and apply minor tweaks",
+		"Comment": "Added Carbon.UniTask.dll to Carbon.targets",
 		"Tag": "edge_build",
-		"Date": "2025-04-15 16:47:24 +0300"
+		"Date": "2025-04-15 17:11:11 +0300"
 	}
 }
