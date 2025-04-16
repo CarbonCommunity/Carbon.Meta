@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.689",
-	"InformationalVersion": "2.1.689-DebugUnix-develop-fee20579",
+	"Version": "2.1.690",
+	"InformationalVersion": "2.1.690-DebugUnix-develop-6a363eb1",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "fee20579c17ac078bbb9a6b77ddba4dbbdc7c955",
-		"HashShort": "fee20579",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fee20579c17ac078bbb9a6b77ddba4dbbdc7c955",
+		"HashLong": "6a363eb1ca819d8a6141947e5264efad2ab973d4",
+		"HashShort": "6a363eb1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6a363eb1ca819d8a6141947e5264efad2ab973d4",
 		"Author": "raul",
-		"Comment": "Internal++",
+		"Comment": "Facepunch.Unity exposures",
 		"Tag": "edge_build",
-		"Date": "2025-04-16 21:49:56 +0200"
+		"Date": "2025-04-17 01:53:32 +0200"
 	}
 }
