@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.687",
-	"InformationalVersion": "2.1.687-Debug-develop-9b60bcfd",
+	"Version": "2.1.688",
+	"InformationalVersion": "2.1.688-Debug-develop-7083ed78",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "9b60bcfd276e4f89da55a188d0f3b4bcd203f862",
-		"HashShort": "9b60bcfd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9b60bcfd276e4f89da55a188d0f3b4bcd203f862",
+		"HashLong": "7083ed787d2ffff022b35e0abb3c6f57a0d0b94a",
+		"HashShort": "7083ed78",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7083ed787d2ffff022b35e0abb3c6f57a0d0b94a",
 		"Author": "raul",
-		"Comment": "Startup",
+		"Comment": "FTP update",
 		"Tag": "edge_build",
-		"Date": "2025-04-15 23:34:33 +0200"
+		"Date": "2025-04-16 21:07:50 +0200"
 	}
 }
