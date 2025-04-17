@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.701",
-	"InformationalVersion": "2.1.701-MinimalUnix-develop-14ac2f13",
+	"Version": "2.1.702",
+	"InformationalVersion": "2.1.702-MinimalUnix-develop-df34b4fe",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "14ac2f13a13a14be994158e5f9a4f040b5475772",
-		"HashShort": "14ac2f13",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/14ac2f13a13a14be994158e5f9a4f040b5475772",
+		"HashLong": "df34b4fe8dd46202fe113a87a74d434ed8bb7b15",
+		"HashShort": "df34b4fe",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/df34b4fe8dd46202fe113a87a74d434ed8bb7b15",
 		"Author": "raul",
-		"Comment": "Merge++",
+		"Comment": "Build minimal non archive fix",
 		"Tag": "edge_build",
-		"Date": "2025-04-17 16:09:12 +0200"
+		"Date": "2025-04-17 16:22:02 +0200"
 	}
 }
