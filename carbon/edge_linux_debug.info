@@ -1,1 +1,18 @@
-Not Found
+{
+	"Version": "2.1.704",
+	"InformationalVersion": "2.1.704-DebugUnix-develop-92abc54b",
+	"Protocol": "2025.04.03.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "92abc54b3faf427f014a1d9477cbea66bcc68bf7",
+		"HashShort": "92abc54b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/92abc54b3faf427f014a1d9477cbea66bcc68bf7",
+		"Author": "raul",
+		"Comment": "Submodules++
+Edge++",
+		"Tag": "edge_build",
+		"Date": "2025-04-17 16:49:15 +0200"
+	}
+}
