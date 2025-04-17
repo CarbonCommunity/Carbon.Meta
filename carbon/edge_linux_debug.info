@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.704",
-	"InformationalVersion": "2.1.704-DebugUnix-develop-92abc54b",
+	"Version": "2.1.705",
+	"InformationalVersion": "2.1.705-DebugUnix-develop-9cc9a285",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "92abc54b3faf427f014a1d9477cbea66bcc68bf7",
-		"HashShort": "92abc54b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/92abc54b3faf427f014a1d9477cbea66bcc68bf7",
+		"HashLong": "9cc9a2858f28639273b4d124fa3f7d49f299ccfa",
+		"HashShort": "9cc9a285",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9cc9a2858f28639273b4d124fa3f7d49f299ccfa",
 		"Author": "raul",
-		"Comment": "Submodules++
-Edge++",
+		"Comment": "Profiler++",
 		"Tag": "edge_build",
-		"Date": "2025-04-17 16:49:15 +0200"
+		"Date": "2025-04-17 22:15:35 +0200"
 	}
 }
