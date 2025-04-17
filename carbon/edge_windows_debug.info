@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.702",
-	"InformationalVersion": "2.1.702-Debug-develop-df34b4fe",
+	"Version": "2.1.703",
+	"InformationalVersion": "2.1.703-Debug-develop-a66d9e24",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "df34b4fe8dd46202fe113a87a74d434ed8bb7b15",
-		"HashShort": "df34b4fe",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/df34b4fe8dd46202fe113a87a74d434ed8bb7b15",
+		"HashLong": "a66d9e24ba352475d3ba0b7cc54a0f18cef8592c",
+		"HashShort": "a66d9e24",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a66d9e24ba352475d3ba0b7cc54a0f18cef8592c",
 		"Author": "raul",
-		"Comment": "Build minimal non archive fix",
+		"Comment": "Removed Carbon.Client (C4C)
+It's been fun",
 		"Tag": "edge_build",
-		"Date": "2025-04-17 16:22:02 +0200"
+		"Date": "2025-04-17 16:38:44 +0200"
 	}
 }
