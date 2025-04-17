@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.698",
-	"InformationalVersion": "2.1.698-MinimalUnix-develop-3a3f68a8",
+	"Version": "2.1.699",
+	"InformationalVersion": "2.1.699-MinimalUnix-develop-28e63bdd",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "3a3f68a8684f81d65a724ec6cd8d03fbea6d1352",
-		"HashShort": "3a3f68a8",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3a3f68a8684f81d65a724ec6cd8d03fbea6d1352",
+		"HashLong": "28e63bdd17ede055e6cb253bd6039c7723679bf5",
+		"HashShort": "28e63bdd",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/28e63bdd17ede055e6cb253bd6039c7723679bf5",
 		"Author": "raul",
-		"Comment": "Versions",
+		"Comment": "Initialize both NET8.0 and NET9.0 (sorts all kinds of problems)",
 		"Tag": "edge_build",
-		"Date": "2025-04-17 03:11:47 +0200"
+		"Date": "2025-04-17 03:18:50 +0200"
 	}
 }
