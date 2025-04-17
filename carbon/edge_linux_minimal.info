@@ -1,18 +1,18 @@
 {
-	"Version": "2.1.703",
-	"InformationalVersion": "2.1.703-MinimalUnix-develop-a66d9e24",
+	"Version": "2.1.704",
+	"InformationalVersion": "2.1.704-MinimalUnix-develop-92abc54b",
 	"Protocol": "2025.04.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a66d9e24ba352475d3ba0b7cc54a0f18cef8592c",
-		"HashShort": "a66d9e24",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a66d9e24ba352475d3ba0b7cc54a0f18cef8592c",
+		"HashLong": "92abc54b3faf427f014a1d9477cbea66bcc68bf7",
+		"HashShort": "92abc54b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/92abc54b3faf427f014a1d9477cbea66bcc68bf7",
 		"Author": "raul",
-		"Comment": "Removed Carbon.Client (C4C)
-It's been fun",
+		"Comment": "Submodules++
+Edge++",
 		"Tag": "edge_build",
-		"Date": "2025-04-17 16:38:44 +0200"
+		"Date": "2025-04-17 16:49:15 +0200"
 	}
 }

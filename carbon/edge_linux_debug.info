@@ -1,18 +1,1 @@
-{
-	"Version": "2.1.703",
-	"InformationalVersion": "2.1.703-DebugUnix-develop-a66d9e24",
-	"Protocol": "2025.04.03.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "a66d9e24ba352475d3ba0b7cc54a0f18cef8592c",
-		"HashShort": "a66d9e24",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a66d9e24ba352475d3ba0b7cc54a0f18cef8592c",
-		"Author": "raul",
-		"Comment": "Removed Carbon.Client (C4C)
-It's been fun",
-		"Tag": "edge_build",
-		"Date": "2025-04-17 16:38:44 +0200"
-	}
-}
+Not Found
