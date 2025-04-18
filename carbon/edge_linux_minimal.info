@@ -1,18 +1,18 @@
 {
-	"Version": "2.1.706",
-	"InformationalVersion": "2.1.706-MinimalUnix-develop-baf9b5f1",
+	"Version": "2.1.707",
+	"InformationalVersion": "2.1.707-MinimalUnix-develop-db0b4a8c",
 	"Protocol": "2025.04.03.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "baf9b5f133a86df7286b66be19a53aa6eb2a3ec1",
-		"HashShort": "baf9b5f1",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/baf9b5f133a86df7286b66be19a53aa6eb2a3ec1",
+		"HashLong": "db0b4a8c3f2fbc5c6c0aa494cca52e6566243f8b",
+		"HashShort": "db0b4a8c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/db0b4a8c3f2fbc5c6c0aa494cca52e6566243f8b",
 		"Author": "raul",
-		"Comment": "Protocol++
-Internal++",
+		"Comment": "Entities removal++
+Edge++",
 		"Tag": "edge_build",
-		"Date": "2025-04-17 23:58:23 +0200"
+		"Date": "2025-04-18 15:38:37 +0200"
 	}
 }
