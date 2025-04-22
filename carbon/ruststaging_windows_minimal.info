@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.606",
-	"InformationalVersion": "2.3.606-Minimal-rust_beta/staging-15cab1e7",
+	"Version": "2.3.607",
+	"InformationalVersion": "2.3.607-Minimal-rust_beta/staging-15cab1e7",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
