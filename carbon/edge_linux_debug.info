@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.707",
-	"InformationalVersion": "2.1.707-DebugUnix-develop-db0b4a8c",
+	"Version": "2.1.708",
+	"InformationalVersion": "2.1.708-DebugUnix-develop-3425de1b",
 	"Protocol": "2025.04.03.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "db0b4a8c3f2fbc5c6c0aa494cca52e6566243f8b",
-		"HashShort": "db0b4a8c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/db0b4a8c3f2fbc5c6c0aa494cca52e6566243f8b",
+		"HashLong": "3425de1bb5f103a9ca8d805176362c4b7391278e",
+		"HashShort": "3425de1b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3425de1bb5f103a9ca8d805176362c4b7391278e",
 		"Author": "raul",
-		"Comment": "Entities removal++
-Edge++",
+		"Comment": "Removed frame delay upon setting script sources up",
 		"Tag": "edge_build",
-		"Date": "2025-04-18 15:38:37 +0200"
+		"Date": "2025-04-23 15:09:52 +0200"
 	}
 }
