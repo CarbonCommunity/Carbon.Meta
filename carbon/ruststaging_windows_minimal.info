@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.608",
-	"InformationalVersion": "2.3.608-Minimal-rust_beta/staging-6bedbcdb",
+	"Version": "2.3.609",
+	"InformationalVersion": "2.3.609-Minimal-rust_beta/staging-86c1a05c",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "6bedbcdb130d8d2cf5b4d4fb015f6fe684611a8c",
-		"HashShort": "6bedbcdb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6bedbcdb130d8d2cf5b4d4fb015f6fe684611a8c",
+		"HashLong": "86c1a05ce284973b20dd9b340ec930e68b7df70c",
+		"HashShort": "86c1a05c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/86c1a05ce284973b20dd9b340ec930e68b7df70c",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Removed Harmony warning -> Warning! 'xx' uses Harmony. That may cause instability, use at your own discretion!",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-04-23 16:27:00 +0200"
+		"Date": "2025-04-23 19:21:46 +0200"
 	}
 }
