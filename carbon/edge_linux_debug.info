@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.708",
-	"InformationalVersion": "2.1.708-DebugUnix-develop-3425de1b",
+	"Version": "2.1.709",
+	"InformationalVersion": "2.1.709-DebugUnix-develop-e6f059c7",
 	"Protocol": "2025.04.03.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "3425de1bb5f103a9ca8d805176362c4b7391278e",
-		"HashShort": "3425de1b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3425de1bb5f103a9ca8d805176362c4b7391278e",
+		"HashLong": "e6f059c7c068292ddda499b9c5c63ae8c5f12670",
+		"HashShort": "e6f059c7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e6f059c7c068292ddda499b9c5c63ae8c5f12670",
 		"Author": "raul",
-		"Comment": "Removed frame delay upon setting script sources up",
+		"Comment": "Edge build++",
 		"Tag": "edge_build",
-		"Date": "2025-04-23 15:09:52 +0200"
+		"Date": "2025-04-23 15:44:33 +0200"
 	}
 }
