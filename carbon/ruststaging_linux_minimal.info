@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.614",
-	"InformationalVersion": "2.3.614-MinimalUnix-rust_beta/staging-b2d72a9c",
+	"Version": "2.3.615",
+	"InformationalVersion": "2.3.615-MinimalUnix-rust_beta/staging-3bd20508",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "b2d72a9cc7a605a0d45aba25e1fe3841185e54eb",
-		"HashShort": "b2d72a9c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b2d72a9cc7a605a0d45aba25e1fe3841185e54eb",
+		"HashLong": "3bd20508d52051236e813835d0538082613f791c",
+		"HashShort": "3bd20508",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3bd20508d52051236e813835d0538082613f791c",
 		"Author": "raul",
-		"Comment": "Unity member serialization",
+		"Comment": "Reverted that bonkers idea",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-04-26 16:49:45 +0200"
+		"Date": "2025-04-26 21:54:50 +0200"
 	}
 }
