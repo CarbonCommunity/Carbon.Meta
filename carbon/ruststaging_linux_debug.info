@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.612",
-	"InformationalVersion": "2.3.612-DebugUnix-rust_beta/staging-20ccfc38",
+	"Version": "2.3.613",
+	"InformationalVersion": "2.3.613-DebugUnix-rust_beta/staging-b2d72a9c",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "20ccfc3863abc651a14d7023ca56a1d1a0f99367",
-		"HashShort": "20ccfc38",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/20ccfc3863abc651a14d7023ca56a1d1a0f99367",
+		"HashLong": "b2d72a9cc7a605a0d45aba25e1fe3841185e54eb",
+		"HashShort": "b2d72a9c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b2d72a9cc7a605a0d45aba25e1fe3841185e54eb",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Unity member serialization",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-04-25 17:08:47 +0200"
+		"Date": "2025-04-26 16:49:45 +0200"
 	}
 }
