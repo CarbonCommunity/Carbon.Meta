@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.617",
-	"InformationalVersion": "2.3.617-Minimal-rust_beta/staging-41d4b4b0",
+	"Version": "2.3.618",
+	"InformationalVersion": "2.3.618-Minimal-rust_beta/staging-df807aa9",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "41d4b4b03560f1663e5fbff3e3361b8c03025fd5",
-		"HashShort": "41d4b4b0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/41d4b4b03560f1663e5fbff3e3361b8c03025fd5",
+		"HashLong": "df807aa9009079381afeacdcc25edaac149d96c4",
+		"HashShort": "df807aa9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/df807aa9009079381afeacdcc25edaac149d96c4",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Load up Vault when the server starts",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-04-27 04:00:51 +0200"
+		"Date": "2025-04-28 23:13:42 +0200"
 	}
 }
