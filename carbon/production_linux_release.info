@@ -1,17 +1,17 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>618 jwt:jwt-not-provided</title>
-  </head>
-  <body>
-    <h1>Error 618 jwt:jwt-not-provided</h1>
-    <p>jwt:jwt-not-provided</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-iad-kiad7000082-IAD 1745893595 3162918415</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+{
+	"Version": "2.0.184",
+	"InformationalVersion": "2.0.184-ReleaseUnix-production-1b04d794",
+	"Protocol": "2025.04.03.0",
+	"Platform": "Linux",
+	"Config": "ReleaseUnix",
+	"Commit": {
+		"Branch": "production",
+		"HashLong": "1b04d79465422667498be6552e07bad969e612d2",
+		"HashShort": "1b04d794",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1b04d79465422667498be6552e07bad969e612d2",
+		"Author": "raul",
+		"Comment": "Merging from develop",
+		"Tag": "production_build",
+		"Date": "2025-04-17 17:14:41 +0200"
+	}
+}
