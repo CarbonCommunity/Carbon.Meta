@@ -1,17 +1,17 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>618 jwt:jwt-not-provided</title>
-  </head>
-  <body>
-    <h1>Error 618 jwt:jwt-not-provided</h1>
-    <p>jwt:jwt-not-provided</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-iad-kjyo7100159-IAD 1745896341 1532978807</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+{
+	"Version": "2.2.131",
+	"InformationalVersion": "2.2.131-Minimal-develop-697e18e9",
+	"Protocol": "2025.04.03.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "697e18e91a7ca3f916d1a981976096b12771e018",
+		"HashShort": "697e18e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/697e18e91a7ca3f916d1a981976096b12771e018",
+		"Author": "raul",
+		"Comment": "Removed unused options",
+		"Tag": "preview_build",
+		"Date": "2025-04-05 16:28:54 +0200"
+	}
+}
