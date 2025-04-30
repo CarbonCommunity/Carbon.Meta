@@ -1,17 +1,17 @@
-{
-	"Version": "2.6.470",
-	"InformationalVersion": "2.6.470-MinimalUnix-rust_beta/aux02-b1c1b290",
-	"Protocol": "0.0.1.0-aux02",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "rust_beta/aux02",
-		"HashLong": "b1c1b29082a295cf7deba22422ca4684636371d7",
-		"HashShort": "b1c1b290",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b1c1b29082a295cf7deba22422ca4684636371d7",
-		"Author": "raul",
-		"Comment": "Merging from rust_beta/staging",
-		"Tag": "rustbeta_aux02_build",
-		"Date": "2025-03-19 14:33:33 +0100"
-	}
-}
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>618 jwt:jwt-not-provided</title>
+  </head>
+  <body>
+    <h1>Error 618 jwt:jwt-not-provided</h1>
+    <p>jwt:jwt-not-provided</p>
+    <h3>Error 54113</h3>
+    <p>Details: cache-iad-kjyo7100163-IAD 1745991751 2751062336</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
