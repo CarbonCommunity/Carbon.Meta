@@ -1,17 +1,1 @@
-{
-	"Version": "2.5.466",
-	"InformationalVersion": "2.5.466-DebugUnix-rust_beta/aux01-ad1c00db",
-	"Protocol": "0.0.1.0-aux01",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "rust_beta/aux01",
-		"HashLong": "ad1c00dbb940d18f16f687ced15a4cb6068256a1",
-		"HashShort": "ad1c00db",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ad1c00dbb940d18f16f687ced15a4cb6068256a1",
-		"Author": "raul",
-		"Comment": "Merging from rust_beta/staging",
-		"Tag": "rustbeta_aux01_build",
-		"Date": "2025-03-19 14:36:18 +0100"
-	}
-}
+Not Found
