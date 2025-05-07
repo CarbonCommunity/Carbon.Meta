@@ -1,17 +1,19 @@
 {
-	"Version": "2.1.720",
-	"InformationalVersion": "2.1.720-DebugUnix-develop-290ea6a3",
+	"Version": "2.1.721",
+	"InformationalVersion": "2.1.721-DebugUnix-develop-ed4c9186",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "290ea6a386b03cdf0de3dd4ca9ae64d9dffc5a1d",
-		"HashShort": "290ea6a3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/290ea6a386b03cdf0de3dd4ca9ae64d9dffc5a1d",
+		"HashLong": "ed4c91869196f3bb820e67d9f99d0ceb2da169da",
+		"HashShort": "ed4c9186",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed4c91869196f3bb820e67d9f99d0ceb2da169da",
 		"Author": "raul",
-		"Comment": "Fixed occasional index error in Generator (use concurrentdictionary since we're working with multithreaded plugin processing)",
+		"Comment": "Generator using cleanup
+Common++
+Edge++",
 		"Tag": "edge_build",
-		"Date": "2025-05-07 21:22:41 +0200"
+		"Date": "2025-05-07 23:36:11 +0200"
 	}
 }
