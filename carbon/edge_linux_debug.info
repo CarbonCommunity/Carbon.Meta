@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.718",
+	"InformationalVersion": "2.1.718-DebugUnix-develop-871f441c",
+	"Protocol": "2025.05.01.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "871f441cafc40f02b7060f4c1f16037b911b4c44",
+		"HashShort": "871f441c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/871f441cafc40f02b7060f4c1f16037b911b4c44",
+		"Author": "raul",
+		"Comment": "edge++",
+		"Tag": "edge_build",
+		"Date": "2025-05-07 19:47:22 +0200"
+	}
+}
