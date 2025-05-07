@@ -1,19 +1,17 @@
 {
-	"Version": "2.1.721",
-	"InformationalVersion": "2.1.721-MinimalUnix-develop-ed4c9186",
+	"Version": "2.1.722",
+	"InformationalVersion": "2.1.722-MinimalUnix-develop-48818739",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ed4c91869196f3bb820e67d9f99d0ceb2da169da",
-		"HashShort": "ed4c9186",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed4c91869196f3bb820e67d9f99d0ceb2da169da",
+		"HashLong": "48818739b6ca33dd5094e6418708ef773ad329fd",
+		"HashShort": "48818739",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/48818739b6ca33dd5094e6418708ef773ad329fd",
 		"Author": "raul",
-		"Comment": "Generator using cleanup
-Common++
-Edge++",
+		"Comment": "edge pls+",
 		"Tag": "edge_build",
-		"Date": "2025-05-07 23:36:11 +0200"
+		"Date": "2025-05-08 00:02:52 +0200"
 	}
 }
