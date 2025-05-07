@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.719",
-	"InformationalVersion": "2.1.719-MinimalUnix-develop-192bcf3b",
+	"Version": "2.1.720",
+	"InformationalVersion": "2.1.720-MinimalUnix-develop-290ea6a3",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "192bcf3b14a8bfe53180c5efd92c90a6807270ea",
-		"HashShort": "192bcf3b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/192bcf3b14a8bfe53180c5efd92c90a6807270ea",
+		"HashLong": "290ea6a386b03cdf0de3dd4ca9ae64d9dffc5a1d",
+		"HashShort": "290ea6a3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/290ea6a386b03cdf0de3dd4ca9ae64d9dffc5a1d",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Fixed occasional index error in Generator (use concurrentdictionary since we're working with multithreaded plugin processing)",
 		"Tag": "edge_build",
-		"Date": "2025-05-07 20:52:12 +0200"
+		"Date": "2025-05-07 21:22:41 +0200"
 	}
 }
