@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.722",
-	"InformationalVersion": "2.1.722-Debug-develop-48818739",
-	"Protocol": "2025.05.01.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "48818739b6ca33dd5094e6418708ef773ad329fd",
-		"HashShort": "48818739",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/48818739b6ca33dd5094e6418708ef773ad329fd",
-		"Author": "raul",
-		"Comment": "edge pls+",
-		"Tag": "edge_build",
-		"Date": "2025-05-08 00:02:52 +0200"
-	}
-}
+Not Found
