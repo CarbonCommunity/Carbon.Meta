@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.724",
+	"InformationalVersion": "2.1.724-MinimalUnix-develop-154c0b87",
+	"Protocol": "2025.05.01.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "154c0b87c052ad3a2d52d1ecd89d30151f8a6106",
+		"HashShort": "154c0b87",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/154c0b87c052ad3a2d52d1ecd89d30151f8a6106",
+		"Author": "raul",
+		"Comment": "Forcefully publicize Facepunch.Rcon and Fleck",
+		"Tag": "edge_build",
+		"Date": "2025-05-09 22:21:51 +0200"
+	}
+}
