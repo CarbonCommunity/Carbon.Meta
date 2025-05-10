@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.724",
-	"InformationalVersion": "2.1.724-DebugUnix-develop-154c0b87",
+	"Version": "2.1.725",
+	"InformationalVersion": "2.1.725-DebugUnix-develop-fc11e3d9",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "154c0b87c052ad3a2d52d1ecd89d30151f8a6106",
-		"HashShort": "154c0b87",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/154c0b87c052ad3a2d52d1ecd89d30151f8a6106",
+		"HashLong": "fc11e3d9b743158e18f7425ba4dc0801046c0864",
+		"HashShort": "fc11e3d9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fc11e3d9b743158e18f7425ba4dc0801046c0864",
 		"Author": "raul",
-		"Comment": "Forcefully publicize Facepunch.Rcon and Fleck",
+		"Comment": "Added Bridge++
+Common++ Edge build++",
 		"Tag": "edge_build",
-		"Date": "2025-05-09 22:21:51 +0200"
+		"Date": "2025-05-10 06:52:55 +0200"
 	}
 }
