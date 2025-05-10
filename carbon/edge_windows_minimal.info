@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.728",
-	"InformationalVersion": "2.1.728-Minimal-develop-eaff8293",
-	"Protocol": "2025.05.01.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "eaff82937d72bae887daf1af5cd545acc0b8d84a",
-		"HashShort": "eaff8293",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/eaff82937d72bae887daf1af5cd545acc0b8d84a",
-		"Author": "raul",
-		"Comment": "ScriptLoader NRE fix 4634/∞",
-		"Tag": "edge_build",
-		"Date": "2025-05-10 16:04:36 +0200"
-	}
-}
+Not Found
