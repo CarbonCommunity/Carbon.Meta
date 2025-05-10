@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.728",
-	"InformationalVersion": "2.1.728-DebugUnix-develop-eaff8293",
+	"Version": "2.1.729",
+	"InformationalVersion": "2.1.729-DebugUnix-develop-d39bde04",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "eaff82937d72bae887daf1af5cd545acc0b8d84a",
-		"HashShort": "eaff8293",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/eaff82937d72bae887daf1af5cd545acc0b8d84a",
+		"HashLong": "d39bde044e062e6d1ec637771c23cc80eb560d63",
+		"HashShort": "d39bde04",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d39bde044e062e6d1ec637771c23cc80eb560d63",
 		"Author": "raul",
-		"Comment": "ScriptLoader NRE fix 4634/∞",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-05-10 16:04:36 +0200"
+		"Date": "2025-05-10 23:31:09 +0200"
 	}
 }
