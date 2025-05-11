@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.731",
-	"InformationalVersion": "2.1.731-DebugUnix-develop-d0d43798",
+	"Version": "2.1.732",
+	"InformationalVersion": "2.1.732-DebugUnix-develop-de53da16",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d0d4379824036da3eec4bc4233e3e2edc8a1c77f",
-		"HashShort": "d0d43798",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d0d4379824036da3eec4bc4233e3e2edc8a1c77f",
+		"HashLong": "de53da1630689870064032bd37de52ff50a9723c",
+		"HashShort": "de53da16",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/de53da1630689870064032bd37de52ff50a9723c",
 		"Author": "raul",
-		"Comment": "Logging",
+		"Comment": "Added generics support",
 		"Tag": "edge_build",
-		"Date": "2025-05-11 03:05:00 +0200"
+		"Date": "2025-05-11 04:27:03 +0200"
 	}
 }
