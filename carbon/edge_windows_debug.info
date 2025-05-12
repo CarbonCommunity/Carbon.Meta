@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.734",
-	"InformationalVersion": "2.1.734-Debug-develop-06cf945e",
+	"Version": "2.1.735",
+	"InformationalVersion": "2.1.735-Debug-develop-ed7fce0a",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "06cf945e7e988638cd6453da6c4a3c094c6d4711",
-		"HashShort": "06cf945e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/06cf945e7e988638cd6453da6c4a3c094c6d4711",
+		"HashLong": "ed7fce0a2700ae74cd20d4622b638808155ac35b",
+		"HashShort": "ed7fce0a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed7fce0a2700ae74cd20d4622b638808155ac35b",
 		"Author": "raul",
-		"Comment": "Merge branch 'qol/modifiers/error_handling' into develop",
+		"Comment": "Updated all cdn and api paths across the entire project",
 		"Tag": "edge_build",
-		"Date": "2025-05-11 23:41:58 +0200"
+		"Date": "2025-05-12 02:31:06 +0200"
 	}
 }
