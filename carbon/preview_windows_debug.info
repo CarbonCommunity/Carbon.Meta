@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.132",
-	"InformationalVersion": "2.2.132-Debug-develop-48818739",
+	"Version": "2.2.133",
+	"InformationalVersion": "2.2.133-Debug-develop-ed7fce0a",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "48818739b6ca33dd5094e6418708ef773ad329fd",
-		"HashShort": "48818739",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/48818739b6ca33dd5094e6418708ef773ad329fd",
+		"HashLong": "ed7fce0a2700ae74cd20d4622b638808155ac35b",
+		"HashShort": "ed7fce0a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed7fce0a2700ae74cd20d4622b638808155ac35b",
 		"Author": "raul",
-		"Comment": "edge pls+",
+		"Comment": "Updated all cdn and api paths across the entire project",
 		"Tag": "preview_build",
-		"Date": "2025-05-08 00:02:52 +0200"
+		"Date": "2025-05-12 02:31:06 +0200"
 	}
 }
