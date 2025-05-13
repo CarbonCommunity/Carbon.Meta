@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.741",
-	"InformationalVersion": "2.1.741-Debug-develop-d338f841",
+	"Version": "2.1.742",
+	"InformationalVersion": "2.1.742-Debug-develop-92e3c8ec",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d338f84138e25df6e499032cc3c33eef3e09bc09",
-		"HashShort": "d338f841",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d338f84138e25df6e499032cc3c33eef3e09bc09",
+		"HashLong": "92e3c8ec11ee6be141ffc05440252f69620bdf03",
+		"HashShort": "92e3c8ec",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/92e3c8ec11ee6be141ffc05440252f69620bdf03",
 		"Author": "raul",
-		"Comment": "NRE fix happening when hiding all Carbon tabs (don't do it until the next update, you silly goose)",
+		"Comment": "Boot error fix",
 		"Tag": "edge_build",
-		"Date": "2025-05-12 17:53:04 +0200"
+		"Date": "2025-05-13 12:30:53 +0200"
 	}
 }
