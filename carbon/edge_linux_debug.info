@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.745",
-	"InformationalVersion": "2.1.745-DebugUnix-develop-c252309e",
+	"Version": "2.1.746",
+	"InformationalVersion": "2.1.746-DebugUnix-develop-59f4440a",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "c252309e05a0f23d93586e6d412bd546f680a433",
-		"HashShort": "c252309e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c252309e05a0f23d93586e6d412bd546f680a433",
+		"HashLong": "59f4440a50d24608f00c301aa3aa7588d93270ec",
+		"HashShort": "59f4440a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/59f4440a50d24608f00c301aa3aa7588d93270ec",
 		"Author": "raul",
-		"Comment": "Let's maybe not do that anymore",
+		"Comment": "Added nested generic types support to Carbon modifiers",
 		"Tag": "edge_build",
-		"Date": "2025-05-13 21:55:15 +0200"
+		"Date": "2025-05-13 23:53:28 +0200"
 	}
 }
