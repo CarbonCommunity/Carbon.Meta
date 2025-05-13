@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.744",
-	"InformationalVersion": "2.1.744-Minimal-develop-f4e89c15",
+	"Version": "2.1.745",
+	"InformationalVersion": "2.1.745-Minimal-develop-c252309e",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f4e89c155ad59b04cff914460068231a495d16c2",
-		"HashShort": "f4e89c15",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f4e89c155ad59b04cff914460068231a495d16c2",
+		"HashLong": "c252309e05a0f23d93586e6d412bd546f680a433",
+		"HashShort": "c252309e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c252309e05a0f23d93586e6d412bd546f680a433",
 		"Author": "raul",
-		"Comment": "Relative directory fix",
+		"Comment": "Let's maybe not do that anymore",
 		"Tag": "edge_build",
-		"Date": "2025-05-13 12:50:21 +0200"
+		"Date": "2025-05-13 21:55:15 +0200"
 	}
 }
