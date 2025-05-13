@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.745",
+	"InformationalVersion": "2.1.745-Debug-develop-c252309e",
+	"Protocol": "2025.05.01.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "c252309e05a0f23d93586e6d412bd546f680a433",
+		"HashShort": "c252309e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c252309e05a0f23d93586e6d412bd546f680a433",
+		"Author": "raul",
+		"Comment": "Let's maybe not do that anymore",
+		"Tag": "edge_build",
+		"Date": "2025-05-13 21:55:15 +0200"
+	}
+}
