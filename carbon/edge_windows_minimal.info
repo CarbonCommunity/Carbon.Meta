@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.744",
+	"InformationalVersion": "2.1.744-Minimal-develop-f4e89c15",
+	"Protocol": "2025.05.01.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "f4e89c155ad59b04cff914460068231a495d16c2",
+		"HashShort": "f4e89c15",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f4e89c155ad59b04cff914460068231a495d16c2",
+		"Author": "raul",
+		"Comment": "Relative directory fix",
+		"Tag": "edge_build",
+		"Date": "2025-05-13 12:50:21 +0200"
+	}
+}
