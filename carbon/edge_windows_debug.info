@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.742",
-	"InformationalVersion": "2.1.742-Debug-develop-92e3c8ec",
+	"Version": "2.1.743",
+	"InformationalVersion": "2.1.743-Debug-develop-1607547c",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "92e3c8ec11ee6be141ffc05440252f69620bdf03",
-		"HashShort": "92e3c8ec",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/92e3c8ec11ee6be141ffc05440252f69620bdf03",
+		"HashLong": "1607547cd5fbf64460c9e0b1f054fbae5a7c7d04",
+		"HashShort": "1607547c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1607547cd5fbf64460c9e0b1f054fbae5a7c7d04",
 		"Author": "raul",
-		"Comment": "Boot error fix",
+		"Comment": "Startup++",
 		"Tag": "edge_build",
-		"Date": "2025-05-13 12:30:53 +0200"
+		"Date": "2025-05-13 12:40:10 +0200"
 	}
 }
