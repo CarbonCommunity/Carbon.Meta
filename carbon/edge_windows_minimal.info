@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.743",
-	"InformationalVersion": "2.1.743-Minimal-develop-1607547c",
-	"Protocol": "2025.05.01.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "1607547cd5fbf64460c9e0b1f054fbae5a7c7d04",
-		"HashShort": "1607547c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1607547cd5fbf64460c9e0b1f054fbae5a7c7d04",
-		"Author": "raul",
-		"Comment": "Startup++",
-		"Tag": "edge_build",
-		"Date": "2025-05-13 12:40:10 +0200"
-	}
-}
+Not Found
