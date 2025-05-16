@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.754",
-	"InformationalVersion": "2.1.754-Minimal-develop-e10509df",
+	"Version": "2.1.755",
+	"InformationalVersion": "2.1.755-Minimal-develop-e58ee969",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "e10509dfcfa6244eff90a3f2932dfc1bb0c7470f",
-		"HashShort": "e10509df",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e10509dfcfa6244eff90a3f2932dfc1bb0c7470f",
+		"HashLong": "e58ee96945d5b04fbfefbc83d7550749fb55e6d5",
+		"HashShort": "e58ee969",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e58ee96945d5b04fbfefbc83d7550749fb55e6d5",
 		"Author": "raul",
-		"Comment": "Fire carbon methods right after Facepunch Save/Load methods, not any time later
-Storing generic impl",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-05-16 03:39:31 +0200"
+		"Date": "2025-05-16 14:11:27 +0200"
 	}
 }
