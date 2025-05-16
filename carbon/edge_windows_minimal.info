@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.760",
+	"InformationalVersion": "2.1.760-Minimal-develop-e01e955b",
+	"Protocol": "2025.05.01.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "e01e955bcadd26dbd531540238cd0dad1bf8df06",
+		"HashShort": "e01e955b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e01e955bcadd26dbd531540238cd0dad1bf8df06",
+		"Author": "raul",
+		"Comment": "Startup fix (fixed prod->edge switch boot error)",
+		"Tag": "edge_build",
+		"Date": "2025-05-16 20:17:52 +0200"
+	}
+}
