@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.759",
-	"InformationalVersion": "2.1.759-Minimal-develop-a0cb4bd6",
-	"Protocol": "2025.05.01.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "a0cb4bd6166ee805382e0c2cadb71173f5caf9ac",
-		"HashShort": "a0cb4bd6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a0cb4bd6166ee805382e0c2cadb71173f5caf9ac",
-		"Author": "raul",
-		"Comment": "Removed unused readonlies",
-		"Tag": "edge_build",
-		"Date": "2025-05-16 18:50:03 +0200"
-	}
-}
+Not Found
