@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.760",
-	"InformationalVersion": "2.1.760-Minimal-develop-e01e955b",
+	"Version": "2.1.761",
+	"InformationalVersion": "2.1.761-Minimal-develop-b609610b",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "e01e955bcadd26dbd531540238cd0dad1bf8df06",
-		"HashShort": "e01e955b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e01e955bcadd26dbd531540238cd0dad1bf8df06",
+		"HashLong": "b609610b50758ef64951504e7ce7e73aaaa9e45c",
+		"HashShort": "b609610b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b609610b50758ef64951504e7ce7e73aaaa9e45c",
 		"Author": "raul",
-		"Comment": "Startup fix (fixed prod->edge switch boot error)",
+		"Comment": "Preloader shenanigans",
 		"Tag": "edge_build",
-		"Date": "2025-05-16 20:17:52 +0200"
+		"Date": "2025-05-16 20:26:13 +0200"
 	}
 }
