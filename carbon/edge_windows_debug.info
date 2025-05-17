@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.762",
-	"InformationalVersion": "2.1.762-Debug-develop-bf841041",
+	"Version": "2.1.763",
+	"InformationalVersion": "2.1.763-Debug-develop-0e476a19",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "bf841041e14b4e3f6919cc537f31c37be1a0fa0b",
-		"HashShort": "bf841041",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bf841041e14b4e3f6919cc537f31c37be1a0fa0b",
+		"HashLong": "0e476a1955f083697f812e2aa0c7aa8c9505bd95",
+		"HashShort": "0e476a19",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0e476a1955f083697f812e2aa0c7aa8c9505bd95",
 		"Author": "raul",
-		"Comment": "Edge go brr",
+		"Comment": "Ignore `.user` files",
 		"Tag": "edge_build",
-		"Date": "2025-05-17 14:16:02 +0200"
+		"Date": "2025-05-17 14:27:52 +0200"
 	}
 }
