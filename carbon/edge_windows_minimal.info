@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.761",
-	"InformationalVersion": "2.1.761-Minimal-develop-b609610b",
+	"Version": "2.1.762",
+	"InformationalVersion": "2.1.762-Minimal-develop-bf841041",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "b609610b50758ef64951504e7ce7e73aaaa9e45c",
-		"HashShort": "b609610b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b609610b50758ef64951504e7ce7e73aaaa9e45c",
+		"HashLong": "bf841041e14b4e3f6919cc537f31c37be1a0fa0b",
+		"HashShort": "bf841041",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bf841041e14b4e3f6919cc537f31c37be1a0fa0b",
 		"Author": "raul",
-		"Comment": "Preloader shenanigans",
+		"Comment": "Edge go brr",
 		"Tag": "edge_build",
-		"Date": "2025-05-16 20:26:13 +0200"
+		"Date": "2025-05-17 14:16:02 +0200"
 	}
 }
