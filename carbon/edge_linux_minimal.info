@@ -1,17 +1,18 @@
 {
-	"Version": "2.1.763",
-	"InformationalVersion": "2.1.763-MinimalUnix-develop-0e476a19",
+	"Version": "2.1.764",
+	"InformationalVersion": "2.1.764-MinimalUnix-develop-4cad0d2a",
 	"Protocol": "2025.05.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0e476a1955f083697f812e2aa0c7aa8c9505bd95",
-		"HashShort": "0e476a19",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0e476a1955f083697f812e2aa0c7aa8c9505bd95",
+		"HashLong": "4cad0d2aaebe6393c7e11280745695b92b5f8cd6",
+		"HashShort": "4cad0d2a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4cad0d2aaebe6393c7e11280745695b92b5f8cd6",
 		"Author": "raul",
-		"Comment": "Ignore `.user` files",
+		"Comment": "Added Carbon.Runner Files.DeleteContains which does just that (deletes files that contain a specific string in their name)
+Remove all Carbon dlls out of the lib folder when building Carbon (carbon/managed/lib)",
 		"Tag": "edge_build",
-		"Date": "2025-05-17 14:27:52 +0200"
+		"Date": "2025-05-18 15:59:03 +0200"
 	}
 }
