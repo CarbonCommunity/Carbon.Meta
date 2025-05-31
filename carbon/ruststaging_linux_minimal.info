@@ -1,17 +1,19 @@
 {
-	"Version": "2.3.665",
-	"InformationalVersion": "2.3.665-MinimalUnix-rust_beta/staging-dc5f8a70",
+	"Version": "2.3.666",
+	"InformationalVersion": "2.3.666-MinimalUnix-rust_beta/staging-cebf98da",
 	"Protocol": "2025.06.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "dc5f8a70fac1941209697a6e03851457348b3f0f",
-		"HashShort": "dc5f8a70",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dc5f8a70fac1941209697a6e03851457348b3f0f",
+		"HashLong": "cebf98dae262a588866bc6ef417be2888daf3647",
+		"HashShort": "cebf98da",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/cebf98dae262a588866bc6ef417be2888daf3647",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Referenced Carbon.Startup in Carbon's main DLL
+Inject `MODIFIERS_PATCHED` in the compiler if the plugin that's being compiled has an active modifier patched in the memory assembly
+Referenced Carbon.Startup in Carbon.targets",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-05-30 23:24:06 +0200"
+		"Date": "2025-05-31 21:07:04 +0200"
 	}
 }
