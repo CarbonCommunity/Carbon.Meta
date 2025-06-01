@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.666",
-	"InformationalVersion": "2.3.666-Minimal-rust_beta/staging-cebf98da",
+	"Version": "2.3.667",
+	"InformationalVersion": "2.3.667-Minimal-rust_beta/staging-cebf98da",
 	"Protocol": "2025.06.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
