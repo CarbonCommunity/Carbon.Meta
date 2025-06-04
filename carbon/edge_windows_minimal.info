@@ -1,18 +1,17 @@
 {
-	"Version": "2.1.770",
-	"InformationalVersion": "2.1.770-Minimal-develop-1f835517",
-	"Protocol": "2025.05.01.0",
+	"Version": "2.1.771",
+	"InformationalVersion": "2.1.771-Minimal-develop-646b317c",
+	"Protocol": "2025.06.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "1f835517a8068125b2fe46a69a9fe87d4d339040",
-		"HashShort": "1f835517",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1f835517a8068125b2fe46a69a9fe87d4d339040",
+		"HashLong": "646b317c7224c8b7232da2197b2fa9fcd8709ca8",
+		"HashShort": "646b317c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/646b317c7224c8b7232da2197b2fa9fcd8709ca8",
 		"Author": "raul",
-		"Comment": "Submodules++
-Edge++",
+		"Comment": "Merging from rust_beta/staging",
 		"Tag": "edge_build",
-		"Date": "2025-05-25 16:08:16 +0200"
+		"Date": "2025-06-04 20:40:47 +0200"
 	}
 }
