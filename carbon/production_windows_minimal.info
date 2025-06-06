@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.189",
-	"InformationalVersion": "2.0.189-Minimal-production-ce034f00",
+	"Version": "2.0.190",
+	"InformationalVersion": "2.0.190-Minimal-production-c9cc5162",
 	"Protocol": "2025.06.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "ce034f006c41733e6a4290efb569b67d1d6062bc",
-		"HashShort": "ce034f00",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ce034f006c41733e6a4290efb569b67d1d6062bc",
+		"HashLong": "c9cc51625148f1ea9914e65a46990d967b80df9e",
+		"HashShort": "c9cc5162",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c9cc51625148f1ea9914e65a46990d967b80df9e",
 		"Author": "raul",
 		"Comment": "Merging from develop",
 		"Tag": "production_build",
-		"Date": "2025-06-04 21:27:50 +0200"
+		"Date": "2025-06-06 12:55:31 +0200"
 	}
 }
