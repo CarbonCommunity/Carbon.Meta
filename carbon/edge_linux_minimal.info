@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.776",
-	"InformationalVersion": "2.1.776-MinimalUnix-develop-b1cc9b69",
+	"Version": "2.1.777",
+	"InformationalVersion": "2.1.777-MinimalUnix-develop-62583bd5",
 	"Protocol": "2025.06.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "b1cc9b69e9e9d040dcb665a1bd542d7d21223975",
-		"HashShort": "b1cc9b69",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b1cc9b69e9e9d040dcb665a1bd542d7d21223975",
+		"HashLong": "62583bd53d9c23145cdaf31b1f81b7f5db0cef52",
+		"HashShort": "62583bd5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/62583bd53d9c23145cdaf31b1f81b7f5db0cef52",
 		"Author": "raul",
-		"Comment": "Disabled scheduling for all of the AUX builds as they're not actively maintained by FP currently",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-06-07 13:55:24 +0200"
+		"Date": "2025-06-09 22:54:39 +0200"
 	}
 }
