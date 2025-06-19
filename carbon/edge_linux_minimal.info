@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.779",
-	"InformationalVersion": "2.1.779-MinimalUnix-develop-a503a7b8",
+	"Version": "2.1.780",
+	"InformationalVersion": "2.1.780-MinimalUnix-develop-6d257fff",
 	"Protocol": "2025.06.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a503a7b8fa728af08b31fa8bbe5369e34b2f606a",
-		"HashShort": "a503a7b8",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a503a7b8fa728af08b31fa8bbe5369e34b2f606a",
+		"HashLong": "6d257fff5f28c4057650bd289bf10fe2b4dd9380",
+		"HashShort": "6d257fff",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6d257fff5f28c4057650bd289bf10fe2b4dd9380",
 		"Author": "raul",
-		"Comment": "Merge branch 'qol/cszip_dev_fix' into develop",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2025-06-16 18:41:41 +0200"
+		"Date": "2025-06-19 04:09:22 +0200"
 	}
 }
