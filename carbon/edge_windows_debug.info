@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.783",
-	"InformationalVersion": "2.1.783-Debug-develop-aa8740a9",
+	"Version": "2.1.784",
+	"InformationalVersion": "2.1.784-Debug-develop-590a8723",
 	"Protocol": "2025.06.05.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "aa8740a9e3ffcd2dd5a60dcd398b756311e2a9b0",
-		"HashShort": "aa8740a9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aa8740a9e3ffcd2dd5a60dcd398b756311e2a9b0",
+		"HashLong": "590a87239ba05c61a124d76aeaf5e15568eaf37d",
+		"HashShort": "590a8723",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/590a87239ba05c61a124d76aeaf5e15568eaf37d",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Fixed cszip_dev not unloading the plugin upon deletion",
 		"Tag": "edge_build",
-		"Date": "2025-06-20 02:53:40 +0200"
+		"Date": "2025-06-20 13:26:22 +0200"
 	}
 }
