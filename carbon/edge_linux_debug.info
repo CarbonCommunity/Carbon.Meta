@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.784",
-	"InformationalVersion": "2.1.784-DebugUnix-develop-590a8723",
-	"Protocol": "2025.06.05.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "590a87239ba05c61a124d76aeaf5e15568eaf37d",
-		"HashShort": "590a8723",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/590a87239ba05c61a124d76aeaf5e15568eaf37d",
-		"Author": "raul",
-		"Comment": "Fixed cszip_dev not unloading the plugin upon deletion",
-		"Tag": "edge_build",
-		"Date": "2025-06-20 13:26:22 +0200"
-	}
-}
+upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
