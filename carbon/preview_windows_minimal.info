@@ -1,1 +1,17 @@
-upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
+{
+	"Version": "2.2.134",
+	"InformationalVersion": "2.2.134-Minimal-develop-59da4d9e",
+	"Protocol": "2025.05.01.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "59da4d9e2700d4bbbe5847278d8b947c76688604",
+		"HashShort": "59da4d9e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/59da4d9e2700d4bbbe5847278d8b947c76688604",
+		"Author": "raul",
+		"Comment": "BG fix",
+		"Tag": "preview_build",
+		"Date": "2025-05-12 15:39:38 +0200"
+	}
+}
