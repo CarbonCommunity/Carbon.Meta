@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.788",
-	"InformationalVersion": "2.1.788-Debug-develop-3bf457d4",
+	"Version": "2.1.789",
+	"InformationalVersion": "2.1.789-Debug-develop-4cd5290e",
 	"Protocol": "2025.06.05.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "3bf457d41e6c8690704f7a10077af0518d18d1c9",
-		"HashShort": "3bf457d4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3bf457d41e6c8690704f7a10077af0518d18d1c9",
+		"HashLong": "4cd5290e5a1115347166066aa021edb5683d92f8",
+		"HashShort": "4cd5290e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4cd5290e5a1115347166066aa021edb5683d92f8",
 		"Author": "raul",
-		"Comment": "Potential Carbon.Profiler OOM screech fix",
+		"Comment": "Cargo target",
 		"Tag": "edge_build",
-		"Date": "2025-06-28 18:31:31 +0200"
+		"Date": "2025-06-28 18:38:11 +0200"
 	}
 }
