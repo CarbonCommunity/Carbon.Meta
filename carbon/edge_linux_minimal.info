@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.791",
+	"InformationalVersion": "2.1.791-MinimalUnix-develop-0136d19c",
+	"Protocol": "2025.07.03.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "0136d19ceb3afec1358a2cfef2a8b937cc79eb0f",
+		"HashShort": "0136d19c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0136d19ceb3afec1358a2cfef2a8b937cc79eb0f",
+		"Author": "raul",
+		"Comment": "Merge++",
+		"Tag": "edge_build",
+		"Date": "2025-07-03 18:09:29 +0200"
+	}
+}
