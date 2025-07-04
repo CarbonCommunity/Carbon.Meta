@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.793",
-	"InformationalVersion": "2.1.793-DebugUnix-develop-7dd795f5",
+	"Version": "2.1.794",
+	"InformationalVersion": "2.1.794-DebugUnix-develop-bc106fef",
 	"Protocol": "2025.07.03.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7dd795f5eca67fe740b343628003c731649d4e2a",
-		"HashShort": "7dd795f5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7dd795f5eca67fe740b343628003c731649d4e2a",
+		"HashLong": "bc106fefa6aa9a72577fc83928cb7b9756c90211",
+		"HashShort": "bc106fef",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bc106fefa6aa9a72577fc83928cb7b9756c90211",
 		"Author": "raul",
-		"Comment": "Internal++",
+		"Comment": "SteamCMD is real ass",
 		"Tag": "edge_build",
-		"Date": "2025-07-03 19:57:59 +0200"
+		"Date": "2025-07-04 02:30:08 +0200"
 	}
 }
