@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.794",
-	"InformationalVersion": "2.1.794-Minimal-develop-bc106fef",
-	"Protocol": "2025.07.03.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "bc106fefa6aa9a72577fc83928cb7b9756c90211",
-		"HashShort": "bc106fef",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bc106fefa6aa9a72577fc83928cb7b9756c90211",
-		"Author": "raul",
-		"Comment": "SteamCMD is real ass",
-		"Tag": "edge_build",
-		"Date": "2025-07-04 02:30:08 +0200"
-	}
-}
+Not Found
