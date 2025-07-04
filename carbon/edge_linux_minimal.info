@@ -1,1 +1,19 @@
-Not Found
+{
+	"Version": "2.1.795",
+	"InformationalVersion": "2.1.795-MinimalUnix-develop-f1135a76",
+	"Protocol": "2025.07.03.1",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "f1135a76aae7cf09b5bdfe8db8baf988c793bd67",
+		"HashShort": "f1135a76",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f1135a76aae7cf09b5bdfe8db8baf988c793bd67",
+		"Author": "raul",
+		"Comment": "Protocol update++
+Overall hook system improvements merge
+Submodules++",
+		"Tag": "edge_build",
+		"Date": "2025-07-04 23:04:52 +0200"
+	}
+}
