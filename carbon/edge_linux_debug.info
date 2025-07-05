@@ -1,19 +1,17 @@
 {
-	"Version": "2.1.795",
-	"InformationalVersion": "2.1.795-DebugUnix-develop-f1135a76",
+	"Version": "2.1.797",
+	"InformationalVersion": "2.1.797-DebugUnix-develop-5c789eeb",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f1135a76aae7cf09b5bdfe8db8baf988c793bd67",
-		"HashShort": "f1135a76",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f1135a76aae7cf09b5bdfe8db8baf988c793bd67",
+		"HashLong": "5c789eeb8f096762611b31916a43aebd4a5b7b20",
+		"HashShort": "5c789eeb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5c789eeb8f096762611b31916a43aebd4a5b7b20",
 		"Author": "raul",
-		"Comment": "Protocol update++
-Overall hook system improvements merge
-Submodules++",
+		"Comment": "Modules++",
 		"Tag": "edge_build",
-		"Date": "2025-07-04 23:04:52 +0200"
+		"Date": "2025-07-05 02:08:27 +0200"
 	}
 }
