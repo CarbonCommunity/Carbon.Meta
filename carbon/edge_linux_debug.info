@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.798",
-	"InformationalVersion": "2.1.798-DebugUnix-develop-0d515099",
+	"Version": "2.1.799",
+	"InformationalVersion": "2.1.799-DebugUnix-develop-acb122e1",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0d5150994ddab85c3e98610bdfed8c40b54ec253",
-		"HashShort": "0d515099",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0d5150994ddab85c3e98610bdfed8c40b54ec253",
+		"HashLong": "acb122e135e76ea5fea6ea587f166d4dfa9a3bd1",
+		"HashShort": "acb122e1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/acb122e135e76ea5fea6ea587f166d4dfa9a3bd1",
 		"Author": "raul",
-		"Comment": "Web request fix",
+		"Comment": "Removed Git hooks (we no longer merge submodule branches in parallel)",
 		"Tag": "edge_build",
-		"Date": "2025-07-06 18:53:28 +0200"
+		"Date": "2025-07-07 21:35:33 +0200"
 	}
 }
