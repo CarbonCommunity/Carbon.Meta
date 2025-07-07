@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.799",
-	"InformationalVersion": "2.1.799-MinimalUnix-develop-acb122e1",
-	"Protocol": "2025.07.03.1",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "acb122e135e76ea5fea6ea587f166d4dfa9a3bd1",
-		"HashShort": "acb122e1",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/acb122e135e76ea5fea6ea587f166d4dfa9a3bd1",
-		"Author": "raul",
-		"Comment": "Removed Git hooks (we no longer merge submodule branches in parallel)",
-		"Tag": "edge_build",
-		"Date": "2025-07-07 21:35:33 +0200"
-	}
-}
+Not Found
