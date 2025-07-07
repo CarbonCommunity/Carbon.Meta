@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.801",
-	"InformationalVersion": "2.1.801-Debug-develop-a31169b9",
+	"Version": "2.1.802",
+	"InformationalVersion": "2.1.802-Debug-develop-fa153c13",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "a31169b9365978dc65d58e9f60868d1a84efb578",
-		"HashShort": "a31169b9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a31169b9365978dc65d58e9f60868d1a84efb578",
+		"HashLong": "fa153c136f0734924a1bce5820437a31c45c83a0",
+		"HashShort": "fa153c13",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fa153c136f0734924a1bce5820437a31c45c83a0",
 		"Author": "raul",
-		"Comment": "Warn cleanup",
+		"Comment": "Reverted HOOKGEN -> EDGE symbol (been testing)",
 		"Tag": "edge_build",
-		"Date": "2025-07-07 23:36:28 +0200"
+		"Date": "2025-07-08 00:53:13 +0200"
 	}
 }
