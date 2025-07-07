@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.800",
+	"InformationalVersion": "2.1.800-MinimalUnix-develop-13a64af1",
+	"Protocol": "2025.07.03.1",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "13a64af1f3a3046a86115e4368c37b361bb4beea",
+		"HashShort": "13a64af1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/13a64af1f3a3046a86115e4368c37b361bb4beea",
+		"Author": "raul",
+		"Comment": "Modules++",
+		"Tag": "edge_build",
+		"Date": "2025-07-07 23:09:18 +0200"
+	}
+}
