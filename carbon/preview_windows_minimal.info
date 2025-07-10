@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.134",
-	"InformationalVersion": "2.2.134-Minimal-develop-59da4d9e",
-	"Protocol": "2025.05.01.0",
+	"Version": "2.2.135",
+	"InformationalVersion": "2.2.135-Minimal-develop-1056d6a1",
+	"Protocol": "2025.07.03.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "59da4d9e2700d4bbbe5847278d8b947c76688604",
-		"HashShort": "59da4d9e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/59da4d9e2700d4bbbe5847278d8b947c76688604",
+		"HashLong": "1056d6a12c5ed2ac86e4d3ccc036f81908eaa466",
+		"HashShort": "1056d6a1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1056d6a12c5ed2ac86e4d3ccc036f81908eaa466",
 		"Author": "raul",
-		"Comment": "BG fix",
+		"Comment": "Developed++",
 		"Tag": "preview_build",
-		"Date": "2025-05-12 15:39:38 +0200"
+		"Date": "2025-07-08 14:36:03 +0200"
 	}
 }
