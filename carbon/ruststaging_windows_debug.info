@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.725",
-	"InformationalVersion": "2.3.725-Debug-rust_beta/staging-708ad1b7",
+	"Version": "2.3.730",
+	"InformationalVersion": "2.3.730-Debug-rust_beta/staging-ef559718",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "708ad1b7e49b0f299bb8e8f14d7f51b5333cf3e6",
-		"HashShort": "708ad1b7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/708ad1b7e49b0f299bb8e8f14d7f51b5333cf3e6",
+		"HashLong": "ef55971842a591ad8ae6fb92055e4b212bec5cc2",
+		"HashShort": "ef559718",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ef55971842a591ad8ae6fb92055e4b212bec5cc2",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "AdminExtensions fixes",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-07-11 17:09:03 +0200"
+		"Date": "2025-07-12 14:00:37 +0200"
 	}
 }
