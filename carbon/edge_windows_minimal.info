@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.816",
-	"InformationalVersion": "2.1.816-Minimal-develop-16435410",
+	"Version": "2.1.817",
+	"InformationalVersion": "2.1.817-Minimal-develop-322db731",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "16435410ff3ff71d5d1475d92710d99d589a8081",
-		"HashShort": "16435410",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/16435410ff3ff71d5d1475d92710d99d589a8081",
+		"HashLong": "322db7311e897089fd9722ba15d346db564a7ae6",
+		"HashShort": "322db731",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/322db7311e897089fd9722ba15d346db564a7ae6",
 		"Author": "raul",
-		"Comment": "Branch merge script removal",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-07-13 03:06:51 +0200"
+		"Date": "2025-07-13 22:05:50 +0200"
 	}
 }
