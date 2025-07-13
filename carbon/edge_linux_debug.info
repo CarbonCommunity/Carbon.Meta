@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.815",
-	"InformationalVersion": "2.1.815-DebugUnix-develop-62897794",
+	"Version": "2.1.816",
+	"InformationalVersion": "2.1.816-DebugUnix-develop-16435410",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "6289779476fe7d868358b79a19ef084afbdd5fc0",
-		"HashShort": "62897794",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6289779476fe7d868358b79a19ef084afbdd5fc0",
+		"HashLong": "16435410ff3ff71d5d1475d92710d99d589a8081",
+		"HashShort": "16435410",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/16435410ff3ff71d5d1475d92710d99d589a8081",
 		"Author": "raul",
-		"Comment": "Modules++",
+		"Comment": "Branch merge script removal",
 		"Tag": "edge_build",
-		"Date": "2025-07-12 16:58:41 +0200"
+		"Date": "2025-07-13 03:06:51 +0200"
 	}
 }
