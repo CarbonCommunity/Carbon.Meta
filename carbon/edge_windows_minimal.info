@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.819",
+	"InformationalVersion": "2.1.819-Minimal-develop-872941ac",
+	"Protocol": "2025.07.03.1",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "872941ac4f5b8651a8121ed5e0bf13e457c801ff",
+		"HashShort": "872941ac",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/872941ac4f5b8651a8121ed5e0bf13e457c801ff",
+		"Author": "raul",
+		"Comment": "Common++",
+		"Tag": "edge_build",
+		"Date": "2025-07-14 15:16:35 +0200"
+	}
+}
