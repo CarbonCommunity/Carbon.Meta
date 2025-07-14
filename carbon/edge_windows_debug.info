@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.818",
-	"InformationalVersion": "2.1.818-Debug-develop-e8a3dd30",
-	"Protocol": "2025.07.03.1",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "e8a3dd3048c17f4d45c7c6a94ced647f8898be84",
-		"HashShort": "e8a3dd30",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e8a3dd3048c17f4d45c7c6a94ced647f8898be84",
-		"Author": "raul",
-		"Comment": "Modules++",
-		"Tag": "edge_build",
-		"Date": "2025-07-13 23:54:30 +0200"
-	}
-}
+Not Found
