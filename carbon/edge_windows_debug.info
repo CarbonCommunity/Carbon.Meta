@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.819",
-	"InformationalVersion": "2.1.819-Debug-develop-872941ac",
+	"Version": "2.1.820",
+	"InformationalVersion": "2.1.820-Debug-develop-37bb2f18",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "872941ac4f5b8651a8121ed5e0bf13e457c801ff",
-		"HashShort": "872941ac",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/872941ac4f5b8651a8121ed5e0bf13e457c801ff",
+		"HashLong": "37bb2f18359649274253c222e102d555b0fe1af7",
+		"HashShort": "37bb2f18",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/37bb2f18359649274253c222e102d555b0fe1af7",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Removed optimisations from Release/Minimal builds (fixes profiler OOM)",
 		"Tag": "edge_build",
-		"Date": "2025-07-14 15:16:35 +0200"
+		"Date": "2025-07-16 17:12:08 +0200"
 	}
 }
