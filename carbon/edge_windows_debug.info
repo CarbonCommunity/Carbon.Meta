@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.820",
-	"InformationalVersion": "2.1.820-Debug-develop-37bb2f18",
+	"Version": "2.1.821",
+	"InformationalVersion": "2.1.821-Debug-develop-056051b1",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "37bb2f18359649274253c222e102d555b0fe1af7",
-		"HashShort": "37bb2f18",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/37bb2f18359649274253c222e102d555b0fe1af7",
+		"HashLong": "056051b122dc14ee4e23e3e61a5bac453ccb6540",
+		"HashShort": "056051b1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/056051b122dc14ee4e23e3e61a5bac453ccb6540",
 		"Author": "raul",
-		"Comment": "Removed optimisations from Release/Minimal builds (fixes profiler OOM)",
+		"Comment": "Reverted that and only disable optimisations on all build for Carbon.Profiler only",
 		"Tag": "edge_build",
-		"Date": "2025-07-16 17:12:08 +0200"
+		"Date": "2025-07-16 17:31:27 +0200"
 	}
 }
