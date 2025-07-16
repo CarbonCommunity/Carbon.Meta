@@ -1,17 +1,20 @@
 {
-	"Version": "2.0.196",
-	"InformationalVersion": "2.0.196-Release-production-ec1e594d",
+	"Version": "2.0.197",
+	"InformationalVersion": "2.0.197-Release-production-e7316806",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Windows",
 	"Config": "Release",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "ec1e594d55fafe176e1503491edd416a9050ceb7",
-		"HashShort": "ec1e594d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ec1e594d55fafe176e1503491edd416a9050ceb7",
+		"HashLong": "e7316806ba73add2ffa1c04a2c82a5b908bdd622",
+		"HashShort": "e7316806",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e7316806ba73add2ffa1c04a2c82a5b908bdd622",
 		"Author": "raul",
-		"Comment": "Merge branch 'develop' into production",
+		"Comment": "Reverted that and only disable optimisations on all build for Carbon.Profiler only
+
+(cherry picked from commit 056051b122dc14ee4e23e3e61a5bac453ccb6540)
+(cherry picked from commit 799babaef393e7268de2891a371f3f2ea651a157)",
 		"Tag": "production_build",
-		"Date": "2025-07-08 00:27:17 +0200"
+		"Date": "2025-07-16 17:56:45 +0200"
 	}
 }
