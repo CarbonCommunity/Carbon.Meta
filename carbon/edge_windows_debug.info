@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.824",
+	"InformationalVersion": "2.1.824-Debug-develop-044d2c5a",
+	"Protocol": "2025.07.03.1",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "044d2c5a81725de9364a5869e624577c80ebf9a5",
+		"HashShort": "044d2c5a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/044d2c5a81725de9364a5869e624577c80ebf9a5",
+		"Author": "raul",
+		"Comment": "Modifiers fixes not finding base.Save/base.Load if BaseType doesn't have them implemented (for example MiningQuarry)",
+		"Tag": "edge_build",
+		"Date": "2025-07-17 02:15:02 +0200"
+	}
+}
