@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.824",
-	"InformationalVersion": "2.1.824-MinimalUnix-develop-044d2c5a",
+	"Version": "2.1.825",
+	"InformationalVersion": "2.1.825-MinimalUnix-develop-265892b9",
 	"Protocol": "2025.07.03.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "044d2c5a81725de9364a5869e624577c80ebf9a5",
-		"HashShort": "044d2c5a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/044d2c5a81725de9364a5869e624577c80ebf9a5",
+		"HashLong": "265892b9396c2419ec9784ed51b917eaa5494d6d",
+		"HashShort": "265892b9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/265892b9396c2419ec9784ed51b917eaa5494d6d",
 		"Author": "raul",
-		"Comment": "Modifiers fixes not finding base.Save/base.Load if BaseType doesn't have them implemented (for example MiningQuarry)",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-07-17 02:15:02 +0200"
+		"Date": "2025-07-17 04:17:41 +0200"
 	}
 }
