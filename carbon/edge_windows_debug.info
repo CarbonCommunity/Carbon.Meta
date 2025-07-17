@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.823",
-	"InformationalVersion": "2.1.823-Debug-develop-e8ae8d61",
-	"Protocol": "2025.07.03.1",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "e8ae8d61199dd7b50490debf6528c3a7ec65afa0",
-		"HashShort": "e8ae8d61",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e8ae8d61199dd7b50490debf6528c3a7ec65afa0",
-		"Author": "raul",
-		"Comment": "Community++",
-		"Tag": "edge_build",
-		"Date": "2025-07-16 22:58:39 +0200"
-	}
-}
+Not Found
