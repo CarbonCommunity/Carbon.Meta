@@ -7,14 +7,14 @@
     "Date": "11/07/2025 10:01:03"
   },
   "Build": {
-    "Id": "873",
-    "Number": "873",
-    "Tag": "jenkins-RustReleaseServer-873",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/873/",
+    "Id": "875",
+    "Number": "875",
+    "Tag": "jenkins-RustReleaseServer-875",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/875/",
     "Name": "RustReleaseServer",
-    "Node": "Win4"
+    "Node": "Win_AMD_2"
   },
-  "Date": 1752224507,
-  "DateString": "11 07 2025",
-  "TimeString": "09:01"
+  "Date": 1753377608,
+  "DateString": "24 07 2025",
+  "TimeString": "17:20"
 }
