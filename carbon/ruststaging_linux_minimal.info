@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.759",
+	"InformationalVersion": "2.3.759-MinimalUnix-rust_beta/staging-8478e3c7",
+	"Protocol": "2025.08.07.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "8478e3c7cd0d7f05b9444f7c2820b0aca213428e",
+		"HashShort": "8478e3c7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8478e3c7cd0d7f05b9444f7c2820b0aca213428e",
+		"Author": "raul",
+		"Comment": "Submodules++",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2025-07-30 03:41:34 +0200"
+	}
+}
