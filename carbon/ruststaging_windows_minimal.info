@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.764",
-	"InformationalVersion": "2.3.764-Minimal-rust_beta/staging-7a30ec53",
+	"Version": "2.3.765",
+	"InformationalVersion": "2.3.765-Minimal-rust_beta/staging-7a30ec53",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
