@@ -1,17 +1,1 @@
-{
-	"Version": "2.0.198",
-	"InformationalVersion": "2.0.198-ReleaseUnix-production-04dd044a",
-	"Protocol": "2025.08.07.0",
-	"Platform": "Linux",
-	"Config": "ReleaseUnix",
-	"Commit": {
-		"Branch": "production",
-		"HashLong": "04dd044a61ce807b20cc1db2730cd12d0172b58c",
-		"HashShort": "04dd044a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/04dd044a61ce807b20cc1db2730cd12d0172b58c",
-		"Author": "raul",
-		"Comment": "Merge branch 'develop' into production",
-		"Tag": "production_build",
-		"Date": "2025-08-07 18:27:42 +0200"
-	}
-}
+Not Found
