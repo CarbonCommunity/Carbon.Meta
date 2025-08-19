@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.847",
-	"InformationalVersion": "2.1.847-Debug-develop-cd2bc635",
+	"Version": "2.1.848",
+	"InformationalVersion": "2.1.848-Debug-develop-500f7377",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "cd2bc6357d10dfa1241deeb792165b4fc174baec",
-		"HashShort": "cd2bc635",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/cd2bc6357d10dfa1241deeb792165b4fc174baec",
+		"HashLong": "500f73774386e998d7627e07c2a31bb444475da4",
+		"HashShort": "500f7377",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/500f73774386e998d7627e07c2a31bb444475da4",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Added `OnPluginCompileFailure` implementation",
 		"Tag": "edge_build",
-		"Date": "2025-08-14 19:50:04 +0200"
+		"Date": "2025-08-19 04:13:55 +0200"
 	}
 }
