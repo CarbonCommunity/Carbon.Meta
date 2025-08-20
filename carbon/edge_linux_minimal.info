@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.848",
-	"InformationalVersion": "2.1.848-MinimalUnix-develop-500f7377",
+	"Version": "2.1.849",
+	"InformationalVersion": "2.1.849-MinimalUnix-develop-54e7ed28",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "500f73774386e998d7627e07c2a31bb444475da4",
-		"HashShort": "500f7377",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/500f73774386e998d7627e07c2a31bb444475da4",
+		"HashLong": "54e7ed28683eea14ae5ba32fe793535f788af3fa",
+		"HashShort": "54e7ed28",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/54e7ed28683eea14ae5ba32fe793535f788af3fa",
 		"Author": "raul",
-		"Comment": "Added `OnPluginCompileFailure` implementation",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-08-19 04:13:55 +0200"
+		"Date": "2025-08-20 22:20:21 +0200"
 	}
 }
