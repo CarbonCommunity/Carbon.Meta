@@ -1,17 +1,21 @@
 {
-	"Version": "2.1.849",
-	"InformationalVersion": "2.1.849-MinimalUnix-develop-54e7ed28",
+	"Version": "2.1.850",
+	"InformationalVersion": "2.1.850-MinimalUnix-develop-a04d9d56",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "54e7ed28683eea14ae5ba32fe793535f788af3fa",
-		"HashShort": "54e7ed28",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/54e7ed28683eea14ae5ba32fe793535f788af3fa",
+		"HashLong": "a04d9d56c5f718aaddb0c9b8fe2bc8444ecd522d",
+		"HashShort": "a04d9d56",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a04d9d56c5f718aaddb0c9b8fe2bc8444ecd522d",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Updated to Harmony 2.4.0
+Added Carbon.Harmony and Carbon.MonoMod (pardeike forks)
+Replaced Lib.Harmony NuGet reference with self maintained and compiled Harmony
+
+(cherry picked from commit 8cc78a9855e365f17dab94836009d44e2fe59553)",
 		"Tag": "edge_build",
-		"Date": "2025-08-20 22:20:21 +0200"
+		"Date": "2025-08-21 01:45:21 +0200"
 	}
 }
