@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.854",
-	"InformationalVersion": "2.1.854-MinimalUnix-develop-18a93f78",
+	"Version": "2.1.855",
+	"InformationalVersion": "2.1.855-MinimalUnix-develop-b12c1639",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "18a93f78b7bf940c15de82917d0029fdb47d6aa9",
-		"HashShort": "18a93f78",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/18a93f78b7bf940c15de82917d0029fdb47d6aa9",
+		"HashLong": "b12c1639ea90f726c780f36c21141466d797059f",
+		"HashShort": "b12c1639",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b12c1639ea90f726c780f36c21141466d797059f",
 		"Author": "raul",
-		"Comment": "Updated to Harmony 2.4.1",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-08-24 20:08:55 +0200"
+		"Date": "2025-08-24 20:21:23 +0200"
 	}
 }
