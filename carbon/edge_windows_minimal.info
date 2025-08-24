@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.852",
-	"InformationalVersion": "2.1.852-Minimal-develop-60565e3a",
+	"Version": "2.1.853",
+	"InformationalVersion": "2.1.853-Minimal-develop-3db55b5a",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "60565e3a5b36c3461ec3597f1a8c2175c7a5adc3",
-		"HashShort": "60565e3a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/60565e3a5b36c3461ec3597f1a8c2175c7a5adc3",
+		"HashLong": "3db55b5a371678fbd39bb00b29d01319a76c7ac6",
+		"HashShort": "3db55b5a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3db55b5a371678fbd39bb00b29d01319a76c7ac6",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Reverted Harmony changes",
 		"Tag": "edge_build",
-		"Date": "2025-08-23 14:10:35 +0200"
+		"Date": "2025-08-24 13:37:02 +0200"
 	}
 }
