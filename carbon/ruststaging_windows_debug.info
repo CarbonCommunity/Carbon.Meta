@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.798",
-	"InformationalVersion": "2.3.798-Debug-rust_beta/staging-03408ac5",
+	"Version": "2.3.799",
+	"InformationalVersion": "2.3.799-Debug-rust_beta/staging-1732e2c7",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "03408ac54617cd068748e4eca5b4a3831c974273",
-		"HashShort": "03408ac5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/03408ac54617cd068748e4eca5b4a3831c974273",
+		"HashLong": "1732e2c7ea2680428b5968a3e55773f4987abd6f",
+		"HashShort": "1732e2c7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1732e2c7ea2680428b5968a3e55773f4987abd6f",
 		"Author": "raul",
-		"Comment": "Merge branch 'develop' into rust_beta/staging",
+		"Comment": "Revert ""Updated to Harmony 2.4.1""  This reverts commit 18a93f78b7bf940c15de82917d0029fdb47d6aa9.",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-08-24 20:24:11 +0200"
+		"Date": "2025-08-24 20:42:35 +0200"
 	}
 }

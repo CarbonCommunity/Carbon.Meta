@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.855",
-	"InformationalVersion": "2.1.855-Debug-develop-b12c1639",
+	"Version": "2.1.856",
+	"InformationalVersion": "2.1.856-Debug-develop-823606ce",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "b12c1639ea90f726c780f36c21141466d797059f",
-		"HashShort": "b12c1639",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b12c1639ea90f726c780f36c21141466d797059f",
+		"HashLong": "823606cea2788a0dce0ef8701a45deebe1bbe596",
+		"HashShort": "823606ce",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/823606cea2788a0dce0ef8701a45deebe1bbe596",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Revert ""Updated to Harmony 2.4.1""  This reverts commit 18a93f78b7bf940c15de82917d0029fdb47d6aa9.  (cherry picked from commit 1732e2c7ea2680428b5968a3e55773f4987abd6f)",
 		"Tag": "edge_build",
-		"Date": "2025-08-24 20:21:23 +0200"
+		"Date": "2025-08-24 20:42:59 +0200"
 	}
 }
