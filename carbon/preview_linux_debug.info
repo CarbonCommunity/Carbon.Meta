@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.136",
-	"InformationalVersion": "2.2.136-DebugUnix-develop-57cda203",
+	"Version": "2.2.137",
+	"InformationalVersion": "2.2.137-DebugUnix-develop-f88282d2",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "57cda2033a8e933b8c1ebd22c9a494687d619ddf",
-		"HashShort": "57cda203",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/57cda2033a8e933b8c1ebd22c9a494687d619ddf",
+		"HashLong": "f88282d2643882ad01f9e604df9d4a4f85ce8a5b",
+		"HashShort": "f88282d2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f88282d2643882ad01f9e604df9d4a4f85ce8a5b",
 		"Author": "raul",
 		"Comment": "Common++",
 		"Tag": "preview_build",
-		"Date": "2025-08-11 21:32:46 +0200"
+		"Date": "2025-08-25 17:25:09 +0200"
 	}
 }
