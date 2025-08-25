@@ -1,6 +1,6 @@
 {
-	"Version": "2.1.858",
-	"InformationalVersion": "2.1.858-MinimalUnix-develop-f88282d2",
+	"Version": "2.1.859",
+	"InformationalVersion": "2.1.859-MinimalUnix-develop-f88282d2",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
