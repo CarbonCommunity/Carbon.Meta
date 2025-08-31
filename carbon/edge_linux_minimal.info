@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.862",
-	"InformationalVersion": "2.1.862-MinimalUnix-develop-12de20ac",
+	"Version": "2.1.863",
+	"InformationalVersion": "2.1.863-MinimalUnix-develop-c0cc210b",
 	"Protocol": "2025.08.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "12de20ac8b196fee6a53a17455dd1437954f696a",
-		"HashShort": "12de20ac",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/12de20ac8b196fee6a53a17455dd1437954f696a",
+		"HashLong": "c0cc210b4ea0aea947312d372f29c785cd187388",
+		"HashShort": "c0cc210b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c0cc210b4ea0aea947312d372f29c785cd187388",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Temporary CUI optimisation revert until further testing",
 		"Tag": "edge_build",
-		"Date": "2025-08-30 18:10:40 +0200"
+		"Date": "2025-08-31 13:12:13 +0200"
 	}
 }
