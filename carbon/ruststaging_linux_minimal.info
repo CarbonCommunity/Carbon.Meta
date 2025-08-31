@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.808",
-	"InformationalVersion": "2.3.808-MinimalUnix-rust_beta/staging-6ace0e8e",
+	"Version": "2.3.809",
+	"InformationalVersion": "2.3.809-MinimalUnix-rust_beta/staging-3d01e001",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "6ace0e8e346adab823453096eeb2c5b778d9bc1f",
-		"HashShort": "6ace0e8e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6ace0e8e346adab823453096eeb2c5b778d9bc1f",
+		"HashLong": "3d01e0018efec02fbc19c6f3f7a94db28ee26b58",
+		"HashShort": "3d01e001",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3d01e0018efec02fbc19c6f3f7a94db28ee26b58",
 		"Author": "raul",
-		"Comment": "github desktop be confusing af sometimes",
+		"Comment": "Signatures",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-08-31 13:14:20 +0200"
+		"Date": "2025-08-31 14:04:27 +0200"
 	}
 }
