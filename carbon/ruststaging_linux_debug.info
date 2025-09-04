@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.814",
-	"InformationalVersion": "2.3.814-DebugUnix-rust_beta/staging-474ff6f4",
+	"Version": "2.3.815",
+	"InformationalVersion": "2.3.815-DebugUnix-rust_beta/staging-5c667b41",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "474ff6f41ab221b024ebe0214572017bed38225d",
-		"HashShort": "474ff6f4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/474ff6f41ab221b024ebe0214572017bed38225d",
+		"HashLong": "5c667b41d51abe8b4bd422b76b38b7148deb40e1",
+		"HashShort": "5c667b41",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5c667b41d51abe8b4bd422b76b38b7148deb40e1",
 		"Author": "raul",
-		"Comment": "Facepunch.Steamworks.Linux -> Facepunch.Steamworks.Posix Prewarm Facepunch.StreamNetworking Submodules",
+		"Comment": "Submodules++",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-09-04 13:05:48 +0200"
+		"Date": "2025-09-04 16:23:20 +0200"
 	}
 }
