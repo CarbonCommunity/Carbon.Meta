@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.864",
-	"InformationalVersion": "2.1.864-DebugUnix-develop-f5d141e4",
-	"Protocol": "2025.08.07.0",
+	"Version": "2.1.867",
+	"InformationalVersion": "2.1.867-DebugUnix-develop-bf2b5a3b",
+	"Protocol": "2025.09.04.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f5d141e410bdaaf975d2b86a21da8784ce9abd04",
-		"HashShort": "f5d141e4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f5d141e410bdaaf975d2b86a21da8784ce9abd04",
+		"HashLong": "bf2b5a3b797a2ba46ab1cb98c8545d9836f99dda",
+		"HashShort": "bf2b5a3b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bf2b5a3b797a2ba46ab1cb98c8545d9836f99dda",
 		"Author": "raul",
-		"Comment": "CUI optimisation fixes",
+		"Comment": "Merge branch 'rust_beta/staging' into develop",
 		"Tag": "edge_build",
-		"Date": "2025-08-31 14:06:42 +0200"
+		"Date": "2025-09-04 19:02:51 +0200"
 	}
 }
