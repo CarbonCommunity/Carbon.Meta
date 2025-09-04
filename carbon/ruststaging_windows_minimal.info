@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.814",
+	"InformationalVersion": "2.3.814-Minimal-rust_beta/staging-474ff6f4",
+	"Protocol": "2025.09.04.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "474ff6f41ab221b024ebe0214572017bed38225d",
+		"HashShort": "474ff6f4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/474ff6f41ab221b024ebe0214572017bed38225d",
+		"Author": "raul",
+		"Comment": "Facepunch.Steamworks.Linux -> Facepunch.Steamworks.Posix Prewarm Facepunch.StreamNetworking Submodules",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2025-09-04 13:05:48 +0200"
+	}
+}
