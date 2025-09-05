@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.139",
-	"InformationalVersion": "2.2.139-DebugUnix-develop-492ec4ba",
+	"Version": "2.2.140",
+	"InformationalVersion": "2.2.140-DebugUnix-develop-fd860df6",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "492ec4ba2917d553b68659d751eb5e00e0457b3f",
-		"HashShort": "492ec4ba",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/492ec4ba2917d553b68659d751eb5e00e0457b3f",
+		"HashLong": "fd860df6fd0b659ed5baf1a0e7cb150ec552a069",
+		"HashShort": "fd860df6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fd860df6fd0b659ed5baf1a0e7cb150ec552a069",
 		"Author": "raul",
-		"Comment": "Compile fix",
+		"Comment": "Fixed `Rust.Localization` issue",
 		"Tag": "preview_build",
-		"Date": "2025-09-05 15:19:48 +0200"
+		"Date": "2025-09-05 20:21:54 +0200"
 	}
 }
