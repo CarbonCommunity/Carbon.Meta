@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.824",
+	"InformationalVersion": "2.3.824-Minimal-rust_beta/staging-d0619396",
+	"Protocol": "2025.09.04.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "d061939685a1707f8a7958a00e270f115aa9f40d",
+		"HashShort": "d0619396",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d061939685a1707f8a7958a00e270f115aa9f40d",
+		"Author": "raul",
+		"Comment": "Merge branch 'develop' into rust_beta/staging",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2025-09-05 20:23:33 +0200"
+	}
+}
