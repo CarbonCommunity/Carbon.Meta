@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.878",
-	"InformationalVersion": "2.1.878-Debug-develop-c0b6a528",
-	"Protocol": "2025.09.04.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "c0b6a52890b0456efa57a068991e053bcff8d76e",
-		"HashShort": "c0b6a528",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c0b6a52890b0456efa57a068991e053bcff8d76e",
-		"Author": "raul",
-		"Comment": "Submodules++",
-		"Tag": "edge_build",
-		"Date": "2025-09-19 17:43:04 +0200"
-	}
-}
+Not Found
