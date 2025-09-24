@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.209",
-	"InformationalVersion": "2.0.209-Minimal-production-f806713f",
+	"Version": "2.0.210",
+	"InformationalVersion": "2.0.210-Minimal-production-e46b7525",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "f806713f7231746edd232df9b1de2f5d3d1bed8c",
-		"HashShort": "f806713f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f806713f7231746edd232df9b1de2f5d3d1bed8c",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Merge pull request #82 from CarbonCommunity/develop  Develop into Production",
+		"HashLong": "e46b75258e0e71c3f6913f6e75f90f12b6646cad",
+		"HashShort": "e46b7525",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e46b75258e0e71c3f6913f6e75f90f12b6646cad",
+		"Author": "raul",
+		"Comment": "Merge branch 'develop' into production",
 		"Tag": "production_build",
-		"Date": "2025-09-13 16:29:43 +0300"
+		"Date": "2025-09-24 23:16:08 +0200"
 	}
 }
