@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.881",
-	"InformationalVersion": "2.1.881-Debug-develop-0cb90c79",
+	"Version": "2.1.883",
+	"InformationalVersion": "2.1.883-Debug-develop-fa09a3b0",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0cb90c795b55aa576ff4890f7d28eebbfbd63ce5",
-		"HashShort": "0cb90c79",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0cb90c795b55aa576ff4890f7d28eebbfbd63ce5",
+		"HashLong": "fa09a3b0291cdfd92173fd510b4ed575d5399564",
+		"HashShort": "fa09a3b0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fa09a3b0291cdfd92173fd510b4ed575d5399564",
 		"Author": "raul",
-		"Comment": "Updated DepotDownloader to latest",
+		"Comment": "Added `Carbon.Polyfills`",
 		"Tag": "edge_build",
-		"Date": "2025-09-24 23:13:27 +0200"
+		"Date": "2025-09-25 11:49:11 +0200"
 	}
 }
