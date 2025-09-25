@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.883",
-	"InformationalVersion": "2.1.883-Minimal-develop-fa09a3b0",
+	"Version": "2.1.884",
+	"InformationalVersion": "2.1.884-Minimal-develop-ba7cf696",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "fa09a3b0291cdfd92173fd510b4ed575d5399564",
-		"HashShort": "fa09a3b0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fa09a3b0291cdfd92173fd510b4ed575d5399564",
+		"HashLong": "ba7cf6967ed09d014b3f32fb367c444580042887",
+		"HashShort": "ba7cf696",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ba7cf6967ed09d014b3f32fb367c444580042887",
 		"Author": "raul",
-		"Comment": "Added `Carbon.Polyfills`",
+		"Comment": "Added misticos' Git clone speedup solution",
 		"Tag": "edge_build",
-		"Date": "2025-09-25 11:49:11 +0200"
+		"Date": "2025-09-25 13:01:44 +0200"
 	}
 }
