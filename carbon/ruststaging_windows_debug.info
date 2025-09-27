@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.850",
-	"InformationalVersion": "2.3.850-Debug-rust_beta/staging-cf054379",
+	"Version": "2.3.852",
+	"InformationalVersion": "2.3.852-Debug-rust_beta/staging-89d51807",
 	"Protocol": "2025.10.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "cf05437947ca3d35f342f5e37ed58c4f4d5cc145",
-		"HashShort": "cf054379",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/cf05437947ca3d35f342f5e37ed58c4f4d5cc145",
+		"HashLong": "89d51807bc0f61617235f2ba034dbd30a2f3c010",
+		"HashShort": "89d51807",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/89d51807bc0f61617235f2ba034dbd30a2f3c010",
 		"Author": "raul",
-		"Comment": "Added multiple account support to WebControlPanel ( https://carbonmod.gg/tools/control-panel ) - Uses Carbon's Bridge system - Can log in with different passwords for accounts with different permissions instead of using Rust's RCon",
+		"Comment": "Common++",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-09-27 00:39:18 +0200"
+		"Date": "2025-09-27 15:23:54 +0200"
 	}
 }
