@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.853",
-	"InformationalVersion": "2.3.853-Debug-rust_beta/staging-89d51807",
+	"Version": "2.3.854",
+	"InformationalVersion": "2.3.854-Debug-rust_beta/staging-af8f643d",
 	"Protocol": "2025.10.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "89d51807bc0f61617235f2ba034dbd30a2f3c010",
-		"HashShort": "89d51807",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/89d51807bc0f61617235f2ba034dbd30a2f3c010",
+		"HashLong": "af8f643d8b71cdf0a62d775d7c7e43f530e1f674",
+		"HashShort": "af8f643d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/af8f643d8b71cdf0a62d775d7c7e43f530e1f674",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Include Carbon.Polyfills in Carbon.targets Submodules++",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-09-27 15:23:54 +0200"
+		"Date": "2025-09-28 13:45:58 +0200"
 	}
 }
