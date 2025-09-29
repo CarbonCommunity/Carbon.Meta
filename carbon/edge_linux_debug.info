@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.886",
-	"InformationalVersion": "2.1.886-DebugUnix-develop-bc9102ec",
+	"Version": "2.1.887",
+	"InformationalVersion": "2.1.887-DebugUnix-develop-b8cd7a84",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "bc9102ec9e9e2d73257329375d2be6e58ecaa44a",
-		"HashShort": "bc9102ec",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bc9102ec9e9e2d73257329375d2be6e58ecaa44a",
+		"HashLong": "b8cd7a846baff56c8cdde20c7df72b96ff65990a",
+		"HashShort": "b8cd7a84",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b8cd7a846baff56c8cdde20c7df72b96ff65990a",
 		"Author": "raul",
-		"Comment": "Version tag test #2",
+		"Comment": "Added version production tag Removed test edge build tag",
 		"Tag": "edge_build",
-		"Date": "2025-09-29 16:06:34 +0200"
+		"Date": "2025-09-29 16:10:43 +0200"
 	}
 }
