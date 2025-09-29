@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.884",
-	"InformationalVersion": "2.1.884-MinimalUnix-develop-ba7cf696",
+	"Version": "2.1.886",
+	"InformationalVersion": "2.1.886-MinimalUnix-develop-bc9102ec",
 	"Protocol": "2025.09.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ba7cf6967ed09d014b3f32fb367c444580042887",
-		"HashShort": "ba7cf696",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ba7cf6967ed09d014b3f32fb367c444580042887",
+		"HashLong": "bc9102ec9e9e2d73257329375d2be6e58ecaa44a",
+		"HashShort": "bc9102ec",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bc9102ec9e9e2d73257329375d2be6e58ecaa44a",
 		"Author": "raul",
-		"Comment": "Added misticos' Git clone speedup solution",
+		"Comment": "Version tag test #2",
 		"Tag": "edge_build",
-		"Date": "2025-09-25 13:01:44 +0200"
+		"Date": "2025-09-29 16:06:34 +0200"
 	}
 }
