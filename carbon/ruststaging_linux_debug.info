@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.862",
-	"InformationalVersion": "2.3.862-DebugUnix-rust_beta/staging-98f53f04",
+	"Version": "2.3.863",
+	"InformationalVersion": "2.3.863-DebugUnix-rust_beta/staging-dd2fcf49",
 	"Protocol": "2025.10.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "98f53f0435ffde3b80f0e66630c1a190c78b30df",
-		"HashShort": "98f53f04",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/98f53f0435ffde3b80f0e66630c1a190c78b30df",
+		"HashLong": "dd2fcf4944e4c138b04b357b6b8ae214c05ddcdf",
+		"HashShort": "dd2fcf49",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dd2fcf4944e4c138b04b357b6b8ae214c05ddcdf",
 		"Author": "raul",
-		"Comment": "Common++",
+		"Comment": "Fixed nullable values becoming assigned values with defaults when they should remain null",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2025-09-30 19:04:01 +0200"
+		"Date": "2025-09-30 22:40:08 +0200"
 	}
 }
