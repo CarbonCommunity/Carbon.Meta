@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.895",
-	"InformationalVersion": "2.1.895-Debug-develop-f1c80adc",
+	"Version": "2.1.896",
+	"InformationalVersion": "2.1.896-Debug-develop-9f23f1d4",
 	"Protocol": "2025.10.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f1c80adc1fb17cc3b8a2a2868a146600ee0f137a",
-		"HashShort": "f1c80adc",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f1c80adc1fb17cc3b8a2a2868a146600ee0f137a",
+		"HashLong": "9f23f1d49c85c2c72d3cc4ee99f6eb061c34de70",
+		"HashShort": "9f23f1d4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9f23f1d49c85c2c72d3cc4ee99f6eb061c34de70",
 		"Author": "raul",
-		"Comment": "Tag test #5 (thanksn't Evora!)",
+		"Comment": "Tag fixes (thanks Evora!)",
 		"Tag": "edge_build",
-		"Date": "2025-10-02 14:56:25 +0200"
+		"Date": "2025-10-02 15:20:41 +0200"
 	}
 }
