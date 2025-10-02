@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.889",
-	"InformationalVersion": "2.1.889-MinimalUnix-develop-9675ef0d",
-	"Protocol": "2025.10.02.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "9675ef0d49162b14567b613c0d56c8b8cd0d9443",
-		"HashShort": "9675ef0d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9675ef0d49162b14567b613c0d56c8b8cd0d9443",
-		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/staging' into develop",
-		"Tag": "edge_build",
-		"Date": "2025-10-02 13:15:04 +0200"
-	}
-}
+Not Found
