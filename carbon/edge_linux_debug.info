@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.895",
+	"InformationalVersion": "2.1.895-DebugUnix-develop-f1c80adc",
+	"Protocol": "2025.10.02.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "f1c80adc1fb17cc3b8a2a2868a146600ee0f137a",
+		"HashShort": "f1c80adc",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f1c80adc1fb17cc3b8a2a2868a146600ee0f137a",
+		"Author": "raul",
+		"Comment": "Tag test #5 (thanksn't Evora!)",
+		"Tag": "edge_build",
+		"Date": "2025-10-02 14:56:25 +0200"
+	}
+}
