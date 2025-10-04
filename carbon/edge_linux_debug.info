@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.900",
-	"InformationalVersion": "2.1.900-DebugUnix-develop-619606a6",
+	"Version": "2.1.901",
+	"InformationalVersion": "2.1.901-DebugUnix-develop-d83d8c9d",
 	"Protocol": "2025.10.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "619606a6d53793f6e3d6c4f7d968135ec6737545",
-		"HashShort": "619606a6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/619606a6d53793f6e3d6c4f7d968135ec6737545",
+		"HashLong": "d83d8c9dfbacf0dee35562362d4663ae7501c98c",
+		"HashShort": "d83d8c9d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d83d8c9dfbacf0dee35562362d4663ae7501c98c",
 		"Author": "raul",
-		"Comment": "Submodules++",
+		"Comment": "Made `libCarbonNative.so`/`CarbonNative.dll` optional when the build process attempts to copy it",
 		"Tag": "edge_build",
-		"Date": "2025-10-03 12:58:30 +0200"
+		"Date": "2025-10-04 12:26:22 +0200"
 	}
 }
