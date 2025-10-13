@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.5.504",
+	"InformationalVersion": "2.5.504-Minimal-rust_beta/aux01-d35267ab",
+	"Protocol": "0.0.1.0-aux01",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/aux01",
+		"HashLong": "d35267abc172af29ab8087b6c2e3c054bd3f23f6",
+		"HashShort": "d35267ab",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d35267abc172af29ab8087b6c2e3c054bd3f23f6",
+		"Author": "raul",
+		"Comment": "Merge branch 'develop' into rust_beta/aux01",
+		"Tag": "rustbeta_aux01_build",
+		"Date": "2025-10-13 16:59:37 +0200"
+	}
+}
