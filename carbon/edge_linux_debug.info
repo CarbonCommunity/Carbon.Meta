@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.926",
-	"InformationalVersion": "2.1.926-DebugUnix-develop-1f00d9e2",
+	"Version": "2.1.927",
+	"InformationalVersion": "2.1.927-DebugUnix-develop-549ed2b0",
 	"Protocol": "2025.10.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "1f00d9e28ae42bf06155e37a839072d218a5e22b",
-		"HashShort": "1f00d9e2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1f00d9e28ae42bf06155e37a839072d218a5e22b",
+		"HashLong": "549ed2b0326746a5af59b0816404f9bf59ea2452",
+		"HashShort": "549ed2b0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/549ed2b0326746a5af59b0816404f9bf59ea2452",
 		"Author": "raul",
-		"Comment": "Adjusted warning when plugins fail compilation due to required plugins not being present (yet)",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-10-22 12:55:47 +0200"
+		"Date": "2025-10-22 13:12:55 +0200"
 	}
 }
