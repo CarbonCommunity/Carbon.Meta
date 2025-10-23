@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.930",
-	"InformationalVersion": "2.1.930-MinimalUnix-develop-089c8627",
+	"Version": "2.1.931",
+	"InformationalVersion": "2.1.931-MinimalUnix-develop-bb44339a",
 	"Protocol": "2025.10.02.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "089c8627a039cd3ddd15f6c17dd0386cd1bf9e7c",
-		"HashShort": "089c8627",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/089c8627a039cd3ddd15f6c17dd0386cd1bf9e7c",
+		"HashLong": "bb44339acad6b5c65c29d119a5564b9116dc4485",
+		"HashShort": "bb44339a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bb44339acad6b5c65c29d119a5564b9116dc4485",
 		"Author": "raul",
-		"Comment": "Protocol++ (for the Warhammer mandatory update)",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-10-23 16:40:43 +0200"
+		"Date": "2025-10-23 16:55:24 +0200"
 	}
 }
