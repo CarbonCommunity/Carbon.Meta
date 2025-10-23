@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.929",
-	"InformationalVersion": "2.1.929-MinimalUnix-develop-adaaceee",
-	"Protocol": "2025.10.02.0",
+	"Version": "2.1.930",
+	"InformationalVersion": "2.1.930-MinimalUnix-develop-089c8627",
+	"Protocol": "2025.10.02.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "adaaceee3c950843e8ffb88030a80a4c9e9f57e9",
-		"HashShort": "adaaceee",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/adaaceee3c950843e8ffb88030a80a4c9e9f57e9",
+		"HashLong": "089c8627a039cd3ddd15f6c17dd0386cd1bf9e7c",
+		"HashShort": "089c8627",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/089c8627a039cd3ddd15f6c17dd0386cd1bf9e7c",
 		"Author": "raul",
-		"Comment": "Revert ""release -> public""  This reverts commit adf3dfd2abe0427178a82eee7da88e376bde4470.",
+		"Comment": "Protocol++ (for the Warhammer mandatory update)",
 		"Tag": "edge_build",
-		"Date": "2025-10-23 16:18:06 +0200"
+		"Date": "2025-10-23 16:40:43 +0200"
 	}
 }
