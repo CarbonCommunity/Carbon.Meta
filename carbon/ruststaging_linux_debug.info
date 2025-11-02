@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.905",
+	"InformationalVersion": "2.3.905-DebugUnix-rust_beta/staging-10d36afb",
+	"Protocol": "2025.11.06.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "10d36afb7b56a07ce822307b39623d097bcd188d",
+		"HashShort": "10d36afb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/10d36afb7b56a07ce822307b39623d097bcd188d",
+		"Author": "raul",
+		"Comment": "Common++",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2025-11-02 20:42:24 +0100"
+	}
+}
