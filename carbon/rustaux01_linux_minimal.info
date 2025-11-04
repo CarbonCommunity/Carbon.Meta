@@ -1,17 +1,17 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>618 jwt:jwt-not-provided</title>
-  </head>
-  <body>
-    <h1>Error 618 jwt:jwt-not-provided</h1>
-    <p>jwt:jwt-not-provided</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-iad-kiad7000156-IAD 1762225654 2050575900</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+{
+	"Version": "2.5.505",
+	"InformationalVersion": "2.5.505-MinimalUnix-rust_beta/aux01-beeffac8",
+	"Protocol": "0.0.1.0-aux01",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "rust_beta/aux01",
+		"HashLong": "beeffac82a673c370410588a0b7d1cebd270ac5d",
+		"HashShort": "beeffac8",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/beeffac82a673c370410588a0b7d1cebd270ac5d",
+		"Author": "raul",
+		"Comment": "Merge branch 'develop' into rust_beta/aux01",
+		"Tag": "rustbeta_aux01_build",
+		"Date": "2025-10-16 22:07:47 +0200"
+	}
+}
