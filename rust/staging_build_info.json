@@ -4,17 +4,18 @@
     "ChangeId": "136606",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Date": "10/11/2025 14:50:51"
+    "Date": "10/11/2025 14:50:51",
+    "LongDate": 1762786251000
   },
   "Build": {
-    "Id": "9518",
-    "Number": "9518",
-    "Tag": "jenkins-RustServer-9518",
-    "Url": "https://build.facepunch.com/job/RustServer/9518/",
-    "Name": "RustServer",
-    "Node": "Win_AMD_1"
+    "Id": "40",
+    "Number": "40",
+    "Tag": "jenkins-Rust-Server-main-40",
+    "Url": "https://build.facepunch.com/job/Rust-Server-main/40/",
+    "Name": "Rust-Server-main",
+    "Node": "SVR-RUST-BS-01"
   },
-  "Date": 1762786307,
-  "DateString": "10 11 2025",
-  "TimeString": "14:51"
+  "Date": 1762786251,
+  "DateString": "21 01 1970",
+  "TimeString": "09:39"
 }
