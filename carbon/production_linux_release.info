@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.218",
-	"InformationalVersion": "2.0.218-ReleaseUnix-production-caa1f510",
+	"Version": "2.0.219",
+	"InformationalVersion": "2.0.219-ReleaseUnix-production-4f96bd64",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Linux",
 	"Config": "ReleaseUnix",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "caa1f510ca82984c4bb72bd65363f50b65c9fc80",
-		"HashShort": "caa1f510",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/caa1f510ca82984c4bb72bd65363f50b65c9fc80",
+		"HashLong": "4f96bd646eac7a008fe61f6bb55f971fd58ae4a2",
+		"HashShort": "4f96bd64",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4f96bd646eac7a008fe61f6bb55f971fd58ae4a2",
 		"Author": "raul",
 		"Comment": "Merge branch 'develop' into production",
 		"Tag": "production_build",
-		"Date": "2025-11-09 21:09:38 +0100"
+		"Date": "2025-11-11 17:48:14 +0100"
 	}
 }
