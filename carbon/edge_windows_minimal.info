@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.950",
-	"InformationalVersion": "2.1.950-Minimal-develop-5a003c56",
+	"Version": "2.1.951",
+	"InformationalVersion": "2.1.951-Minimal-develop-8cb62339",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "5a003c567db406bddbb4252be43c6e3b3ac9fb24",
-		"HashShort": "5a003c56",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5a003c567db406bddbb4252be43c6e3b3ac9fb24",
+		"HashLong": "8cb62339144992d37ff4b7006f547b21d05fbedc",
+		"HashShort": "8cb62339",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8cb62339144992d37ff4b7006f547b21d05fbedc",
 		"Author": "raul",
-		"Comment": "Timer reversal",
+		"Comment": "Upgraded to C# 14 (Roslyn compiler)",
 		"Tag": "edge_build",
-		"Date": "2025-11-11 17:06:36 +0100"
+		"Date": "2025-11-12 18:25:49 +0100"
 	}
 }
