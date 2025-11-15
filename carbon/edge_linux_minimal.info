@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.951",
-	"InformationalVersion": "2.1.951-MinimalUnix-develop-8cb62339",
+	"Version": "2.1.952",
+	"InformationalVersion": "2.1.952-MinimalUnix-develop-a4bbb08e",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "8cb62339144992d37ff4b7006f547b21d05fbedc",
-		"HashShort": "8cb62339",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8cb62339144992d37ff4b7006f547b21d05fbedc",
+		"HashLong": "a4bbb08e78908acc72c8466ca24ab4074adb9eeb",
+		"HashShort": "a4bbb08e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a4bbb08e78908acc72c8466ca24ab4074adb9eeb",
 		"Author": "raul",
-		"Comment": "Upgraded to C# 14 (Roslyn compiler)",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-11-12 18:25:49 +0100"
+		"Date": "2025-11-15 01:46:00 +0100"
 	}
 }
