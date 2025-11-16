@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.953",
-	"InformationalVersion": "2.1.953-Debug-develop-2bc663ae",
+	"Version": "2.1.954",
+	"InformationalVersion": "2.1.954-Debug-develop-a78e0ae5",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "2bc663aefda4f31023020658a384603ac4f6f481",
-		"HashShort": "2bc663ae",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2bc663aefda4f31023020658a384603ac4f6f481",
+		"HashLong": "a78e0ae50bc669d878aab7ce4cf7c84135695c6f",
+		"HashShort": "a78e0ae5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a78e0ae50bc669d878aab7ce4cf7c84135695c6f",
 		"Author": "raul",
-		"Comment": "SDK",
+		"Comment": "Preloader++",
 		"Tag": "edge_build",
-		"Date": "2025-11-15 19:43:46 +0100"
+		"Date": "2025-11-16 17:22:37 +0100"
 	}
 }
