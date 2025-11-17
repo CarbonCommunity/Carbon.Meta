@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.957",
-	"InformationalVersion": "2.1.957-DebugUnix-develop-6754aeaf",
+	"Version": "2.1.958",
+	"InformationalVersion": "2.1.958-DebugUnix-develop-6b0e3612",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "6754aeaf3a5555db81263040d37374bd9d7ef6c7",
-		"HashShort": "6754aeaf",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6754aeaf3a5555db81263040d37374bd9d7ef6c7",
+		"HashLong": "6b0e361281bd3a5f937d81537655a217233cced7",
+		"HashShort": "6b0e3612",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6b0e361281bd3a5f937d81537655a217233cced7",
 		"Author": "raul",
-		"Comment": "Print Carbon and Rust versions regardless of logging reduction",
+		"Comment": "Removed ""Trying to load assembly"" Rust logs (it's Facepunch's implementation of Harmony doing it) Fixed `-harmonydir` switch not actually being applied by the patcher",
 		"Tag": "edge_build",
-		"Date": "2025-11-17 18:42:16 +0100"
+		"Date": "2025-11-17 19:30:30 +0100"
 	}
 }
