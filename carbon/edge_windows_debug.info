@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.957",
+	"InformationalVersion": "2.1.957-Debug-develop-6754aeaf",
+	"Protocol": "2025.11.06.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "6754aeaf3a5555db81263040d37374bd9d7ef6c7",
+		"HashShort": "6754aeaf",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6754aeaf3a5555db81263040d37374bd9d7ef6c7",
+		"Author": "raul",
+		"Comment": "Print Carbon and Rust versions regardless of logging reduction",
+		"Tag": "edge_build",
+		"Date": "2025-11-17 18:42:16 +0100"
+	}
+}

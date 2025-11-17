@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.956",
-	"InformationalVersion": "2.1.956-MinimalUnix-develop-791a4274",
+	"Version": "2.1.957",
+	"InformationalVersion": "2.1.957-MinimalUnix-develop-6754aeaf",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "791a4274346a70ea0a4ce012f793ba40c445ca52",
-		"HashShort": "791a4274",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/791a4274346a70ea0a4ce012f793ba40c445ca52",
+		"HashLong": "6754aeaf3a5555db81263040d37374bd9d7ef6c7",
+		"HashShort": "6754aeaf",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6754aeaf3a5555db81263040d37374bd9d7ef6c7",
 		"Author": "raul",
-		"Comment": "Reduced logging significantly across all submodules (optionally, can be re-enabled in the config, reduced logging enabled by default)",
+		"Comment": "Print Carbon and Rust versions regardless of logging reduction",
 		"Tag": "edge_build",
-		"Date": "2025-11-17 17:33:25 +0100"
+		"Date": "2025-11-17 18:42:16 +0100"
 	}
 }
