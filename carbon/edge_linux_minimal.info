@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.960",
-	"InformationalVersion": "2.1.960-MinimalUnix-develop-c27eb9d4",
+	"Version": "2.1.961",
+	"InformationalVersion": "2.1.961-MinimalUnix-develop-40809844",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "c27eb9d479c45dd0f55708bbb37ae2a32ad74721",
-		"HashShort": "c27eb9d4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c27eb9d479c45dd0f55708bbb37ae2a32ad74721",
+		"HashLong": "40809844c2a38d3a6bbe8da399e265a98fa0fd42",
+		"HashShort": "40809844",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/40809844c2a38d3a6bbe8da399e265a98fa0fd42",
 		"Author": "raul",
-		"Comment": "Removed various logs from high frequency methods which were only displayed if verbosity was increased with the purpose to reduce string allocations",
+		"Comment": "Compat++",
 		"Tag": "edge_build",
-		"Date": "2025-11-17 19:55:24 +0100"
+		"Date": "2025-11-17 20:29:33 +0100"
 	}
 }
