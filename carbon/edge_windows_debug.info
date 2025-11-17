@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.956",
-	"InformationalVersion": "2.1.956-Debug-develop-791a4274",
-	"Protocol": "2025.11.06.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "791a4274346a70ea0a4ce012f793ba40c445ca52",
-		"HashShort": "791a4274",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/791a4274346a70ea0a4ce012f793ba40c445ca52",
-		"Author": "raul",
-		"Comment": "Reduced logging significantly across all submodules (optionally, can be re-enabled in the config, reduced logging enabled by default)",
-		"Tag": "edge_build",
-		"Date": "2025-11-17 17:33:25 +0100"
-	}
-}
+Not Found
