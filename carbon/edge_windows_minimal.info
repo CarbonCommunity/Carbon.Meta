@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.962",
-	"InformationalVersion": "2.1.962-Minimal-develop-22f8a375",
+	"Version": "2.1.963",
+	"InformationalVersion": "2.1.963-Minimal-develop-9907556d",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "22f8a3752b60185c76af0889e7dd98720353a478",
-		"HashShort": "22f8a375",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/22f8a3752b60185c76af0889e7dd98720353a478",
+		"HashLong": "9907556d98cf1154bb6c30a7145419b473902b5c",
+		"HashShort": "9907556d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9907556d98cf1154bb6c30a7145419b473902b5c",
 		"Author": "raul",
-		"Comment": "Merged Evora's RCon message command outputs fix",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2025-11-18 15:55:55 +0100"
+		"Date": "2025-11-22 16:11:59 +0100"
 	}
 }
