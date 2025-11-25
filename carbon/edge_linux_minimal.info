@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.966",
-	"InformationalVersion": "2.1.966-MinimalUnix-develop-1c052e47",
+	"Version": "2.1.967",
+	"InformationalVersion": "2.1.967-MinimalUnix-develop-68243e18",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "1c052e477d5fb3fa823e725a1dbc546f779e0cc5",
-		"HashShort": "1c052e47",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1c052e477d5fb3fa823e725a1dbc546f779e0cc5",
+		"HashLong": "68243e18a0ff2066f69df0d785fa6fedf5c6ca82",
+		"HashShort": "68243e18",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/68243e18a0ff2066f69df0d785fa6fedf5c6ca82",
 		"Author": "raul",
-		"Comment": "Fixed publicizer/patcher NREs",
+		"Comment": "Revert ""Upgraded to Harmony 2.4.2""  This reverts commit 80b31215b3f2d2ad8a02d2b5118de922d09c0ae4.",
 		"Tag": "edge_build",
-		"Date": "2025-11-25 16:12:08 +0100"
+		"Date": "2025-11-25 17:02:35 +0100"
 	}
 }
