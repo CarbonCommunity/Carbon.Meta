@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.965",
-	"InformationalVersion": "2.1.965-DebugUnix-develop-80b31215",
+	"Version": "2.1.966",
+	"InformationalVersion": "2.1.966-DebugUnix-develop-1c052e47",
 	"Protocol": "2025.11.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "80b31215b3f2d2ad8a02d2b5118de922d09c0ae4",
-		"HashShort": "80b31215",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/80b31215b3f2d2ad8a02d2b5118de922d09c0ae4",
+		"HashLong": "1c052e477d5fb3fa823e725a1dbc546f779e0cc5",
+		"HashShort": "1c052e47",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1c052e477d5fb3fa823e725a1dbc546f779e0cc5",
 		"Author": "raul",
-		"Comment": "Upgraded to Harmony 2.4.2",
+		"Comment": "Fixed publicizer/patcher NREs",
 		"Tag": "edge_build",
-		"Date": "2025-11-25 15:41:39 +0100"
+		"Date": "2025-11-25 16:12:08 +0100"
 	}
 }
