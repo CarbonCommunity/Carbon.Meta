@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.965",
+	"InformationalVersion": "2.1.965-Debug-develop-80b31215",
+	"Protocol": "2025.11.06.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "80b31215b3f2d2ad8a02d2b5118de922d09c0ae4",
+		"HashShort": "80b31215",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/80b31215b3f2d2ad8a02d2b5118de922d09c0ae4",
+		"Author": "raul",
+		"Comment": "Upgraded to Harmony 2.4.2",
+		"Tag": "edge_build",
+		"Date": "2025-11-25 15:41:39 +0100"
+	}
+}
