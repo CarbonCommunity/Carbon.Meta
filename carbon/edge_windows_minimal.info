@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.975",
-	"InformationalVersion": "2.1.975-Minimal-develop-94fb047f",
-	"Protocol": "2025.12.04.0",
+	"Version": "2.1.976",
+	"InformationalVersion": "2.1.976-Minimal-develop-1c44d2af",
+	"Protocol": "2025.12.04.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "94fb047f6d35e1178cba8c459b3dcde04e4a4024",
-		"HashShort": "94fb047f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/94fb047f6d35e1178cba8c459b3dcde04e4a4024",
+		"HashLong": "1c44d2afdbf44cf3c68ffc03c6d723e3e18efa77",
+		"HashShort": "1c44d2af",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1c44d2afdbf44cf3c68ffc03c6d723e3e18efa77",
 		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/staging' into develop",
+		"Comment": "Staging backport protocol update [2025.12.04.1]",
 		"Tag": "edge_build",
-		"Date": "2025-12-04 15:48:39 +0100"
+		"Date": "2025-12-04 15:52:12 +0100"
 	}
 }
