@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.976",
-	"InformationalVersion": "2.1.976-MinimalUnix-develop-1c44d2af",
+	"Version": "2.1.978",
+	"InformationalVersion": "2.1.978-MinimalUnix-develop-f670fdaf",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "1c44d2afdbf44cf3c68ffc03c6d723e3e18efa77",
-		"HashShort": "1c44d2af",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1c44d2afdbf44cf3c68ffc03c6d723e3e18efa77",
+		"HashLong": "f670fdaf580b7ecda4fcf078249fdee8673824cd",
+		"HashShort": "f670fdaf",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f670fdaf580b7ecda4fcf078249fdee8673824cd",
 		"Author": "raul",
-		"Comment": "Staging backport protocol update [2025.12.04.1]",
+		"Comment": "Submodules++",
 		"Tag": "edge_build",
-		"Date": "2025-12-04 15:52:12 +0100"
+		"Date": "2025-12-07 15:36:32 +0100"
 	}
 }
