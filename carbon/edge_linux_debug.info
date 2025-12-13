@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.984",
-	"InformationalVersion": "2.1.984-DebugUnix-develop-3516d144",
+	"Version": "2.1.986",
+	"InformationalVersion": "2.1.986-DebugUnix-develop-bd20b379",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "3516d1444874d8afe3932bc3f0cf3e93191422a5",
-		"HashShort": "3516d144",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3516d1444874d8afe3932bc3f0cf3e93191422a5",
-		"Author": "raul",
+		"HashLong": "bd20b379338a7a346e468d46dd44a55fe82fda51",
+		"HashShort": "bd20b379",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bd20b379338a7a346e468d46dd44a55fe82fda51",
+		"Author": "evs.ptr",
 		"Comment": "Merge branch 'qol/ci_cd_overhaul' into develop",
 		"Tag": "edge_build",
-		"Date": "2025-12-13 18:19:31 +0100"
+		"Date": "2025-12-13 22:43:11 +0500"
 	}
 }
