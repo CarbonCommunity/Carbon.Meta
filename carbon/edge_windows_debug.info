@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.989",
-	"InformationalVersion": "2.1.989-Debug-develop-565119c",
-	"Protocol": "2025.12.04.1",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "565119cbd559f6612b85a05e1e619d00fc4b635e",
-		"HashShort": "565119c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/565119cbd559f6612b85a05e1e619d00fc4b635e",
-		"Author": "evs.ptr",
-		"Comment": "`hook-build` & `profiler-build` install .net `10.0.x` as well",
-		"Tag": "edge_build",
-		"Date": "2025-12-13 23:12:12 +0500"
-	}
-}
+Not Found
