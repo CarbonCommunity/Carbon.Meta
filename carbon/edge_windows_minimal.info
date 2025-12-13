@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.981",
-	"InformationalVersion": "2.1.981-Minimal-develop-bc386084",
-	"Protocol": "2025.12.04.1",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "bc3860845edf07ddf1b32906171d99d6f05b8524",
-		"HashShort": "bc386084",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bc3860845edf07ddf1b32906171d99d6f05b8524",
-		"Author": "raul",
-		"Comment": "Common++",
-		"Tag": "edge_build",
-		"Date": "2025-12-12 05:41:48 +0100"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
