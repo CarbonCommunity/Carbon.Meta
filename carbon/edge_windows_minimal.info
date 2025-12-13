@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.994",
+	"InformationalVersion": "2.1.994-Minimal-develop-1365554",
+	"Protocol": "2025.12.04.1",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "13655548baf618dfe931f5cbc4281c410c2970b5",
+		"HashShort": "1365554",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/13655548baf618dfe931f5cbc4281c410c2970b5",
+		"Author": "evs.ptr",
+		"Comment": "`update.cs` prebuild used project to avoid threading issues",
+		"Tag": "edge_build",
+		"Date": "2025-12-13 23:47:19 +0500"
+	}
+}
