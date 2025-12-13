@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.965",
-	"InformationalVersion": "2.3.965-Debug-rust_beta/staging-bd264a6",
+	"Version": "2.3.967",
+	"InformationalVersion": "2.3.967-Debug-rust_beta/staging-bd264a6",
 	"Protocol": "2026.01.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
