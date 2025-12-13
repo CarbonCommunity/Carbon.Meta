@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.962",
-	"InformationalVersion": "2.3.962-Minimal-rust_beta/staging-bd264a6",
+	"Version": "2.3.965",
+	"InformationalVersion": "2.3.965-Minimal-rust_beta/staging-bd264a6",
 	"Protocol": "2026.01.01.0",
 	"Platform": "Windows",
 	"Config": "Minimal",

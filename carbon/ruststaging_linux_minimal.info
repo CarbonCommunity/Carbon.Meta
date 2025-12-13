@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.963",
-	"InformationalVersion": "2.3.963-MinimalUnix-rust_beta/staging-bd264a6",
+	"Version": "2.3.964",
+	"InformationalVersion": "2.3.964-MinimalUnix-rust_beta/staging-bd264a6",
 	"Protocol": "2026.01.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
