@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.987",
-	"InformationalVersion": "2.1.987-Minimal-develop-1a1f0a7",
+	"Version": "2.1.989",
+	"InformationalVersion": "2.1.989-Minimal-develop-565119c",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "1a1f0a7e98db6943ff034ff601b29eb43aef180d",
-		"HashShort": "1a1f0a7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1a1f0a7e98db6943ff034ff601b29eb43aef180d",
-		"Author": "raul",
-		"Comment": "Fixed Carbon.Runner and SDK warns Removed tag fetching (i hope lol) Migrated net8.0 projects to net10.0",
+		"HashLong": "565119cbd559f6612b85a05e1e619d00fc4b635e",
+		"HashShort": "565119c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/565119cbd559f6612b85a05e1e619d00fc4b635e",
+		"Author": "evs.ptr",
+		"Comment": "`hook-build` & `profiler-build` install .net `10.0.x` as well",
 		"Tag": "edge_build",
-		"Date": "2025-12-13 18:55:13 +0100"
+		"Date": "2025-12-13 23:12:12 +0500"
 	}
 }
