@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.999",
-	"InformationalVersion": "2.1.999-Debug-develop-0d5f7ce",
+	"Version": "2.1.1002",
+	"InformationalVersion": "2.1.1002-Debug-develop-502a172",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "0d5f7ce6ee718c1d7f2153fdf780e9aabc49d7d4",
-		"HashShort": "0d5f7ce",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0d5f7ce6ee718c1d7f2153fdf780e9aabc49d7d4",
-		"Author": "raul",
-		"Comment": "Happy new year",
+		"HashLong": "502a1726b10ab05634faa274d2a23b27c09e173a",
+		"HashShort": "502a172",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/502a1726b10ab05634faa274d2a23b27c09e173a",
+		"Author": "evs.ptr",
+		"Comment": "Happy halloween",
 		"Tag": "edge_build",
-		"Date": "2025-12-14 22:19:15 +0100"
+		"Date": "2025-12-15 02:54:33 +0500"
 	}
 }
