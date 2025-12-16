@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1001",
-	"InformationalVersion": "2.1.1001-MinimalUnix-develop-502a172",
-	"Protocol": "2025.12.04.1",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "502a1726b10ab05634faa274d2a23b27c09e173a",
-		"HashShort": "502a172",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/502a1726b10ab05634faa274d2a23b27c09e173a",
-		"Author": "evs.ptr",
-		"Comment": "Happy halloween",
-		"Tag": "edge_build",
-		"Date": "2025-12-15 02:54:33 +0500"
-	}
-}
+Not Found
