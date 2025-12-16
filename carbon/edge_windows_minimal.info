@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1005",
-	"InformationalVersion": "2.1.1005-Minimal-develop-f70fe8c",
-	"Protocol": "2025.12.04.1",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "f70fe8cf22398eca8412ec5556cc50cd873e1ee7",
-		"HashShort": "f70fe8c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f70fe8cf22398eca8412ec5556cc50cd873e1ee7",
-		"Author": "evs.ptr",
-		"Comment": "`common-core-build.yml` fix for double version bump",
-		"Tag": "edge_build",
-		"Date": "2025-12-16 11:04:26 +0500"
-	}
-}
+Not Found
