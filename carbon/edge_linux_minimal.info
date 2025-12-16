@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1008",
+	"InformationalVersion": "2.1.1008-MinimalUnix-develop-523d4b0",
+	"Protocol": "2025.12.04.1",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "523d4b0c81a6c7ad991f9596c145e926ec82efc4",
+		"HashShort": "523d4b0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/523d4b0c81a6c7ad991f9596c145e926ec82efc4",
+		"Author": "evs.ptr",
+		"Comment": "Now for sure",
+		"Tag": "edge_build",
+		"Date": "2025-12-16 16:02:41 +0500"
+	}
+}
