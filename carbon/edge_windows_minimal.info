@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1011",
+	"InformationalVersion": "2.1.1011-Minimal-develop-663d75e",
+	"Protocol": "2025.12.04.1",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "663d75e17e32dbb7b60b38d15b49304049f257b9",
+		"HashShort": "663d75e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/663d75e17e32dbb7b60b38d15b49304049f257b9",
+		"Author": "raul",
+		"Comment": "Updated inconsistencies Compile fix",
+		"Tag": "edge_build",
+		"Date": "2025-12-16 23:20:10 +0100"
+	}
+}
