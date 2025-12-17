@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1017",
-	"InformationalVersion": "2.1.1017-Minimal-develop-c6e0efe",
+	"Version": "2.1.1018",
+	"InformationalVersion": "2.1.1018-Minimal-develop-08c913e",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "c6e0efe9708061aa84954893d7719c6369101b81",
-		"HashShort": "c6e0efe",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c6e0efe9708061aa84954893d7719c6369101b81",
+		"HashLong": "08c913e5ffb80473fd1aba8733a3f5015b8d2d59",
+		"HashShort": "08c913e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/08c913e5ffb80473fd1aba8733a3f5015b8d2d59",
 		"Author": "evs-ptr",
-		"Comment": "`Carbon.Tests` minor fixes",
+		"Comment": "`EnvironmentSetupService` fix skipped carbon installation process",
 		"Tag": "edge_build",
-		"Date": "2025-12-17 13:06:41 +0500"
+		"Date": "2025-12-17 13:29:06 +0500"
 	}
 }
