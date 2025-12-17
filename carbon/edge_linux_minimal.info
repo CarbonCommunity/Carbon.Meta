@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1018",
-	"InformationalVersion": "2.1.1018-MinimalUnix-develop-08c913e",
+	"Version": "2.1.1019",
+	"InformationalVersion": "2.1.1019-MinimalUnix-develop-79be794",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "08c913e5ffb80473fd1aba8733a3f5015b8d2d59",
-		"HashShort": "08c913e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/08c913e5ffb80473fd1aba8733a3f5015b8d2d59",
-		"Author": "evs-ptr",
-		"Comment": "`EnvironmentSetupService` fix skipped carbon installation process",
+		"HashLong": "79be7948b7092989e7688cfe92a8dacf1904a93d",
+		"HashShort": "79be794",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/79be7948b7092989e7688cfe92a8dacf1904a93d",
+		"Author": "evs.ptr",
+		"Comment": "Native++ (no changes)",
 		"Tag": "edge_build",
-		"Date": "2025-12-17 13:29:06 +0500"
+		"Date": "2025-12-17 16:24:03 +0500"
 	}
 }
