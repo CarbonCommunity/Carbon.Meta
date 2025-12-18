@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1022",
-	"InformationalVersion": "2.1.1022-MinimalUnix-develop-7541b15",
+	"Version": "2.1.1023",
+	"InformationalVersion": "2.1.1023-MinimalUnix-develop-7770a8a",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7541b156481067a28be621c9bb8489fd8922ece6",
-		"HashShort": "7541b15",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7541b156481067a28be621c9bb8489fd8922ece6",
-		"Author": "raul",
-		"Comment": "Common++",
+		"HashLong": "7770a8a0928cd9dc8804ae2cd831ddc0a70563df",
+		"HashShort": "7770a8a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7770a8a0928cd9dc8804ae2cd831ddc0a70563df",
+		"Author": "evs-ptr",
+		"Comment": "`common-core-build.yml` run Linux part with rust container (fix for `Carbon.Native`)",
 		"Tag": "edge_build",
-		"Date": "2025-12-18 20:08:33 +0100"
+		"Date": "2025-12-19 00:44:26 +0500"
 	}
 }
