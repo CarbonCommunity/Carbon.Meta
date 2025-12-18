@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1020",
-	"InformationalVersion": "2.1.1020-DebugUnix-develop-5be0fcd",
+	"Version": "2.1.1021",
+	"InformationalVersion": "2.1.1021-DebugUnix-develop-ce9bd6e",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "5be0fcdc427daac5a01f47065e67c63e063b639f",
-		"HashShort": "5be0fcd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5be0fcdc427daac5a01f47065e67c63e063b639f",
+		"HashLong": "ce9bd6ec7bac973e31577d7d741b1e0e20fabba6",
+		"HashShort": "ce9bd6e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ce9bd6ec7bac973e31577d7d741b1e0e20fabba6",
 		"Author": "evs-ptr",
-		"Comment": "`Carbon.Tests` `TestServerRunner` add some commented env vars for debugging on linux",
+		"Comment": "Delete `edge-test.yml` (no need now)",
 		"Tag": "edge_build",
-		"Date": "2025-12-18 16:46:31 +0500"
+		"Date": "2025-12-18 22:19:28 +0500"
 	}
 }
