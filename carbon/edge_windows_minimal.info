@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1023",
-	"InformationalVersion": "2.1.1023-Minimal-develop-7770a8a",
+	"Version": "2.1.1024",
+	"InformationalVersion": "2.1.1024-Minimal-develop-f24000c",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7770a8a0928cd9dc8804ae2cd831ddc0a70563df",
-		"HashShort": "7770a8a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7770a8a0928cd9dc8804ae2cd831ddc0a70563df",
+		"HashLong": "f24000c2d1072b81162759bafb95884c52f844be",
+		"HashShort": "f24000c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f24000c2d1072b81162759bafb95884c52f844be",
 		"Author": "evs-ptr",
-		"Comment": "`common-core-build.yml` run Linux part with rust container (fix for `Carbon.Native`)",
+		"Comment": "`Tests.Hooks.cs` bump timeout for `patch_all`",
 		"Tag": "edge_build",
-		"Date": "2025-12-19 00:44:26 +0500"
+		"Date": "2025-12-19 02:28:34 +0500"
 	}
 }
