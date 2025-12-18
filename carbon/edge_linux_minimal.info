@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1028",
-	"InformationalVersion": "2.1.1028-MinimalUnix-develop-285edef",
+	"Version": "2.1.1029",
+	"InformationalVersion": "2.1.1029-MinimalUnix-develop-35a702e",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "285edef3fa3a6b78560b3178ba307d919c914798",
-		"HashShort": "285edef",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/285edef3fa3a6b78560b3178ba307d919c914798",
+		"HashLong": "35a702e403493e55043fa801b02a0fb422143e2d",
+		"HashShort": "35a702e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/35a702e403493e55043fa801b02a0fb422143e2d",
 		"Author": "evs-ptr",
-		"Comment": "`common-core-build.yml` another attempt",
+		"Comment": "`common-core-build.yml` always run build step of `Carbon.Native` (will sacrifice workflow time for stability)",
 		"Tag": "edge_build",
-		"Date": "2025-12-19 04:04:26 +0500"
+		"Date": "2025-12-19 04:43:10 +0500"
 	}
 }
