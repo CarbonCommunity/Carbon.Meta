@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1024",
-	"InformationalVersion": "2.1.1024-MinimalUnix-develop-f24000c",
+	"Version": "2.1.1025",
+	"InformationalVersion": "2.1.1025-MinimalUnix-develop-c6518d3",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "f24000c2d1072b81162759bafb95884c52f844be",
-		"HashShort": "f24000c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f24000c2d1072b81162759bafb95884c52f844be",
+		"HashLong": "c6518d3a82acfec053dacaaa99ca94f0b1d30f87",
+		"HashShort": "c6518d3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c6518d3a82acfec053dacaaa99ca94f0b1d30f87",
 		"Author": "evs-ptr",
-		"Comment": "`Tests.Hooks.cs` bump timeout for `patch_all`",
+		"Comment": "`common-core-build.yml` always install rust toolchain (test)",
 		"Tag": "edge_build",
-		"Date": "2025-12-19 02:28:34 +0500"
+		"Date": "2025-12-19 02:56:31 +0500"
 	}
 }
