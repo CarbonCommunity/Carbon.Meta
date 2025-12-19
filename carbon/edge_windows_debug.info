@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1030",
-	"InformationalVersion": "2.1.1030-Debug-develop-35a702e",
+	"Version": "2.1.1031",
+	"InformationalVersion": "2.1.1031-Debug-develop-b9ff7a5",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "35a702e403493e55043fa801b02a0fb422143e2d",
-		"HashShort": "35a702e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/35a702e403493e55043fa801b02a0fb422143e2d",
-		"Author": "evs-ptr",
-		"Comment": "`common-core-build.yml` always run build step of `Carbon.Native` (will sacrifice workflow time for stability)",
+		"HashLong": "b9ff7a539dd69e9545601c79ab1bb373cc0c0345",
+		"HashShort": "b9ff7a5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b9ff7a539dd69e9545601c79ab1bb373cc0c0345",
+		"Author": "raul",
+		"Comment": "Fix for 4d8390c",
 		"Tag": "edge_build",
-		"Date": "2025-12-19 04:43:10 +0500"
+		"Date": "2025-12-19 14:50:47 +0100"
 	}
 }
