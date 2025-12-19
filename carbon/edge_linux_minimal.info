@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1033",
+	"InformationalVersion": "2.1.1033-MinimalUnix-develop-09017ed",
+	"Protocol": "2025.12.04.1",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "09017ed584b37fd2d3ea8d838f06dcd8b062eafa",
+		"HashShort": "09017ed",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/09017ed584b37fd2d3ea8d838f06dcd8b062eafa",
+		"Author": "raul",
+		"Comment": "Common Test",
+		"Tag": "edge_build",
+		"Date": "2025-12-19 17:57:32 +0100"
+	}
+}
