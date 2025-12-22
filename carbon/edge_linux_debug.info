@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.1037",
-	"InformationalVersion": "2.1.1037-DebugUnix-develop-fd9e450",
-	"Protocol": "2025.12.04.1",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "fd9e450b364d75d812d713ebcd3b0f1221aecacd",
-		"HashShort": "fd9e450",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fd9e450b364d75d812d713ebcd3b0f1221aecacd",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Codespaces container setup",
-		"Tag": "edge_build",
-		"Date": "2025-12-21 12:26:48 +0000"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
