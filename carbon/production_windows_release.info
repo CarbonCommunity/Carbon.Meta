@@ -1,17 +1,3 @@
-{
-	"Version": "2.0.224",
-	"InformationalVersion": "2.0.224-Release-production-b29bb21",
-	"Protocol": "2025.12.04.1",
-	"Platform": "Windows",
-	"Config": "Release",
-	"Commit": {
-		"Branch": "production",
-		"HashLong": "b29bb213e720d76bac0e126f9820360668dc2e9a",
-		"HashShort": "b29bb21",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b29bb213e720d76bac0e126f9820360668dc2e9a",
-		"Author": "raul",
-		"Comment": "Merge branch 'develop' into production",
-		"Tag": "production_build",
-		"Date": "2025-12-19 20:15:04 +0100"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
