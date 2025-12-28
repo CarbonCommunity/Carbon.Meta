@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1038",
-	"InformationalVersion": "2.1.1038-Minimal-develop-5dcde01",
+	"Version": "2.1.1039",
+	"InformationalVersion": "2.1.1039-Minimal-develop-c20f6a7",
 	"Protocol": "2025.12.04.1",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "5dcde0112bacc1cda2777fc451bb29ebf9eb7560",
-		"HashShort": "5dcde01",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5dcde0112bacc1cda2777fc451bb29ebf9eb7560",
+		"HashLong": "c20f6a77e30290fb1ab7869943f6a692d8a549a6",
+		"HashShort": "c20f6a7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c20f6a77e30290fb1ab7869943f6a692d8a549a6",
 		"Author": "raul",
-		"Comment": "Upgraded Harmony to 2.4.2 Updated Roslyn to 4.15.0",
+		"Comment": "Merge branch 'qol/ci_cd_cache_native' into develop",
 		"Tag": "edge_build",
-		"Date": "2025-12-28 05:29:51 +0100"
+		"Date": "2025-12-28 15:41:12 +0100"
 	}
 }
