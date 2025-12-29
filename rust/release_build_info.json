@@ -1,20 +1,20 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "140218",
+    "ChangeId": "140242",
     "Branch": "release",
     "Repo": "rust_reboot",
-    "Date": "19/12/2025 16:23:39"
+    "Date": "29/12/2025 17:29:31"
   },
   "Build": {
-    "Id": "969",
-    "Number": "969",
-    "Tag": "jenkins-RustReleaseServer-969",
-    "Url": "https://build.facepunch.com/job/RustReleaseServer/969/",
+    "Id": "970",
+    "Number": "970",
+    "Tag": "jenkins-RustReleaseServer-970",
+    "Url": "https://build.facepunch.com/job/RustReleaseServer/970/",
     "Name": "RustReleaseServer",
     "Node": "Win_AMD_2"
   },
-  "Date": 1766165734,
-  "DateString": "19 12 2025",
-  "TimeString": "17:35"
+  "Date": 1767029511,
+  "DateString": "29 12 2025",
+  "TimeString": "17:31"
 }
