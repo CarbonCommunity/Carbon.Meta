@@ -1,3 +1,17 @@
-<html><body><h1>504 Gateway Time-out</h1>
-The server didn't respond in time.
-</body></html>
+{
+	"Version": "2.1.1046",
+	"InformationalVersion": "2.1.1046-DebugUnix-develop-aaf1f3d",
+	"Protocol": "2026.01.01.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "aaf1f3d7ba95c433188d38a2f9c08f7189ca464e",
+		"HashShort": "aaf1f3d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aaf1f3d7ba95c433188d38a2f9c08f7189ca464e",
+		"Author": "raul",
+		"Comment": "Merge branch 'ci/git_feedback' into develop",
+		"Tag": "edge_build",
+		"Date": "2026-01-17 03:37:06 +0100"
+	}
+}
