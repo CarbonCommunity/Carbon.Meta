@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1046",
-	"InformationalVersion": "2.1.1046-MinimalUnix-develop-aaf1f3d",
+	"Version": "2.1.1047",
+	"InformationalVersion": "2.1.1047-MinimalUnix-develop-a4e0519",
 	"Protocol": "2026.01.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "aaf1f3d7ba95c433188d38a2f9c08f7189ca464e",
-		"HashShort": "aaf1f3d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aaf1f3d7ba95c433188d38a2f9c08f7189ca464e",
+		"HashLong": "a4e05196208ee1ec3e0d6af263648ac7a983f000",
+		"HashShort": "a4e0519",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a4e05196208ee1ec3e0d6af263648ac7a983f000",
 		"Author": "raul",
-		"Comment": "Merge branch 'ci/git_feedback' into develop",
+		"Comment": "Merge branch 'ci/skip_native_win_dll_verify' into develop",
 		"Tag": "edge_build",
-		"Date": "2026-01-17 03:37:06 +0100"
+		"Date": "2026-01-22 14:33:23 +0100"
 	}
 }
