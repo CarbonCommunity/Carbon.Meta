@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1033",
-	"InformationalVersion": "2.3.1033-Debug-rust_beta/staging-3269cc4",
+	"Version": "2.3.1034",
+	"InformationalVersion": "2.3.1034-Debug-rust_beta/staging-bf5aa55",
 	"Protocol": "2026.02.05.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "3269cc412348dc1bba5f1feaa399afcbd3188450",
-		"HashShort": "3269cc4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3269cc412348dc1bba5f1feaa399afcbd3188450",
+		"HashLong": "bf5aa5559eee42e0c1a06d688cb06eda2ad70a2f",
+		"HashShort": "bf5aa55",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bf5aa5559eee42e0c1a06d688cb06eda2ad70a2f",
 		"Author": "raul",
-		"Comment": "Submodule++",
+		"Comment": "Attempt to fix `error while unpatching hook` errors",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-01-24 17:50:04 +0100"
+		"Date": "2026-01-25 19:36:23 +0100"
 	}
 }
