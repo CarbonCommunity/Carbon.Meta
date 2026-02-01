@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1052",
-	"InformationalVersion": "2.1.1052-Debug-develop-bfa2c4f",
+	"Version": "2.1.1054",
+	"InformationalVersion": "2.1.1054-Debug-develop-e257a44",
 	"Protocol": "2026.01.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "bfa2c4f5244779a139bdc1cdbf8e7d401acbe281",
-		"HashShort": "bfa2c4f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bfa2c4f5244779a139bdc1cdbf8e7d401acbe281",
+		"HashLong": "e257a44d8ce8faf91920b482aa0fa3ff0204d8d3",
+		"HashShort": "e257a44",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e257a44d8ce8faf91920b482aa0fa3ff0204d8d3",
 		"Author": "evs-ptr",
-		"Comment": "Submodules++",
+		"Comment": "Merge branch 'tests/sql_perms' into develop",
 		"Tag": "edge_build",
-		"Date": "2026-01-31 20:50:12 +0500"
+		"Date": "2026-02-01 18:10:55 +0500"
 	}
 }
