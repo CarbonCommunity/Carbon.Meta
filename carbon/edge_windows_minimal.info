@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1063",
-	"InformationalVersion": "2.1.1063-Minimal-develop-153561e",
+	"Version": "2.1.1064",
+	"InformationalVersion": "2.1.1064-Minimal-develop-3cc1fb5",
 	"Protocol": "2026.02.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "153561e1aaea6382691a97ab15a2dd36b79a992f",
-		"HashShort": "153561e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/153561e1aaea6382691a97ab15a2dd36b79a992f",
+		"HashLong": "3cc1fb575e7f2ba0ed72a263529e06095c3ba301",
+		"HashShort": "3cc1fb5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3cc1fb575e7f2ba0ed72a263529e06095c3ba301",
 		"Author": "raul",
-		"Comment": "Default Carbon CLI build tests to use `release` branch",
+		"Comment": "Okay turns out the release branch crashes for now, fallback staging",
 		"Tag": "edge_build",
-		"Date": "2026-02-04 04:03:46 +0100"
+		"Date": "2026-02-04 04:12:25 +0100"
 	}
 }
