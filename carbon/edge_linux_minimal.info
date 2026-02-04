@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1062",
-	"InformationalVersion": "2.1.1062-MinimalUnix-develop-7fd75c2",
+	"Version": "2.1.1063",
+	"InformationalVersion": "2.1.1063-MinimalUnix-develop-153561e",
 	"Protocol": "2026.02.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "7fd75c29780db666a606028b9dbd1f815c6d1e83",
-		"HashShort": "7fd75c2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7fd75c29780db666a606028b9dbd1f815c6d1e83",
+		"HashLong": "153561e1aaea6382691a97ab15a2dd36b79a992f",
+		"HashShort": "153561e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/153561e1aaea6382691a97ab15a2dd36b79a992f",
 		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/staging' into develop",
+		"Comment": "Default Carbon CLI build tests to use `release` branch",
 		"Tag": "edge_build",
-		"Date": "2026-02-04 03:54:32 +0100"
+		"Date": "2026-02-04 04:03:46 +0100"
 	}
 }
