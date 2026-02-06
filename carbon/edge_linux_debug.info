@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1077",
+	"InformationalVersion": "2.1.1077-DebugUnix-develop-db15e9a",
+	"Protocol": "2026.02.05.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "db15e9a7b8b7af8bfc8371ada21a5d12fe541455",
+		"HashShort": "db15e9a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/db15e9a7b8b7af8bfc8371ada21a5d12fe541455",
+		"Author": "raul",
+		"Comment": "Modules++",
+		"Tag": "edge_build",
+		"Date": "2026-02-06 10:43:07 +0100"
+	}
+}
