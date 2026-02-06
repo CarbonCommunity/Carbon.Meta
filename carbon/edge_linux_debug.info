@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1074",
-	"InformationalVersion": "2.1.1074-DebugUnix-develop-9db5b84",
-	"Protocol": "2026.02.05.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "9db5b84a9c49414a172ff4c1f6729e4620950562",
-		"HashShort": "9db5b84",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9db5b84a9c49414a172ff4c1f6729e4620950562",
-		"Author": "evs-ptr",
-		"Comment": "Submodules++ (MySql)",
-		"Tag": "edge_build",
-		"Date": "2026-02-06 13:06:13 +0500"
-	}
-}
+Not Found
