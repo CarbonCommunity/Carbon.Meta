@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1082",
-	"InformationalVersion": "2.1.1082-DebugUnix-develop-4037f98",
-	"Protocol": "2026.02.05.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "4037f98fca9589d5cc662a863148f65fa725b3e1",
-		"HashShort": "4037f98",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4037f98fca9589d5cc662a863148f65fa725b3e1",
-		"Author": "raul",
-		"Comment": "Common++",
-		"Tag": "edge_build",
-		"Date": "2026-02-07 14:29:36 +0100"
-	}
-}
+Not Found
