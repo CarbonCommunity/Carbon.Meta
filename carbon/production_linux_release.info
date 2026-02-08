@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.231",
-	"InformationalVersion": "2.0.231-ReleaseUnix-production-6c94d8f",
-	"Protocol": "2026.02.05.0",
+	"Version": "2.0.232",
+	"InformationalVersion": "2.0.232-ReleaseUnix-production-349e2b4",
+	"Protocol": "2026.02.05.1",
 	"Platform": "Linux",
 	"Config": "ReleaseUnix",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "6c94d8f9e75ab4152e09b70c4e58cb3f4de1a4be",
-		"HashShort": "6c94d8f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6c94d8f9e75ab4152e09b70c4e58cb3f4de1a4be",
+		"HashLong": "349e2b49921aaa138888b6050fb655873c018924",
+		"HashShort": "349e2b4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/349e2b49921aaa138888b6050fb655873c018924",
 		"Author": "raul",
-		"Comment": "Merge branch 'develop' into production",
+		"Comment": "Merge branch 'rust_beta/staging' into production",
 		"Tag": "production_build",
-		"Date": "2026-02-07 15:11:01 +0100"
+		"Date": "2026-02-08 15:38:49 +0100"
 	}
 }
