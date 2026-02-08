@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1072",
-	"InformationalVersion": "2.3.1072-Minimal-rust_beta/staging-bda62bb",
+	"Version": "2.3.1073",
+	"InformationalVersion": "2.3.1073-Minimal-rust_beta/staging-bda62bb",
 	"Protocol": "2026.02.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
