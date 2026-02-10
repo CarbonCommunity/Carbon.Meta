@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1089",
-	"InformationalVersion": "2.1.1089-Debug-develop-ff60db5",
+	"Version": "2.1.1090",
+	"InformationalVersion": "2.1.1090-Debug-develop-bb0787c",
 	"Protocol": "2026.02.05.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ff60db5c4fcdaa0bd4b98cb6eb613a28010930b2",
-		"HashShort": "ff60db5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ff60db5c4fcdaa0bd4b98cb6eb613a28010930b2",
+		"HashLong": "bb0787cbc59f9b5a692c5243ac029612ce5784de",
+		"HashShort": "bb0787c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bb0787cbc59f9b5a692c5243ac029612ce5784de",
 		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/staging' into develop",
+		"Comment": "Switched hook call plugin iteration  from `foreach` to for Submodules++",
 		"Tag": "edge_build",
-		"Date": "2026-02-09 17:34:53 +0100"
+		"Date": "2026-02-10 04:10:15 +0100"
 	}
 }
