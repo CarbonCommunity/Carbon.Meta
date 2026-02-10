@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1091",
-	"InformationalVersion": "2.1.1091-Debug-develop-e25d880",
+	"Version": "2.1.1092",
+	"InformationalVersion": "2.1.1092-Debug-develop-1471a66",
 	"Protocol": "2026.02.05.2",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "e25d88093c4dd1667568bfed2fb1108c7fb760bf",
-		"HashShort": "e25d880",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e25d88093c4dd1667568bfed2fb1108c7fb760bf",
+		"HashLong": "1471a6662afe4b4ea5771f570299b4ba2915068e",
+		"HashShort": "1471a66",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1471a6662afe4b4ea5771f570299b4ba2915068e",
 		"Author": "raul",
-		"Comment": "Protocol++",
+		"Comment": "Made ""Error while unpatching hook"" an optional DEBUG build-only log as it only triggers to hook dependency cascade scenarios, with no breaking issues whatsoever",
 		"Tag": "edge_build",
-		"Date": "2026-02-10 05:30:07 +0100"
+		"Date": "2026-02-10 13:26:12 +0100"
 	}
 }
