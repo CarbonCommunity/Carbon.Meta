@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1090",
-	"InformationalVersion": "2.1.1090-DebugUnix-develop-bb0787c",
-	"Protocol": "2026.02.05.1",
+	"Version": "2.1.1091",
+	"InformationalVersion": "2.1.1091-DebugUnix-develop-e25d880",
+	"Protocol": "2026.02.05.2",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "bb0787cbc59f9b5a692c5243ac029612ce5784de",
-		"HashShort": "bb0787c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bb0787cbc59f9b5a692c5243ac029612ce5784de",
+		"HashLong": "e25d88093c4dd1667568bfed2fb1108c7fb760bf",
+		"HashShort": "e25d880",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e25d88093c4dd1667568bfed2fb1108c7fb760bf",
 		"Author": "raul",
-		"Comment": "Switched hook call plugin iteration  from `foreach` to for Submodules++",
+		"Comment": "Protocol++",
 		"Tag": "edge_build",
-		"Date": "2026-02-10 04:10:15 +0100"
+		"Date": "2026-02-10 05:30:07 +0100"
 	}
 }
