@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1083",
-	"InformationalVersion": "2.3.1083-Minimal-rust_beta/staging-da9b983",
+	"Version": "2.3.1084",
+	"InformationalVersion": "2.3.1084-Minimal-rust_beta/staging-da9b983",
 	"Protocol": "2026.02.05.2",
 	"Platform": "Windows",
 	"Config": "Minimal",
