@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1083",
+	"InformationalVersion": "2.3.1083-Debug-rust_beta/staging-da9b983",
+	"Protocol": "2026.02.05.2",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "da9b983fe672ab2d7a3d80e67f314200e33112c2",
+		"HashShort": "da9b983",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/da9b983fe672ab2d7a3d80e67f314200e33112c2",
+		"Author": "raul",
+		"Comment": "Merge branch 'develop' into rust_beta/staging",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-02-11 17:45:16 +0100"
+	}
+}
