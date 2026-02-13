@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1095",
-	"InformationalVersion": "2.1.1095-Debug-develop-474114f",
+	"Version": "2.1.1096",
+	"InformationalVersion": "2.1.1096-Debug-develop-d104cc2",
 	"Protocol": "2026.02.05.2",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "474114ff61fc0551427e5632ffe38a4ade9bd96f",
-		"HashShort": "474114f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/474114ff61fc0551427e5632ffe38a4ade9bd96f",
+		"HashLong": "d104cc23f02449a55e5f4babb40947e8c8121895",
+		"HashShort": "d104cc2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d104cc23f02449a55e5f4babb40947e8c8121895",
 		"Author": "raul",
-		"Comment": "Brief optimisations to the generator Improved hook method overload scoring (inheritance type validations)",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2026-02-12 21:20:26 +0100"
+		"Date": "2026-02-14 00:21:17 +0100"
 	}
 }
