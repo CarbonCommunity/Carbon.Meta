@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1097",
-	"InformationalVersion": "2.1.1097-Minimal-develop-01dda51",
+	"Version": "2.1.1099",
+	"InformationalVersion": "2.1.1099-Minimal-develop-a93b1e0",
 	"Protocol": "2026.02.05.2",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "01dda5158ad294dcbb3e28ecfbe9b37395b1a9b9",
-		"HashShort": "01dda51",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/01dda5158ad294dcbb3e28ecfbe9b37395b1a9b9",
+		"HashLong": "a93b1e0d3c11cb829adcc8f0f38af2cac5b0b468",
+		"HashShort": "a93b1e0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a93b1e0d3c11cb829adcc8f0f38af2cac5b0b468",
 		"Author": "raul",
-		"Comment": "Updated submodule Carbon.Core/Carbon.Hooks/Carbon.Hooks.Internal",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2026-02-15 04:14:04 +0100"
+		"Date": "2026-02-15 20:55:01 +0100"
 	}
 }
