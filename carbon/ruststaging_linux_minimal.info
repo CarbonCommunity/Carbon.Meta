@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1089",
-	"InformationalVersion": "2.3.1089-MinimalUnix-rust_beta/staging-4d17a20",
-	"Protocol": "2026.02.05.2",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "4d17a204034c5e6d6f928dd2783682925332fdc0",
-		"HashShort": "4d17a20",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4d17a204034c5e6d6f928dd2783682925332fdc0",
-		"Author": "raul",
-		"Comment": "Merge branch 'develop' into rust_beta/staging",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-02-12 23:27:52 +0100"
-	}
-}
+upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
