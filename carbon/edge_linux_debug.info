@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1107",
-	"InformationalVersion": "2.1.1107-DebugUnix-develop-bda89fd",
+	"Version": "2.1.1108",
+	"InformationalVersion": "2.1.1108-DebugUnix-develop-2e2fb06",
 	"Protocol": "2026.02.05.2",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "bda89fda57f3415e1144f39e52a355e1ac3ef4ab",
-		"HashShort": "bda89fd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bda89fda57f3415e1144f39e52a355e1ac3ef4ab",
+		"HashLong": "2e2fb06b377b5efb587e0f9d82970f25dc262272",
+		"HashShort": "2e2fb06",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2e2fb06b377b5efb587e0f9d82970f25dc262272",
 		"Author": "raul",
-		"Comment": "Reapply ""Merge remote-tracking branch 'origin/develop' into develop""  This reverts commit a11e70e76d71657588e3180ff41dfd3aa51f2d30.",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2026-02-19 00:47:02 +0100"
+		"Date": "2026-02-19 00:55:35 +0100"
 	}
 }
