@@ -1,6 +1,6 @@
 {
-	"Version": "2.1.1114",
-	"InformationalVersion": "2.1.1114-MinimalUnix-develop-6db2622",
+	"Version": "2.1.1115",
+	"InformationalVersion": "2.1.1115-MinimalUnix-develop-6db2622",
 	"Protocol": "2026.02.05.2",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
