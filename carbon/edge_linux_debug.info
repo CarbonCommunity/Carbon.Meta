@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1114",
+	"InformationalVersion": "2.1.1114-DebugUnix-develop-6db2622",
+	"Protocol": "2026.02.05.2",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "develop",
+		"HashLong": "6db2622767b04d53f8ae073c8527b098630609bd",
+		"HashShort": "6db2622",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6db2622767b04d53f8ae073c8527b098630609bd",
+		"Author": "raul",
+		"Comment": "Run tests on `release` branch by default",
+		"Tag": "edge_build",
+		"Date": "2026-02-23 22:13:45 +0100"
+	}
+}
