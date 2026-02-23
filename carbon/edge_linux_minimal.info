@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1110",
-	"InformationalVersion": "2.1.1110-MinimalUnix-develop-4f212ab",
+	"Version": "2.1.1112",
+	"InformationalVersion": "2.1.1112-MinimalUnix-develop-a1f251e",
 	"Protocol": "2026.02.05.2",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "4f212abcd082b80cac99858caeb15b39c4848820",
-		"HashShort": "4f212ab",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4f212abcd082b80cac99858caeb15b39c4848820",
+		"HashLong": "a1f251ee51b3cf6b878b5ee1da89cf0e4f6450c1",
+		"HashShort": "a1f251e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a1f251ee51b3cf6b878b5ee1da89cf0e4f6450c1",
 		"Author": "raul",
-		"Comment": "Final fixes for Oven multiplier",
+		"Comment": "Common++",
 		"Tag": "edge_build",
-		"Date": "2026-02-20 00:07:38 +0100"
+		"Date": "2026-02-23 11:25:43 +0100"
 	}
 }
