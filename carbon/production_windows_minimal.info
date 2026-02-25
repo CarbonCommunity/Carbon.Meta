@@ -1,17 +1,1 @@
-{
-	"Version": "2.0.237",
-	"InformationalVersion": "2.0.237-Minimal-production-1a2578e",
-	"Protocol": "2026.02.05.2",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "production",
-		"HashLong": "1a2578e8836f2b0e84d361cfcb589012c164d1e2",
-		"HashShort": "1a2578e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1a2578e8836f2b0e84d361cfcb589012c164d1e2",
-		"Author": "raul",
-		"Comment": "Merge branch 'develop' into production",
-		"Tag": "production_build",
-		"Date": "2026-02-19 00:57:16 +0100"
-	}
-}
+Not Found
