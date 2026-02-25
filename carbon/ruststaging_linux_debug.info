@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1114",
-	"InformationalVersion": "2.3.1114-DebugUnix-rust_beta/staging-afc5816",
+	"Version": "2.3.1115",
+	"InformationalVersion": "2.3.1115-DebugUnix-rust_beta/staging-afc5816",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
