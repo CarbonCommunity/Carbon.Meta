@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1123",
-	"InformationalVersion": "2.3.1123-Debug-rust_beta/staging-5f3dc4e",
+	"Version": "2.3.1124",
+	"InformationalVersion": "2.3.1124-Debug-rust_beta/staging-a685528",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "5f3dc4eb069dd4924b67728e609ace65a10f0a20",
-		"HashShort": "5f3dc4e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5f3dc4eb069dd4924b67728e609ace65a10f0a20",
-		"Author": "evs-ptr",
-		"Comment": "`build.cs` make `-norestore` as optional arg, otherwise always restore",
+		"HashLong": "a68552848e561b24b3e581105dc7b501ee5f6dcd",
+		"HashShort": "a685528",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a68552848e561b24b3e581105dc7b501ee5f6dcd",
+		"Author": "raul",
+		"Comment": "Revert ""Removed Carbon.Common and Carbon.SDK from Roslyn compiler""  This reverts commit aecbc2afc41ecc25fcd071e1c4994f12c50f585e.",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-01 22:48:25 +0500"
+		"Date": "2026-03-01 20:55:48 +0100"
 	}
 }
