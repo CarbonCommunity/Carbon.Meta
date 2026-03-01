@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1120",
-	"InformationalVersion": "2.3.1120-MinimalUnix-rust_beta/staging-ac9b7bb",
+	"Version": "2.3.1122",
+	"InformationalVersion": "2.3.1122-MinimalUnix-rust_beta/staging-5f3dc4e",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "ac9b7bb1b3f80f771e573cdedbffeddd76d2f8b5",
-		"HashShort": "ac9b7bb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ac9b7bb1b3f80f771e573cdedbffeddd76d2f8b5",
-		"Author": "raul",
-		"Comment": "Ship project documentation with the debug builds",
+		"HashLong": "5f3dc4eb069dd4924b67728e609ace65a10f0a20",
+		"HashShort": "5f3dc4e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5f3dc4eb069dd4924b67728e609ace65a10f0a20",
+		"Author": "evs-ptr",
+		"Comment": "`build.cs` make `-norestore` as optional arg, otherwise always restore",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-02-27 17:43:23 +0100"
+		"Date": "2026-03-01 22:48:25 +0500"
 	}
 }
