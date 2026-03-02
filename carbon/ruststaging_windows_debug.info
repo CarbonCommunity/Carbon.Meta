@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1124",
-	"InformationalVersion": "2.3.1124-Debug-rust_beta/staging-a685528",
-	"Protocol": "2026.03.05.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "a68552848e561b24b3e581105dc7b501ee5f6dcd",
-		"HashShort": "a685528",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a68552848e561b24b3e581105dc7b501ee5f6dcd",
-		"Author": "raul",
-		"Comment": "Revert ""Removed Carbon.Common and Carbon.SDK from Roslyn compiler""  This reverts commit aecbc2afc41ecc25fcd071e1c4994f12c50f585e.",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-01 20:55:48 +0100"
-	}
-}
+Not Found
