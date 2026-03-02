@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1123",
-	"InformationalVersion": "2.1.1123-Debug-develop-7aadc01",
-	"Protocol": "2026.02.05.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "7aadc01b5c11f87a4ad2d7872fcab73027da5c84",
-		"HashShort": "7aadc01",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7aadc01b5c11f87a4ad2d7872fcab73027da5c84",
-		"Author": "raul",
-		"Comment": "Last project restructure touches",
-		"Tag": "edge_build",
-		"Date": "2026-03-02 12:14:30 +0100"
-	}
-}
+upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
