@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1122",
-	"InformationalVersion": "2.1.1122-DebugUnix-develop-c876b57",
+	"Version": "2.1.1123",
+	"InformationalVersion": "2.1.1123-DebugUnix-develop-7aadc01",
 	"Protocol": "2026.02.05.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "c876b57a12ae302ed294abdf56909e2931960514",
-		"HashShort": "c876b57",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c876b57a12ae302ed294abdf56909e2931960514",
+		"HashLong": "7aadc01b5c11f87a4ad2d7872fcab73027da5c84",
+		"HashShort": "7aadc01",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7aadc01b5c11f87a4ad2d7872fcab73027da5c84",
 		"Author": "raul",
-		"Comment": "Reverted staging branch protocol to public protocol (due to merge, revert this on wipe day)",
+		"Comment": "Last project restructure touches",
 		"Tag": "edge_build",
-		"Date": "2026-03-02 11:58:50 +0100"
+		"Date": "2026-03-02 12:14:30 +0100"
 	}
 }
