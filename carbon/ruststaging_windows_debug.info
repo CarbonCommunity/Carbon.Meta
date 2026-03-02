@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1138",
+	"InformationalVersion": "2.3.1138-Debug-rust_beta/staging-26374ce",
+	"Protocol": "2026.03.05.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "26374ce8ae1d7537e994ae2f105ca5dd67e5d8b6",
+		"HashShort": "26374ce",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/26374ce8ae1d7537e994ae2f105ca5dd67e5d8b6",
+		"Author": "raul",
+		"Comment": "Fix for git runner path",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-03-02 11:14:07 +0100"
+	}
+}
