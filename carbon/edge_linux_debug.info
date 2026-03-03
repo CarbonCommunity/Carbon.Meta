@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1127",
-	"InformationalVersion": "2.1.1127-DebugUnix-develop-2725736",
-	"Protocol": "2026.03.05.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "27257363b8678abf242d597d25904c6974b7a715",
-		"HashShort": "2725736",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/27257363b8678abf242d597d25904c6974b7a715",
-		"Author": "raul",
-		"Comment": "Fixed Build code gen not handling escaping quotes properly",
-		"Tag": "edge_build",
-		"Date": "2026-03-03 12:02:23 +0100"
-	}
-}
+Not Found

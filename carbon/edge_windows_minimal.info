@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1127",
-	"InformationalVersion": "2.1.1127-Minimal-develop-2725736",
+	"Version": "2.1.1128",
+	"InformationalVersion": "2.1.1128-Minimal-develop-e398260",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "27257363b8678abf242d597d25904c6974b7a715",
-		"HashShort": "2725736",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/27257363b8678abf242d597d25904c6974b7a715",
-		"Author": "raul",
-		"Comment": "Fixed Build code gen not handling escaping quotes properly",
+		"HashLong": "e398260a2235009d3e93bfbca971d0a80591dacc",
+		"HashShort": "e398260",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e398260a2235009d3e93bfbca971d0a80591dacc",
+		"Author": "evs-ptr",
+		"Comment": "Remove `*-Generated.cs` files from vcs  Were brought by https://github.com/CarbonCommunity/Carbon/commit/81ab35feb36eceeb1f8ff391b40260bbf499121d",
 		"Tag": "edge_build",
-		"Date": "2026-03-03 12:02:23 +0100"
+		"Date": "2026-03-03 17:56:58 +0500"
 	}
 }
