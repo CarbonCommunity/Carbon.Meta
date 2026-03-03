@@ -1,1 +1,17 @@
-upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
+{
+	"Version": "2.3.1142",
+	"InformationalVersion": "2.3.1142-DebugUnix-rust_beta/staging-6e346dc",
+	"Protocol": "2026.03.05.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "6e346dc5dfa6d37bf9be6953e3c1c8ab120c777b",
+		"HashShort": "6e346dc",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6e346dc5dfa6d37bf9be6953e3c1c8ab120c777b",
+		"Author": "raul",
+		"Comment": "Escape chat message richtext",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-03-03 00:30:22 +0100"
+	}
+}
