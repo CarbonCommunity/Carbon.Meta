@@ -1,17 +1,1 @@
-{
-	"Version": "2.2.144",
-	"InformationalVersion": "2.2.144-Debug-preview-579fd05",
-	"Protocol": "2026.02.05.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "preview",
-		"HashLong": "579fd0528b78efdc5759922cf77285c048e6ebad",
-		"HashShort": "579fd05",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/579fd0528b78efdc5759922cf77285c048e6ebad",
-		"Author": "raul",
-		"Comment": "Merge branch 'develop' into preview",
-		"Tag": "preview_build",
-		"Date": "2026-02-05 15:47:29 +0100"
-	}
-}
+upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
