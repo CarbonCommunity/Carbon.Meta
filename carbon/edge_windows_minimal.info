@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1128",
-	"InformationalVersion": "2.1.1128-Minimal-develop-e398260",
+	"Version": "2.1.1129",
+	"InformationalVersion": "2.1.1129-Minimal-develop-6028204",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "e398260a2235009d3e93bfbca971d0a80591dacc",
-		"HashShort": "e398260",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e398260a2235009d3e93bfbca971d0a80591dacc",
-		"Author": "evs-ptr",
-		"Comment": "Remove `*-Generated.cs` files from vcs  Were brought by https://github.com/CarbonCommunity/Carbon/commit/81ab35feb36eceeb1f8ff391b40260bbf499121d",
+		"HashLong": "602820476a21bd4d0a5132502bd14ab9d75426bb",
+		"HashShort": "6028204",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/602820476a21bd4d0a5132502bd14ab9d75426bb",
+		"Author": "raul",
+		"Comment": "Merge branch 'rust_beta/staging' into develop",
 		"Tag": "edge_build",
-		"Date": "2026-03-03 17:56:58 +0500"
+		"Date": "2026-03-05 15:56:30 +0100"
 	}
 }
