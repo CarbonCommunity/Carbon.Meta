@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1128",
-	"InformationalVersion": "2.1.1128-DebugUnix-develop-e398260",
-	"Protocol": "2026.03.05.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "e398260a2235009d3e93bfbca971d0a80591dacc",
-		"HashShort": "e398260",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e398260a2235009d3e93bfbca971d0a80591dacc",
-		"Author": "evs-ptr",
-		"Comment": "Remove `*-Generated.cs` files from vcs  Were brought by https://github.com/CarbonCommunity/Carbon/commit/81ab35feb36eceeb1f8ff391b40260bbf499121d",
-		"Tag": "edge_build",
-		"Date": "2026-03-03 17:56:58 +0500"
-	}
-}
+upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
