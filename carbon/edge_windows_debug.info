@@ -1,6 +1,6 @@
 {
-	"Version": "2.1.1130",
-	"InformationalVersion": "2.1.1130-Debug-develop-7acd6e3",
+	"Version": "2.1.1131",
+	"InformationalVersion": "2.1.1131-Debug-develop-7acd6e3",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Windows",
 	"Config": "Debug",
