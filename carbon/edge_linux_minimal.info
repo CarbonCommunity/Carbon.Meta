@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1135",
-	"InformationalVersion": "2.1.1135-MinimalUnix-develop-e837f0b",
+	"Version": "2.1.1136",
+	"InformationalVersion": "2.1.1136-MinimalUnix-develop-3a2f0ed",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "e837f0b2d99c781c953e1b1c790eac50452e728f",
-		"HashShort": "e837f0b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e837f0b2d99c781c953e1b1c790eac50452e728f",
-		"Author": "evs-ptr",
-		"Comment": "Hooks.Base++",
+		"HashLong": "3a2f0ed7dc54019cf0d075cd378076beb58422c1",
+		"HashShort": "3a2f0ed",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3a2f0ed7dc54019cf0d075cd378076beb58422c1",
+		"Author": "raul",
+		"Comment": "Updated `c.createplugin` plugin class to be partial",
 		"Tag": "edge_build",
-		"Date": "2026-03-11 17:11:40 +0500"
+		"Date": "2026-03-11 15:11:00 +0100"
 	}
 }
