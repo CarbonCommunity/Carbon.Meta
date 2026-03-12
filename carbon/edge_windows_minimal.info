@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1137",
-	"InformationalVersion": "2.1.1137-Minimal-develop-6edcb10",
+	"Version": "2.1.1138",
+	"InformationalVersion": "2.1.1138-Minimal-develop-8ba9ee4",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "6edcb100d8cf0b8552c20c17a02cc78bd14054f9",
-		"HashShort": "6edcb10",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6edcb100d8cf0b8552c20c17a02cc78bd14054f9",
+		"HashLong": "8ba9ee46b0709dda6cf954997ab68dd61c2ad8e7",
+		"HashShort": "8ba9ee4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8ba9ee46b0709dda6cf954997ab68dd61c2ad8e7",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #91 from WeirdPhrog/develop",
+		"Comment": "Hooks.Base++",
 		"Tag": "edge_build",
-		"Date": "2026-03-12 19:12:47 +0500"
+		"Date": "2026-03-12 19:22:07 +0500"
 	}
 }
