@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1159",
-	"InformationalVersion": "2.3.1159-MinimalUnix-rust_beta/staging-ed131eb",
+	"Version": "2.3.1160",
+	"InformationalVersion": "2.3.1160-MinimalUnix-rust_beta/staging-90f7dd9",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "ed131eb34645a91351df03f366ddff08929bf136",
-		"HashShort": "ed131eb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed131eb34645a91351df03f366ddff08929bf136",
+		"HashLong": "90f7dd92594a25f4e3b0381ac8569cdd3d50f58f",
+		"HashShort": "90f7dd9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/90f7dd92594a25f4e3b0381ac8569cdd3d50f58f",
 		"Author": "raul",
-		"Comment": "Added WebControlPanel max connections (500) and max connections per IP (5) configuration - defaults to the Facepunch defined ones",
+		"Comment": "Manually merged `perf/better_command_and_args_extraction_logic` into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-13 20:11:16 +0100"
+		"Date": "2026-03-13 21:01:37 +0100"
 	}
 }
