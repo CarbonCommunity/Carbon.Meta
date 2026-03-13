@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1156",
-	"InformationalVersion": "2.3.1156-DebugUnix-rust_beta/staging-742906b",
+	"Version": "2.3.1158",
+	"InformationalVersion": "2.3.1158-DebugUnix-rust_beta/staging-ed131eb",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "742906b91c2b4ccbaccd7e4f9c37308199d2f37d",
-		"HashShort": "742906b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/742906b91c2b4ccbaccd7e4f9c37308199d2f37d",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch 'develop' into rust_beta/staging  # Conflicts: #	src/Carbon.Components/Carbon.SDK/src/Commands/Classes/Command.cs",
+		"HashLong": "ed131eb34645a91351df03f366ddff08929bf136",
+		"HashShort": "ed131eb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed131eb34645a91351df03f366ddff08929bf136",
+		"Author": "raul",
+		"Comment": "Added WebControlPanel max connections (500) and max connections per IP (5) configuration - defaults to the Facepunch defined ones",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-12 19:23:36 +0500"
+		"Date": "2026-03-13 20:11:16 +0100"
 	}
 }
