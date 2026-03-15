@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1161",
-	"InformationalVersion": "2.3.1161-Debug-rust_beta/staging-90f7dd9",
-	"Protocol": "2026.04.02.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "90f7dd92594a25f4e3b0381ac8569cdd3d50f58f",
-		"HashShort": "90f7dd9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/90f7dd92594a25f4e3b0381ac8569cdd3d50f58f",
-		"Author": "raul",
-		"Comment": "Manually merged `perf/better_command_and_args_extraction_logic` into rust_beta/staging",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-13 21:01:37 +0100"
-	}
-}
+Not Found
