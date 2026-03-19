@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1171",
-	"InformationalVersion": "2.3.1171-Minimal-rust_beta/staging-f202aa8",
+	"Version": "2.3.1172",
+	"InformationalVersion": "2.3.1172-Minimal-rust_beta/staging-f202aa8",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
