@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1138",
-	"InformationalVersion": "2.1.1138-DebugUnix-develop-8ba9ee4",
+	"Version": "2.1.1139",
+	"InformationalVersion": "2.1.1139-DebugUnix-develop-ea51360",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "8ba9ee46b0709dda6cf954997ab68dd61c2ad8e7",
-		"HashShort": "8ba9ee4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8ba9ee46b0709dda6cf954997ab68dd61c2ad8e7",
+		"HashLong": "ea51360c3c6eb3ef91a80ab1101d050dcd46516e",
+		"HashShort": "ea51360",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ea51360c3c6eb3ef91a80ab1101d050dcd46516e",
 		"Author": "evs-ptr",
-		"Comment": "Hooks.Base++",
+		"Comment": "`common-build.yml` get rid of `NETSDK1194` warning",
 		"Tag": "edge_build",
-		"Date": "2026-03-12 19:22:07 +0500"
+		"Date": "2026-03-19 09:32:18 +0500"
 	}
 }
