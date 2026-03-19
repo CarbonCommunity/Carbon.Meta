@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1167",
-	"InformationalVersion": "2.3.1167-MinimalUnix-rust_beta/staging-52341d1",
+	"Version": "2.3.1168",
+	"InformationalVersion": "2.3.1168-MinimalUnix-rust_beta/staging-9f970d0",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "52341d1ba4784b403b8e401edd7c19cd3388cd8d",
-		"HashShort": "52341d1",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52341d1ba4784b403b8e401edd7c19cd3388cd8d",
-		"Author": "evs-ptr",
-		"Comment": "Modules++",
+		"HashLong": "9f970d01240fb74f33eef791a6835a656d34988b",
+		"HashShort": "9f970d0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9f970d01240fb74f33eef791a6835a656d34988b",
+		"Author": "raul",
+		"Comment": "Publicize Fleck by default",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-19 09:07:15 +0500"
+		"Date": "2026-03-19 13:29:52 +0100"
 	}
 }
