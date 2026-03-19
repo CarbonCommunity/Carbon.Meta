@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1168",
-	"InformationalVersion": "2.3.1168-MinimalUnix-rust_beta/staging-9f970d0",
+	"Version": "2.3.1171",
+	"InformationalVersion": "2.3.1171-MinimalUnix-rust_beta/staging-f202aa8",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "9f970d01240fb74f33eef791a6835a656d34988b",
-		"HashShort": "9f970d0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9f970d01240fb74f33eef791a6835a656d34988b",
+		"HashLong": "f202aa8779f9074cae21221530b5b1fc2c1006ef",
+		"HashShort": "f202aa8",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f202aa8779f9074cae21221530b5b1fc2c1006ef",
 		"Author": "raul",
-		"Comment": "Publicize Fleck by default",
+		"Comment": "Merge branch 'update/carbon_unitask_2fp_replacement' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-19 13:29:52 +0100"
+		"Date": "2026-03-19 17:56:46 +0100"
 	}
 }
