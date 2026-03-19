@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1165",
-	"InformationalVersion": "2.3.1165-Debug-rust_beta/staging-3bd94dc",
+	"Version": "2.3.1167",
+	"InformationalVersion": "2.3.1167-Debug-rust_beta/staging-52341d1",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "3bd94dcdbc387d6b3d5bc36da9f6796b2017c5b9",
-		"HashShort": "3bd94dc",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3bd94dcdbc387d6b3d5bc36da9f6796b2017c5b9",
+		"HashLong": "52341d1ba4784b403b8e401edd7c19cd3388cd8d",
+		"HashShort": "52341d1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52341d1ba4784b403b8e401edd7c19cd3388cd8d",
 		"Author": "evs-ptr",
-		"Comment": "`AdminModule` remove Reload override hack",
+		"Comment": "Modules++",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-18 12:20:19 +0500"
+		"Date": "2026-03-19 09:07:15 +0500"
 	}
 }
