@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1139",
-	"InformationalVersion": "2.1.1139-Debug-develop-ea51360",
+	"Version": "2.1.1140",
+	"InformationalVersion": "2.1.1140-Debug-develop-b10b26f",
 	"Protocol": "2026.03.05.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ea51360c3c6eb3ef91a80ab1101d050dcd46516e",
-		"HashShort": "ea51360",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ea51360c3c6eb3ef91a80ab1101d050dcd46516e",
-		"Author": "evs-ptr",
-		"Comment": "`common-build.yml` get rid of `NETSDK1194` warning",
+		"HashLong": "b10b26f42f59c26403095ab43c1ecdb4f06e85c2",
+		"HashShort": "b10b26f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b10b26f42f59c26403095ab43c1ecdb4f06e85c2",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Build release hook build by default",
 		"Tag": "edge_build",
-		"Date": "2026-03-19 09:32:18 +0500"
+		"Date": "2026-03-19 17:44:11 +0100"
 	}
 }

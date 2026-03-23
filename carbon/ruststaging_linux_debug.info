@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1176",
+	"InformationalVersion": "2.3.1176-DebugUnix-rust_beta/staging-f956ef9",
+	"Protocol": "2026.04.02.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "f956ef914750ed91a55ebc7c29a9a4fdab02155d",
+		"HashShort": "f956ef9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f956ef914750ed91a55ebc7c29a9a4fdab02155d",
+		"Author": "evs-ptr",
+		"Comment": "Modules++",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-03-23 15:03:15 +0500"
+	}
+}
