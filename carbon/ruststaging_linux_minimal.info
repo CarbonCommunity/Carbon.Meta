@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1172",
-	"InformationalVersion": "2.3.1172-MinimalUnix-rust_beta/staging-f202aa8",
-	"Protocol": "2026.04.02.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "f202aa8779f9074cae21221530b5b1fc2c1006ef",
-		"HashShort": "f202aa8",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f202aa8779f9074cae21221530b5b1fc2c1006ef",
-		"Author": "raul",
-		"Comment": "Merge branch 'update/carbon_unitask_2fp_replacement' into rust_beta/staging",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-19 17:56:46 +0100"
-	}
-}
+upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused
