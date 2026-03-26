@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1180",
-	"InformationalVersion": "2.3.1180-MinimalUnix-rust_beta/staging-2bccffb",
-	"Protocol": "2026.04.02.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "2bccffbbb00916811b4550d4301b4023663b90ee",
-		"HashShort": "2bccffb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2bccffbbb00916811b4550d4301b4023663b90ee",
-		"Author": "evs-ptr",
-		"Comment": "Modules++",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-03-26 20:11:06 +0500"
-	}
-}
+Not Found
