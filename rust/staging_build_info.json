@@ -8,10 +8,10 @@
     "LongDate": 1774857232000
   },
   "Build": {
-    "Id": "1187",
-    "Number": "1187",
-    "Tag": "jenkins-Rust-Server-main-1187",
-    "Url": "https://build.facepunch.com/job/Rust-Server-main/1187/",
+    "Id": "1188",
+    "Number": "1188",
+    "Tag": "jenkins-Rust-Server-main-1188",
+    "Url": "https://build.facepunch.com/job/Rust-Server-main/1188/",
     "Name": "Rust-Server-main",
     "Node": "SVR-RUST-BS-01"
   },
