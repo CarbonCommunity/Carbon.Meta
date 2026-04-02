@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1140",
-	"InformationalVersion": "2.1.1140-MinimalUnix-develop-b10b26f",
-	"Protocol": "2026.03.05.0",
+	"Version": "2.1.1141",
+	"InformationalVersion": "2.1.1141-MinimalUnix-develop-ca258d2",
+	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "b10b26f42f59c26403095ab43c1ecdb4f06e85c2",
-		"HashShort": "b10b26f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b10b26f42f59c26403095ab43c1ecdb4f06e85c2",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Build release hook build by default",
+		"HashLong": "ca258d26455a0a037da3ce15c84acc7e52ba7c5c",
+		"HashShort": "ca258d2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ca258d26455a0a037da3ce15c84acc7e52ba7c5c",
+		"Author": "raul",
+		"Comment": "Merge branch 'rust_beta/staging' into develop",
 		"Tag": "edge_build",
-		"Date": "2026-03-19 17:44:11 +0100"
+		"Date": "2026-04-02 19:03:02 +0200"
 	}
 }
