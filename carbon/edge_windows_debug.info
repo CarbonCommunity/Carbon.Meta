@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1141",
-	"InformationalVersion": "2.1.1141-Debug-develop-ca258d2",
+	"Version": "2.1.1142",
+	"InformationalVersion": "2.1.1142-Debug-develop-e4bf52e",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "ca258d26455a0a037da3ce15c84acc7e52ba7c5c",
-		"HashShort": "ca258d2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ca258d26455a0a037da3ce15c84acc7e52ba7c5c",
+		"HashLong": "e4bf52e06f77d3085ec2d22fa25967c304268dd3",
+		"HashShort": "e4bf52e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e4bf52e06f77d3085ec2d22fa25967c304268dd3",
 		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/staging' into develop",
+		"Comment": "Merge branch 'hookcaller_use_stacks' into develop",
 		"Tag": "edge_build",
-		"Date": "2026-04-02 19:03:02 +0200"
+		"Date": "2026-04-03 13:20:35 +0200"
 	}
 }
