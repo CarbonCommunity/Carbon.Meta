@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1143",
-	"InformationalVersion": "2.1.1143-MinimalUnix-develop-d03ea4e",
+	"Version": "2.1.1144",
+	"InformationalVersion": "2.1.1144-MinimalUnix-develop-f8e0866",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d03ea4e8ec43606d39b6b0f1249803466225f488",
-		"HashShort": "d03ea4e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d03ea4e8ec43606d39b6b0f1249803466225f488",
-		"Author": "raul",
-		"Comment": "Merge branch 'submodule_stripping' into develop",
+		"HashLong": "f8e08669903aa9417be8c03f1099aae86d21e9ed",
+		"HashShort": "f8e0866",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f8e08669903aa9417be8c03f1099aae86d21e9ed",
+		"Author": "evs-ptr",
+		"Comment": "`Carbon.Hooks.Oxide` remove accidentally included generated hooks",
 		"Tag": "edge_build",
-		"Date": "2026-04-04 16:55:59 +0200"
+		"Date": "2026-04-04 21:28:10 +0500"
 	}
 }
