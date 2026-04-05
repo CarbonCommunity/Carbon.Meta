@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.145",
-	"InformationalVersion": "2.2.145-Minimal-preview-654ad90",
+	"Version": "2.2.146",
+	"InformationalVersion": "2.2.146-Minimal-preview-d898b1f",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "preview",
-		"HashLong": "654ad90f55355259d0c095a39c6ef9d7f71d9523",
-		"HashShort": "654ad90",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/654ad90f55355259d0c095a39c6ef9d7f71d9523",
+		"HashLong": "d898b1f6d2ebd14446892bb653d8a01e7bf6153c",
+		"HashShort": "d898b1f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d898b1f6d2ebd14446892bb653d8a01e7bf6153c",
 		"Author": "evs-ptr",
-		"Comment": "Merge branch 'use_source_generators' into preview",
+		"Comment": "Merge branch 'use_polysharp' into preview  # Conflicts: #	src/Carbon.sln",
 		"Tag": "preview_build",
-		"Date": "2026-04-05 16:46:28 +0500"
+		"Date": "2026-04-05 17:15:50 +0500"
 	}
 }
