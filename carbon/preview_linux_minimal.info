@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.144",
-	"InformationalVersion": "2.2.144-MinimalUnix-preview-579fd05",
-	"Protocol": "2026.02.05.0",
+	"Version": "2.2.145",
+	"InformationalVersion": "2.2.145-MinimalUnix-preview-654ad90",
+	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "preview",
-		"HashLong": "579fd0528b78efdc5759922cf77285c048e6ebad",
-		"HashShort": "579fd05",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/579fd0528b78efdc5759922cf77285c048e6ebad",
-		"Author": "raul",
-		"Comment": "Merge branch 'develop' into preview",
+		"HashLong": "654ad90f55355259d0c095a39c6ef9d7f71d9523",
+		"HashShort": "654ad90",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/654ad90f55355259d0c095a39c6ef9d7f71d9523",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'use_source_generators' into preview",
 		"Tag": "preview_build",
-		"Date": "2026-02-05 15:47:29 +0100"
+		"Date": "2026-04-05 16:46:28 +0500"
 	}
 }
