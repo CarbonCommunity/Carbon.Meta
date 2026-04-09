@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1198",
+	"InformationalVersion": "2.3.1198-Debug-rust_beta/staging-e0f928e",
+	"Protocol": "2026.04.02.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "e0f928e5beb13337587ddc42d53b843d8816d78a",
+		"HashShort": "e0f928e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e0f928e5beb13337587ddc42d53b843d8816d78a",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'use_polysharp' into rust_beta/staging",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-04-07 20:49:02 +0500"
+	}
+}
