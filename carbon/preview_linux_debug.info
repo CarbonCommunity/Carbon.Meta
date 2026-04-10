@@ -1,17 +1,17 @@
 {
-	"Version": "2.2.146",
-	"InformationalVersion": "2.2.146-DebugUnix-preview-d898b1f",
+	"Version": "2.2.147",
+	"InformationalVersion": "2.2.147-DebugUnix-preview-39a5cb5",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "preview",
-		"HashLong": "d898b1f6d2ebd14446892bb653d8a01e7bf6153c",
-		"HashShort": "d898b1f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d898b1f6d2ebd14446892bb653d8a01e7bf6153c",
+		"HashLong": "39a5cb5c11daad6552e9f38286ceb891a844e862",
+		"HashShort": "39a5cb5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/39a5cb5c11daad6552e9f38286ceb891a844e862",
 		"Author": "evs-ptr",
-		"Comment": "Merge branch 'use_polysharp' into preview  # Conflicts: #	src/Carbon.sln",
+		"Comment": "Merge branch 'develop' into preview",
 		"Tag": "preview_build",
-		"Date": "2026-04-05 17:15:50 +0500"
+		"Date": "2026-04-10 20:43:47 +0500"
 	}
 }
