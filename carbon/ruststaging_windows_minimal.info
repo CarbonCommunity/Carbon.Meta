@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1201",
+	"InformationalVersion": "2.3.1201-Minimal-rust_beta/staging-3f2e82e",
+	"Protocol": "2026.04.02.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "3f2e82e6e62bebfd28f3ff8c45ea398af8f95e53",
+		"HashShort": "3f2e82e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3f2e82e6e62bebfd28f3ff8c45ea398af8f95e53",
+		"Author": "raul",
+		"Comment": "Merge branch 'qol/adminmodule_allow_disable' into rust_beta/staging",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-04-09 23:37:57 +0200"
+	}
+}
