@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1201",
-	"InformationalVersion": "2.3.1201-DebugUnix-rust_beta/staging-3f2e82e",
-	"Protocol": "2026.04.02.0",
+	"Version": "2.3.1202",
+	"InformationalVersion": "2.3.1202-DebugUnix-rust_beta/staging-fae2116",
+	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "3f2e82e6e62bebfd28f3ff8c45ea398af8f95e53",
-		"HashShort": "3f2e82e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3f2e82e6e62bebfd28f3ff8c45ea398af8f95e53",
+		"HashLong": "fae211696bf885d6e6a82350026fd7e2880eba2c",
+		"HashShort": "fae2116",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/fae211696bf885d6e6a82350026fd7e2880eba2c",
 		"Author": "raul",
-		"Comment": "Merge branch 'qol/adminmodule_allow_disable' into rust_beta/staging",
+		"Comment": "Protocol++ (2026.05.07.0)",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-04-09 23:37:57 +0200"
+		"Date": "2026-04-12 17:00:32 +0200"
 	}
 }
