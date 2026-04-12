@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1202",
-	"InformationalVersion": "2.3.1202-Debug-rust_beta/staging-fae2116",
+	"Version": "2.3.1203",
+	"InformationalVersion": "2.3.1203-Debug-rust_beta/staging-fae2116",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
