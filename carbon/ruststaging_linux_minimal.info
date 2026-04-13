@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1203",
-	"InformationalVersion": "2.3.1203-MinimalUnix-rust_beta/staging-fae2116",
+	"Version": "2.3.1204",
+	"InformationalVersion": "2.3.1204-MinimalUnix-rust_beta/staging-fae2116",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
