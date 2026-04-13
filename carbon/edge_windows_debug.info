@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1145",
-	"InformationalVersion": "2.1.1145-Debug-develop-6a85d69",
+	"Version": "2.1.1146",
+	"InformationalVersion": "2.1.1146-Debug-develop-96763a9",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "6a85d69f630495ab83ae767ea8109482b8631239",
-		"HashShort": "6a85d69",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6a85d69f630495ab83ae767ea8109482b8631239",
+		"HashLong": "96763a953223839abea8953323b9b1d661a0c0be",
+		"HashShort": "96763a9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/96763a953223839abea8953323b9b1d661a0c0be",
 		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/staging' into develop",
+		"Comment": "Include msbuild files inside the main Carbon project (tidier having all the important files easily accessible without file explorer)  (cherry picked from commit 610c5c03a570bc1ca9a766e7a97e02f1f2e384fc)",
 		"Tag": "edge_build",
-		"Date": "2026-04-09 23:50:47 +0200"
+		"Date": "2026-04-14 01:11:17 +0200"
 	}
 }
