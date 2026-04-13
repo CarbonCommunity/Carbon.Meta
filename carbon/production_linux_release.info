@@ -1,17 +1,3 @@
-{
-	"Version": "2.0.241",
-	"InformationalVersion": "2.0.241-ReleaseUnix-production-87c1965",
-	"Protocol": "2026.04.02.0",
-	"Platform": "Linux",
-	"Config": "ReleaseUnix",
-	"Commit": {
-		"Branch": "production",
-		"HashLong": "87c196566466e21eae3a3e5b3db78c8af50a856e",
-		"HashShort": "87c1965",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/87c196566466e21eae3a3e5b3db78c8af50a856e",
-		"Author": "raul",
-		"Comment": "Merge branch 'develop' into production",
-		"Tag": "production_build",
-		"Date": "2026-04-03 13:23:25 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
