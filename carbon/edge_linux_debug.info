@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.1150",
-	"InformationalVersion": "2.1.1150-DebugUnix-develop-ecbcda0",
-	"Protocol": "2026.04.02.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "ecbcda01ec5154d638c82c0b09ee16dd0892dd54",
-		"HashShort": "ecbcda0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ecbcda01ec5154d638c82c0b09ee16dd0892dd54",
-		"Author": "raul",
-		"Comment": "Added build runners and os specific batch/bash files in the project Added workflows files in the project",
-		"Tag": "edge_build",
-		"Date": "2026-04-18 14:20:55 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
