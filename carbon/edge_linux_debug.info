@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1149",
-	"InformationalVersion": "2.1.1149-DebugUnix-develop-d73a622",
+	"Version": "2.1.1150",
+	"InformationalVersion": "2.1.1150-DebugUnix-develop-ecbcda0",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "d73a6223369d89d3a96b9592c8cb3e16d8e9c610",
-		"HashShort": "d73a622",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d73a6223369d89d3a96b9592c8cb3e16d8e9c610",
+		"HashLong": "ecbcda01ec5154d638c82c0b09ee16dd0892dd54",
+		"HashShort": "ecbcda0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ecbcda01ec5154d638c82c0b09ee16dd0892dd54",
 		"Author": "raul",
-		"Comment": "Temporary revert - brought back Polyfills",
+		"Comment": "Added build runners and os specific batch/bash files in the project Added workflows files in the project",
 		"Tag": "edge_build",
-		"Date": "2026-04-15 20:01:31 +0200"
+		"Date": "2026-04-18 14:20:55 +0200"
 	}
 }
