@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.1152",
-	"InformationalVersion": "2.1.1152-DebugUnix-develop-4930131",
-	"Protocol": "2026.04.02.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "develop",
-		"HashLong": "4930131ba0b53afebc63a739e56b49ac768519b9",
-		"HashShort": "4930131",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4930131ba0b53afebc63a739e56b49ac768519b9",
-		"Author": "raul",
-		"Comment": "Revert """"`VanishModule` compile fix due to staging change""""  This reverts commit 49bbfcf872ae127656ea47f35fe5e41348f42a9f.",
-		"Tag": "edge_build",
-		"Date": "2026-04-18 17:24:34 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
