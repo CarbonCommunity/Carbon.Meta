@@ -1,17 +1,3 @@
-{
-	"Version": "2.3.1211",
-	"InformationalVersion": "2.3.1211-DebugUnix-rust_beta/staging-de97e6f",
-	"Protocol": "2026.05.07.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "de97e6fa4830948de06a8d20069081ec4d29d12f",
-		"HashShort": "de97e6f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/de97e6fa4830948de06a8d20069081ec4d29d12f",
-		"Author": "evs-ptr",
-		"Comment": "`VanishModule` compile fix due to staging change",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-04-18 00:46:30 +0500"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
