@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1152",
-	"InformationalVersion": "2.1.1152-Debug-develop-4930131",
+	"Version": "2.1.1153",
+	"InformationalVersion": "2.1.1153-Debug-develop-adbcac5",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "4930131ba0b53afebc63a739e56b49ac768519b9",
-		"HashShort": "4930131",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4930131ba0b53afebc63a739e56b49ac768519b9",
+		"HashLong": "adbcac5a72b8ffc7dd609e19c384e95414838b95",
+		"HashShort": "adbcac5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/adbcac5a72b8ffc7dd609e19c384e95414838b95",
 		"Author": "raul",
-		"Comment": "Revert """"`VanishModule` compile fix due to staging change""""  This reverts commit 49bbfcf872ae127656ea47f35fe5e41348f42a9f.",
+		"Comment": "Added back expected Polyfills in the project solution",
 		"Tag": "edge_build",
-		"Date": "2026-04-18 17:24:34 +0200"
+		"Date": "2026-04-19 19:53:33 +0200"
 	}
 }
