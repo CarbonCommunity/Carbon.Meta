@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1153",
-	"InformationalVersion": "2.1.1153-MinimalUnix-develop-adbcac5",
+	"Version": "2.1.1154",
+	"InformationalVersion": "2.1.1154-MinimalUnix-develop-dcb4c21",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "develop",
-		"HashLong": "adbcac5a72b8ffc7dd609e19c384e95414838b95",
-		"HashShort": "adbcac5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/adbcac5a72b8ffc7dd609e19c384e95414838b95",
+		"HashLong": "dcb4c219e23e8e581f74b9e818c3428b5b955465",
+		"HashShort": "dcb4c21",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dcb4c219e23e8e581f74b9e818c3428b5b955465",
 		"Author": "raul",
-		"Comment": "Added back expected Polyfills in the project solution",
+		"Comment": "Merge branch 'experimental' into develop",
 		"Tag": "edge_build",
-		"Date": "2026-04-19 19:53:33 +0200"
+		"Date": "2026-04-19 23:35:35 +0200"
 	}
 }
