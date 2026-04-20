@@ -1,17 +1,1 @@
-{
-	"Version": "2.2.147",
-	"InformationalVersion": "2.2.147-MinimalUnix-preview-39a5cb5",
-	"Protocol": "2026.04.02.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "preview",
-		"HashLong": "39a5cb5c11daad6552e9f38286ceb891a844e862",
-		"HashShort": "39a5cb5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/39a5cb5c11daad6552e9f38286ceb891a844e862",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch 'develop' into preview",
-		"Tag": "preview_build",
-		"Date": "2026-04-10 20:43:47 +0500"
-	}
-}
+Not Found

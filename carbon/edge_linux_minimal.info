@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1155",
-	"InformationalVersion": "2.1.1155-MinimalUnix-develop-896c343",
+	"Version": "2.1.1156",
+	"InformationalVersion": "2.1.1156-MinimalUnix-main-1914489",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
-		"Branch": "develop",
-		"HashLong": "896c343b6423799c93422ac13b864f11a64a9726",
-		"HashShort": "896c343",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/896c343b6423799c93422ac13b864f11a64a9726",
+		"Branch": "main",
+		"HashLong": "19144898085337717c7e5b6b46b9993fe5ee0cf7",
+		"HashShort": "1914489",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/19144898085337717c7e5b6b46b9993fe5ee0cf7",
 		"Author": "raul",
-		"Comment": "Generate Build metadata class in the profiler build process Stop podman machine at the end of the build",
+		"Comment": "Lowercasing """"release""""",
 		"Tag": "edge_build",
-		"Date": "2026-04-20 01:14:20 +0200"
+		"Date": "2026-04-20 01:58:34 +0200"
 	}
 }
