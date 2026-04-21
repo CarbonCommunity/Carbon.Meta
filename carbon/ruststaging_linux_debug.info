@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1214",
-	"InformationalVersion": "2.3.1214-DebugUnix-rust_beta/staging-de97e6f",
+	"Version": "2.3.1215",
+	"InformationalVersion": "2.3.1215-DebugUnix-rust_beta/staging-5867e07",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "de97e6fa4830948de06a8d20069081ec4d29d12f",
-		"HashShort": "de97e6f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/de97e6fa4830948de06a8d20069081ec4d29d12f",
-		"Author": "evs-ptr",
-		"Comment": "`VanishModule` compile fix due to staging change",
+		"HashLong": "5867e076603e92ef6d3b3565049c18817e42a5ed",
+		"HashShort": "5867e07",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5867e076603e92ef6d3b3565049c18817e42a5ed",
+		"Author": "raul",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-04-18 00:46:30 +0500"
+		"Date": "2026-04-21 21:53:41 +0200"
 	}
 }
