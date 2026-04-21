@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1156",
-	"InformationalVersion": "2.1.1156-MinimalUnix-main-1914489",
+	"Version": "2.1.1157",
+	"InformationalVersion": "2.1.1157-MinimalUnix-main-134cabe",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "19144898085337717c7e5b6b46b9993fe5ee0cf7",
-		"HashShort": "1914489",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/19144898085337717c7e5b6b46b9993fe5ee0cf7",
+		"HashLong": "134cabe09a33be245537e56a46eff5d57ba166c2",
+		"HashShort": "134cabe",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/134cabe09a33be245537e56a46eff5d57ba166c2",
 		"Author": "raul",
-		"Comment": "Lowercasing """"release""""",
+		"Comment": "Profiler fix",
 		"Tag": "edge_build",
-		"Date": "2026-04-20 01:58:34 +0200"
+		"Date": "2026-04-21 19:20:33 +0200"
 	}
 }
