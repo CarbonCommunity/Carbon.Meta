@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1158",
-	"InformationalVersion": "2.1.1158-Debug-main-256a472",
+	"Version": "2.1.1159",
+	"InformationalVersion": "2.1.1159-Debug-main-df908d2",
 	"Protocol": "2026.04.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "256a4723812ca8ab0f5bf7a444234a1202625511",
-		"HashShort": "256a472",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/256a4723812ca8ab0f5bf7a444234a1202625511",
-		"Author": "raul",
-		"Comment": "Merge branch 'carbon_oxide_ns_conflict_fix'",
+		"HashLong": "df908d2fba3b3425e51bf4133dc9b47d83aed642",
+		"HashShort": "df908d2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/df908d2fba3b3425e51bf4133dc9b47d83aed642",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge pull request #95 from lagzya-dev/chore/lui-add-createsteamavatar  add func CreateSteamAvatar",
 		"Tag": "edge_build",
-		"Date": "2026-04-21 21:48:23 +0200"
+		"Date": "2026-04-22 20:10:53 +0200"
 	}
 }
