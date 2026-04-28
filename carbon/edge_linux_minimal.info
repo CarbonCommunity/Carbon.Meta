@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1161",
-	"InformationalVersion": "2.1.1161-MinimalUnix-main-60cb29c",
-	"Protocol": "2026.04.02.0",
+	"Version": "2.1.1162",
+	"InformationalVersion": "2.1.1162-MinimalUnix-main-e764fe4",
+	"Protocol": "2026.04.02.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "60cb29c8cf3b773492f25039f40be6231bfd79ac",
-		"HashShort": "60cb29c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/60cb29c8cf3b773492f25039f40be6231bfd79ac",
+		"HashLong": "e764fe43d3636b2239aa56c32ea12d138435a299",
+		"HashShort": "e764fe4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e764fe43d3636b2239aa56c32ea12d138435a299",
 		"Author": "raul",
-		"Comment": "Removed Fleck duplicated enforced publicization",
+		"Comment": "Bumped protocol (2026.04.02.1)",
 		"Tag": "edge_build",
-		"Date": "2026-04-28 18:10:10 +0200"
+		"Date": "2026-04-28 20:53:30 +0200"
 	}
 }
