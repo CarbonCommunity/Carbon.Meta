@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1224",
-	"InformationalVersion": "2.3.1224-Debug-rust_beta/staging-daf97a3",
+	"Version": "2.3.1225",
+	"InformationalVersion": "2.3.1225-Debug-rust_beta/staging-daf97a3",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
