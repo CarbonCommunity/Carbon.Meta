@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1226",
-	"InformationalVersion": "2.3.1226-MinimalUnix-rust_beta/staging-daf97a3",
+	"Version": "2.3.1227",
+	"InformationalVersion": "2.3.1227-MinimalUnix-rust_beta/staging-d0d1ff3",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "daf97a3c3697ba001a2fb8ce11545d3962bcad0e",
-		"HashShort": "daf97a3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/daf97a3c3697ba001a2fb8ce11545d3962bcad0e",
+		"HashLong": "d0d1ff3d9539ffadccd82f971261dec1cbac12e0",
+		"HashShort": "d0d1ff3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d0d1ff3d9539ffadccd82f971261dec1cbac12e0",
 		"Author": "raul",
-		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"Comment": "Fixed IsSteamId requiring """"Oxide.Plugins"""" namespace for the EncryptedValue signature",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-04-28 18:10:18 +0200"
+		"Date": "2026-04-30 23:00:18 +0200"
 	}
 }
