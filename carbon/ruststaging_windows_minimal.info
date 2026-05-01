@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1227",
-	"InformationalVersion": "2.3.1227-Minimal-rust_beta/staging-d0d1ff3",
+	"Version": "2.3.1228",
+	"InformationalVersion": "2.3.1228-Minimal-rust_beta/staging-d0d1ff3",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
