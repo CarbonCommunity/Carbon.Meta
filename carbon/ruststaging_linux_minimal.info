@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1228",
-	"InformationalVersion": "2.3.1228-MinimalUnix-rust_beta/staging-d0d1ff3",
+	"Version": "2.3.1229",
+	"InformationalVersion": "2.3.1229-MinimalUnix-rust_beta/staging-a08ec6c",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "d0d1ff3d9539ffadccd82f971261dec1cbac12e0",
-		"HashShort": "d0d1ff3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d0d1ff3d9539ffadccd82f971261dec1cbac12e0",
+		"HashLong": "a08ec6c94c30ed8b209b1513b8eebca9cbcb6824",
+		"HashShort": "a08ec6c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a08ec6c94c30ed8b209b1513b8eebca9cbcb6824",
 		"Author": "raul",
-		"Comment": "Fixed IsSteamId requiring """"Oxide.Plugins"""" namespace for the EncryptedValue signature",
+		"Comment": "Removed unused namespaces in Build.cs.template",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-04-30 23:00:18 +0200"
+		"Date": "2026-05-02 10:35:40 +0200"
 	}
 }
