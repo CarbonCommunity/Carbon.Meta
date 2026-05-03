@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1229",
-	"InformationalVersion": "2.3.1229-Debug-rust_beta/staging-a08ec6c",
+	"Version": "2.3.1230",
+	"InformationalVersion": "2.3.1230-Debug-rust_beta/staging-4b0c7bd",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "a08ec6c94c30ed8b209b1513b8eebca9cbcb6824",
-		"HashShort": "a08ec6c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a08ec6c94c30ed8b209b1513b8eebca9cbcb6824",
+		"HashLong": "4b0c7bd4d080c0998d88ec7a46cf793e6b2e1c7c",
+		"HashShort": "4b0c7bd",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4b0c7bd4d080c0998d88ec7a46cf793e6b2e1c7c",
 		"Author": "raul",
-		"Comment": "Removed unused namespaces in Build.cs.template",
+		"Comment": "__HookahRuntime -> __GeneratorRuntime",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-02 10:35:40 +0200"
+		"Date": "2026-05-03 21:45:04 +0200"
 	}
 }
