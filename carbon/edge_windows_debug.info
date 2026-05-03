@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1165",
-	"InformationalVersion": "2.1.1165-Debug-main-62c64b0",
+	"Version": "2.1.1167",
+	"InformationalVersion": "2.1.1167-Debug-main-da86ac9",
 	"Protocol": "2026.04.02.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "62c64b0b7743b146381b23e0633cbd7b63611db2",
-		"HashShort": "62c64b0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/62c64b0b7743b146381b23e0633cbd7b63611db2",
+		"HashLong": "da86ac93b33f5761d2c873765069e4830e274885",
+		"HashShort": "da86ac9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/da86ac93b33f5761d2c873765069e4830e274885",
 		"Author": "raul",
-		"Comment": "Removed debugging (ranged cherrypicking in git is meh)",
+		"Comment": "Fixed change that didn't properly carry over from the staging->main merge (for some reason)",
 		"Tag": "edge_build",
-		"Date": "2026-05-03 20:20:33 +0200"
+		"Date": "2026-05-03 21:02:44 +0200"
 	}
 }
