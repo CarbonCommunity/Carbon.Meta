@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1167",
-	"InformationalVersion": "2.1.1167-MinimalUnix-main-da86ac9",
+	"Version": "2.1.1168",
+	"InformationalVersion": "2.1.1168-MinimalUnix-main-321b4d3",
 	"Protocol": "2026.04.02.1",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "da86ac93b33f5761d2c873765069e4830e274885",
-		"HashShort": "da86ac9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/da86ac93b33f5761d2c873765069e4830e274885",
+		"HashLong": "321b4d350665435de22efd5a695e7d513d8a7a89",
+		"HashShort": "321b4d3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/321b4d350665435de22efd5a695e7d513d8a7a89",
 		"Author": "raul",
-		"Comment": "Fixed change that didn't properly carry over from the staging->main merge (for some reason)",
+		"Comment": "Idk what git's on today at this point",
 		"Tag": "edge_build",
-		"Date": "2026-05-03 21:02:44 +0200"
+		"Date": "2026-05-03 21:22:28 +0200"
 	}
 }
