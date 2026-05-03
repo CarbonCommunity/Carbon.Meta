@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1163",
-	"InformationalVersion": "2.1.1163-DebugUnix-main-00ef9e9",
+	"Version": "2.1.1165",
+	"InformationalVersion": "2.1.1165-DebugUnix-main-62c64b0",
 	"Protocol": "2026.04.02.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "00ef9e909ee0d77f541909bf1a0d2f4f6becd1f8",
-		"HashShort": "00ef9e9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/00ef9e909ee0d77f541909bf1a0d2f4f6becd1f8",
+		"HashLong": "62c64b0b7743b146381b23e0633cbd7b63611db2",
+		"HashShort": "62c64b0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/62c64b0b7743b146381b23e0633cbd7b63611db2",
 		"Author": "raul",
-		"Comment": "Cherry-picked 176715be30b90befdf39fb3455bd5d0bda021a26 through d2ccf0e3e574d0f1393c6b1aa13a85027b9d4839",
+		"Comment": "Removed debugging (ranged cherrypicking in git is meh)",
 		"Tag": "edge_build",
-		"Date": "2026-05-03 19:32:07 +0200"
+		"Date": "2026-05-03 20:20:33 +0200"
 	}
 }
