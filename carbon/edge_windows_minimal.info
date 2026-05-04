@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1170",
-	"InformationalVersion": "2.1.1170-Minimal-main-efcbdd9",
-	"Protocol": "2026.04.02.1",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "efcbdd977019ce624ce38f21a47e46558197addd",
-		"HashShort": "efcbdd9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/efcbdd977019ce624ce38f21a47e46558197addd",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch 'perf/hookcaller_hot_path'",
-		"Tag": "edge_build",
-		"Date": "2026-05-04 17:32:02 +0500"
-	}
-}
+Not Found
