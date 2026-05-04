@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1172",
-	"InformationalVersion": "2.1.1172-DebugUnix-main-87db6e7",
+	"Version": "2.1.1173",
+	"InformationalVersion": "2.1.1173-DebugUnix-main-74d82ca",
 	"Protocol": "2026.04.02.1",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "87db6e7d8bfa131265ee76fe460d865028c5d494",
-		"HashShort": "87db6e7",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/87db6e7d8bfa131265ee76fe460d865028c5d494",
+		"HashLong": "74d82ca3d183d653e46abeee0be2bad78374d285",
+		"HashShort": "74d82ca",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/74d82ca3d183d653e46abeee0be2bad78374d285",
 		"Author": "raul",
-		"Comment": "Merge branch 'perf/plugin_name_lookup_index'",
+		"Comment": "foreach -> for",
 		"Tag": "edge_build",
-		"Date": "2026-05-04 20:12:11 +0200"
+		"Date": "2026-05-04 23:45:18 +0200"
 	}
 }
