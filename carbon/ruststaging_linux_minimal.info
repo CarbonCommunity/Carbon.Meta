@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1232",
-	"InformationalVersion": "2.3.1232-MinimalUnix-rust_beta/staging-a37a956",
-	"Protocol": "2026.05.07.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "a37a9569aacfb6a4a102dff407a6343ea25a3fb7",
-		"HashShort": "a37a956",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a37a9569aacfb6a4a102dff407a6343ea25a3fb7",
-		"Author": "raul",
-		"Comment": "Added global extension method for `BasePlayer.SendFullSnapshot` redirecting to `BasePlayer.SendCompleteSnapshot`",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-03 22:44:27 +0200"
-	}
-}
+Not Found

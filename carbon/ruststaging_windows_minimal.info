@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1232",
-	"InformationalVersion": "2.3.1232-Minimal-rust_beta/staging-a37a956",
+	"Version": "2.3.1233",
+	"InformationalVersion": "2.3.1233-Minimal-rust_beta/staging-80f547d",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "a37a9569aacfb6a4a102dff407a6343ea25a3fb7",
-		"HashShort": "a37a956",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a37a9569aacfb6a4a102dff407a6343ea25a3fb7",
+		"HashLong": "80f547dd06ee53d17d58d19eed34098d70c35955",
+		"HashShort": "80f547d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/80f547dd06ee53d17d58d19eed34098d70c35955",
 		"Author": "raul",
-		"Comment": "Added global extension method for `BasePlayer.SendFullSnapshot` redirecting to `BasePlayer.SendCompleteSnapshot`",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-03 22:44:27 +0200"
+		"Date": "2026-05-04 20:15:43 +0200"
 	}
 }

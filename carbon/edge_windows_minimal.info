@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1172",
+	"InformationalVersion": "2.1.1172-Minimal-main-87db6e7",
+	"Protocol": "2026.04.02.1",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "87db6e7d8bfa131265ee76fe460d865028c5d494",
+		"HashShort": "87db6e7",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/87db6e7d8bfa131265ee76fe460d865028c5d494",
+		"Author": "raul",
+		"Comment": "Merge branch 'perf/plugin_name_lookup_index'",
+		"Tag": "edge_build",
+		"Date": "2026-05-04 20:12:11 +0200"
+	}
+}
