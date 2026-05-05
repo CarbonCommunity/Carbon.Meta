@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1175",
-	"InformationalVersion": "2.1.1175-Debug-main-49aa7ad",
+	"Version": "2.1.1177",
+	"InformationalVersion": "2.1.1177-Debug-main-39e8b5e",
 	"Protocol": "2026.04.02.1",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "49aa7add1810c02a7afe86a9918f12e89a199d32",
-		"HashShort": "49aa7ad",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/49aa7add1810c02a7afe86a9918f12e89a199d32",
+		"HashLong": "39e8b5e4feef2a4a04f373265e1b84574e42223f",
+		"HashShort": "39e8b5e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/39e8b5e4feef2a4a04f373265e1b84574e42223f",
 		"Author": "raul",
-		"Comment": "HookCallerCommon abstraction",
+		"Comment": "Revert """"Optimized PermissionSql allocations and batched DB writes""""  This reverts commit d9a4b8207a45206baaa1d6d8f6ec8248be1eb32c.",
 		"Tag": "edge_build",
-		"Date": "2026-05-04 23:59:38 +0200"
+		"Date": "2026-05-05 08:42:11 +0200"
 	}
 }
