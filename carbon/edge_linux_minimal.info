@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1180",
-	"InformationalVersion": "2.1.1180-MinimalUnix-main-3e7df1a",
+	"Version": "2.1.1181",
+	"InformationalVersion": "2.1.1181-MinimalUnix-main-6e92ca5",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "3e7df1a308c9c56e0aaf1736603afb2d7bd42ef8",
-		"HashShort": "3e7df1a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3e7df1a308c9c56e0aaf1736603afb2d7bd42ef8",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #100 from CarbonCommunity/scripts/fix-del-tmp-tar-archive",
+		"HashLong": "6e92ca591c98ae1908a609a83f208509745c1fb8",
+		"HashShort": "6e92ca5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6e92ca591c98ae1908a609a83f208509745c1fb8",
+		"Author": "raul",
+		"Comment": "Merge branch 'imagedb_default_image_config'",
 		"Tag": "edge_build",
-		"Date": "2026-05-06 16:33:12 +0500"
+		"Date": "2026-05-08 00:00:20 +0200"
 	}
 }
