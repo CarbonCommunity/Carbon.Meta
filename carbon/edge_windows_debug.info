@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1183",
+	"InformationalVersion": "2.1.1183-Debug-main-561ca85",
+	"Protocol": "2026.05.07.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "561ca856ec6b2609834a377fea0b6dc05ec3c69e",
+		"HashShort": "561ca85",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/561ca856ec6b2609834a377fea0b6dc05ec3c69e",
+		"Author": "raul",
+		"Comment": "Added SendChangesToClient extension redirecting to PlayerMetabolism.SendChanges",
+		"Tag": "edge_build",
+		"Date": "2026-05-09 09:59:09 +0200"
+	}
+}
