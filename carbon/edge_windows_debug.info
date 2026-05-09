@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1182",
-	"InformationalVersion": "2.1.1182-Debug-main-95a5681",
-	"Protocol": "2026.05.07.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "95a5681f3a8746e78f29bed5d86fe85f13b62054",
-		"HashShort": "95a5681",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/95a5681f3a8746e78f29bed5d86fe85f13b62054",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #102 from CarbonCommunity/qol/orphan-permission-commands",
-		"Tag": "edge_build",
-		"Date": "2026-05-09 11:23:37 +0500"
-	}
-}
+Not Found
