@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1183",
-	"InformationalVersion": "2.1.1183-DebugUnix-main-561ca85",
+	"Version": "2.1.1184",
+	"InformationalVersion": "2.1.1184-DebugUnix-main-bea410a",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "561ca856ec6b2609834a377fea0b6dc05ec3c69e",
-		"HashShort": "561ca85",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/561ca856ec6b2609834a377fea0b6dc05ec3c69e",
-		"Author": "raul",
-		"Comment": "Added SendChangesToClient extension redirecting to PlayerMetabolism.SendChanges",
+		"HashLong": "bea410a8655791c326921ff9db7783456f7a6db1",
+		"HashShort": "bea410a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/bea410a8655791c326921ff9db7783456f7a6db1",
+		"Author": "evs-ptr",
+		"Comment": "`Common.props` suppress nuget audit until fixed",
 		"Tag": "edge_build",
-		"Date": "2026-05-09 09:59:09 +0200"
+		"Date": "2026-05-10 14:55:50 +0500"
 	}
 }
