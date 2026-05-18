@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1186",
-	"InformationalVersion": "2.1.1186-Debug-main-b99d07a",
+	"Version": "2.1.1187",
+	"InformationalVersion": "2.1.1187-Debug-main-4feab19",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "b99d07a61e2090feebdf9f1d2cdab9f0dce60838",
-		"HashShort": "b99d07a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b99d07a61e2090feebdf9f1d2cdab9f0dce60838",
+		"HashLong": "4feab193ea636e1d05d41dedaf8fc1ec0d458b3c",
+		"HashShort": "4feab19",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4feab193ea636e1d05d41dedaf8fc1ec0d458b3c",
 		"Author": "raul",
-		"Comment": "Aux4 identity and implementation",
+		"Comment": "Fix for release protocol hook build",
 		"Tag": "edge_build",
-		"Date": "2026-05-13 11:01:58 +0200"
+		"Date": "2026-05-18 23:37:23 +0200"
 	}
 }
