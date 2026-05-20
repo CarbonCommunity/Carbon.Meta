@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1190",
-	"InformationalVersion": "2.1.1190-Debug-main-c42faa6",
-	"Protocol": "2026.05.07.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "c42faa664b5dadc0186fd54691127c63bf2985f3",
-		"HashShort": "c42faa6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c42faa664b5dadc0186fd54691127c63bf2985f3",
-		"Author": "evs-ptr",
-		"Comment": "`VanishModule` probably fix invis player cleanup and voice handling",
-		"Tag": "edge_build",
-		"Date": "2026-05-20 21:08:53 +0500"
-	}
-}
+Not Found
