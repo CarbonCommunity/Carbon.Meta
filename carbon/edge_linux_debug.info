@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1190",
-	"InformationalVersion": "2.1.1190-DebugUnix-main-c42faa6",
+	"Version": "2.1.1191",
+	"InformationalVersion": "2.1.1191-DebugUnix-main-ed35278",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "c42faa664b5dadc0186fd54691127c63bf2985f3",
-		"HashShort": "c42faa6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c42faa664b5dadc0186fd54691127c63bf2985f3",
+		"HashLong": "ed35278b1811f7490708e753ede34e385e1c4bec",
+		"HashShort": "ed35278",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed35278b1811f7490708e753ede34e385e1c4bec",
 		"Author": "evs-ptr",
-		"Comment": "`VanishModule` probably fix invis player cleanup and voice handling",
+		"Comment": "Merge branch 'perf/permissions_optims'",
 		"Tag": "edge_build",
-		"Date": "2026-05-20 21:08:53 +0500"
+		"Date": "2026-05-20 21:47:24 +0500"
 	}
 }

@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1191",
+	"InformationalVersion": "2.1.1191-Minimal-main-ed35278",
+	"Protocol": "2026.05.07.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "ed35278b1811f7490708e753ede34e385e1c4bec",
+		"HashShort": "ed35278",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed35278b1811f7490708e753ede34e385e1c4bec",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'perf/permissions_optims'",
+		"Tag": "edge_build",
+		"Date": "2026-05-20 21:47:24 +0500"
+	}
+}
