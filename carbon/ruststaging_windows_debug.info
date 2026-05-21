@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1255",
-	"InformationalVersion": "2.3.1255-Debug-rust_beta/staging-1630992",
+	"Version": "2.3.1256",
+	"InformationalVersion": "2.3.1256-Debug-rust_beta/staging-e0b2a09",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "1630992a4a0fdf0364243fda3609f3ff757cf7da",
-		"HashShort": "1630992",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1630992a4a0fdf0364243fda3609f3ff757cf7da",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"HashLong": "e0b2a091eec5a2ad648e84a4cc6894c3c86b299d",
+		"HashShort": "e0b2a09",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e0b2a091eec5a2ad648e84a4cc6894c3c86b299d",
+		"Author": "raul",
+		"Comment": "Merge branch 'update/console_stringview_fix' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-10 15:04:06 +0500"
+		"Date": "2026-05-21 21:36:10 +0200"
 	}
 }
