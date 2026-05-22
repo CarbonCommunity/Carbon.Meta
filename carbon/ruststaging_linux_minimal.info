@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1257",
-	"InformationalVersion": "2.3.1257-MinimalUnix-rust_beta/staging-e0b2a09",
+	"Version": "2.3.1258",
+	"InformationalVersion": "2.3.1258-MinimalUnix-rust_beta/staging-6717aad",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "e0b2a091eec5a2ad648e84a4cc6894c3c86b299d",
-		"HashShort": "e0b2a09",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e0b2a091eec5a2ad648e84a4cc6894c3c86b299d",
+		"HashLong": "6717aad4e8e08b43da113034f46bab46809d03e7",
+		"HashShort": "6717aad",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6717aad4e8e08b43da113034f46bab46809d03e7",
 		"Author": "raul",
-		"Comment": "Merge branch 'update/console_stringview_fix' into rust_beta/staging",
+		"Comment": "Staging fixes",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-21 21:36:10 +0200"
+		"Date": "2026-05-22 17:35:05 +0200"
 	}
 }
