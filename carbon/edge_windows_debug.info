@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1191",
-	"InformationalVersion": "2.1.1191-Debug-main-ed35278",
+	"Version": "2.1.1192",
+	"InformationalVersion": "2.1.1192-Debug-main-186aa8a",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "ed35278b1811f7490708e753ede34e385e1c4bec",
-		"HashShort": "ed35278",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ed35278b1811f7490708e753ede34e385e1c4bec",
+		"HashLong": "186aa8a9ad6d3c1bed924949e09e659f4f15ec26",
+		"HashShort": "186aa8a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/186aa8a9ad6d3c1bed924949e09e659f4f15ec26",
 		"Author": "evs-ptr",
-		"Comment": "Merge branch 'perf/permissions_optims'",
+		"Comment": "Merge pull request #107 from CarbonCommunity/fix/LUI_ignore_scrollbar_disable  Respect LUI Scrollbar disabled field",
 		"Tag": "edge_build",
-		"Date": "2026-05-20 21:47:24 +0500"
+		"Date": "2026-05-24 20:44:31 +0500"
 	}
 }
