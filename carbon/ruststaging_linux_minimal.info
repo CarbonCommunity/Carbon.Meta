@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1262",
+	"InformationalVersion": "2.3.1262-MinimalUnix-rust_beta/staging-6717aad",
+	"Protocol": "2026.05.07.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "6717aad4e8e08b43da113034f46bab46809d03e7",
+		"HashShort": "6717aad",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6717aad4e8e08b43da113034f46bab46809d03e7",
+		"Author": "raul",
+		"Comment": "Staging fixes",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-05-22 17:35:05 +0200"
+	}
+}
