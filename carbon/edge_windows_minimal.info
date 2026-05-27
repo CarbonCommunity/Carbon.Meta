@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1196",
-	"InformationalVersion": "2.1.1196-Minimal-main-70cc8ea",
+	"Version": "2.1.1197",
+	"InformationalVersion": "2.1.1197-Minimal-main-f97d1f3",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "70cc8eaace33abe110f82ebe762a74a9c4b63dbd",
-		"HashShort": "70cc8ea",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/70cc8eaace33abe110f82ebe762a74a9c4b63dbd",
+		"HashLong": "f97d1f32a070953621a27aab23707fe49e2a4fb7",
+		"HashShort": "f97d1f3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f97d1f32a070953621a27aab23707fe49e2a4fb7",
 		"Author": "DezLife",
-		"Comment": "Fix Unity 6.3 plugin compile: Cecil ReaderParameters.InMemory=true in CarbonAssemblyResolver + Publicizer",
+		"Comment": "Revert Publicizer + Generator changes, keep only ScriptCompilationThread fix",
 		"Tag": "edge_build",
-		"Date": "2026-05-27 16:48:29 +0300"
+		"Date": "2026-05-27 16:58:01 +0300"
 	}
 }
