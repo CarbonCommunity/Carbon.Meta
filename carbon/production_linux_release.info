@@ -1,17 +1,17 @@
 {
-	"Version": "2.0.242",
-	"InformationalVersion": "2.0.242-ReleaseUnix-production-348a556",
+	"Version": "2.0.245",
+	"InformationalVersion": "2.0.245-ReleaseUnix-production-78c6f27",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "ReleaseUnix",
 	"Commit": {
 		"Branch": "production",
-		"HashLong": "348a5562b0807331e375233b1457c07582c39066",
-		"HashShort": "348a556",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/348a5562b0807331e375233b1457c07582c39066",
-		"Author": "raul",
-		"Comment": "Merge branch 'main' into production",
+		"HashLong": "78c6f277f1c0f62c77e192c1128922b6e3b1dade",
+		"HashShort": "78c6f27",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/78c6f277f1c0f62c77e192c1128922b6e3b1dade",
+		"Author": "evs-ptr",
+		"Comment": "`Common.props` suppress nuget audit until fixed  (cherry picked from commit bea410a8655791c326921ff9db7783456f7a6db1)",
 		"Tag": "production_build",
-		"Date": "2026-05-07 18:43:05 +0200"
+		"Date": "2026-05-27 16:24:52 +0200"
 	}
 }
