@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1194",
-	"InformationalVersion": "2.1.1194-Debug-main-614ac4c",
+	"Version": "2.1.1196",
+	"InformationalVersion": "2.1.1196-Debug-main-70cc8ea",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "614ac4c25fb0aa9a55dd788d0bc2970b8296dec1",
-		"HashShort": "614ac4c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/614ac4c25fb0aa9a55dd788d0bc2970b8296dec1",
-		"Author": "evs-ptr",
-		"Comment": "`ScriptCompilationThread` fix plugin Cecil assembly resolution",
+		"HashLong": "70cc8eaace33abe110f82ebe762a74a9c4b63dbd",
+		"HashShort": "70cc8ea",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/70cc8eaace33abe110f82ebe762a74a9c4b63dbd",
+		"Author": "DezLife",
+		"Comment": "Fix Unity 6.3 plugin compile: Cecil ReaderParameters.InMemory=true in CarbonAssemblyResolver + Publicizer",
 		"Tag": "edge_build",
-		"Date": "2026-05-27 18:11:42 +0500"
+		"Date": "2026-05-27 16:48:29 +0300"
 	}
 }
