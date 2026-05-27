@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1193",
-	"InformationalVersion": "2.1.1193-Minimal-main-186aa8a",
+	"Version": "2.1.1194",
+	"InformationalVersion": "2.1.1194-Minimal-main-614ac4c",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "186aa8a9ad6d3c1bed924949e09e659f4f15ec26",
-		"HashShort": "186aa8a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/186aa8a9ad6d3c1bed924949e09e659f4f15ec26",
+		"HashLong": "614ac4c25fb0aa9a55dd788d0bc2970b8296dec1",
+		"HashShort": "614ac4c",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/614ac4c25fb0aa9a55dd788d0bc2970b8296dec1",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #107 from CarbonCommunity/fix/LUI_ignore_scrollbar_disable  Respect LUI Scrollbar disabled field",
+		"Comment": "`ScriptCompilationThread` fix plugin Cecil assembly resolution",
 		"Tag": "edge_build",
-		"Date": "2026-05-24 20:44:31 +0500"
+		"Date": "2026-05-27 18:11:42 +0500"
 	}
 }
