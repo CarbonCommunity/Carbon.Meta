@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1197",
-	"InformationalVersion": "2.1.1197-Minimal-main-f97d1f3",
+	"Version": "2.1.1198",
+	"InformationalVersion": "2.1.1198-Minimal-main-abd82ca",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "f97d1f32a070953621a27aab23707fe49e2a4fb7",
-		"HashShort": "f97d1f3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f97d1f32a070953621a27aab23707fe49e2a4fb7",
-		"Author": "DezLife",
-		"Comment": "Revert Publicizer + Generator changes, keep only ScriptCompilationThread fix",
+		"HashLong": "abd82ca149235cb1ccd0d9a92fa9d6f85f9132ba",
+		"HashShort": "abd82ca",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/abd82ca149235cb1ccd0d9a92fa9d6f85f9132ba",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'tests/standalone-profiler'",
 		"Tag": "edge_build",
-		"Date": "2026-05-27 16:58:01 +0300"
+		"Date": "2026-05-28 22:30:06 +0500"
 	}
 }
