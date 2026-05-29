@@ -8,10 +8,10 @@
     "LongDate": 1780045623000
   },
   "Build": {
-    "Id": "50",
-    "Number": "50",
-    "Tag": "jenkins-Rust-Server-release-50",
-    "Url": "https://build.facepunch.com/job/Rust-Server-release/50/",
+    "Id": "51",
+    "Number": "51",
+    "Tag": "jenkins-Rust-Server-release-51",
+    "Url": "https://build.facepunch.com/job/Rust-Server-release/51/",
     "Name": "Rust-Server-release",
     "Node": "SVR-RUST-BS-01"
   },
