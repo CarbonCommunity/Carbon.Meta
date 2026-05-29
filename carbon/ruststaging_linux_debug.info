@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1266",
-	"InformationalVersion": "2.3.1266-DebugUnix-rust_beta/staging-96edeeb",
+	"Version": "2.3.1267",
+	"InformationalVersion": "2.3.1267-DebugUnix-rust_beta/staging-eb80038",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "96edeeb8b752aa84765f7853c2d84e9ff75d0dd4",
-		"HashShort": "96edeeb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/96edeeb8b752aa84765f7853c2d84e9ff75d0dd4",
+		"HashLong": "eb80038b7b64199583c7e16bafa21944f263f6e8",
+		"HashShort": "eb80038",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/eb80038b7b64199583c7e16bafa21944f263f6e8",
 		"Author": "raul",
-		"Comment": "Protocol++ (2026.06.04.0)",
+		"Comment": "Merge branch 'profiler_embedding' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-29 15:37:25 +0200"
+		"Date": "2026-05-29 20:43:47 +0200"
 	}
 }
