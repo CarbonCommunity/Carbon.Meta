@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1265",
-	"InformationalVersion": "2.3.1265-MinimalUnix-rust_beta/staging-6717aad",
-	"Protocol": "2026.05.07.0",
+	"Version": "2.3.1266",
+	"InformationalVersion": "2.3.1266-MinimalUnix-rust_beta/staging-96edeeb",
+	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "6717aad4e8e08b43da113034f46bab46809d03e7",
-		"HashShort": "6717aad",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6717aad4e8e08b43da113034f46bab46809d03e7",
+		"HashLong": "96edeeb8b752aa84765f7853c2d84e9ff75d0dd4",
+		"HashShort": "96edeeb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/96edeeb8b752aa84765f7853c2d84e9ff75d0dd4",
 		"Author": "raul",
-		"Comment": "Staging fixes",
+		"Comment": "Protocol++ (2026.06.04.0)",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-22 17:35:05 +0200"
+		"Date": "2026-05-29 15:37:25 +0200"
 	}
 }
