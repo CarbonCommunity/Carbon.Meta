@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1269",
-	"InformationalVersion": "2.3.1269-MinimalUnix-rust_beta/staging-ffd7c6b",
+	"Version": "2.3.1270",
+	"InformationalVersion": "2.3.1270-MinimalUnix-rust_beta/staging-b3b63c0",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "ffd7c6be3a938e8ef2780037e8e5459a03723c67",
-		"HashShort": "ffd7c6b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ffd7c6be3a938e8ef2780037e8e5459a03723c67",
-		"Author": "raul",
-		"Comment": "Merge branch 'fix/skip-span-hooks' into rust_beta/staging",
+		"HashLong": "b3b63c024904451b1e260bf044537196d2023cd0",
+		"HashShort": "b3b63c0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b3b63c024904451b1e260bf044537196d2023cd0",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-05-31 03:02:28 +0200"
+		"Date": "2026-05-31 22:19:54 +0500"
 	}
 }
