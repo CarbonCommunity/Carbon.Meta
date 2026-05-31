@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1200",
-	"InformationalVersion": "2.1.1200-Minimal-main-6921f36",
+	"Version": "2.1.1201",
+	"InformationalVersion": "2.1.1201-Minimal-main-badc49d",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "6921f363ccebf0f08a5204a9efb82d2e9af48f6f",
-		"HashShort": "6921f36",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6921f363ccebf0f08a5204a9efb82d2e9af48f6f",
+		"HashLong": "badc49dd8d0737b17361114fc1765b73e37f9085",
+		"HashShort": "badc49d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/badc49dd8d0737b17361114fc1765b73e37f9085",
 		"Author": "raul",
-		"Comment": "Merge branch 'fix/skip-span-hooks'",
+		"Comment": "Merge branch 'main' into use_source_generators",
 		"Tag": "edge_build",
-		"Date": "2026-05-31 14:36:31 +0200"
+		"Date": "2026-05-31 14:36:45 +0200"
 	}
 }
