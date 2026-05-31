@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1201",
-	"InformationalVersion": "2.1.1201-DebugUnix-main-badc49d",
+	"Version": "2.1.1202",
+	"InformationalVersion": "2.1.1202-DebugUnix-main-377f2c5",
 	"Protocol": "2026.05.07.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "badc49dd8d0737b17361114fc1765b73e37f9085",
-		"HashShort": "badc49d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/badc49dd8d0737b17361114fc1765b73e37f9085",
-		"Author": "raul",
-		"Comment": "Merge branch 'main' into use_source_generators",
+		"HashLong": "377f2c57491fb8c74684bcd22cd185adfc6ad70c",
+		"HashShort": "377f2c5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/377f2c57491fb8c74684bcd22cd185adfc6ad70c",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'use_source_generators'",
 		"Tag": "edge_build",
-		"Date": "2026-05-31 14:36:45 +0200"
+		"Date": "2026-05-31 19:38:57 +0500"
 	}
 }
