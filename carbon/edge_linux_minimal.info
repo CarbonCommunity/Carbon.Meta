@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1206",
-	"InformationalVersion": "2.1.1206-MinimalUnix-main-aa5d925",
+	"Version": "2.1.1207",
+	"InformationalVersion": "2.1.1207-MinimalUnix-main-c235be6",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "aa5d92505743b6d9fd8de82148b51929e8997b1f",
-		"HashShort": "aa5d925",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aa5d92505743b6d9fd8de82148b51929e8997b1f",
+		"HashLong": "c235be65df437d55e181c8af7885940534d3cfeb",
+		"HashShort": "c235be6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c235be65df437d55e181c8af7885940534d3cfeb",
 		"Author": "raul",
 		"Comment": "Merge branch 'fix/hook_arg_tuples'",
 		"Tag": "edge_build",
-		"Date": "2026-06-05 11:43:27 +0200"
+		"Date": "2026-06-05 12:43:06 +0200"
 	}
 }
