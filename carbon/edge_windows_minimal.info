@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1206",
+	"InformationalVersion": "2.1.1206-Minimal-main-aa5d925",
+	"Protocol": "2026.06.04.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "aa5d92505743b6d9fd8de82148b51929e8997b1f",
+		"HashShort": "aa5d925",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aa5d92505743b6d9fd8de82148b51929e8997b1f",
+		"Author": "raul",
+		"Comment": "Merge branch 'fix/hook_arg_tuples'",
+		"Tag": "edge_build",
+		"Date": "2026-06-05 11:43:27 +0200"
+	}
+}

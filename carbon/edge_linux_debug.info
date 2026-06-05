@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1205",
-	"InformationalVersion": "2.1.1205-DebugUnix-main-6a228ff",
+	"Version": "2.1.1206",
+	"InformationalVersion": "2.1.1206-DebugUnix-main-aa5d925",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "6a228ffce283d5cbfadec3fc97671810b276e1c2",
-		"HashShort": "6a228ff",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6a228ffce283d5cbfadec3fc97671810b276e1c2",
+		"HashLong": "aa5d92505743b6d9fd8de82148b51929e8997b1f",
+		"HashShort": "aa5d925",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aa5d92505743b6d9fd8de82148b51929e8997b1f",
 		"Author": "raul",
-		"Comment": "Merge branch 'update/console_stringview_fix'",
+		"Comment": "Merge branch 'fix/hook_arg_tuples'",
 		"Tag": "edge_build",
-		"Date": "2026-06-03 20:57:57 +0200"
+		"Date": "2026-06-05 11:43:27 +0200"
 	}
 }
