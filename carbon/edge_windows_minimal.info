@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1205",
-	"InformationalVersion": "2.1.1205-Minimal-main-6a228ff",
-	"Protocol": "2026.06.04.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "6a228ffce283d5cbfadec3fc97671810b276e1c2",
-		"HashShort": "6a228ff",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6a228ffce283d5cbfadec3fc97671810b276e1c2",
-		"Author": "raul",
-		"Comment": "Merge branch 'update/console_stringview_fix'",
-		"Tag": "edge_build",
-		"Date": "2026-06-03 20:57:57 +0200"
-	}
-}
+Not Found
