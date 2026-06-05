@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1207",
-	"InformationalVersion": "2.1.1207-Debug-main-c235be6",
+	"Version": "2.1.1208",
+	"InformationalVersion": "2.1.1208-Debug-main-8f49c9f",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "c235be65df437d55e181c8af7885940534d3cfeb",
-		"HashShort": "c235be6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c235be65df437d55e181c8af7885940534d3cfeb",
+		"HashLong": "8f49c9fe52f3175ad3e2c411b6d54547682b3926",
+		"HashShort": "8f49c9f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8f49c9fe52f3175ad3e2c411b6d54547682b3926",
 		"Author": "raul",
-		"Comment": "Merge branch 'fix/hook_arg_tuples'",
+		"Comment": "Ensure that the source file name doesn't have an extension when writing the internal hook file upon compilation failure",
 		"Tag": "edge_build",
-		"Date": "2026-06-05 12:43:06 +0200"
+		"Date": "2026-06-05 13:13:25 +0200"
 	}
 }
