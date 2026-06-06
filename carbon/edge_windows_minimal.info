@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.1208",
-	"InformationalVersion": "2.1.1208-Minimal-main-8f49c9f",
-	"Protocol": "2026.06.04.0",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "8f49c9fe52f3175ad3e2c411b6d54547682b3926",
-		"HashShort": "8f49c9f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8f49c9fe52f3175ad3e2c411b6d54547682b3926",
-		"Author": "raul",
-		"Comment": "Ensure that the source file name doesn't have an extension when writing the internal hook file upon compilation failure",
-		"Tag": "edge_build",
-		"Date": "2026-06-05 13:13:25 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
