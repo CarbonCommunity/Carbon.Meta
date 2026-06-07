@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1211",
-	"InformationalVersion": "2.1.1211-Debug-main-c0c822a",
+	"Version": "2.1.1212",
+	"InformationalVersion": "2.1.1212-Debug-main-dbfa139",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "c0c822a4cf8c94b6b75e1f9741cd860bc487ef84",
-		"HashShort": "c0c822a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c0c822a4cf8c94b6b75e1f9741cd860bc487ef84",
+		"HashLong": "dbfa1393369fd099210bf220419886ced1028f09",
+		"HashShort": "dbfa139",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dbfa1393369fd099210bf220419886ced1028f09",
 		"Author": "raul",
-		"Comment": "Enabled hook (static, dynamic and patches) validation in our integration tests",
+		"Comment": "Merge branch 'fix/void-exit-leave-finally'",
 		"Tag": "edge_build",
-		"Date": "2026-06-07 14:27:30 +0200"
+		"Date": "2026-06-07 20:16:50 +0200"
 	}
 }
