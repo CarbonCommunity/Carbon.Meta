@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1209",
-	"InformationalVersion": "2.1.1209-Minimal-main-879ea7b",
+	"Version": "2.1.1210",
+	"InformationalVersion": "2.1.1210-Minimal-main-9c674b1",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "879ea7b5735057ca4466a1a247eddd6f557cf29a",
-		"HashShort": "879ea7b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/879ea7b5735057ca4466a1a247eddd6f557cf29a",
+		"HashLong": "9c674b1f8daaf52b506bd89d2825936ac57cdb7a",
+		"HashShort": "9c674b1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9c674b1f8daaf52b506bd89d2825936ac57cdb7a",
 		"Author": "raul",
-		"Comment": "Fix for runtime type boxing",
+		"Comment": "Added quick_build to generator",
 		"Tag": "edge_build",
-		"Date": "2026-06-07 14:04:15 +0200"
+		"Date": "2026-06-07 14:17:55 +0200"
 	}
 }
