@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.1211",
-	"InformationalVersion": "2.1.1211-Debug-main-c0c822a",
-	"Protocol": "2026.06.04.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "c0c822a4cf8c94b6b75e1f9741cd860bc487ef84",
-		"HashShort": "c0c822a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c0c822a4cf8c94b6b75e1f9741cd860bc487ef84",
-		"Author": "raul",
-		"Comment": "Enabled hook (static, dynamic and patches) validation in our integration tests",
-		"Tag": "edge_build",
-		"Date": "2026-06-07 14:27:30 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
