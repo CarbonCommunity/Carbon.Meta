@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1286",
-	"InformationalVersion": "2.3.1286-DebugUnix-rust_beta/staging-702dd9d",
-	"Protocol": "2026.06.04.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "702dd9d4a5c6a3ee9027b7551b073ecd5589ccc4",
-		"HashShort": "702dd9d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/702dd9d4a5c6a3ee9027b7551b073ecd5589ccc4",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch 'update/project_reference_fixes' into rust_beta/staging",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-06-11 11:35:01 +0500"
-	}
-}
+Not Found
