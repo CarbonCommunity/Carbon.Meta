@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1290",
-	"InformationalVersion": "2.3.1290-MinimalUnix-rust_beta/staging-2a38488",
+	"Version": "2.3.1291",
+	"InformationalVersion": "2.3.1291-MinimalUnix-rust_beta/staging-f0659b6",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "2a384885dc3845610c6e64fcdf2ece03e7a1a840",
-		"HashShort": "2a38488",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2a384885dc3845610c6e64fcdf2ece03e7a1a840",
+		"HashLong": "f0659b6678533106c4d9f50bd3591f9b4c6b414d",
+		"HashShort": "f0659b6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f0659b6678533106c4d9f50bd3591f9b4c6b414d",
 		"Author": "raul",
-		"Comment": "Regression fix for Community.Protect",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-06-11 18:20:16 +0200"
+		"Date": "2026-06-13 22:39:22 +0200"
 	}
 }
