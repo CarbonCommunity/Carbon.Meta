@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1214",
-	"InformationalVersion": "2.1.1214-Debug-main-38442c2",
+	"Version": "2.1.1215",
+	"InformationalVersion": "2.1.1215-Debug-main-9cec153",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "38442c2c4df398ff9b8a0b2193816b9b567deae2",
-		"HashShort": "38442c2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/38442c2c4df398ff9b8a0b2193816b9b567deae2",
-		"Author": "evs-ptr",
-		"Comment": "`StringBuilderPool` fix compiler warning",
+		"HashLong": "9cec15301cf76a7d1ae4313adffb6542ffe48778",
+		"HashShort": "9cec153",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9cec15301cf76a7d1ae4313adffb6542ffe48778",
+		"Author": "raul",
+		"Comment": "Cherrypicked 1fe9d700744a1178f91a2bfc5e3502f04b78a9d3 and 2a384885dc3845610c6e64fcdf2ece03e7a1a840",
 		"Tag": "edge_build",
-		"Date": "2026-06-10 15:04:12 +0500"
+		"Date": "2026-06-13 13:58:09 +0200"
 	}
 }
