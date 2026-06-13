@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1218",
+	"InformationalVersion": "2.1.1218-Minimal-main-f8af58b",
+	"Protocol": "2026.06.04.0",
+	"Platform": "Windows",
+	"Config": "Minimal",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "f8af58b574b54884de7b2e0250e2970e64f865ca",
+		"HashShort": "f8af58b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f8af58b574b54884de7b2e0250e2970e64f865ca",
+		"Author": "raul",
+		"Comment": "Merge branch 'webcontrolpanel_fixes'",
+		"Tag": "edge_build",
+		"Date": "2026-06-14 00:44:36 +0200"
+	}
+}
