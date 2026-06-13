@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1215",
-	"InformationalVersion": "2.1.1215-MinimalUnix-main-9cec153",
+	"Version": "2.1.1217",
+	"InformationalVersion": "2.1.1217-MinimalUnix-main-56e15e9",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "9cec15301cf76a7d1ae4313adffb6542ffe48778",
-		"HashShort": "9cec153",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9cec15301cf76a7d1ae4313adffb6542ffe48778",
+		"HashLong": "56e15e9fa1ce9bfa5e733ba53818d8d2d086037f",
+		"HashShort": "56e15e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/56e15e9fa1ce9bfa5e733ba53818d8d2d086037f",
 		"Author": "raul",
-		"Comment": "Cherrypicked 1fe9d700744a1178f91a2bfc5e3502f04b78a9d3 and 2a384885dc3845610c6e64fcdf2ece03e7a1a840",
+		"Comment": "Moved command processing after attempting to get it out of the cached mapping",
 		"Tag": "edge_build",
-		"Date": "2026-06-13 13:58:09 +0200"
+		"Date": "2026-06-13 14:41:42 +0200"
 	}
 }
