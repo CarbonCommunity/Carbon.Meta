@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1220",
-	"InformationalVersion": "2.1.1220-MinimalUnix-main-6b31eb8",
+	"Version": "2.1.1221",
+	"InformationalVersion": "2.1.1221-MinimalUnix-main-8160ec3",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "6b31eb80ca3bc47d2122a3fd7e4eeb1e8332ee61",
-		"HashShort": "6b31eb8",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6b31eb80ca3bc47d2122a3fd7e4eeb1e8332ee61",
+		"HashLong": "8160ec33cad0cb3ffb91bf0ca04fdfa8d75a2c24",
+		"HashShort": "8160ec3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8160ec33cad0cb3ffb91bf0ca04fdfa8d75a2c24",
 		"Author": "raul",
-		"Comment": "Added various arg.Args null checks",
+		"Comment": "Added ConsoleSystem.Arg extension (under Carbon.Extensions namespace) for getting a full string (combines all arguments at a startIndex into a final string) Applied arg.GetFullString(int startIndex = 0) across all usages in the repo",
 		"Tag": "edge_build",
-		"Date": "2026-06-14 17:20:32 +0200"
+		"Date": "2026-06-14 17:41:13 +0200"
 	}
 }
