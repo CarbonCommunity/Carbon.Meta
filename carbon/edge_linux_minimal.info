@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1219",
-	"InformationalVersion": "2.1.1219-MinimalUnix-main-8fb0f0b",
+	"Version": "2.1.1220",
+	"InformationalVersion": "2.1.1220-MinimalUnix-main-6b31eb8",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "8fb0f0b7e524f87c7297504f526b158d05ea6fbd",
-		"HashShort": "8fb0f0b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8fb0f0b7e524f87c7297504f526b158d05ea6fbd",
+		"HashLong": "6b31eb80ca3bc47d2122a3fd7e4eeb1e8332ee61",
+		"HashShort": "6b31eb8",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6b31eb80ca3bc47d2122a3fd7e4eeb1e8332ee61",
 		"Author": "raul",
-		"Comment": "Fixed Reveal UI offset",
+		"Comment": "Added various arg.Args null checks",
 		"Tag": "edge_build",
-		"Date": "2026-06-14 13:11:44 +0200"
+		"Date": "2026-06-14 17:20:32 +0200"
 	}
 }
