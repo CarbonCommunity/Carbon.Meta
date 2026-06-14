@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1222",
-	"InformationalVersion": "2.1.1222-MinimalUnix-main-8865414",
+	"Version": "2.1.1223",
+	"InformationalVersion": "2.1.1223-MinimalUnix-main-7c7594e",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "88654140aecf8deb168428c2ff0afed2f948392b",
-		"HashShort": "8865414",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/88654140aecf8deb168428c2ff0afed2f948392b",
+		"HashLong": "7c7594e631a7e38eb582c2947d4b00e11e5fa63d",
+		"HashShort": "7c7594e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7c7594e631a7e38eb582c2947d4b00e11e5fa63d",
 		"Author": "raul",
-		"Comment": "Removed Community.Protect caching",
+		"Comment": "Fixed Plugins tab interactions",
 		"Tag": "edge_build",
-		"Date": "2026-06-14 17:59:28 +0200"
+		"Date": "2026-06-14 18:14:41 +0200"
 	}
 }
