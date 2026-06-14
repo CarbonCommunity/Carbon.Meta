@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1218",
-	"InformationalVersion": "2.1.1218-DebugUnix-main-f8af58b",
+	"Version": "2.1.1219",
+	"InformationalVersion": "2.1.1219-DebugUnix-main-8fb0f0b",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "f8af58b574b54884de7b2e0250e2970e64f865ca",
-		"HashShort": "f8af58b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f8af58b574b54884de7b2e0250e2970e64f865ca",
+		"HashLong": "8fb0f0b7e524f87c7297504f526b158d05ea6fbd",
+		"HashShort": "8fb0f0b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8fb0f0b7e524f87c7297504f526b158d05ea6fbd",
 		"Author": "raul",
-		"Comment": "Merge branch 'webcontrolpanel_fixes'",
+		"Comment": "Fixed Reveal UI offset",
 		"Tag": "edge_build",
-		"Date": "2026-06-14 00:44:36 +0200"
+		"Date": "2026-06-14 13:11:44 +0200"
 	}
 }
