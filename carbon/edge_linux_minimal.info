@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1224",
-	"InformationalVersion": "2.1.1224-MinimalUnix-main-8ae1e2d",
+	"Version": "2.1.1225",
+	"InformationalVersion": "2.1.1225-MinimalUnix-main-35f24ba",
 	"Protocol": "2026.06.04.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "8ae1e2d84113159c07825065a6aea27f9bb5c068",
-		"HashShort": "8ae1e2d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8ae1e2d84113159c07825065a6aea27f9bb5c068",
+		"HashLong": "35f24bab380e0ec9889982566160407b7ead9dba",
+		"HashShort": "35f24ba",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/35f24bab380e0ec9889982566160407b7ead9dba",
 		"Author": "raul",
-		"Comment": "Removed unused _protect",
+		"Comment": "Merge branch 'console_arg_parse_fix'",
 		"Tag": "edge_build",
-		"Date": "2026-06-14 18:19:15 +0200"
+		"Date": "2026-06-14 21:22:30 +0200"
 	}
 }
