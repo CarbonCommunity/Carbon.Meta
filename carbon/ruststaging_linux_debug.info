@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1299",
-	"InformationalVersion": "2.3.1299-DebugUnix-rust_beta/staging-f11a0a1",
-	"Protocol": "2026.06.04.0",
+	"Version": "2.3.1306",
+	"InformationalVersion": "2.3.1306-DebugUnix-rust_beta/staging-25d3173",
+	"Protocol": "2026.07.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "f11a0a168209df59cc8885348546081b0a21576d",
-		"HashShort": "f11a0a1",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f11a0a168209df59cc8885348546081b0a21576d",
-		"Author": "raul",
-		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"HashLong": "25d31735211dd8d07020ddc3822042f2bef7e453",
+		"HashShort": "25d3173",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/25d31735211dd8d07020ddc3822042f2bef7e453",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge branch 'ref_processing' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-06-16 20:15:05 +0200"
+		"Date": "2026-06-23 01:34:36 +0200"
 	}
 }
