@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1232",
-	"InformationalVersion": "2.1.1232-Debug-main-1055ca3",
+	"Version": "2.1.1233",
+	"InformationalVersion": "2.1.1233-Debug-main-723e21e",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "1055ca3b4f3996d67b636a92ceed2c1e3fab4c1f",
-		"HashShort": "1055ca3",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1055ca3b4f3996d67b636a92ceed2c1e3fab4c1f",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #111 from HizenLabs/rust_beta/staging  Fix json being cropped in RPC_AddCui",
+		"HashLong": "723e21ee63031446c1c6856c46da2c647b3abadb",
+		"HashShort": "723e21e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/723e21ee63031446c1c6856c46da2c647b3abadb",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge branch 'webcontrolpanel_3dmap'",
 		"Tag": "edge_build",
-		"Date": "2026-07-03 18:11:27 +0500"
+		"Date": "2026-07-04 19:45:53 +0200"
 	}
 }
