@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1228",
-	"InformationalVersion": "2.1.1228-DebugUnix-main-dfae3b2",
-	"Protocol": "2026.06.04.0",
+	"Version": "2.1.1232",
+	"InformationalVersion": "2.1.1232-DebugUnix-main-1055ca3",
+	"Protocol": "2026.07.02.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "dfae3b2c9c95f9967ce1ba6d327a56985d721943",
-		"HashShort": "dfae3b2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dfae3b2c9c95f9967ce1ba6d327a56985d721943",
-		"Author": "raul",
-		"Comment": "Merge branch 'onplayercommand_regression_fix'",
+		"HashLong": "1055ca3b4f3996d67b636a92ceed2c1e3fab4c1f",
+		"HashShort": "1055ca3",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1055ca3b4f3996d67b636a92ceed2c1e3fab4c1f",
+		"Author": "evs-ptr",
+		"Comment": "Merge pull request #111 from HizenLabs/rust_beta/staging  Fix json being cropped in RPC_AddCui",
 		"Tag": "edge_build",
-		"Date": "2026-06-16 20:14:49 +0200"
+		"Date": "2026-07-03 18:11:27 +0500"
 	}
 }
