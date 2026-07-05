@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1233",
-	"InformationalVersion": "2.1.1233-MinimalUnix-main-723e21e",
+	"Version": "2.1.1234",
+	"InformationalVersion": "2.1.1234-MinimalUnix-main-b6e400d",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "723e21ee63031446c1c6856c46da2c647b3abadb",
-		"HashShort": "723e21e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/723e21ee63031446c1c6856c46da2c647b3abadb",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Merge branch 'webcontrolpanel_3dmap'",
+		"HashLong": "b6e400d045e62741dabc279f8af2ca3bd147576c",
+		"HashShort": "b6e400d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b6e400d045e62741dabc279f8af2ca3bd147576c",
+		"Author": "its-snapple",
+		"Comment": "Refresh rustPlayer.Name on connection to prevent stale display names in covalence",
 		"Tag": "edge_build",
-		"Date": "2026-07-04 19:45:53 +0200"
+		"Date": "2026-07-05 08:23:32 -0500"
 	}
 }
