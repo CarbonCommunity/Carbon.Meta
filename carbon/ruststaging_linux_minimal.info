@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1336",
-	"InformationalVersion": "2.3.1336-MinimalUnix-rust_beta/staging-d438c18",
+	"Version": "2.3.1350",
+	"InformationalVersion": "2.3.1350-MinimalUnix-rust_beta/staging-e41edc9",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "d438c187a6f4d79541893a1f16e52c32867106d5",
-		"HashShort": "d438c18",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d438c187a6f4d79541893a1f16e52c32867106d5",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"HashLong": "e41edc9657c8349c71073d37217329005491f40a",
+		"HashShort": "e41edc9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e41edc9657c8349c71073d37217329005491f40a",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge branch 'console_history_removal' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-03 18:32:39 +0500"
+		"Date": "2026-07-13 17:43:32 +0200"
 	}
 }
