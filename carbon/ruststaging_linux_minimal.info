@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1351",
-	"InformationalVersion": "2.3.1351-MinimalUnix-rust_beta/staging-9ee561e",
+	"Version": "2.3.1352",
+	"InformationalVersion": "2.3.1352-MinimalUnix-rust_beta/staging-9b6ee35",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "9ee561e1074e843270cf2af66ef56780be970cf5",
-		"HashShort": "9ee561e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9ee561e1074e843270cf2af66ef56780be970cf5",
+		"HashLong": "9b6ee354457ad303d30cb946f4db7e4e637323dc",
+		"HashShort": "9b6ee35",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9b6ee354457ad303d30cb946f4db7e4e637323dc",
 		"Author": "Raul-Sorin Sorban",
 		"Comment": "Merge branch 'cui_updates' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-15 15:32:20 +0200"
+		"Date": "2026-07-15 16:01:14 +0200"
 	}
 }
