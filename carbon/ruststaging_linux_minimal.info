@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1354",
-	"InformationalVersion": "2.3.1354-MinimalUnix-rust_beta/staging-799ea71",
+	"Version": "2.3.1355",
+	"InformationalVersion": "2.3.1355-MinimalUnix-rust_beta/staging-94bb97a",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "799ea71553c386636cc44f0ff6e32ab6eeec1cc4",
-		"HashShort": "799ea71",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/799ea71553c386636cc44f0ff6e32ab6eeec1cc4",
+		"HashLong": "94bb97aaa00d6ed9ea89fcc88839f3815d501c0a",
+		"HashShort": "94bb97a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/94bb97aaa00d6ed9ea89fcc88839f3815d501c0a",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Tooltip implementation fix JSON serialization fix",
+		"Comment": "Finalized the polishing",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-15 18:10:50 +0200"
+		"Date": "2026-07-15 18:51:48 +0200"
 	}
 }
