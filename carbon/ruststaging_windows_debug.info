@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1352",
-	"InformationalVersion": "2.3.1352-Debug-rust_beta/staging-9b6ee35",
+	"Version": "2.3.1353",
+	"InformationalVersion": "2.3.1353-Debug-rust_beta/staging-9fc0dc1",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "9b6ee354457ad303d30cb946f4db7e4e637323dc",
-		"HashShort": "9b6ee35",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9b6ee354457ad303d30cb946f4db7e4e637323dc",
+		"HashLong": "9fc0dc170b0dbbbfa8ce947aa27414a3c76bb86f",
+		"HashShort": "9fc0dc1",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9fc0dc170b0dbbbfa8ce947aa27414a3c76bb86f",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Merge branch 'cui_updates' into rust_beta/staging",
+		"Comment": "Added missing CUI / LUI implementations",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-15 16:01:14 +0200"
+		"Date": "2026-07-15 17:23:58 +0200"
 	}
 }
