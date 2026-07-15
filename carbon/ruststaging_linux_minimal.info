@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1353",
-	"InformationalVersion": "2.3.1353-MinimalUnix-rust_beta/staging-9fc0dc1",
+	"Version": "2.3.1354",
+	"InformationalVersion": "2.3.1354-MinimalUnix-rust_beta/staging-799ea71",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "9fc0dc170b0dbbbfa8ce947aa27414a3c76bb86f",
-		"HashShort": "9fc0dc1",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9fc0dc170b0dbbbfa8ce947aa27414a3c76bb86f",
+		"HashLong": "799ea71553c386636cc44f0ff6e32ab6eeec1cc4",
+		"HashShort": "799ea71",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/799ea71553c386636cc44f0ff6e32ab6eeec1cc4",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Added missing CUI / LUI implementations",
+		"Comment": "Tooltip implementation fix JSON serialization fix",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-15 17:23:58 +0200"
+		"Date": "2026-07-15 18:10:50 +0200"
 	}
 }
