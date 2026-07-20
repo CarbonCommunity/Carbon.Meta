@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1360",
-	"InformationalVersion": "2.3.1360-DebugUnix-rust_beta/staging-94bb97a",
-	"Protocol": "2026.07.02.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "94bb97aaa00d6ed9ea89fcc88839f3815d501c0a",
-		"HashShort": "94bb97a",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/94bb97aaa00d6ed9ea89fcc88839f3815d501c0a",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Finalized the polishing",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-15 18:51:48 +0200"
-	}
-}
+Not Found
