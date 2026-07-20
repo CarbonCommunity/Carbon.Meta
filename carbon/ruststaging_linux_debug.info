@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1361",
+	"InformationalVersion": "2.3.1361-DebugUnix-rust_beta/staging-2fe623b",
+	"Protocol": "2026.07.02.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "2fe623b0a8661b04996cf86ad13ca9cb87abc198",
+		"HashShort": "2fe623b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2fe623b0a8661b04996cf86ad13ca9cb87abc198",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-07-20 22:24:26 +0200"
+	}
+}
