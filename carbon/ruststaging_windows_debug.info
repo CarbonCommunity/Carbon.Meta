@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1368",
+	"InformationalVersion": "2.3.1368-Debug-rust_beta/staging-53b0abe",
+	"Protocol": "2026.07.02.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "53b0abe3f5e715babae43d478bf5c0ede3ab9dd5",
+		"HashShort": "53b0abe",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/53b0abe3f5e715babae43d478bf5c0ede3ab9dd5",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-07-20 22:43:52 +0200"
+	}
+}
