@@ -1,21 +1,21 @@
 {
   "Scm": {
     "Type": "PlasticScm",
-    "ChangeId": "159283",
+    "ChangeId": "159301",
     "Branch": "main",
     "Repo": "rust_reboot",
-    "Date": "28/07/2026 22:15:16",
-    "LongDate": 1785273316000
+    "Date": "29/07/2026 00:07:40",
+    "LongDate": 1785280060000
   },
   "Build": {
-    "Id": "2294",
-    "Number": "2294",
-    "Tag": "jenkins-Rust-Server-main-2294",
-    "Url": "https://build.facepunch.com/job/Rust-Server-main/2294/",
+    "Id": "2295",
+    "Number": "2295",
+    "Tag": "jenkins-Rust-Server-main-2295",
+    "Url": "https://build.facepunch.com/job/Rust-Server-main/2295/",
     "Name": "Rust-Server-main",
     "Node": "SVR-RUST-BS-01"
   },
-  "Date": 1785273316,
+  "Date": 1785280060,
   "DateString": "21 01 1970",
   "TimeString": "15:54"
 }
