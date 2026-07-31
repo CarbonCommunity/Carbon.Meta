@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1375",
-	"InformationalVersion": "2.3.1375-MinimalUnix-rust_beta/staging-ecaf344",
+	"Version": "2.3.1376",
+	"InformationalVersion": "2.3.1376-MinimalUnix-rust_beta/staging-b50ee13",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "ecaf344f54bc0f872c22f7e7f9adb179c9a00fd9",
-		"HashShort": "ecaf344",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ecaf344f54bc0f872c22f7e7f9adb179c9a00fd9",
+		"HashLong": "b50ee1340aea4fbaea384cfede263c2c256ed69c",
+		"HashShort": "b50ee13",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b50ee1340aea4fbaea384cfede263c2c256ed69c",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Fixed RecyclerThinkSpeed (final (final (1)))",
+		"Comment": "Fixed IResearchDuration as well",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-31 20:35:40 +0200"
+		"Date": "2026-07-31 21:03:25 +0200"
 	}
 }
