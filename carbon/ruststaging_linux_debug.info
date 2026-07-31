@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1374",
-	"InformationalVersion": "2.3.1374-DebugUnix-rust_beta/staging-dbf0075",
-	"Protocol": "2026.08.06.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "dbf0075179c78f49877d9918f04de27f8fdfceba",
-		"HashShort": "dbf0075",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dbf0075179c78f49877d9918f04de27f8fdfceba",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Fixed RecyclerThinkSpeed patch once again",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-07-31 20:01:29 +0200"
-	}
-}
+Not Found
