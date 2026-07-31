@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.3.1375",
+	"InformationalVersion": "2.3.1375-MinimalUnix-rust_beta/staging-ecaf344",
+	"Protocol": "2026.08.06.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "ecaf344f54bc0f872c22f7e7f9adb179c9a00fd9",
+		"HashShort": "ecaf344",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ecaf344f54bc0f872c22f7e7f9adb179c9a00fd9",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Fixed RecyclerThinkSpeed (final (final (1)))",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-07-31 20:35:40 +0200"
+	}
+}
