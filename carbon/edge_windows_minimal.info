@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1242",
-	"InformationalVersion": "2.1.1242-Minimal-main-3579664",
+	"Version": "2.1.1243",
+	"InformationalVersion": "2.1.1243-Minimal-main-4a02a11",
 	"Protocol": "2026.07.02.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "3579664462bfc70ebea8dba4accb6b97576cc63d",
-		"HashShort": "3579664",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3579664462bfc70ebea8dba4accb6b97576cc63d",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Depot++",
+		"HashLong": "4a02a1108b776e36719c178b4f47086c485954e2",
+		"HashShort": "4a02a11",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4a02a1108b776e36719c178b4f47086c485954e2",
+		"Author": "evs-ptr",
+		"Comment": "`Publicizer` accept optional carbon managed dir in standalone cli",
 		"Tag": "edge_build",
-		"Date": "2026-07-20 22:43:39 +0200"
+		"Date": "2026-08-04 02:32:50 +0500"
 	}
 }
