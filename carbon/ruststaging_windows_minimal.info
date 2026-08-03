@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1382",
-	"InformationalVersion": "2.3.1382-Minimal-rust_beta/staging-5a7b17d",
+	"Version": "2.3.1383",
+	"InformationalVersion": "2.3.1383-Minimal-rust_beta/staging-a510424",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "5a7b17df1b328379a24f8bd2c62f56407080ee40",
-		"HashShort": "5a7b17d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5a7b17df1b328379a24f8bd2c62f56407080ee40",
+		"HashLong": "a510424e9084d8db4b51041394e3e0b8b682aab6",
+		"HashShort": "a510424",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a510424e9084d8db4b51041394e3e0b8b682aab6",
 		"Author": "raul",
-		"Comment": "Upped Carbon hooks download timeout from 10 -> 60 seconds",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-08-03 23:06:05 +0200"
+		"Date": "2026-08-03 23:43:52 +0200"
 	}
 }
