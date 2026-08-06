@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1388",
-	"InformationalVersion": "2.3.1388-Minimal-rust_beta/staging-9039a08",
+	"Version": "2.3.1389",
+	"InformationalVersion": "2.3.1389-Minimal-rust_beta/staging-cab71bc",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "9039a08e600b2850a647f76cfb0769073882c9a4",
-		"HashShort": "9039a08",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9039a08e600b2850a647f76cfb0769073882c9a4",
+		"HashLong": "cab71bcb96dc3dc70dbc60f42c617ebbf0b5d25f",
+		"HashShort": "cab71bc",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/cab71bcb96dc3dc70dbc60f42c617ebbf0b5d25f",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "More Tests compile fixes",
+		"Comment": "Fixed timers",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-08-06 00:28:04 +0200"
+		"Date": "2026-08-06 09:49:00 +0200"
 	}
 }
