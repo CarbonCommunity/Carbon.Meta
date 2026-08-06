@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1390",
-	"InformationalVersion": "2.3.1390-Minimal-rust_beta/staging-87ebbbd",
+	"Version": "2.3.1391",
+	"InformationalVersion": "2.3.1391-Minimal-rust_beta/staging-7291d3f",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "87ebbbd97c750dc54a7062b6ba9aa539615a4358",
-		"HashShort": "87ebbbd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/87ebbbd97c750dc54a7062b6ba9aa539615a4358",
+		"HashLong": "7291d3f81c9f8e38849c42cab62c9aa77e4bc92c",
+		"HashShort": "7291d3f",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/7291d3f81c9f8e38849c42cab62c9aa77e4bc92c",
 		"Author": "raul",
-		"Comment": "Tests fix",
+		"Comment": "More Timer fixes",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-08-06 11:14:02 +0200"
+		"Date": "2026-08-06 11:47:01 +0200"
 	}
 }
