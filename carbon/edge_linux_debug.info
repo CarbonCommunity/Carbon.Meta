@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1244",
-	"InformationalVersion": "2.1.1244-DebugUnix-main-aa33b99",
+	"Version": "2.1.1245",
+	"InformationalVersion": "2.1.1245-DebugUnix-main-77e5ede",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "aa33b992c0a0998938f693b9be07fe94dfdc9157",
-		"HashShort": "aa33b99",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/aa33b992c0a0998938f693b9be07fe94dfdc9157",
+		"HashLong": "77e5ede13022906ce47f3507982935c07d581da6",
+		"HashShort": "77e5ede",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/77e5ede13022906ce47f3507982935c07d581da6",
 		"Author": "raul",
 		"Comment": "Merge branch 'rust_beta/staging'",
 		"Tag": "edge_build",
-		"Date": "2026-08-06 11:06:24 +0200"
+		"Date": "2026-08-06 11:54:33 +0200"
 	}
 }
