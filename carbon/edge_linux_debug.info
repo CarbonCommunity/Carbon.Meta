@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1243",
-	"InformationalVersion": "2.1.1243-DebugUnix-main-4a02a11",
-	"Protocol": "2026.07.02.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "4a02a1108b776e36719c178b4f47086c485954e2",
-		"HashShort": "4a02a11",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4a02a1108b776e36719c178b4f47086c485954e2",
-		"Author": "evs-ptr",
-		"Comment": "`Publicizer` accept optional carbon managed dir in standalone cli",
-		"Tag": "edge_build",
-		"Date": "2026-08-04 02:32:50 +0500"
-	}
-}
+Not Found
