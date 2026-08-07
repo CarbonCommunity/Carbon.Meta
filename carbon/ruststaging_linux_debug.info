@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1392",
-	"InformationalVersion": "2.3.1392-DebugUnix-rust_beta/staging-d04a271",
+	"Version": "2.3.1393",
+	"InformationalVersion": "2.3.1393-DebugUnix-rust_beta/staging-b0822e9",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "d04a271ad28dd600ae0209892128f374caf02097",
-		"HashShort": "d04a271",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d04a271ad28dd600ae0209892128f374caf02097",
+		"HashLong": "b0822e96b4c010c73bcbf5637e3738bc60ebb971",
+		"HashShort": "b0822e9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b0822e96b4c010c73bcbf5637e3738bc60ebb971",
 		"Author": "raul",
-		"Comment": "Fixed PluginTimers -> Timers conversion",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-08-06 16:53:07 +0200"
+		"Date": "2026-08-07 01:58:28 +0200"
 	}
 }
