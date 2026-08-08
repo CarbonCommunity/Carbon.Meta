@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1249",
-	"InformationalVersion": "2.1.1249-Minimal-main-a076df4",
+	"Version": "2.1.1250",
+	"InformationalVersion": "2.1.1250-Minimal-main-4b0d016",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "a076df4d8b5fae71514bf090cb67a116816e5e99",
-		"HashShort": "a076df4",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a076df4d8b5fae71514bf090cb67a116816e5e99",
+		"HashLong": "4b0d01601a6042b989aea7c97ec8318a70ad0b1e",
+		"HashShort": "4b0d016",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4b0d01601a6042b989aea7c97ec8318a70ad0b1e",
 		"Author": "evs-ptr",
-		"Comment": "Merge branch 'fix/hook-metadata'",
+		"Comment": "`Hooks.Generator` fix warnings",
 		"Tag": "edge_build",
-		"Date": "2026-08-09 02:47:52 +0500"
+		"Date": "2026-08-09 02:55:37 +0500"
 	}
 }
