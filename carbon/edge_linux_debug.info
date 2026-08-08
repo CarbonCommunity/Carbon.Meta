@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1251",
-	"InformationalVersion": "2.1.1251-DebugUnix-main-1596515",
-	"Protocol": "2026.08.06.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "159651526da81788c0663d6d73c8f8f89737cfe5",
-		"HashShort": "1596515",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/159651526da81788c0663d6d73c8f8f89737cfe5",
-		"Author": "evs-ptr",
-		"Comment": "`MetadataAttribute` drop the parameterless `Return` ctor; respell all usages to the typed one",
-		"Tag": "edge_build",
-		"Date": "2026-08-09 03:33:11 +0500"
-	}
-}
+Not Found
