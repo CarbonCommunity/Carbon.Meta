@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1250",
-	"InformationalVersion": "2.1.1250-Debug-main-4b0d016",
+	"Version": "2.1.1251",
+	"InformationalVersion": "2.1.1251-Debug-main-1596515",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "4b0d01601a6042b989aea7c97ec8318a70ad0b1e",
-		"HashShort": "4b0d016",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4b0d01601a6042b989aea7c97ec8318a70ad0b1e",
+		"HashLong": "159651526da81788c0663d6d73c8f8f89737cfe5",
+		"HashShort": "1596515",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/159651526da81788c0663d6d73c8f8f89737cfe5",
 		"Author": "evs-ptr",
-		"Comment": "`Hooks.Generator` fix warnings",
+		"Comment": "`MetadataAttribute` drop the parameterless `Return` ctor; respell all usages to the typed one",
 		"Tag": "edge_build",
-		"Date": "2026-08-09 02:55:37 +0500"
+		"Date": "2026-08-09 03:33:11 +0500"
 	}
 }
