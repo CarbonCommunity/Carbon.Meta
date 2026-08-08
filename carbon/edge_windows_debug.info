@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1249",
+	"InformationalVersion": "2.1.1249-Debug-main-a076df4",
+	"Protocol": "2026.08.06.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "a076df4d8b5fae71514bf090cb67a116816e5e99",
+		"HashShort": "a076df4",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/a076df4d8b5fae71514bf090cb67a116816e5e99",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'fix/hook-metadata'",
+		"Tag": "edge_build",
+		"Date": "2026-08-09 02:47:52 +0500"
+	}
+}
