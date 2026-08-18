@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1256",
-	"InformationalVersion": "2.1.1256-DebugUnix-main-e4f62e5",
+	"Version": "2.1.1257",
+	"InformationalVersion": "2.1.1257-DebugUnix-main-97cfa04",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "e4f62e56e09446b8119c50a328e400d4272034fc",
-		"HashShort": "e4f62e5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e4f62e56e09446b8119c50a328e400d4272034fc",
+		"HashLong": "97cfa04a70010782a69b7eba6ada9e83d84d3250",
+		"HashShort": "97cfa04",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/97cfa04a70010782a69b7eba6ada9e83d84d3250",
 		"Author": "evs-ptr",
-		"Comment": "Merge branch 'fix/plugin-hook-codegen'",
+		"Comment": "Merge pull request #116 from Pho3niX90/bugfix/user-agent-overwritten  bugfix: preserve custom User-Agent header in WebRequest and add tests",
 		"Tag": "edge_build",
-		"Date": "2026-08-19 01:49:21 +0500"
+		"Date": "2026-08-19 02:29:43 +0500"
 	}
 }
