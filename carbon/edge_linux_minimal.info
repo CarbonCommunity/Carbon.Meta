@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1255",
-	"InformationalVersion": "2.1.1255-MinimalUnix-main-d06fc0f",
+	"Version": "2.1.1256",
+	"InformationalVersion": "2.1.1256-MinimalUnix-main-e4f62e5",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "d06fc0fd791a94892ca6d1a8f84c7f6b643ce3cd",
-		"HashShort": "d06fc0f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/d06fc0fd791a94892ca6d1a8f84c7f6b643ce3cd",
+		"HashLong": "e4f62e56e09446b8119c50a328e400d4272034fc",
+		"HashShort": "e4f62e5",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e4f62e56e09446b8119c50a328e400d4272034fc",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #117 from packs-packrat/fix/scriptloader-compile  fix: ScriptLoader teardown racing its compile thread",
+		"Comment": "Merge branch 'fix/plugin-hook-codegen'",
 		"Tag": "edge_build",
-		"Date": "2026-08-18 17:16:09 +0500"
+		"Date": "2026-08-19 01:49:21 +0500"
 	}
 }
