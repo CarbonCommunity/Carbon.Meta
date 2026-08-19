@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1257",
-	"InformationalVersion": "2.1.1257-DebugUnix-main-97cfa04",
+	"Version": "2.1.1258",
+	"InformationalVersion": "2.1.1258-DebugUnix-main-062f558",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "97cfa04a70010782a69b7eba6ada9e83d84d3250",
-		"HashShort": "97cfa04",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/97cfa04a70010782a69b7eba6ada9e83d84d3250",
+		"HashLong": "062f558858526ce02809364680ae1f0ca316f1b7",
+		"HashShort": "062f558",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/062f558858526ce02809364680ae1f0ca316f1b7",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #116 from Pho3niX90/bugfix/user-agent-overwritten  bugfix: preserve custom User-Agent header in WebRequest and add tests",
+		"Comment": "Merge pull request #120 from CarbonCommunity/fix/oven-smelt-overhead  fix: oven smelt overhead",
 		"Tag": "edge_build",
-		"Date": "2026-08-19 02:29:43 +0500"
+		"Date": "2026-08-19 16:18:18 +0500"
 	}
 }
