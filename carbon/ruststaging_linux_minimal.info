@@ -1,17 +1,3 @@
-{
-	"Version": "2.3.1410",
-	"InformationalVersion": "2.3.1410-MinimalUnix-rust_beta/staging-9564766",
-	"Protocol": "2026.08.06.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "9564766713c43e679156d8518b80b7b0e2632c44",
-		"HashShort": "9564766",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9564766713c43e679156d8518b80b7b0e2632c44",
-		"Author": "raul",
-		"Comment": "Compile fix due to staging branch changes",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-08-21 00:06:32 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
