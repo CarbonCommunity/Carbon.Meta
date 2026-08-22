@@ -1,1 +1,17 @@
-Not Found
+{
+	"Version": "2.1.1260",
+	"InformationalVersion": "2.1.1260-DebugUnix-main-c2d1938",
+	"Protocol": "2026.08.06.0",
+	"Platform": "Linux",
+	"Config": "DebugUnix",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "c2d1938901fe9072cf64f6fda2fe8e7eb7594867",
+		"HashShort": "c2d1938",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c2d1938901fe9072cf64f6fda2fe8e7eb7594867",
+		"Author": "raul",
+		"Comment": "Merge branch 'timer_compat_fix'",
+		"Tag": "edge_build",
+		"Date": "2026-08-22 17:19:07 +0200"
+	}
+}
