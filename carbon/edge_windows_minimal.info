@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1259",
-	"InformationalVersion": "2.1.1259-Minimal-main-062f558",
+	"Version": "2.1.1260",
+	"InformationalVersion": "2.1.1260-Minimal-main-c2d1938",
 	"Protocol": "2026.08.06.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "062f558858526ce02809364680ae1f0ca316f1b7",
-		"HashShort": "062f558",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/062f558858526ce02809364680ae1f0ca316f1b7",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #120 from CarbonCommunity/fix/oven-smelt-overhead  fix: oven smelt overhead",
+		"HashLong": "c2d1938901fe9072cf64f6fda2fe8e7eb7594867",
+		"HashShort": "c2d1938",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c2d1938901fe9072cf64f6fda2fe8e7eb7594867",
+		"Author": "raul",
+		"Comment": "Merge branch 'timer_compat_fix'",
 		"Tag": "edge_build",
-		"Date": "2026-08-19 16:18:18 +0500"
+		"Date": "2026-08-22 17:19:07 +0200"
 	}
 }
