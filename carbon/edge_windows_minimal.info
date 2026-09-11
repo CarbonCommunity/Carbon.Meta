@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1266",
-	"InformationalVersion": "2.1.1266-Minimal-main-91daf9b",
+	"Version": "2.1.1267",
+	"InformationalVersion": "2.1.1267-Minimal-main-21e6210",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "91daf9b7aa85bfd5581dfd938941473f8f98c7da",
-		"HashShort": "91daf9b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/91daf9b7aa85bfd5581dfd938941473f8f98c7da",
+		"HashLong": "21e62109c4da8a3a725ab753051b2fca0a5191ed",
+		"HashShort": "21e6210",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/21e62109c4da8a3a725ab753051b2fca0a5191ed",
 		"Author": "raul",
-		"Comment": "Fixed rare pool buffer leak",
+		"Comment": "Fixed OnMarketplaceTerminalPurchase",
 		"Tag": "edge_build",
-		"Date": "2026-09-11 14:53:47 +0200"
+		"Date": "2026-09-11 16:22:09 +0200"
 	}
 }
