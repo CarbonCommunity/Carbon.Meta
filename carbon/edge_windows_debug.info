@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1268",
-	"InformationalVersion": "2.1.1268-Debug-main-1e4f592",
-	"Protocol": "0.0.1.0-aux01",
+	"Version": "2.1.1269",
+	"InformationalVersion": "2.1.1269-Debug-main-4ef5149",
+	"Protocol": "2026.09.03.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "1e4f59281cfb6cf43e8d89845034c48b2f047ba0",
-		"HashShort": "1e4f592",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1e4f59281cfb6cf43e8d89845034c48b2f047ba0",
+		"HashLong": "4ef514941b632ea8423d71dd66669ef7ffa39eec",
+		"HashShort": "4ef5149",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4ef514941b632ea8423d71dd66669ef7ffa39eec",
 		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/aux01'",
+		"Comment": "Protocol fix",
 		"Tag": "edge_build",
-		"Date": "2026-09-11 20:30:32 +0200"
+		"Date": "2026-09-11 20:33:44 +0200"
 	}
 }
