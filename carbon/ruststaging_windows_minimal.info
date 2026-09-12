@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1444",
-	"InformationalVersion": "2.3.1444-Minimal-rust_beta/staging-664a180",
+	"Version": "2.3.1446",
+	"InformationalVersion": "2.3.1446-Minimal-rust_beta/staging-ee32455",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "664a180dda1d743a41f75489f016362569fa4526",
-		"HashShort": "664a180",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/664a180dda1d743a41f75489f016362569fa4526",
+		"HashLong": "ee32455f4941ce4fcee1b06ebf8d13ef750115c1",
+		"HashShort": "ee32455",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ee32455f4941ce4fcee1b06ebf8d13ef750115c1",
 		"Author": "raul",
-		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"Comment": "Enabled console info configuration on Linux as well",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-09-12 12:41:18 +0200"
+		"Date": "2026-09-12 18:09:39 +0200"
 	}
 }
