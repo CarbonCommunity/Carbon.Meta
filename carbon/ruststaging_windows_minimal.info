@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1447",
-	"InformationalVersion": "2.3.1447-Minimal-rust_beta/staging-ee32455",
+	"Version": "2.3.1448",
+	"InformationalVersion": "2.3.1448-Minimal-rust_beta/staging-ee32455",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
