@@ -1,3 +1,17 @@
-<html><body><h1>504 Gateway Time-out</h1>
-The server didn't respond in time.
-</body></html>
+{
+	"Version": "2.3.1448",
+	"InformationalVersion": "2.3.1448-Debug-rust_beta/staging-ee32455",
+	"Protocol": "2026.09.03.0",
+	"Platform": "Windows",
+	"Config": "Debug",
+	"Commit": {
+		"Branch": "rust_beta/staging",
+		"HashLong": "ee32455f4941ce4fcee1b06ebf8d13ef750115c1",
+		"HashShort": "ee32455",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ee32455f4941ce4fcee1b06ebf8d13ef750115c1",
+		"Author": "raul",
+		"Comment": "Enabled console info configuration on Linux as well",
+		"Tag": "rustbeta_staging_build",
+		"Date": "2026-09-12 18:09:39 +0200"
+	}
+}

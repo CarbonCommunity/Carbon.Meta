@@ -1,17 +1,3 @@
-{
-	"Version": "2.5.509",
-	"InformationalVersion": "2.5.509-Minimal-rust_beta/aux01-731592f",
-	"Protocol": "0.0.1.0-aux01",
-	"Platform": "Windows",
-	"Config": "Minimal",
-	"Commit": {
-		"Branch": "rust_beta/aux01",
-		"HashLong": "731592f16603940c2233e62ffa9d829b07829426",
-		"HashShort": "731592f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/731592f16603940c2233e62ffa9d829b07829426",
-		"Author": "raul",
-		"Comment": "Removed more instances of -staging",
-		"Tag": "rustbeta_aux01_build",
-		"Date": "2026-09-11 20:15:14 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
