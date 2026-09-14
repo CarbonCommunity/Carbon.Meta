@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1448",
-	"InformationalVersion": "2.3.1448-Minimal-rust_beta/staging-ee32455",
+	"Version": "2.3.1449",
+	"InformationalVersion": "2.3.1449-Minimal-rust_beta/staging-6b6d888",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "ee32455f4941ce4fcee1b06ebf8d13ef750115c1",
-		"HashShort": "ee32455",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ee32455f4941ce4fcee1b06ebf8d13ef750115c1",
+		"HashLong": "6b6d8882c310b5c6ca6a511e9288633d1fdad9df",
+		"HashShort": "6b6d888",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/6b6d8882c310b5c6ca6a511e9288633d1fdad9df",
 		"Author": "raul",
-		"Comment": "Enabled console info configuration on Linux as well",
+		"Comment": "Fixed nullable tuples  Added tests",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-09-12 18:09:39 +0200"
+		"Date": "2026-09-14 23:58:59 +0200"
 	}
 }
