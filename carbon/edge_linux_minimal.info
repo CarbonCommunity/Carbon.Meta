@@ -1,3 +1,17 @@
-<html><body><h1>504 Gateway Time-out</h1>
-The server didn't respond in time.
-</body></html>
+{
+	"Version": "2.1.1270",
+	"InformationalVersion": "2.1.1270-MinimalUnix-main-4d1b081",
+	"Protocol": "2026.09.03.0",
+	"Platform": "Linux",
+	"Config": "MinimalUnix",
+	"Commit": {
+		"Branch": "main",
+		"HashLong": "4d1b081eadef99da774e0342899bddcd638e26d2",
+		"HashShort": "4d1b081",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4d1b081eadef99da774e0342899bddcd638e26d2",
+		"Author": "raul",
+		"Comment": "Removed enforced beta password",
+		"Tag": "edge_build",
+		"Date": "2026-09-11 20:48:15 +0200"
+	}
+}
