@@ -1,17 +1,17 @@
 {
-	"Version": "2.5.509",
-	"InformationalVersion": "2.5.509-Debug-rust_beta/aux01-731592f",
+	"Version": "2.5.510",
+	"InformationalVersion": "2.5.510-Debug-rust_beta/aux01-f0c196b",
 	"Protocol": "0.0.1.0-aux01",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "rust_beta/aux01",
-		"HashLong": "731592f16603940c2233e62ffa9d829b07829426",
-		"HashShort": "731592f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/731592f16603940c2233e62ffa9d829b07829426",
+		"HashLong": "f0c196b7f5fd2acab046fd8dc7290718518e6d41",
+		"HashShort": "f0c196b",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f0c196b7f5fd2acab046fd8dc7290718518e6d41",
 		"Author": "raul",
-		"Comment": "Removed more instances of -staging",
+		"Comment": "Aux1++",
 		"Tag": "rustbeta_aux01_build",
-		"Date": "2026-09-11 20:15:14 +0200"
+		"Date": "2026-09-15 13:05:35 +0200"
 	}
 }
