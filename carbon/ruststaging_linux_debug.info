@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1450",
-	"InformationalVersion": "2.3.1450-DebugUnix-rust_beta/staging-4af129c",
+	"Version": "2.3.1452",
+	"InformationalVersion": "2.3.1452-DebugUnix-rust_beta/staging-b62af95",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "4af129cb1d5f3904a9fa81c75156064531b9d4fe",
-		"HashShort": "4af129c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/4af129cb1d5f3904a9fa81c75156064531b9d4fe",
+		"HashLong": "b62af95766b750bfcdd36b56e89f045144247180",
+		"HashShort": "b62af95",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b62af95766b750bfcdd36b56e89f045144247180",
 		"Author": "raul",
-		"Comment": "Merge branch 'perf/hook-subscriber-index' into rust_beta/staging",
+		"Comment": "Added new config + convar for generating internal call hook source file on plugin failure on debug Carbon builds",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-09-15 16:40:25 +0200"
+		"Date": "2026-09-16 18:45:49 +0200"
 	}
 }
