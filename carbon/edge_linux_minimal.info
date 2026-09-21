@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.1272",
-	"InformationalVersion": "2.1.1272-MinimalUnix-main-993718f",
-	"Protocol": "2026.09.03.0",
-	"Platform": "Linux",
-	"Config": "MinimalUnix",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "993718ffc080d6eeda41120656f8d98246c7be4b",
-		"HashShort": "993718f",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/993718ffc080d6eeda41120656f8d98246c7be4b",
-		"Author": "raul",
-		"Comment": "Revert """"Merge branch 'rust_beta/staging'""""  This reverts commit 6e65b8bb36e94360e21324ce466dbb98601f1cc4, reversing changes made to 4d1b081eadef99da774e0342899bddcd638e26d2.",
-		"Tag": "edge_build",
-		"Date": "2026-09-21 00:56:04 +0200"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
