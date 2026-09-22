@@ -1,17 +1,1 @@
-{
-	"Version": "2.1.1273",
-	"InformationalVersion": "2.1.1273-DebugUnix-main-9ef5d24",
-	"Protocol": "2026.09.03.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "9ef5d242ee9a51c776d0f6d0d20930770aedcd6b",
-		"HashShort": "9ef5d24",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9ef5d242ee9a51c776d0f6d0d20930770aedcd6b",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #128 from DarkTide/patch-1  Set activeSelf to true in LUI.cs after recovering a LuiContainer from…",
-		"Tag": "edge_build",
-		"Date": "2026-09-22 11:44:01 +0500"
-	}
-}
+Not Found
