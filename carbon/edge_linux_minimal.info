@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1274",
-	"InformationalVersion": "2.1.1274-MinimalUnix-main-0ec6db0",
+	"Version": "2.1.1275",
+	"InformationalVersion": "2.1.1275-MinimalUnix-main-08bcfd8",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "0ec6db0363bc572a6a8d04e806dab283b216a97a",
-		"HashShort": "0ec6db0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0ec6db0363bc572a6a8d04e806dab283b216a97a",
+		"HashLong": "08bcfd854b6692e4566a859d050eb1ccd8f9dc9e",
+		"HashShort": "08bcfd8",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/08bcfd854b6692e4566a859d050eb1ccd8f9dc9e",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #128 from DarkTide/patch-1",
+		"Comment": "Merge pull request #129 from DarkTide/patch-2  Unconditionally send """"activeSelf"""" field LUIBuilder",
 		"Tag": "edge_build",
-		"Date": "2026-09-22 11:55:17 +0500"
+		"Date": "2026-09-22 13:24:23 +0500"
 	}
 }
