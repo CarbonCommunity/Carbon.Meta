@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1275",
-	"InformationalVersion": "2.1.1275-Minimal-main-08bcfd8",
+	"Version": "2.1.1276",
+	"InformationalVersion": "2.1.1276-Minimal-main-c16add2",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "08bcfd854b6692e4566a859d050eb1ccd8f9dc9e",
-		"HashShort": "08bcfd8",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/08bcfd854b6692e4566a859d050eb1ccd8f9dc9e",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #129 from DarkTide/patch-2  Unconditionally send """"activeSelf"""" field LUIBuilder",
+		"HashLong": "c16add2ec3cb91fe21f04fdd5617b100735fe02c",
+		"HashShort": "c16add2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/c16add2ec3cb91fe21f04fdd5617b100735fe02c",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge pull request #125 from CarbonCommunity/fix/rename-refresh",
 		"Tag": "edge_build",
-		"Date": "2026-09-22 13:24:23 +0500"
+		"Date": "2026-09-24 01:49:29 +0200"
 	}
 }
