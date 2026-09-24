@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1277",
-	"InformationalVersion": "2.1.1277-Minimal-main-b0546b2",
+	"Version": "2.1.1278",
+	"InformationalVersion": "2.1.1278-Minimal-main-09cc436",
 	"Protocol": "2026.09.03.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "b0546b2a01f6479c9bd07822294039f63157ff4c",
-		"HashShort": "b0546b2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b0546b2a01f6479c9bd07822294039f63157ff4c",
-		"Author": "raul",
-		"Comment": "Added additional null checks  Added test verifying that we're renaming without connection doesn't throw",
+		"HashLong": "09cc4360136de6d6bfe8a6f489eb1a33da53a5c4",
+		"HashShort": "09cc436",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/09cc4360136de6d6bfe8a6f489eb1a33da53a5c4",
+		"Author": "Raul-Sorin Sorban",
+		"Comment": "Merge pull request #126 from CarbonCommunity/perf/timer-scheduler",
 		"Tag": "edge_build",
-		"Date": "2026-09-24 02:34:46 +0200"
+		"Date": "2026-09-24 02:53:30 +0200"
 	}
 }
