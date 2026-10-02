@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1279",
-	"InformationalVersion": "2.1.1279-DebugUnix-main-ee9c635",
+	"Version": "2.1.1280",
+	"InformationalVersion": "2.1.1280-DebugUnix-main-e1f41d0",
 	"Protocol": "2026.10.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "ee9c635362f0ac89d675ef7f636e770af7710d80",
-		"HashShort": "ee9c635",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/ee9c635362f0ac89d675ef7f636e770af7710d80",
-		"Author": "raul",
-		"Comment": "Merge branch 'rust_beta/staging'",
+		"HashLong": "e1f41d0b77a96c147ad9d85849e7792ea1812fb8",
+		"HashShort": "e1f41d0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e1f41d0b77a96c147ad9d85849e7792ea1812fb8",
+		"Author": "evs-ptr",
+		"Comment": "`CorePlugin` fix `OnEntityTakeDamage` firing twice for livestock",
 		"Tag": "edge_build",
-		"Date": "2026-10-01 19:28:16 +0200"
+		"Date": "2026-10-02 12:56:30 +0500"
 	}
 }
