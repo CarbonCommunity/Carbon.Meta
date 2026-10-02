@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1473",
-	"InformationalVersion": "2.3.1473-DebugUnix-rust_beta/staging-e46323c",
+	"Version": "2.3.1474",
+	"InformationalVersion": "2.3.1474-DebugUnix-rust_beta/staging-8b85f4e",
 	"Protocol": "2026.10.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "e46323c43de111e8239b9b99496a34aaac795a52",
-		"HashShort": "e46323c",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e46323c43de111e8239b9b99496a34aaac795a52",
-		"Author": "raul",
+		"HashLong": "8b85f4e6e50ce8353cb5f50005e044acc2f56cf1",
+		"HashShort": "8b85f4e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/8b85f4e6e50ce8353cb5f50005e044acc2f56cf1",
+		"Author": "evs-ptr",
 		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-09-30 23:27:00 +0200"
+		"Date": "2026-10-02 13:16:16 +0500"
 	}
 }
