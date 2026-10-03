@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1283",
-	"InformationalVersion": "2.1.1283-MinimalUnix-main-049402d",
+	"Version": "2.1.1284",
+	"InformationalVersion": "2.1.1284-MinimalUnix-main-f107dbb",
 	"Protocol": "2026.10.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "049402da8d152fc10d7bf0682e0bcecfc11bc9f2",
-		"HashShort": "049402d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/049402da8d152fc10d7bf0682e0bcecfc11bc9f2",
+		"HashLong": "f107dbb27043667a6c72931c50adaaf31ea70277",
+		"HashShort": "f107dbb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f107dbb27043667a6c72931c50adaaf31ea70277",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #132 from xThreeh/fix/plugins-tab-pagination  Fixed Plugins tab page count and navigation",
+		"Comment": "Merge pull request #136 from xThreeh/fix/installed-tab-order  Kept the Installed tab sorted after plugin reloads",
 		"Tag": "edge_build",
-		"Date": "2026-10-03 17:51:44 +0500"
+		"Date": "2026-10-03 18:09:49 +0500"
 	}
 }
