@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1284",
-	"InformationalVersion": "2.1.1284-MinimalUnix-main-f107dbb",
+	"Version": "2.1.1285",
+	"InformationalVersion": "2.1.1285-MinimalUnix-main-5dd62d9",
 	"Protocol": "2026.10.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "f107dbb27043667a6c72931c50adaaf31ea70277",
-		"HashShort": "f107dbb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f107dbb27043667a6c72931c50adaaf31ea70277",
+		"HashLong": "5dd62d9d63ab919f63d5a60645d1029d8f927833",
+		"HashShort": "5dd62d9",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5dd62d9d63ab919f63d5a60645d1029d8f927833",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #136 from xThreeh/fix/installed-tab-order  Kept the Installed tab sorted after plugin reloads",
+		"Comment": "Merge pull request #138 from xThreeh/fix/installed-tab-vendor-cards  Fixed outdated and stale vendor cards in the Installed tab",
 		"Tag": "edge_build",
-		"Date": "2026-10-03 18:09:49 +0500"
+		"Date": "2026-10-03 23:19:48 +0500"
 	}
 }
