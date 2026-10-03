@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1281",
-	"InformationalVersion": "2.1.1281-MinimalUnix-main-614ca2e",
+	"Version": "2.1.1283",
+	"InformationalVersion": "2.1.1283-MinimalUnix-main-049402d",
 	"Protocol": "2026.10.01.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "614ca2e3f1608ea6013b9d8e0cef09987794c132",
-		"HashShort": "614ca2e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/614ca2e3f1608ea6013b9d8e0cef09987794c132",
+		"HashLong": "049402da8d152fc10d7bf0682e0bcecfc11bc9f2",
+		"HashShort": "049402d",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/049402da8d152fc10d7bf0682e0bcecfc11bc9f2",
 		"Author": "evs-ptr",
-		"Comment": "`CorePlugin` fire `OnNpcTarget` for `WildlifeHazard`, `BoatAI` and `BaseNpc` targeting",
+		"Comment": "Merge pull request #132 from xThreeh/fix/plugins-tab-pagination  Fixed Plugins tab page count and navigation",
 		"Tag": "edge_build",
-		"Date": "2026-10-03 15:02:09 +0500"
+		"Date": "2026-10-03 17:51:44 +0500"
 	}
 }
