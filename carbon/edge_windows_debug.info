@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1280",
-	"InformationalVersion": "2.1.1280-Debug-main-e1f41d0",
+	"Version": "2.1.1281",
+	"InformationalVersion": "2.1.1281-Debug-main-614ca2e",
 	"Protocol": "2026.10.01.0",
 	"Platform": "Windows",
 	"Config": "Debug",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "e1f41d0b77a96c147ad9d85849e7792ea1812fb8",
-		"HashShort": "e1f41d0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e1f41d0b77a96c147ad9d85849e7792ea1812fb8",
+		"HashLong": "614ca2e3f1608ea6013b9d8e0cef09987794c132",
+		"HashShort": "614ca2e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/614ca2e3f1608ea6013b9d8e0cef09987794c132",
 		"Author": "evs-ptr",
-		"Comment": "`CorePlugin` fix `OnEntityTakeDamage` firing twice for livestock",
+		"Comment": "`CorePlugin` fire `OnNpcTarget` for `WildlifeHazard`, `BoatAI` and `BaseNpc` targeting",
 		"Tag": "edge_build",
-		"Date": "2026-10-02 12:56:30 +0500"
+		"Date": "2026-10-03 15:02:09 +0500"
 	}
 }
