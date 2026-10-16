@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1293",
-	"InformationalVersion": "2.1.1293-DebugUnix-main-3e7a619",
+	"Version": "2.1.1294",
+	"InformationalVersion": "2.1.1294-DebugUnix-main-75123c6",
 	"Protocol": "2026.10.01.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "3e7a61973eb80c15da41ea751d6cef1494f645f5",
-		"HashShort": "3e7a619",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/3e7a61973eb80c15da41ea751d6cef1494f645f5",
+		"HashLong": "75123c62e2627e1ea343a785ebe86eec5017bc86",
+		"HashShort": "75123c6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/75123c62e2627e1ea343a785ebe86eec5017bc86",
 		"Author": "Raul-Sorin Sorban",
-		"Comment": "Merge pull request #142 from ohhReflex/main  Remove extra userid write in ClientEntity.RPCWriteStart",
+		"Comment": "Merge pull request #143 from ohhReflex/fix-parentid  Fix ClientEntity snapshot missing ParentInfo when setting ParentID",
 		"Tag": "edge_build",
-		"Date": "2026-10-16 23:50:34 +0200"
+		"Date": "2026-10-17 01:21:46 +0200"
 	}
 }
