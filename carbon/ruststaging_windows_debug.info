@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1510",
-	"InformationalVersion": "2.3.1510-Debug-rust_beta/staging-10020b0",
-	"Protocol": "2026.11.05.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "10020b0d7b1015d060aed78a55517f095ef38ac0",
-		"HashShort": "10020b0",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/10020b0d7b1015d060aed78a55517f095ef38ac0",
-		"Author": "raul",
-		"Comment": "Hooks that fail to install no longer fail the CI test run",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-10-30 23:55:14 +0100"
-	}
-}
+Not Found
