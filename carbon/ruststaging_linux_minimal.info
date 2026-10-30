@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1509",
-	"InformationalVersion": "2.3.1509-MinimalUnix-rust_beta/staging-9aa27fe",
+	"Version": "2.3.1510",
+	"InformationalVersion": "2.3.1510-MinimalUnix-rust_beta/staging-10020b0",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "9aa27fe85f983c01a9167fb04872da89633bcb6e",
-		"HashShort": "9aa27fe",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9aa27fe85f983c01a9167fb04872da89633bcb6e",
+		"HashLong": "10020b0d7b1015d060aed78a55517f095ef38ac0",
+		"HashShort": "10020b0",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/10020b0d7b1015d060aed78a55517f095ef38ac0",
 		"Author": "raul",
-		"Comment": "Bumped MySqlConnector 2.3.7 -> 2.6.2 and System.Diagnostics.DiagnosticSource 7.0.2 -> 8.0.1",
+		"Comment": "Hooks that fail to install no longer fail the CI test run",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-10-30 23:41:51 +0100"
+		"Date": "2026-10-30 23:55:14 +0100"
 	}
 }
