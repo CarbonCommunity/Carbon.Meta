@@ -1,17 +1,1 @@
-{
-	"Version": "2.3.1508",
-	"InformationalVersion": "2.3.1508-Debug-rust_beta/staging-9aa27fe",
-	"Protocol": "2026.11.05.0",
-	"Platform": "Windows",
-	"Config": "Debug",
-	"Commit": {
-		"Branch": "rust_beta/staging",
-		"HashLong": "9aa27fe85f983c01a9167fb04872da89633bcb6e",
-		"HashShort": "9aa27fe",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9aa27fe85f983c01a9167fb04872da89633bcb6e",
-		"Author": "raul",
-		"Comment": "Bumped MySqlConnector 2.3.7 -> 2.6.2 and System.Diagnostics.DiagnosticSource 7.0.2 -> 8.0.1",
-		"Tag": "rustbeta_staging_build",
-		"Date": "2026-10-30 23:41:51 +0100"
-	}
-}
+Not Found
