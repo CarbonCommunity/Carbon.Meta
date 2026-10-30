@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1505",
-	"InformationalVersion": "2.3.1505-Minimal-rust_beta/staging-0a5e2ce",
+	"Version": "2.3.1508",
+	"InformationalVersion": "2.3.1508-Minimal-rust_beta/staging-9aa27fe",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "0a5e2ceb82bc97cd30bb220dc7be7e155922b1d8",
-		"HashShort": "0a5e2ce",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0a5e2ceb82bc97cd30bb220dc7be7e155922b1d8",
+		"HashLong": "9aa27fe85f983c01a9167fb04872da89633bcb6e",
+		"HashShort": "9aa27fe",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9aa27fe85f983c01a9167fb04872da89633bcb6e",
 		"Author": "raul",
-		"Comment": "Staging branch fixes",
+		"Comment": "Bumped MySqlConnector 2.3.7 -> 2.6.2 and System.Diagnostics.DiagnosticSource 7.0.2 -> 8.0.1",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-10-28 22:03:00 +0100"
+		"Date": "2026-10-30 23:41:51 +0100"
 	}
 }
