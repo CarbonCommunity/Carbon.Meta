@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1515",
-	"InformationalVersion": "2.3.1515-Minimal-rust_beta/staging-74fe6dd",
+	"Version": "2.3.1516",
+	"InformationalVersion": "2.3.1516-Minimal-rust_beta/staging-5d2c492",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "74fe6dd3adb04350cd74b7dc6952faf8682838e3",
-		"HashShort": "74fe6dd",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/74fe6dd3adb04350cd74b7dc6952faf8682838e3",
+		"HashLong": "5d2c492ae359fad0bc88cc2cf05a75e9791100b3",
+		"HashShort": "5d2c492",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5d2c492ae359fad0bc88cc2cf05a75e9791100b3",
 		"Author": "raul",
-		"Comment": "Track microseconds in tests",
+		"Comment": "Fixed missing configuration for Profiler.Tests.Harness",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-10-31 00:48:46 +0100"
+		"Date": "2026-11-02 22:46:26 +0100"
 	}
 }
