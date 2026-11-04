@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1294",
-	"InformationalVersion": "2.1.1294-MinimalUnix-main-75123c6",
-	"Protocol": "2026.10.01.0",
+	"Version": "2.1.1298",
+	"InformationalVersion": "2.1.1298-MinimalUnix-main-055b6ea",
+	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "75123c62e2627e1ea343a785ebe86eec5017bc86",
-		"HashShort": "75123c6",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/75123c62e2627e1ea343a785ebe86eec5017bc86",
-		"Author": "Raul-Sorin Sorban",
-		"Comment": "Merge pull request #143 from ohhReflex/fix-parentid  Fix ClientEntity snapshot missing ParentInfo when setting ParentID",
+		"HashLong": "055b6ea70bce6af1f1ff2cd171e9e4e32d8e964d",
+		"HashShort": "055b6ea",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/055b6ea70bce6af1f1ff2cd171e9e4e32d8e964d",
+		"Author": "raul",
+		"Comment": "Merge branch 'rust_beta/staging'",
 		"Tag": "edge_build",
-		"Date": "2026-10-17 01:21:46 +0200"
+		"Date": "2026-11-04 14:29:45 +0100"
 	}
 }
