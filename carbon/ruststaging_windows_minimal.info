@@ -1,6 +1,6 @@
 {
-	"Version": "2.3.1516",
-	"InformationalVersion": "2.3.1516-Minimal-rust_beta/staging-5d2c492",
+	"Version": "2.3.1517",
+	"InformationalVersion": "2.3.1517-Minimal-rust_beta/staging-5d2c492",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
