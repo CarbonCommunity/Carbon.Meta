@@ -1,17 +1,17 @@
 {
-	"Version": "3.1.1300",
-	"InformationalVersion": "3.1.1300-DebugUnix-main-dfdd95d",
+	"Version": "2.1.1301",
+	"InformationalVersion": "2.1.1301-DebugUnix-main-383cb9a",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "dfdd95dc038a25209968bf31a083c4f1c6760d6d",
-		"HashShort": "dfdd95d",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/dfdd95dc038a25209968bf31a083c4f1c6760d6d",
+		"HashLong": "383cb9a4254c4bd911f05ce88ef3ee6dced284c4",
+		"HashShort": "383cb9a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/383cb9a4254c4bd911f05ce88ef3ee6dced284c4",
 		"Author": "raul",
-		"Comment": "Added edge 3.0 build (temporary)",
+		"Comment": "Edge 3.0",
 		"Tag": "edge_build",
-		"Date": "2026-11-04 23:36:10 +0100"
+		"Date": "2026-11-05 01:23:20 +0100"
 	}
 }
