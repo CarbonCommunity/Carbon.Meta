@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1303",
-	"InformationalVersion": "2.1.1303-Minimal-main-b09dc98",
+	"Version": "2.1.1304",
+	"InformationalVersion": "2.1.1304-Minimal-main-1e095d2",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "b09dc9818584c2478b50628b834c96e94d1df101",
-		"HashShort": "b09dc98",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b09dc9818584c2478b50628b834c96e94d1df101",
+		"HashLong": "1e095d2eb85d5bb963a22223616e9f2cb07c3716",
+		"HashShort": "1e095d2",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1e095d2eb85d5bb963a22223616e9f2cb07c3716",
 		"Author": "raul",
-		"Comment": "JsonConvert default settings fix",
+		"Comment": "Merge branch 'font_fix'",
 		"Tag": "edge_build",
-		"Date": "2026-11-05 19:31:31 +0100"
+		"Date": "2026-11-05 23:43:57 +0100"
 	}
 }
