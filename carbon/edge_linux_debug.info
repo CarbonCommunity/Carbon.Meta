@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1302",
-	"InformationalVersion": "2.1.1302-DebugUnix-main-f8f8979",
+	"Version": "2.1.1303",
+	"InformationalVersion": "2.1.1303-DebugUnix-main-b09dc98",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "f8f8979ea8a5e75e37063a0cff5ef431c26d2bec",
-		"HashShort": "f8f8979",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/f8f8979ea8a5e75e37063a0cff5ef431c26d2bec",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #144 from xThreeh/fix/installed-card-fallback  Stopped Installed cards from falling back to an unrelated store plugin",
+		"HashLong": "b09dc9818584c2478b50628b834c96e94d1df101",
+		"HashShort": "b09dc98",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b09dc9818584c2478b50628b834c96e94d1df101",
+		"Author": "raul",
+		"Comment": "JsonConvert default settings fix",
 		"Tag": "edge_build",
-		"Date": "2026-11-05 21:21:42 +0500"
+		"Date": "2026-11-05 19:31:31 +0100"
 	}
 }
