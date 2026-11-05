@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1518",
-	"InformationalVersion": "2.3.1518-DebugUnix-rust_beta/staging-5d2c492",
+	"Version": "2.3.1519",
+	"InformationalVersion": "2.3.1519-DebugUnix-rust_beta/staging-590d951",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "5d2c492ae359fad0bc88cc2cf05a75e9791100b3",
-		"HashShort": "5d2c492",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/5d2c492ae359fad0bc88cc2cf05a75e9791100b3",
+		"HashLong": "590d95115caa7060f2e97fdfbae541b1d5f1997c",
+		"HashShort": "590d951",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/590d95115caa7060f2e97fdfbae541b1d5f1997c",
 		"Author": "raul",
-		"Comment": "Fixed missing configuration for Profiler.Tests.Harness",
+		"Comment": "Merge branch 'main' into rust_beta/staging",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-11-02 22:46:26 +0100"
+		"Date": "2026-11-05 19:12:08 +0100"
 	}
 }
