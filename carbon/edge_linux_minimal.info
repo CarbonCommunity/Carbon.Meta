@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1304",
-	"InformationalVersion": "2.1.1304-MinimalUnix-main-1e095d2",
+	"Version": "2.1.1305",
+	"InformationalVersion": "2.1.1305-MinimalUnix-main-11b212e",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "1e095d2eb85d5bb963a22223616e9f2cb07c3716",
-		"HashShort": "1e095d2",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1e095d2eb85d5bb963a22223616e9f2cb07c3716",
-		"Author": "raul",
-		"Comment": "Merge branch 'font_fix'",
+		"HashLong": "11b212ee3ad855a51b533e23b96bedac146ec6ce",
+		"HashShort": "11b212e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/11b212ee3ad855a51b533e23b96bedac146ec6ce",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch 'fix/grant-group-user-lookup'",
 		"Tag": "edge_build",
-		"Date": "2026-11-05 23:43:57 +0100"
+		"Date": "2026-11-08 03:53:43 +0500"
 	}
 }
