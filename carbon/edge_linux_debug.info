@@ -1,17 +1,3 @@
-{
-	"Version": "2.1.1306",
-	"InformationalVersion": "2.1.1306-DebugUnix-main-b88643b",
-	"Protocol": "2026.11.05.0",
-	"Platform": "Linux",
-	"Config": "DebugUnix",
-	"Commit": {
-		"Branch": "main",
-		"HashLong": "b88643bc488c41c432dc51b257ba2acc7dc66657",
-		"HashShort": "b88643b",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b88643bc488c41c432dc51b257ba2acc7dc66657",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch 'fix/font-types'",
-		"Tag": "edge_build",
-		"Date": "2026-11-08 04:07:02 +0500"
-	}
-}
+<html><body><h1>504 Gateway Time-out</h1>
+The server didn't respond in time.
+</body></html>
