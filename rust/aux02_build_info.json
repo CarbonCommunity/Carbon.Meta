@@ -1,21 +1,21 @@
 {
   "Scm": {
-    "Type": "PlasticScm",
-    "ChangeId": "169595",
+    "Type": "Git",
+    "ChangeId": "124689-ba1c55eeeb6",
     "Branch": "Aux2",
-    "Repo": "",
-    "Date": "28/10/2026 21:50:33",
-    "LongDate": 1793224233000
+    "Repo": "https://github.com/Facepunch/Rust",
+    "Date": "10/11/2026 16:33:57",
+    "LongDate": 1794328437000
   },
   "Build": {
-    "Id": "87",
-    "Number": "87",
-    "Tag": "jenkins-Rust-Server-Aux02-87",
-    "Url": "https://build.facepunch.com/job/Rust-Server-Aux02/87/",
-    "Name": "Rust-Server-Aux02",
+    "Id": null,
+    "Number": null,
+    "Tag": null,
+    "Url": null,
+    "Name": null,
     "Node": "SVR-RUST-BS-01"
   },
-  "Date": 1793224233,
+  "Date": 1794328437,
   "DateString": "21 01 1970",
-  "TimeString": "18:07"
+  "TimeString": "18:25"
 }
