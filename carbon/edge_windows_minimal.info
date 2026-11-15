@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1307",
-	"InformationalVersion": "2.1.1307-Minimal-main-26b1293",
+	"Version": "2.1.1308",
+	"InformationalVersion": "2.1.1308-Minimal-main-783ebe6",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "26b12932dcb6880f6a80cc3b6c461d56cfee46f6",
-		"HashShort": "26b1293",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/26b12932dcb6880f6a80cc3b6c461d56cfee46f6",
+		"HashLong": "783ebe61f551236c561f39f7759d6edc5fc805b7",
+		"HashShort": "783ebe6",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/783ebe61f551236c561f39f7759d6edc5fc805b7",
 		"Author": "evs-ptr",
-		"Comment": "Merge pull request #147 from Kudakster/internalcallhook-generation-speed  Speed up InternalCallHook generation",
+		"Comment": "Merge pull request #150 from CarbonCommunity/fix/hookmethod-constant-name  fix: hookmethod constant names",
 		"Tag": "edge_build",
-		"Date": "2026-11-15 17:18:24 +0500"
+		"Date": "2026-11-15 17:43:48 +0500"
 	}
 }
