@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1310",
-	"InformationalVersion": "2.1.1310-DebugUnix-main-9386757",
+	"Version": "2.1.1311",
+	"InformationalVersion": "2.1.1311-DebugUnix-main-52f128e",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "9386757c8378be36ef33e90d7a4e91a3c33aaba8",
-		"HashShort": "9386757",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/9386757c8378be36ef33e90d7a4e91a3c33aaba8",
-		"Author": "evs-ptr",
-		"Comment": "Merge pull request #151 from CarbonCommunity/fix/hook-time-per-call  fix: hook time per call",
+		"HashLong": "52f128ebbf9dc8ea56e570d1d812068a3e804bbb",
+		"HashShort": "52f128e",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52f128ebbf9dc8ea56e570d1d812068a3e804bbb",
+		"Author": "raul",
+		"Comment": "CuiHelper, CUI and LUI sync",
 		"Tag": "edge_build",
-		"Date": "2026-11-15 19:53:24 +0500"
+		"Date": "2026-11-17 02:28:23 +0100"
 	}
 }
