@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1311",
-	"InformationalVersion": "2.1.1311-MinimalUnix-main-52f128e",
+	"Version": "2.1.1312",
+	"InformationalVersion": "2.1.1312-MinimalUnix-main-b27f515",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "52f128ebbf9dc8ea56e570d1d812068a3e804bbb",
-		"HashShort": "52f128e",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/52f128ebbf9dc8ea56e570d1d812068a3e804bbb",
+		"HashLong": "b27f51570ebe53873ff79aea21331290ee2afbd5",
+		"HashShort": "b27f515",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b27f51570ebe53873ff79aea21331290ee2afbd5",
 		"Author": "raul",
-		"Comment": "CuiHelper, CUI and LUI sync",
+		"Comment": "Fixed occasional NRE",
 		"Tag": "edge_build",
-		"Date": "2026-11-17 02:28:23 +0100"
+		"Date": "2026-11-18 20:12:22 +0100"
 	}
 }
