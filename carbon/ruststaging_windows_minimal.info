@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1532",
-	"InformationalVersion": "2.3.1532-Minimal-rust_beta/staging-2d549d5",
+	"Version": "2.3.1533",
+	"InformationalVersion": "2.3.1533-Minimal-rust_beta/staging-e4aa68a",
 	"Protocol": "2026.11.05.0",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "2d549d56c2e5631a5f45ece3819c2caed0bd5dce",
-		"HashShort": "2d549d5",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/2d549d56c2e5631a5f45ece3819c2caed0bd5dce",
+		"HashLong": "e4aa68a633b6a2b81312bef798a5ec912751477d",
+		"HashShort": "e4aa68a",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/e4aa68a633b6a2b81312bef798a5ec912751477d",
 		"Author": "raul",
-		"Comment": "Merge branch 'main' into rust_beta/staging",
+		"Comment": "Merged from main",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-11-08 16:29:05 +0100"
+		"Date": "2026-11-18 20:17:16 +0100"
 	}
 }
