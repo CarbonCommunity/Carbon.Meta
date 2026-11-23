@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1313",
-	"InformationalVersion": "2.1.1313-DebugUnix-main-0b6cfeb",
+	"Version": "2.1.1314",
+	"InformationalVersion": "2.1.1314-DebugUnix-main-1b09411",
 	"Protocol": "2026.11.23.2",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "0b6cfeb5ec215751c27a046c4e5af2411dbadd9e",
-		"HashShort": "0b6cfeb",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0b6cfeb5ec215751c27a046c4e5af2411dbadd9e",
+		"HashLong": "1b094114e4bf4116fbb2e3eef9389996910ad9d0",
+		"HashShort": "1b09411",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1b094114e4bf4116fbb2e3eef9389996910ad9d0",
 		"Author": "evs-ptr",
-		"Comment": "Merge branch fix/november-rust-hotfix [skip ci]",
+		"Comment": "Merge branch fix/prefabid-compat",
 		"Tag": "edge_build",
-		"Date": "2026-11-23 19:16:29 +0500"
+		"Date": "2026-11-23 19:58:49 +0500"
 	}
 }
