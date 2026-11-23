@@ -1,11 +1,11 @@
 {
   "Scm": {
     "Type": "Git",
-    "ChangeId": "127089-84fd9a97663",
+    "ChangeId": "127130-304bb87291c",
     "Branch": "release",
     "Repo": "https://github.com/Facepunch/Rust",
-    "Date": "19/11/2026 05:55:07",
-    "LongDate": 1795067707000
+    "Date": "23/11/2026 09:09:48",
+    "LongDate": 1795424988000
   },
   "Build": {
     "Id": null,
@@ -15,7 +15,7 @@
     "Name": null,
     "Node": "SVR-RUST-BS-01"
   },
-  "Date": 1795067707,
+  "Date": 1795424988,
   "DateString": "21 01 1970",
-  "TimeString": "18:37"
+  "TimeString": "18:43"
 }
