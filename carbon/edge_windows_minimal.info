@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1314",
-	"InformationalVersion": "2.1.1314-Minimal-main-1b09411",
+	"Version": "2.1.1315",
+	"InformationalVersion": "2.1.1315-Minimal-main-110be34",
 	"Protocol": "2026.11.23.2",
 	"Platform": "Windows",
 	"Config": "Minimal",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "1b094114e4bf4116fbb2e3eef9389996910ad9d0",
-		"HashShort": "1b09411",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/1b094114e4bf4116fbb2e3eef9389996910ad9d0",
-		"Author": "evs-ptr",
-		"Comment": "Merge branch fix/prefabid-compat",
+		"HashLong": "110be34dafaf74c86be0ae6efda114208252de3f",
+		"HashShort": "110be34",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/110be34dafaf74c86be0ae6efda114208252de3f",
+		"Author": "raul",
+		"Comment": "Merged from core_autohooks",
 		"Tag": "edge_build",
-		"Date": "2026-11-23 19:58:49 +0500"
+		"Date": "2026-11-23 18:40:13 +0100"
 	}
 }
