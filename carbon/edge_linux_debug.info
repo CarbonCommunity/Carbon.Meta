@@ -1,17 +1,17 @@
 {
-	"Version": "2.1.1312",
-	"InformationalVersion": "2.1.1312-DebugUnix-main-b27f515",
-	"Protocol": "2026.11.05.0",
+	"Version": "2.1.1313",
+	"InformationalVersion": "2.1.1313-DebugUnix-main-0b6cfeb",
+	"Protocol": "2026.11.23.2",
 	"Platform": "Linux",
 	"Config": "DebugUnix",
 	"Commit": {
 		"Branch": "main",
-		"HashLong": "b27f51570ebe53873ff79aea21331290ee2afbd5",
-		"HashShort": "b27f515",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b27f51570ebe53873ff79aea21331290ee2afbd5",
-		"Author": "raul",
-		"Comment": "Fixed occasional NRE",
+		"HashLong": "0b6cfeb5ec215751c27a046c4e5af2411dbadd9e",
+		"HashShort": "0b6cfeb",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0b6cfeb5ec215751c27a046c4e5af2411dbadd9e",
+		"Author": "evs-ptr",
+		"Comment": "Merge branch fix/november-rust-hotfix [skip ci]",
 		"Tag": "edge_build",
-		"Date": "2026-11-18 20:12:22 +0100"
+		"Date": "2026-11-23 19:16:29 +0500"
 	}
 }
