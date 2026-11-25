@@ -1,17 +1,17 @@
 {
-	"Version": "2.3.1543",
-	"InformationalVersion": "2.3.1543-MinimalUnix-rust_beta/staging-0db60c9",
+	"Version": "2.3.1544",
+	"InformationalVersion": "2.3.1544-MinimalUnix-rust_beta/staging-b8807dc",
 	"Protocol": "2026.12.03.0",
 	"Platform": "Linux",
 	"Config": "MinimalUnix",
 	"Commit": {
 		"Branch": "rust_beta/staging",
-		"HashLong": "0db60c94ec6903fc1504102b6d45b72b5cc1305f",
-		"HashShort": "0db60c9",
-		"Url": "https://github.com/CarbonCommunity/Carbon/commit/0db60c94ec6903fc1504102b6d45b72b5cc1305f",
+		"HashLong": "b8807dc231ac4a78e473587825f8fb5cc5b5c931",
+		"HashShort": "b8807dc",
+		"Url": "https://github.com/CarbonCommunity/Carbon/commit/b8807dc231ac4a78e473587825f8fb5cc5b5c931",
 		"Author": "raul",
-		"Comment": "Removed `BaseNpc` case from `IOnNpcTarget` handler in Carbon.Common's Core plugin",
+		"Comment": "Added Test Server launch settings",
 		"Tag": "rustbeta_staging_build",
-		"Date": "2026-11-25 21:42:19 +0100"
+		"Date": "2026-11-25 22:41:19 +0100"
 	}
 }
