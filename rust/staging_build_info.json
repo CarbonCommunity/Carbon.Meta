@@ -1,11 +1,11 @@
 {
   "Scm": {
     "Type": "Git",
-    "ChangeId": "131094-b6653f",
+    "ChangeId": "131141-8a97c6",
     "Branch": "main",
     "Repo": "Facepunch/Rust",
-    "Date": "27/11/2026 00:18:16",
-    "LongDate": 1795738696000
+    "Date": "27/11/2026 01:43:17",
+    "LongDate": 1795743797000
   },
   "Build": {
     "Id": null,
@@ -15,7 +15,7 @@
     "Name": null,
     "Node": "SVR-RUST-BS-01"
   },
-  "Date": 1795738696,
+  "Date": 1795743797,
   "DateString": "21 01 1970",
-  "TimeString": "18:48"
+  "TimeString": "18:49"
 }
